@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:11.000Z
+pubDatetime: 2026-05-31T22:56:02.000Z
 title: "Melhores investimentos em Icons no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -32,9 +32,9 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Lotta Schelin | 90 | Icons | 210k coins | +32.1% | +84.2% | 44% |
-| Davor Šuker | 89 | Icons | 34k coins | +10.7% | +64.6% | 37% |
 | Marcelo | 89 | Icons | 178k coins | +31.8% | +50.8% | 21% |
-| Frank Rijkaard | 89 | Icons | 105k coins | +10% | +31.2% | 35% |
+| Bastian Schweinsteiger | 89 | Icons | 114k coins | +29.6% | +28.8% | 60% |
+| Frank Rijkaard | 89 | Icons | 99k coins | +16.5% | +23.8% | 35% |
 | David Beckham | 88 | Icons | 120k coins | +26.3% | +21.2% | 22% |
 | Marco van Basten | 91 | Icons | 86k coins | +20.3% | +21.1% | 46% |
 | Peter Schmeichel | 89 | Icons | 80k coins | +19.3% | +19.3% | 54% |
@@ -43,20 +43,20 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Ashley Cole | 86 | Icons | 75k coins | +11.9% | +15.4% | 13% |
 | Homare Sawa | 91 | Icons | 78k coins | +13% | +13% | 36% |
 | Gianluca Zambrotta | 86 | Icons | 85k coins | +26.9% | +12.6% | 54% |
-| Lev Yashin | 93 | Icons | 232k coins | +14.3% | +10.5% | 52% |
+| Steffi Jones | 89 | Icons | 34k coins | +30.2% | +11.3% | 56% |
+| Robert Pirès | 89 | Icons | 94k coins | +8.7% | +10.6% | 73% |
 | Oliver Kahn | 91 | Icons | 82k coins | +3.8% | +8.7% | 37% |
-| Roberto Baggio | 91 | Icons | 84k coins | +19.3% | +8.4% | 55% |
 
 
 ## 📈 Análise dos destaques
 
 - **Lotta Schelin (90)** — 210k coins, **+84.2% em 7 dias** (+32.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Davor Šuker (89)** — 34k coins, **+64.6% em 7 dias** (+10.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
 - **Marcelo (89)** — 178k coins, **+50.8% em 7 dias** (+31.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Frank Rijkaard (89)** — 105k coins, **+31.2% em 7 dias** (+10% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bastian Schweinsteiger (89)** — 114k coins, **+28.8% em 7 dias** (+29.6% em 24h). Preço +42% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
+- **Frank Rijkaard (89)** — 99k coins, **+23.8% em 7 dias** (+16.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **David Beckham (88)** — 120k coins, **+21.2% em 7 dias** (+26.3% em 24h). Preço em linha com a média de 7 dias (+8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 

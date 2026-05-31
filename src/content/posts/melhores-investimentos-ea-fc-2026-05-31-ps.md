@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:10.000Z
+pubDatetime: 2026-05-31T22:56:01.000Z
 title: "Melhores investimentos em Icons no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -32,33 +32,33 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Steven Gerrard | 90 | Icons | 153k coins | +34.2% | +27.5% | 84% |
+| Robin van Persie | 88 | Icons | 97k coins | +10.2% | +26.8% | 95% |
 | Steven Gerrard | 89 | Icons | 84k coins | +27.3% | +26.3% | 57% |
-| Laurent Blanc | 88 | Icons | 87k coins | +3.6% | +20.8% | 44% |
+| Gianluca Zambrotta | 86 | Icons | 99k coins | +38.5% | +25.3% | 5% |
+| Eric Cantona | 89 | Icons | 122k coins | +10.9% | +22.6% | 56% |
+| Frank Lampard | 87 | Icons | 112k coins | +14.9% | +21.1% | 95% |
+| Toni Kroos | 90 | Icons | 86k coins | +1.2% | +19.6% | 5% |
 | Marcelo | 89 | Icons | 160k coins | +1.3% | +19.4% | 27% |
-| Rivaldo | 90 | Icons | 104k coins | +8.9% | +18.9% | 44% |
+| Miroslav Klose | 88 | Icons | 88k coins | +9.3% | +18.9% | 50% |
 | Frank Rijkaard | 89 | Icons | 94k coins | +14.6% | +17.5% | 60% |
-| Robin van Persie | 88 | Icons | 100k coins | +17.8% | +16.4% | 95% |
-| Oliver Kahn | 91 | Icons | 83k coins | +14.5% | +16.1% | 35% |
-| Gianluigi Buffon | 91 | Icons | 125k coins | +14.7% | +15.7% | 18% |
 | Dunga | 89 | Icons | 109k coins | +30.5% | +15.3% | 47% |
 | Alan Shearer | 91 | Icons | 146k coins | +7.4% | +15% | 95% |
-| Philipp Lahm | 89 | Icons | 96k coins | +5.5% | +14.3% | 16% |
+| Gerd Müller | 92 | Icons | 88k coins | +11.4% | +14.3% | 38% |
+| Rivaldo | 90 | Icons | 97k coins | +14.8% | +14.1% | 44% |
 | Ronald Koeman | 91 | Icons | 185k coins | +22.5% | +13.5% | 8% |
-| Caroline Seger | 91 | Icons | 85k coins | +6.2% | +13.3% | 39% |
-| Marcel Desailly | 88 | Icons | 79k coins | +5.3% | +12.9% | 18% |
 
 
 ## 📈 Análise dos destaques
 
 - **Steven Gerrard (90)** — 153k coins, **+27.5% em 7 dias** (+34.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **84% de chance de seguir subindo**.
 
+- **Robin van Persie (88)** — 97k coins, **+26.8% em 7 dias** (+10.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+
 - **Steven Gerrard (89)** — 84k coins, **+26.3% em 7 dias** (+27.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Laurent Blanc (88)** — 87k coins, **+20.8% em 7 dias** (+3.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Gianluca Zambrotta (86)** — 99k coins, **+25.3% em 7 dias** (+38.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Marcelo (89)** — 160k coins, **+19.4% em 7 dias** (+1.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
-
-- **Rivaldo (90)** — 104k coins, **+18.9% em 7 dias** (+8.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Eric Cantona (89)** — 122k coins, **+22.6% em 7 dias** (+10.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
