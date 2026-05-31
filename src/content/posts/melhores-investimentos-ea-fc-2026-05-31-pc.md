@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:56:03.000Z
+pubDatetime: 2026-05-31T21:28:11.000Z
 title: "Melhores investimentos em Icons no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "Davor Šuker (89, Icons) lidera, com +64.6% em 7 dias a 34k coins no PC, e o modelo dá 37% de chance de seguir subindo."
+    a: "Lotta Schelin (90, Icons) lidera, com +84.2% em 7 dias a 210k coins no PC, e o modelo dá 44% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **PC**:
 
-> 🔝 **Destaque:** Davor Šuker (89) acumula **+64.6% em 7 dias** a 34k coins.
+> 🔝 **Destaque:** Lotta Schelin (90) acumula **+84.2% em 7 dias** a 210k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,33 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
+| Lotta Schelin | 90 | Icons | 210k coins | +32.1% | +84.2% | 44% |
 | Davor Šuker | 89 | Icons | 34k coins | +10.7% | +64.6% | 37% |
-| Peter Schmeichel | 89 | Icons | 90k coins | +32.6% | +32.6% | 54% |
+| Marcelo | 89 | Icons | 178k coins | +31.8% | +50.8% | 21% |
 | Frank Rijkaard | 89 | Icons | 105k coins | +10% | +31.2% | 35% |
-| Sócrates | 89 | Icons | 96k coins | +11.6% | +23.1% | 28% |
-| Ferenc Puskás | 92 | Icons | 161k coins | +15% | +15% | 42% |
-| Homare Sawa | 91 | Icons | 78k coins | +13.8% | +13.8% | 36% |
+| David Beckham | 88 | Icons | 120k coins | +26.3% | +21.2% | 22% |
+| Marco van Basten | 91 | Icons | 86k coins | +20.3% | +21.1% | 46% |
+| Peter Schmeichel | 89 | Icons | 80k coins | +19.3% | +19.3% | 54% |
+| Toni Kroos | 90 | Icons | 99k coins | +31.1% | +17.9% | 31% |
+| Ferenc Puskás | 92 | Icons | 156k coins | +11.4% | +15.6% | 42% |
+| Ashley Cole | 86 | Icons | 75k coins | +11.9% | +15.4% | 13% |
+| Homare Sawa | 91 | Icons | 78k coins | +13% | +13% | 36% |
+| Gianluca Zambrotta | 86 | Icons | 85k coins | +26.9% | +12.6% | 54% |
 | Lev Yashin | 93 | Icons | 232k coins | +14.3% | +10.5% | 52% |
-| Bobby Charlton | 92 | Icons | 124k coins | +9.7% | +8.8% | 24% |
-| Frank Lampard | 87 | Icons | 80k coins | +21.2% | +7.4% | 62% |
-| Wayne Rooney | 88 | Icons | 146k coins | +39% | +7.4% | 49% |
-| Toni Kroos | 90 | Icons | 90k coins | +17.6% | +7.1% | 31% |
-| Julie Foudy | 91 | Icons | 19k coins | +10.3% | +7.1% | 76% |
-| Gennaro Gattuso | 86 | Icons | 70k coins | +2.2% | +6.9% | 50% |
-| Steffi Jones | 91 | Icons | 45k coins | +11.9% | +5.9% | 15% |
+| Oliver Kahn | 91 | Icons | 82k coins | +3.8% | +8.7% | 37% |
+| Roberto Baggio | 91 | Icons | 84k coins | +19.3% | +8.4% | 55% |
 
 
 ## 📈 Análise dos destaques
 
+- **Lotta Schelin (90)** — 210k coins, **+84.2% em 7 dias** (+32.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
 - **Davor Šuker (89)** — 34k coins, **+64.6% em 7 dias** (+10.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Peter Schmeichel (89)** — 90k coins, **+32.6% em 7 dias** (+32.6% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marcelo (89)** — 178k coins, **+50.8% em 7 dias** (+31.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Frank Rijkaard (89)** — 105k coins, **+31.2% em 7 dias** (+10% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Sócrates (89)** — 96k coins, **+23.1% em 7 dias** (+11.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Ferenc Puskás (92)** — 161k coins, **+15% em 7 dias** (+15% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **David Beckham (88)** — 120k coins, **+21.2% em 7 dias** (+26.3% em 24h). Preço em linha com a média de 7 dias (+8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +76,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-Davor Šuker (89, Icons) lidera, com +64.6% em 7 dias a 34k coins no PC, e o modelo dá 37% de chance de seguir subindo.
+Lotta Schelin (90, Icons) lidera, com +84.2% em 7 dias a 210k coins no PC, e o modelo dá 44% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -83,6 +84,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 
