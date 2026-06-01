@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:56:01.000Z
+pubDatetime: 2026-06-01T13:56:02.000Z
 title: "Melhores investimentos em Icons no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -35,17 +35,17 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Steven Gerrard | 89 | Icons | 92k coins | +15% | +38.4% | 57% |
 | Frank Rijkaard | 89 | Icons | 104k coins | +10.6% | +33.3% | 60% |
 | Toni Kroos | 90 | Icons | 94k coins | +21.2% | +32.2% | 5% |
+| Edwin van der Sar | 88 | Icons | 228k coins | +37.4% | +30.3% | 68% |
 | Toni Kroos | 90 | Icons | 96k coins | +13.7% | +25.7% | 18% |
 | Pavel Nedvěd | 89 | Icons | 247k coins | +11.3% | +24.1% | 95% |
 | Dennis Bergkamp | 91 | Icons | 78k coins | +21.1% | +23% | 43% |
 | Gianluca Zambrotta | 86 | Icons | 104k coins | +18.9% | +22.4% | 5% |
+| Gianluigi Buffon | 91 | Icons | 128k coins | +6.7% | +20.8% | 18% |
 | Giorgio Chiellini | 88 | Icons | 128k coins | +10.3% | +20.8% | 47% |
 | Kenny Dalglish | 89 | Icons | 199k coins | +7.6% | +20.6% | 95% |
 | Miroslav Klose | 88 | Icons | 90k coins | +7.7% | +19.1% | 50% |
 | Julie Foudy | 88 | Icons | 15k coins | +10.9% | +17.3% | 27% |
 | Caroline Seger | 91 | Icons | 91k coins | +13.8% | +16.7% | 39% |
-| Alessandro Del Piero | 90 | Icons | 160k coins | +4.6% | +15.9% | 65% |
-| Laurent Blanc | 88 | Icons | 80k coins | +6% | +15.1% | 44% |
 
 
 ## 📈 Análise dos destaques
@@ -58,7 +58,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Toni Kroos (90)** — 94k coins, **+32.2% em 7 dias** (+21.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Toni Kroos (90)** — 96k coins, **+25.7% em 7 dias** (+13.7% em 24h). Preço +23% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Edwin van der Sar (88)** — 228k coins, **+30.3% em 7 dias** (+37.4% em 24h). Preço em linha com a média de 7 dias (-4%). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
