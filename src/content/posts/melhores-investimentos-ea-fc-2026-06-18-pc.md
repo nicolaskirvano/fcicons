@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:29:03.000Z
+pubDatetime: 2026-06-18T20:13:56.000Z
 title: "Melhores investimentos em Icons no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Rivaldo (91, Icons) lidera, com +57.9% em 7 dias a 150k coins no PC, e o modelo dá 24% de chance de seguir subindo."
+    a: "Rivaldo (91, Icons) lidera, com +63% em 7 dias a 150k coins no PC, e o modelo dá 24% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,17 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Rivaldo (91) acumula **+57.9% em 7 dias** a 150k coins.
+> 🔝 **Destaque:** Rivaldo (91) acumula **+63% em 7 dias** a 150k coins.
+
+
+## 🔎 Análise do mercado hoje
+No mercado de EA FC Ultimate Team para PC, a data de 18 de junho de 2026, os investidores devem focar em cartas com alta probabilidade de valorização. Entre as opções, destaca-se Paul Scholes (88, Icons), que apresenta uma probabilidade de alta de 66% em 24 horas, com um aumento de 12,4% no mesmo período. Seu preço atual é de 78 mil coins, tornando-o uma escolha atrativa para quem busca investimentos de menor risco. Outro destaque é Camille Abily (91, Icons), com uma probabilidade de alta de 57% e um incremento de 12,6% em 24 horas. Com valorização sólida e preço acessível de 45 mil coins, ela representa uma oportunidade interessante para quem deseja diversificar seu portfólio.
+
+Outras cartas também merecem atenção. Andrea Pirlo (90, Icons) tem uma probabilidade de alta de 48%, com um aumento de 15,2% em 24 horas, e está disponível por 114 mil coins. George Best (90, Icons) não fica para trás, com 43% de chance de alta e um crescimento de 13,6% em 24 horas, custando 190 mil coins. Essas opções são ideais para investidores que buscam equilíbrio entre risco e retorno.
+
+Para os mais arriscados, Rivaldo (91, Icons) se destaca com um aumento de 36,4% em 24 horas e uma probabilidade de alta de 24%. Seu preço é de 150 mil coins, enquanto Sócrates (89, Icons) também apresenta um desempenho impressionante, com 33,7% de aumento e 28% de probabilidade de alta, custando 111 mil coins. Ambos são boas apostas para quem está disposto a assumir maiores riscos em busca de retornos significativos.
+
+Em resumo, cartas como Paul Scholes, Camille Abily, Andrea Pirlo e George Best oferecem um equilíbrio entre segurança e potencial de lucro. Já Rivaldo e Sócrates atraem investidores dispostos a correr riscos maiores. Com base nos dados de 18 de junho de 2026, essas são as melhores oportunidades para maximizar ganhos no mercado de Icons.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +41,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rivaldo | 91 | Icons | 150k coins | +36.4% | +57.9% | 24% |
-| Xavi | 91 | Icons | 170k coins | +13.3% | +53.2% | 30% |
-| Peter Schmeichel | 89 | Icons | 119k coins | +14.4% | +48.8% | 54% |
-| Caroline Seger | 90 | Icons | 43k coins | +20.4% | +42.5% | 55% |
-| Camille Abily | 91 | Icons | 49k coins | +13.9% | +40.7% | 57% |
-| Casillas | 90 | Icons | 187k coins | +6.9% | +33.8% | 32% |
-| Rivaldo | 90 | Icons | 100k coins | +21.5% | +33.3% | 37% |
-| Paul Scholes | 88 | Icons | 82k coins | +20% | +30.8% | 66% |
-| Sócrates | 89 | Icons | 111k coins | +37.3% | +29.5% | 28% |
-| Andrea Pirlo | 90 | Icons | 114k coins | +13.9% | +28.5% | 48% |
-| Marco van Basten | 91 | Icons | 69k coins | +9.6% | +24.6% | 46% |
-| Laurent Blanc | 88 | Icons | 92k coins | +11% | +23.2% | 29% |
-| Dunga | 89 | Icons | 107k coins | +18.9% | +23% | 52% |
-| Lev Yashin | 92 | Icons | 220k coins | +27.9% | +22.2% | 71% |
-| Frank Lampard | 87 | Icons | 110k coins | +6.8% | +22.2% | 62% |
+| Rivaldo | 91 | Icons | 150k coins | +36.4% | +63% | 24% |
+| Kaká | 89 | Icons | 210k coins | +17.3% | +55.6% | 14% |
+| Toni Kroos | 90 | Icons | 125k coins | +13.6% | +47.1% | 31% |
+| Camille Abily | 91 | Icons | 45k coins | +12.6% | +40% | 57% |
+| Casillas | 90 | Icons | 184k coins | +6.9% | +33.8% | 32% |
+| Francesco Totti | 89 | Icons | 250k coins | +4.6% | +32.8% | 14% |
+| George Best | 90 | Icons | 190k coins | +13.6% | +30.7% | 43% |
+| Andrea Pirlo | 90 | Icons | 114k coins | +15.2% | +29.5% | 48% |
+| Sócrates | 89 | Icons | 111k coins | +33.7% | +26.1% | 28% |
+| Paul Scholes | 88 | Icons | 78k coins | +12.4% | +22.6% | 66% |
+| Lev Yashin | 92 | Icons | 183k coins | +27.2% | +22.2% | 71% |
+| Frank Lampard | 87 | Icons | 91k coins | +8.9% | +22.2% | 62% |
+| Julie Foudy | 91 | Icons | 26k coins | +32.5% | +21.8% | 76% |
+| Dunga | 89 | Icons | 107k coins | +18.9% | +21.6% | 52% |
+| Javier Zanetti | 91 | Icons | 154k coins | +4.8% | +16.7% | 27% |
 
 
 ## 📈 Análise dos destaques
 
-- **Rivaldo (91)** — 150k coins, **+57.9% em 7 dias** (+36.4% em 24h). Preço +56% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Rivaldo (91)** — 150k coins, **+63% em 7 dias** (+36.4% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Xavi (91)** — 170k coins, **+53.2% em 7 dias** (+13.3% em 24h). Preço +31% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Kaká (89)** — 210k coins, **+55.6% em 7 dias** (+17.3% em 24h). Preço +40% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Peter Schmeichel (89)** — 119k coins, **+48.8% em 7 dias** (+14.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Toni Kroos (90)** — 125k coins, **+47.1% em 7 dias** (+13.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Caroline Seger (90)** — 43k coins, **+42.5% em 7 dias** (+20.4% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Camille Abily (91)** — 45k coins, **+40% em 7 dias** (+12.6% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Camille Abily (91)** — 49k coins, **+40.7% em 7 dias** (+13.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Casillas (90)** — 184k coins, **+33.8% em 7 dias** (+6.9% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -69,14 +79,14 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 - Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 🔍 Como apuramos os preços
+Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultimate Team, atualizada ao longo do dia. Descartamos **anomalias** e erros de coleta, e cruzamos preço, **médias de 24h/7d** e níveis técnicos antes de publicar. É dado curado — não cotação solta da web.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Rivaldo (91, Icons) lidera, com +57.9% em 7 dias a 150k coins no PC, e o modelo dá 24% de chance de seguir subindo.
+Rivaldo (91, Icons) lidera, com +63% em 7 dias a 150k coins no PC, e o modelo dá 24% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

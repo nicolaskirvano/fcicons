@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:29:01.000Z
+pubDatetime: 2026-06-18T20:13:34.000Z
 title: "Icons no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,88 +13,79 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Dennis Bergkamp (91, Icons), com +59.8% em 24h, a 74k coins no PC."
+    a: "Iniesta (92, Icons), com +45.7% em 24h, a 145k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Dunga (87), -29.6% em 24h, a 82k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 83 cartas em alta contra 72 em queda (média 1.62%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
+    a: "Sissi (88), -46.1% em 24h, a 31k coins."
+  - q: "Como está o mercado do EA FC hoje?"
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 81 cartas em alta contra 77 em queda (média 0.96%)."
+  - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **83 subiram** e **72 caíram**, com variação média de **1.62%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+O mercado de Icons se mantém em um cenário lateral sem direção clara, refletindo a indecisão dos traders com 81 altas e 77 quedas registradas nas últimas 24 horas. A média de variação ficou em apenas 0.96%, indicando que os volumes estão equilibrados e não há pânico ou euforia generalizada no segmento.
 
-> 🟢 **Maior alta:** Dennis Bergkamp (91) **+59.8%** · 🔴 **Maior baixa:** Dunga (87) **-29.6%**
+> 🟢 **Maior alta:** Iniesta (92) **+45.7%** · 🔴 **Maior baixa:** Sissi (88) **-46.1%**
 
-## 🟢 Maiores altas (24h)
+## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dennis Bergkamp | 91 | Icons | 74k coins | +59.8% | +62.4% |
-| Wayne Rooney | 88 | Icons | 149k coins | +40.6% | +35.5% |
-| Samuel Eto'o | 89 | Icons | 388k coins | +38.9% | +29.7% |
-| Sócrates | 89 | Icons | 111k coins | +37.3% | +29.5% |
-| Rivaldo | 91 | Icons | 150k coins | +36.4% | +57.9% |
+| Iniesta | 92 | Icons | 145k coins | +45.7% | -6.5% |
+| Samuel Eto'o | 89 | Icons | 380k coins | +38.6% | +29.3% |
+| Rivaldo | 91 | Icons | 150k coins | +36.4% | +63% |
 | Steven Gerrard | 89 | Icons | 75k coins | +35.1% | 0% |
-| Samuel Eto'o | 91 | Icons | 899k coins | +28.6% | +31% |
-| Gareth Bale | 89 | Icons | 4.40M coins | +28.1% | +46.6% |
-| Lev Yashin | 92 | Icons | 220k coins | +27.9% | +22.2% |
-| George Best | 91 | Icons | 290k coins | +27.8% | +33.6% |
+| Sócrates | 89 | Icons | 111k coins | +33.7% | +26.1% |
+| Julie Foudy | 91 | Icons | 26k coins | +32.5% | +21.8% |
+| Samuel Eto'o | 91 | Icons | 770k coins | +31% | +31% |
+| Gareth Bale | 89 | Icons | 4.40M coins | +28.1% | +44.8% |
+| Lev Yashin | 92 | Icons | 183k coins | +27.2% | +22.2% |
+| George Best | 91 | Icons | 287k coins | +26.4% | +32.3% |
 
 
-### Análise das altas
-
-- **Dennis Bergkamp (91)** subiu **+59.8%** em 24h, a **74k coins** (faixa do dia: 46k–74k). Está +28% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Wayne Rooney (88)** subiu **+40.6%** em 24h, a **149k coins** (faixa do dia: 106k–168k). Está +13% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Samuel Eto'o (89)** subiu **+38.9%** em 24h, a **388k coins** (faixa do dia: 250k–490k). Está +31% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+Iniesta lidera as altas com um impressionante aumento de 45.7% para 145k coins, impulsionado por uma alta probabilidade de 64% de continuidade na valorização. Samuel Eto'o também se destaca com alta de 38.6% para 380k coins, enquanto Julie Foudy subiu 32.5% para 26k coins, apresentando a maior probabilidade de alta do grupo com 76%.
 
 
-## 🔴 Maiores baixas (24h)
+## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dunga | 87 | Icons | 82k coins | -29.6% | +6.1% |
-| Davor Šuker | 89 | Icons | 38k coins | -28.4% | +6.2% |
-| Zico | 92 | Icons | 841k coins | -28.1% | -11.5% |
-| Carlos Alberto | 92 | Icons | 320k coins | -27.5% | -6% |
-| Pelé | 95 | Icons | 507k coins | -27.5% | +1.6% |
-| Fabio Cannavaro | 89 | Icons | 84k coins | -25.4% | -14.1% |
-| Johan Cruyff | 94 | Icons | 1.34M coins | -25% | +5.9% |
-| Alex Morgan | 91 | Icons | 985k coins | -23% | +4.5% |
-| Giorgio Chiellini | 88 | Icons | 84k coins | -22.7% | -25.4% |
-| Ashley Cole | 86 | Icons | 65k coins | -19.3% | -3.7% |
+| Sissi | 88 | Icons | 31k coins | -46.1% | -57.9% |
+| Xavi | 91 | Icons | 105k coins | -30% | -5.4% |
+| Carlos Alberto | 92 | Icons | 315k coins | -28.4% | -8.8% |
+| Pelé | 95 | Icons | 508k coins | -27.5% | +1.6% |
+| Zico | 92 | Icons | 841k coins | -27.4% | -11.5% |
+| Johan Cruyff | 94 | Icons | 1.40M coins | -25% | +5.9% |
+| Cha Bum Kun | 86 | Icons | 129k coins | -24.8% | +34.6% |
+| Giorgio Chiellini | 88 | Icons | 84k coins | -20.8% | -27% |
+| Alex Morgan | 93 | Icons | 450k coins | -20.2% | -10.3% |
+| Davor Šuker | 89 | Icons | 38k coins | -20% | +18.8% |
 
 
-### Análise das baixas
-
-- **Dunga (87)** caiu **-29.6%** em 24h, a **82k coins** (faixa do dia: 66k–139k). Está +10% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Davor Šuker (89)** caiu **-28.4%** em 24h, a **38k coins** (faixa do dia: 31k–49k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
-
-- **Zico (92)** caiu **-28.1%** em 24h, a **841k coins** (faixa do dia: 841k–1.16M). Está -16% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+Sissi sofreu a maior queda do dia, despencando 46.1% para 31k coins, seguido de perto por Xavi que caiu 30% para 105k coins. Os lendários Carlos Alberto e Pelé também perderam valor, com quedas de 28.4% para 315k coins e 27.5% para 508k coins, respectivamente, sinalizando ajuste de preços em cartas de alto rating.
 
 
-## 📐 Como o FutQuant lê o mercado
+## 🎯 A estratégia do dia
+Diante do mercado lateral, a estratégia mais segura é evitar compras impulsivas de Icons que já subiram significativamente, como Iniesta, a menos que haja confirmação de tendência. Recomenda-se segurar posições estáveis e apenas considerar entradas em cartas com alta probabilidade de alta, como Julie Foudy, mantendo cautela com as quedas bruscas de Sissi e Xavi.
 
-Nossos números vêm de **centenas de milhões de pontos de preço** coletados de múltiplas fontes do mercado do EA FC, atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias de preço** (cotações irreais de cartas extintas ou erros de coleta). As previsões usam um modelo treinado no histórico de cada carta, considerando **médias móveis (24h e 7 dias)**, **níveis de suporte e resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: não só o preço, mas **para onde ele tende a ir**.
+
+## 🔍 Como apuramos os preços
+Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultimate Team, atualizada ao longo do dia. Descartamos **anomalias** e erros de coleta, e cruzamos preço, **médias de 24h/7d** e níveis técnicos antes de publicar. É dado curado — não cotação solta da web.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Dennis Bergkamp (91, Icons), com +59.8% em 24h, a 74k coins no PC.
+Iniesta (92, Icons), com +45.7% em 24h, a 145k coins no PC.
 
 **E a maior queda do dia?**  
-Dunga (87), -29.6% em 24h, a 82k coins.
+Sissi (88), -46.1% em 24h, a 31k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 83 cartas em alta contra 72 em queda (média 1.62%).
+**Como está o mercado do EA FC hoje?**  
+Hoje o mercado está em mercado lateral — sem direção clara, com 81 cartas em alta contra 77 em queda (média 0.96%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
