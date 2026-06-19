@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:57:03.000Z
+pubDatetime: 2026-06-19T19:56:46.000Z
 title: "Icons no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,71 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Henrik Larsson (88, Icons), com +47.1% em 24h, a 75k coins no Console (PS)."
+    a: "Diego Armando Maradona (96, Icons), com +27.7% em 24h, a 2.23M coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Thierry Henry (91), -24.6% em 24h, a 980k coins."
+    a: "Henrik Larsson (88), -33.3% em 24h, a 50k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Frank Rijkaard (87) — 95% de probabilidade de alta, a 74k coins."
+    a: "Pelo modelo FutQuant, Bastian Schweinsteiger (89) — 95% de probabilidade de alta, a 123k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 81 cartas em alta contra 112 em queda (média 0.07%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 42 cartas em alta contra 107 em queda (média -5.4%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**19/06/2026**, Console (PS)) o Ultimate Team está em mercado **de lado** — altas e quedas se equilibram — **81 subiram**, **112 caíram** (80+ e 5k+ coins), média de **0.07%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado de Icons no console PlayStation para esta data de 19/06/2026 apresenta um cenário extremamente hostil para os detentores de inventário, marcado por um sentimento predominantemente vendedor que resultou em uma queda generalizada dos ativos. Com um balanço desequilibrado de 42 altas contra 107 quedas, a média de variação negativa atingiu -5.4% nas últimas 24 horas, indicando que a pressão de venda superou significativamente a demanda de compra. Este ambiente de liquidação forçada sugere que traders que buscavam lucros rápidos em movimentos especulativos estão enfrentando resistências severas, enquanto compradores cautelosos encontram oportunidades em ativos premium que sofreram desvalorizações abruptas. A volatilidade observada é um sinal claro de que o mercado está recalibrando seus preços de equilíbrio, punindo aqueles que mantiveram posições longas sem cobertura adequada contra a tendência descendente atual. Para o analista de trading, este é um dia para observar as anomalias de preço e identificar quais ativos estão sendo usados como moeda de troca ou alvos de dumping estratégico.
 
-> 🟢 **Maior alta:** Henrik Larsson (88) **+47.1%** · 🔴 **Maior baixa:** Thierry Henry (91) **-24.6%**
+> 🟢 **Maior alta:** Diego Armando Maradona (96) **+27.7%** · 🔴 **Maior baixa:** Henrik Larsson (88) **-33.3%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Henrik Larsson | 88 | Icons | 75k coins | +47.1% | +45.7% |
-| Patrick Vieira | 88 | Icons | 698k coins | +31.7% | +68.6% |
-| Patrick Vieira | 86 | Icons | 1.32M coins | +31.6% | +43.7% |
-| Thierry Henry | 91 | Icons | 839k coins | +24.3% | +38.1% |
-| Fabio Cannavaro | 90 | Icons | 416k coins | +19.2% | +24.6% |
-| Zlatan Ibrahimović | 91 | Icons | 2.89M coins | +18.5% | +37.7% |
-| Steven Gerrard | 89 | Icons | 104k coins | +18.2% | +13.7% |
-| Bastian Schweinsteiger | 88 | Icons | 84k coins | +17.5% | +13.5% |
-| Lothar Matthäus | 91 | Icons | 1.55M coins | +17.3% | +38.2% |
-| Ashley Cole | 86 | Icons | 74k coins | +17% | -0.6% |
+| Diego Armando Maradona | 96 | Icons | 2.23M coins | +27.7% | +19.4% |
+| Roy Keane | 88 | Icons | 341k coins | +25.9% | +51.1% |
+| Franck Ribéry | 89 | Icons | 338k coins | +20.4% | +36.3% |
+| Pavel Nedvěd | 89 | Icons | 216k coins | +18% | +22.7% |
+| Geoff Hurst | 88 | Icons | 74k coins | +17.9% | +22.2% |
+| Cha Bum Kun | 86 | Icons | 80k coins | +16.9% | +6% |
+| Andriy Shevchenko | 90 | Icons | 64k coins | +12.2% | +25.2% |
+| Fabio Cannavaro | 90 | Icons | 420k coins | +11.8% | +19.8% |
+| Javier Zanetti | 91 | Icons | 109k coins | +11.8% | +5.8% |
+| Zico | 92 | Icons | 745k coins | +11.1% | +40.5% |
 
 
-### Análise das altas
-
-- **Henrik Larsson (88)** subiu **+47.1%** em 24h, a **75k coins** (faixa do dia: 44k–86k). Está +13% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Patrick Vieira (88)** subiu **+31.7%** em 24h, a **698k coins** (faixa do dia: 499k–700k). Está +37% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
-
-- **Patrick Vieira (86)** subiu **+31.6%** em 24h, a **1.32M coins** (faixa do dia: 945k–1.20M). Está +40% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+Entre os poucos ativos que conseguiram se destacar na maré de vendas, Diego Armando Maradona lidera com uma alta expressiva de 27.7% em 24 horas, atingindo a cotação de 2.23M de coins, movido por uma probabilidade de alta de 84% que reflete sua liquidez única e demanda constante em times de alto nível. Seguido de perto, Roy Keane registrou uma valorização de 25.9% para 341k coins, com uma probabilidade de alta de 68%, sugerindo que sua utilidade em squads focados em físico e resistência está sendo reavaliada positivamente pelos traders. Franck Ribéry também se manteve firme com alta de 20.4% para 338k coins, embora sua probabilidade de alta seja mais moderada em 40%, indicando que seu movimento pode ser mais técnico do que fundamentado em demanda orgânica massiva. Pavel Nedvěd apresenta um caso interessante com 18% de alta para 216k coins e uma probabilidade de alta extremamente alta de 95%, o que pode indicar um acúmulo silencioso antes de um rompimento de resistência ou uma correção de preço artificialmente baixo. Geoff Hurst, Cha Bum Kun, Andriy Shevchenko e Fabio Cannavaro completam o quadro de altas menores, com variações entre 11.8% e 17.9%, mostrando que mesmo em um dia de venda, cartas com utilidade específica ou raridade percebida conseguem resistir à pressão descendente do mercado geral.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Thierry Henry | 91 | Icons | 980k coins | -24.6% | +5.1% |
-| Pelé | 96 | Icons | 1.99M coins | -19.9% | -19.5% |
-| Cafu | 92 | Icons | 314k coins | -19% | -11.1% |
-| Sócrates | 89 | Icons | 90k coins | -17.1% | +3.7% |
-| Cha Bum Kun | 88 | Icons | 164k coins | -16.8% | +18.8% |
-| Zlatan Ibrahimović | 92 | Icons | 3.40M coins | -16.4% | -16.5% |
-| Oliver Kahn | 91 | Icons | 119k coins | -15.5% | +2.8% |
-| Paolo Maldini | 93 | Icons | 640k coins | -15.2% | -26.7% |
-| Laurent Blanc | 88 | Icons | 76k coins | -15.2% | -13.4% |
-| Alan Shearer | 91 | Icons | 101k coins | -15.1% | -19.2% |
+| Henrik Larsson | 88 | Icons | 50k coins | -33.3% | -4.8% |
+| Thierry Henry | 91 | Icons | 874k coins | -32.6% | -14.5% |
+| Xavi | 92 | Icons | 149k coins | -30.6% | -30.2% |
+| Cafu | 92 | Icons | 269k coins | -30.2% | -22.3% |
+| Sócrates | 89 | Icons | 78k coins | -29.1% | -17.5% |
+| Lothar Matthäus | 90 | Icons | 250k coins | -27.1% | +7.4% |
+| Gareth Bale | 94 | Icons | 3M coins | -24.7% | -30.1% |
+| George Best | 91 | Icons | 241k coins | -23.8% | +2.6% |
+| Edwin van der Sar | 88 | Icons | 122k coins | -22.1% | -19.5% |
+| Aya Miyama | 92 | Icons | 39k coins | -20.4% | -18.8% |
 
 
-### Análise das baixas
-
-- **Thierry Henry (91)** caiu **-24.6%** em 24h, a **980k coins** (faixa do dia: 1.07M–1.50M). Está -20% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Pelé (96)** caiu **-19.9%** em 24h, a **1.99M coins** (faixa do dia: 2.09M–2.65M). Está -13% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
-
-- **Cafu (92)** caiu **-19%** em 24h, a **314k coins** (faixa do dia: 320k–414k). Está -24% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+O lado das baixas é dominado por quedas severas em ativos de alto valor e utilidade, lideradas por Henrik Larsson, que despencou 33.3% para 50k coins, um movimento drástico que pode ser atribuído a uma sobreoferta aguda ou à descoberta de alternativas mais baratas no mercado. Thierry Henry sofreu uma queda de 32.6% para 874k coins, refletindo a sensibilidade de ativos premium a qualquer sinal de fraqueza no sentimento geral, com sua probabilidade de alta de apenas 55% sugerindo cautela extrema. Xavi e Cafu, ambos com ratings elevados, caíram 30.6% e 30.2% respectivamente, para 149k e 269k coins, indicando que até mesmo cartas com alta probabilidade de alta futura, como Xavi com 95%, não estão imunes a dumping coordenado ou vendas de pânico. Sócrates, Lothar Matthäus e George Best também registraram quedas significativas entre 23.8% e 29.1%, mostrando que o setor de Icons de médio e alto custo está sofrendo uma correção ampla. Gareth Bale, apesar de sua alta raridade e rating de 94, caiu 24.7% para 3M de coins, demonstrando que mesmo ativos de luxo não estão seguros em um mercado com forte viés vendedor, onde a liquidez pode evaporar rapidamente para grandes volumes.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -86,14 +74,17 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Frank Rijkaard | 87 | 74k coins | 88k coins | 95% |
-| Kelly Smith | 89 | 72k coins | 90k coins | 95% |
-| Kenny Dalglish | 89 | 193k coins | 222k coins | 95% |
-| Andrea Pirlo | 90 | 93k coins | 117k coins | 95% |
-| Andriy Shevchenko | 90 | 70k coins | 89k coins | 95% |
+| Bastian Schweinsteiger | 89 | 123k coins | 152k coins | 95% |
+| Dunga | 87 | 74k coins | 100k coins | 95% |
+| Frank Lampard | 87 | 124k coins | 167k coins | 95% |
+| Kelly Smith | 89 | 70k coins | 87k coins | 95% |
+| Robin van Persie | 88 | 90k coins | 107k coins | 95% |
+| Frank Rijkaard | 87 | 70k coins | 83k coins | 95% |
 | Roberto Baggio | 91 | 74k coins | 91k coins | 95% |
-| Garrincha | 92 | 165k coins | 196k coins | 95% |
-| Fernando Torres | 87 | 110k coins | 126k coins | 95% |
+| Andriy Shevchenko | 90 | 64k coins | 83k coins | 95% |
+
+
+O modelo preditivo identifica uma série de ativos com probabilidade de alta de 95%, sugerindo oportunidades de compra em fundos para os próximos ciclos, incluindo Bastian Schweinsteiger a 123k coins, Dunga a 74k coins, Frank Lampard a 124k coins, Kelly Smith a 70k coins, Robin van Persie a 90k coins, Frank Rijkaard a 70k coins, Roberto Baggio a 74k coins e Andriy Shevchenko a 64k coins, estes últimos servindo como indicadores de reversão potencial em segmentos de menor capital.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -102,14 +93,18 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Dennis Bergkamp | 90 | 68k coins | -21.4% |
-| Birgit Prinz | 93 | 54k coins | -29.1% |
+| Dennis Bergkamp | 90 | 72k coins | -21.4% |
 | Steffi Jones | 89 | 68k coins | -15.7% |
-| Petr Čech | 88 | 100k coins | -15.6% |
-| Xabi Alonso | 87 | 66k coins | -21.4% |
-| Homare Sawa | 91 | 95k coins | -15.6% |
-| Iniesta | 92 | 188k coins | -21.3% |
-| Toni Kroos | 90 | 109k coins | -17.4% |
+| Petr Čech | 88 | 94k coins | -15.6% |
+| Xabi Alonso | 87 | 72k coins | -21.4% |
+| Emmanuel Petit | 87 | 98k coins | -17.5% |
+| Homare Sawa | 91 | 88k coins | -15.6% |
+| Iniesta | 92 | 110k coins | -21.3% |
+| Carles Puyol | 90 | 342k coins | -17.5% |
+
+
+## 🎯 Conclusão do dia
+A estratégia recomendada para este dia de 19/06/2026 é adotar uma postura defensiva com compras seletivas, focando em ativos como Andriy Shevchenko e Roberto Baggio que apresentam alta probabilidade de reversão conforme indicado pelo modelo, evitando expor capital excessivo em ativos em queda livre como Henrik Larsson e Thierry Henry até sinais de estabilização. Traders devem considerar acumular posições em Pavel Nedvěd e Roy Keane devido à sua força relativa no mercado, enquanto mantêm cautela com Franck Ribéry devido à sua probabilidade de alta mais baixa. É crucial monitorar de perto a ação de preço de Diego Armando Maradona, pois sua liderança nas altas pode indicar uma mudança de sentimento em ativos premium, mas apenas após confirmação de sustentação nos níveis atuais. A recomendação final é priorizar a liquidez, evitando segurar perdas em ativos com quedas acima de 30% sem suporte técnico claro, e buscar oportunidades de arbitragem em cartas com probabilidade de alta de 95% que ainda não foram completamente descobertas pelo mercado, como Kelly Smith e Frank Rijkaard, para posicionamento de curto prazo.
 
 
 ## ⚙️ A engine por tras deste post
@@ -119,16 +114,16 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Henrik Larsson (88, Icons), com +47.1% em 24h, a 75k coins no Console (PS).
+Diego Armando Maradona (96, Icons), com +27.7% em 24h, a 2.23M coins no Console (PS).
 
 **E a maior queda do dia?**  
-Thierry Henry (91), -24.6% em 24h, a 980k coins.
+Henrik Larsson (88), -33.3% em 24h, a 50k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Frank Rijkaard (87) — 95% de probabilidade de alta, a 74k coins.
+Pelo modelo FutQuant, Bastian Schweinsteiger (89) — 95% de probabilidade de alta, a 123k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 81 cartas em alta contra 112 em queda (média 0.07%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 42 cartas em alta contra 107 em queda (média -5.4%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:58:29.000Z
+pubDatetime: 2026-06-19T19:58:04.000Z
 title: "Icons no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Steffi Jones (89, Icons), com +57.3% em 24h, a 35k coins no PC."
+    a: "Henrik Larsson (88, Icons), com +52.7% em 24h, a 100k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ferenc Puskás (93), -32.6% em 24h, a 411k coins."
+    a: "Robert Pirès (89), -46.1% em 24h, a 44k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 68 cartas em alta contra 75 em queda (média 0.99%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 50 cartas em alta contra 102 em queda (média -3.27%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O cenário do mercado de Icons para o dia 19 de junho de 2026 se apresenta como um quadro de equilíbrio técnico, onde a volatilidade é contida e a indecisão dos traders domina as plataformas. Com uma média de variação de apenas 0.99% nas últimas 24 horas, o mercado lateraliza-se entre 68 altas e 75 quedas, indicando que não há um fluxo de capital massivo empurrando ativos em uma única direção. Este ambiente de 'mercado de lado' exige que o analista afie o olhar para movimentos específicos, pois a estabilidade geral mascara oportunidades pontuais de arbitragem e speculation em cards de alta liquidez. O tom do dia é de cautela estratégica, onde a paciência e a leitura de probabilidades de alta se tornam mais valiosas do que a impulsividade de compra em picos artificiais. Entender essa dinâmica de equilíbrio é crucial para identificar quais ativos estão sendo acumulados silenciosamente antes de uma eventual ruptura de tendência no segmento de lendas.
+O mercado de Icons em PC para o dia 19/06/2026 apresenta um cenário claramente dominado por um sentimento vendedor agressivo, onde a pressão de liquidação supera amplamente a demanda de compra, resultando em uma dinâmica de preços que favorece quem busca realizar saques rápidos de capital. Com um balanço desequilibrado de 50 altas contra 102 quedas registradas nas últimas 24 horas, a média geral do segmento recuou 3.27%, sinalizando que a maioria dos ativos está sendo descartada sem muita resistência de compradores institucionais ou de squads competitivos. Este ambiente de desconfiança exige extrema cautela por parte dos traders, pois a tendência natural é de erosão de valor, especialmente em cartas que não possuem escassez estrutural ou utilidade imediata em eventos de fim de semana. A volatilidade observada não é uniforme, criando oportunidades de arbitragem para aqueles que conseguem identificar os poucos ativos com fluxo de compra concentrado, enquanto a maioria dos investidores tradicionais deve permanecer em caixa ou reduzir posições expostas a riscos desnecessários. O tom do dia é de proteção de capital, onde a prioridade não é acumular patrimônio através de compras impulsivas, mas sim gerenciar o drawdown e aproveitar as correções excessivas para reposições estratégicas em momentos de maior estabilidade.
 
-> 🟢 **Maior alta:** Steffi Jones (89) **+57.3%** · 🔴 **Maior baixa:** Ferenc Puskás (93) **-32.6%**
+> 🟢 **Maior alta:** Henrik Larsson (88) **+52.7%** · 🔴 **Maior baixa:** Robert Pirès (89) **-46.1%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Steffi Jones | 89 | Icons | 35k coins | +57.3% | +52.2% |
-| Birgit Prinz | 93 | Icons | 95k coins | +47.3% | +6.1% |
-| Alex Morgan | 91 | Icons | 1.40M coins | +42.1% | +19.7% |
-| Franck Ribéry | 89 | Icons | 270k coins | +39.8% | +5.7% |
-| Xavi | 92 | Icons | 388k coins | +34.3% | +27.2% |
-| Camille Abily | 91 | Icons | 58k coins | +33.7% | +33% |
-| Aya Miyama | 91 | Icons | 85k coins | +32.8% | +65% |
-| Iniesta | 92 | Icons | 170k coins | +32.6% | +29.6% |
-| Peter Schmeichel | 89 | Icons | 105k coins | +31.1% | +47.5% |
-| Giorgio Chiellini | 88 | Icons | 109k coins | +28.2% | -12.1% |
+| Henrik Larsson | 88 | Icons | 100k coins | +52.7% | +294% |
+| Ferenc Puskás | 94 | Icons | 1.08M coins | +44.7% | +27.6% |
+| Alex Morgan | 91 | Icons | 1.40M coins | +42.1% | +28.8% |
+| Xavi | 92 | Icons | 370k coins | +38.1% | +23.3% |
+| Marco van Basten | 91 | Icons | 91k coins | +36.2% | +36.2% |
+| Franck Ribéry | 89 | Icons | 295k coins | +29.2% | +8% |
+| Zinedine Zidane | 94 | Icons | 700k coins | +27.2% | +62.9% |
+| Johan Cruyff | 93 | Icons | 685k coins | +25.7% | +30.7% |
+| Alex Morgan | 93 | Icons | 600k coins | +23.4% | +14.8% |
+| Sócrates | 89 | Icons | 127k coins | +23.4% | +77.9% |
 
 
-Destacam-se no topo das altas a Steffi Jones (89), que registrou um impressionante aumento de 57.3% em 24 horas, atingindo 35k coins, um movimento robusto apoiado por uma probabilidade de alta de 56% que sugere confiança sustentada nos compradores. Birgit Prinz (93) também se firmou como uma das grandes vencedoras do dia com alta de 47.3%, cotada a 95k coins, e sua probabilidade de alta de 63% indica que o preço atual ainda pode estar subavaliado frente à demanda esperada por seus atributos defensivos. Alex Morgan (91) apresentou uma alta significativa de 42.1%, posicionando-se a 1.40M coins, embora a baixa probabilidade de alta de 13% alerte os traders para a possibilidade de uma correção rápida ou consolidação nesse patamar elevado de mercado. Franck Ribéry (89) subiu 39.8% para 270k coins, mas com apenas 13% de probabilidade de alta, o que caracteriza um movimento de curto prazo ou especulação momentânea sem forte fundamentação de acumulação de longo prazo. Xavi (92) completou o grupo de destaque com alta de 34.3% a 388k coins, apoiado por uma saudável probabilidade de alta de 46%, indicando que a demanda por sua visão de jogo e passe está equilibrando-se com a oferta disponível no mercado.
+Entre os poucos ativos que resistiram à onda vendedora, Henrik Larsson (88, Icons) se destaca com uma alta expressiva de 52.7% em 24 horas, atingindo a marca de 100k coins, um movimento apoiado por uma probabilidade de alta de 50% que sugere sustentação técnica em um nível psicológico importante para traders de médio porte. Ferenc Puskás (94, Icons) também demonstrou força relativa, subindo 44.7% para 1.08M coins, com uma probabilidade de alta de 55% que indica confiança dos compradores em manter o preço elevado, possivelmente devido à sua utilidade em squads de alto nível que exigem rating 94. Alex Morgan (91, Icons) registrou uma alta de 42.1%, chegando a 1.40M coins, embora sua probabilidade de alta seja baixa de apenas 13%, o que indica que o movimento pode ser efêmero e impulsionado por compras isoladas de colecionadores ou metas específicas, representando um risco de reversão imediata. Xavi (92, Icons) subiu 38.1% para 370k coins, com uma probabilidade de alta de 46%, sugerindo um equilíbrio razoável entre oferta e demanda, onde a carta está encontrando seu valor justo após correções anteriores, atraindo traders que buscam exposição a midfielders icônicos com custo-benefício atrativo. Marco van Basten (91, Icons) completou o grupo de destaque com 36.2% de alta, valendo 91k coins e mantendo uma probabilidade de alta de 46%, o que reforça a ideia de que forwards icônicos de menor investimento estão sendo usados como veículos de proteção contra a deflação geral do mercado. Esses movimentos, embora positivos, devem ser tratados com cautela, pois em um mercado com média negativa de -3.27%, altas isoladas frequentemente representam oportunidades de venda para traders que possuem as cartas em estoque, visando lucros rápidos antes de uma possível correção de volta à média do segmento.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ferenc Puskás | 93 | Icons | 411k coins | -32.6% | -31.5% |
-| Aya Miyama | 92 | Icons | 44k coins | -30.2% | -12.9% |
-| Lilian Thuram | 93 | Icons | 1.09M coins | -26.7% | +10.1% |
-| Samuel Eto'o | 90 | Icons | 494k coins | -25.5% | -20.2% |
-| Ferenc Puskás | 94 | Icons | 875k coins | -25.2% | -17.5% |
-| Lotta Schelin | 91 | Icons | 295k coins | -25.1% | -26.2% |
-| Paul Scholes | 88 | Icons | 66k coins | -23.6% | 0% |
-| Rivaldo | 91 | Icons | 100k coins | -23.5% | +24.4% |
-| George Best | 91 | Icons | 227k coins | -21.7% | +37.6% |
-| Wayne Rooney | 92 | Icons | 199k coins | -20.1% | +4.7% |
+| Robert Pirès | 89 | Icons | 44k coins | -46.1% | -29.7% |
+| Franck Ribéry | 88 | Icons | 90k coins | -43.2% | -26.9% |
+| Zico | 87 | Icons | 142k coins | -42.8% | -6.5% |
+| Lev Yashin | 92 | Icons | 109k coins | -40.5% | -26.2% |
+| Davor Šuker | 89 | Icons | 23k coins | -36.8% | -34.7% |
+| Cha Bum Kun | 86 | Icons | 75k coins | -34.8% | -13.8% |
+| Lilian Thuram | 93 | Icons | 1.50M coins | -33.4% | 0% |
+| Lev Yashin | 93 | Icons | 297k coins | -32.3% | -28.2% |
+| Dennis Bergkamp | 91 | Icons | 50k coins | -32% | -19.4% |
+| Xavi | 93 | Icons | 628k coins | -28.6% | -38.8% |
 
 
-Na outra ponta do espectro, Ferenc Puskás (93) liderou as quedas com uma desvalorização de 32.6% em 24 horas, caindo para 411k coins, um movimento preocupante dada sua alta probabilidade de alta de 61%, o que pode indicar uma oportunidade de compra de contramão para traders agressivos. Aya Miyama (92) sofreu queda de 30.2% a 44k coins, mas sua probabilidade de alta de 66% sugere fortemente que esta é uma venda excessiva ou pânico momentâneo, criando um fundo potencialmente sólido para reentrada. Lilian Thuram (93) recuou 26.7% para 1.09M coins, e com apenas 17% de probabilidade de alta, o mercado parece estar ajustando sua valoração para um nível mais realista ou aguardando novos eventos de conteúdo para impulsionar o card novamente. Samuel Eto'o (90) caiu 25.5% a 494k coins, com uma fraca probabilidade de alta de 9%, sinalizando que a pressão vendedora ainda pode persistir e que o card deve ser evitado até sinais claros de reversão de tendência. Ferenc Puskás (94) acompanhou a queda com -25.2% a 875k coins, mas sua probabilidade de alta de 55% oferece um cenário interessante para quem busca ativos de elite com potencial de recuperação técnica nos próximos ciclos.
+O lado mais preocupante do mercado hoje é a queda brutal de Robert Pirès (89, Icons), que desvalorizou 46.1% em 24 horas, caindo para apenas 44k coins, apesar de manter uma probabilidade de alta de 73%, o que sugere um fundo técnico potencial mas com pressão vendedora imediata esmagadora, possivelmente devido a mudanças em metas ou disponibilidade de alternativas mais baratas. Franck Ribéry (88, Icons) também sofreu um recuo significativo de 43.2%, atingindo 90k coins, com uma probabilidade de alta de 42% que indica incerteza sobre a sustentação do preço, tornando-o um ativo de risco elevado para compras a mercado nesse momento específico. Zico (87, Icons) perdeu 42.8% do seu valor, fechando em 142k coins, e com uma probabilidade de alta de apenas 32%, a tendência imediata parece ser de continuidade das perdas, aconselhando traders a evitarem qualquer tentativa de compra até que haja estabilização clara do volume de vendas. Lev Yashin (92, Icons) caiu 40.5% para 109k coins, e embora tenha uma probabilidade de alta de 71% que poderia atrair compradores de risco, a magnitude da queda em um goleiro icônico sugere uma correção de precificação excessiva anterior, exigindo paciência para entrar. Davor Šuker (89, Icons) despencou 36.8% para 23k coins, com probabilidade de alta de 37%, refletindo a liquidação massiva de ativos de baixo custo que não possuem demanda orgânica forte, servindo como um alerta para a fragilidade do suporte de preço em Icons de entrada. Esses ativos representam armadilhas clássicas de 'comprar na queda', onde a probabilidade de alta futura não garante recuperação imediata, e a pressão de venda pode continuar a erodir o capital dos traders que tentam pegar a faca caindo sem confirmação de reversão de tendência no volume de negociações.
 
 
 ## 🎯 Conclusão do dia
-A estratégia ideal para hoje foca em acumular ativos com alta probabilidade de revalorização que sofreram quedas acentuadas, como Aya Miyama (92) e Ferenc Puskás (93), aproveitando o medo do mercado para entrar em preços descontados com margem de segurança. Deve-se evitar a compra de ativos com altas recentes sustentadas por baixas probabilidades de continuidade, como Alex Morgan (91) e Franck Ribéry (89), pois o risco de reversão imediata é elevado e pode erodir o capital rapidamente. Segurar Steffi Jones (89) e Birgit Prinz (93) parece a melhor aposta para traders que já possuem esses cards, já que suas altas são acompanhadas por probabilidades de alta superiores a 50%, indicando momentum positivo. Para novos investimentos, Camille Abily (91) com alta de 33.7% e probabilidade de 57% a 58k coins oferece um risco ajustado ao retorno atraente em uma faixa de preço acessível. O timing é crucial neste mercado lateral; aguarde fechamentos de dia para confirmar se as quedas de Puskás e Thuram são fundos reais ou apenas ruído antes de posicionar fundos significativos.
+A estratégia recomendada para o dia 19/06/2026 no segmento de Icons é manter uma postura defensiva, priorizando a realização de vendas em ativos como Henrik Larsson e Ferenc Puskás que apresentam altas sustentáveis por probabilidade, enquanto se evita totalmente a compra de ativos em queda livre como Robert Pirès e Zico, cujas quedas de 46.1% e 42.8% respectivamente indicam falta de suporte imediato. Traders devem focar em segurar posições em Xavi e Marco van Basten, que mostram equilíbrio entre preço e probabilidade de alta, aguardando possíveis correções de curto prazo para vender em picos locais, em vez de tentar acumular volume em um mercado com média negativa de -3.27%. É crucial evitar a compra de Franck Ribéry (88) e Lev Yashin (92) apesar das probabilidades de alta futuras, pois o risco de drawdown imediato em um clima vendedor é excessivo para a maioria dos perfis de trading. O timing ideal para novas entradas será apenas após a estabilização das quedas massivas em ativos como Davor Šuker e Cha Bum Kun, onde a probabilidade de alta possa começar a superar a pressão vendedora, criando um fundo mais sólido para operações de swing trading. A disciplina de não comprar na queda acentuada e de lucrar nas altas pontuais de Larsson e Puskás será o diferencial para preservar capital neste dia de alta volatilidade e sentimento predominantemente negativo no mercado de Icons.
 
 
 ## ⚙️ A engine por tras deste post
@@ -77,13 +77,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Steffi Jones (89, Icons), com +57.3% em 24h, a 35k coins no PC.
+Henrik Larsson (88, Icons), com +52.7% em 24h, a 100k coins no PC.
 
 **E a maior queda do dia?**  
-Ferenc Puskás (93), -32.6% em 24h, a 411k coins.
+Robert Pirès (89), -46.1% em 24h, a 44k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 68 cartas em alta contra 75 em queda (média 0.99%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 50 cartas em alta contra 102 em queda (média -3.27%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

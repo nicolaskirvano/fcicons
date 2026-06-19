@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:59:13.000Z
+pubDatetime: 2026-06-19T19:58:29.000Z
 title: "Melhores investimentos em Icons no EA FC (19/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Andriy Shevchenko (90, Icons) lidera, com +69.9% em 7 dias a 78k coins no PC, e o modelo dá 22% de chance de seguir subindo."
+    a: "Sócrates (89, Icons) lidera, com +77.9% em 7 dias a 127k coins no PC, e o modelo dá 28% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Andriy Shevchenko (90) acumula **+69.9% em 7 dias** a 78k coins.
+> 🔝 **Destaque:** Sócrates (89) acumula **+77.9% em 7 dias** a 127k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-No cenário atual do EA FC Ultimate Team em PC, datado de 19 de junho de 2026, a análise do mercado de Icons revela oportunidades distintas para investidores que buscam lucros de curto a médio prazo. O foco principal deve ser direcionado às cartas que apresentam não apenas um aumento significativo no preço de mercado nas últimas 24 horas, mas também uma probabilidade estatística robusta de continuação dessa tendência de alta nos próximos dias. Entre os destaques absolutos, Julie Foudy se posiciona como a entrada mais segura e promissora. Com uma valorização de 20,7% em apenas um dia e uma impressionante probabilidade de alta de 76%, a carta de rating 91 está cotada a 35 mil coins. Esse cenário sugere que a demanda por sua posição e atributos está superando a oferta, tornando-a um dos ativos mais eficientes para quem deseja maximizar o retorno sobre o investimento com menor risco de volatilidade negativa imediata.
+No cenário atual do EA FC Ultimate Team para PC, datado de 19 de junho de 2026, o mercado de Icons apresenta uma volatilidade significativa que exige uma análise criteriosa dos dados de curto prazo. A tendência de valorização nos últimos sete dias destaca oportunidades claras, mas é fundamental distinguir entre picos momentâneos e sustentabilidade de preço. Ao analisarmos as cartas com maior probabilidade de alta, percebemos que o investimento deve ser direcionado não apenas ao aumento percentual recente, mas à combinação entre essa varação e a probabilidade estatística de continuidade da tendência. Isso evita a compra no topo de ativos que já consolidaram seus ganhos, focando em jogadores com espaço para apreciação adicional.
 
-Outro nome que merece atenção imediata é Aya Miyama, cuja trajetória recente tem sido extremamente agressiva no sentido positivo. A atacante de rating 91 registrou um salto de 32,8% em 24 horas, atingindo a marca de 85 mil coins, com uma probabilidade de alta de 27%. Embora a chance de continuação seja menor que a de Foudy, a magnitude do movimento diário indica um interesse renovado dos jogadores no mercado, possivelmente impulsionado por mudanças na meta ou promoções específicas que elevaram sua utilidade em times competitivos. Para investidores com apetite por riscos moderados, Miyama representa uma oportunidade de capitalizar sobre o momentum atual antes que o mercado se estabilize.
+Entre os destaques absolutos, Julie Foudy (91, Icons) surge como a oportunidade mais robusta para entrada imediata. Com um preço atual de apenas 32 mil coins, a carta exibe uma variação de 12,1% em 24 horas e, crucialmente, possui a maior probabilidade de alta entre todas as listadas, atingindo 76%. Essa combinação de preço acessível e expectativa estatística forte sugere que a demanda ainda não foi totalmente absorvida pelo mercado, tornando-a um ativo de baixo risco e potencial retorno significativo no curto prazo. Para investidores cautelosos, a segurança estatística de Foudy oferece um ponto de entrada sólido.
 
-Para aqueles dispostos a alocar capital mais substancial, Oliver Kahn e Peter Schmeichel apresentam perfis interessantes, embora com dinâmicas diferentes. Kahn, o goleiro lendário de rating 91, subiu 23,3% em 24 horas para 180 mil coins, com uma probabilidade de alta de 37%. Já Schmeichel, com rating 89, teve um aumento de 31,1% para 105 mil coins, acompanhando uma probabilidade de alta de 54%. A alta probabilidade de Schmeichel sugere que sua valorização é mais sustentável do que a de Kahn, apesar deste último ter um rating superior. A escolha entre os dois dependerá da tolerância ao risco do investidor, mas Schmeichel parece oferecer uma relação risco-recompensa mais equilibrada no momento.
+Outro nome que merece atenção plena é Steffi Jones (89, Icons), cotada a 38 mil coins. A carta registrou um aumento de 12,7% nas últimas 24 horas e carrega uma probabilidade de alta de 56%. Embora o preço seja ligeiramente superior ao de Foudy, a probabilidade de continuação da tendência ainda é muito atrativa, posicionando-a como uma alternativa viável para portfólios diversificados. A consistência do desempenho de Steffi Jones (89) indica um fluxo de compra orgânico, possivelmente impulsionado por sua utilidade em squad específicos ou promoções de conteúdo que ainda não atingiram seu pico de popularidade.
 
-Andriy Shevchenko e Carles Puyol também merecem menção, embora com cautela. Shevchenko, com rating 90, valorizou 8,2% para 78 mil coins, mas sua probabilidade de alta é de apenas 22%, o que indica possível saturação ou correção próxima. Puyol, por sua vez, subiu 19,8% para 97 mil coins, mas também apresenta uma baixa probabilidade de continuação de alta (23%). Esses dados sugerem que, embora tenham subido recentemente, a força do movimento pode estar se esgotando, recomendando uma entrada apenas para traders de muito curto prazo ou para cobertura de times específicos, sem expectativa de lucro prolongado.
+No segmento de alto valor, Iniesta (92, Icons) apresenta uma dinâmica interessante para investidores com maior capital. A carta está cotada a 166 mil coins, com uma alta de 14,5% em 24 horas e uma probabilidade de alta de 64%. Apesar do preço elevado, a probabilidade superior a 60% indica que há demanda sustentada por este ícone de elite. No entanto, o risco é proporcional ao investimento inicial, exigindo que o jogador monitore de perto qualquer sinal de saturação de mercado antes de realizar o lucro.
 
-Por outro lado, cartas como Toni Kroos, Javier Zanetti, Steven Gerrard e Philipp Lahm, apesar de serem ícones históricos, mostram sinais de estagnação ou alta tímida. Kroos subiu apenas 2,4% para 128 mil coins, Zanetti 3,8% para 160 mil, Gerrard 1,8% para 170 mil e Lahm 1,3% para 158 mil. Embora suas probabilidades de alta variem de 31% a 60%, o movimento de preço diário é insuficiente para gerar lucros significativos em curto prazo em comparação com as opções mencionadas anteriormente. Esses ativos são mais adequados para estratégias de longo prazo ou para jogadores que já os utilizam em seus times, do que para especulação ativa no dia 19 de junho de 2026.
+Marco van Basten (91, Icons) oferece um perfil de alto risco e alta recompensa. Com um impressionante aumento de 36,2% em 24 horas e cotado a 91 mil coins, a carta já demonstrou força de mercado considerável. Sua probabilidade de alta é de 46%, o que sugere que parte do movimento de preço já ocorreu. Entrar aqui requer timing preciso, pois a correção pode ser rápida se a probabilidade de 46% não se concretizar em novos impulsos de compra. É uma jogada agressiva, indicada apenas para quem busca ganhos rápidos e está disposto a vender assim que o preço estabilizar.
 
-Em conclusão, a estratégia mais sólida para hoje envolve priorizar Julie Foudy pela sua alta probabilidade de sucesso e custo acessível, seguida por Peter Schmeichel como opção de médio porte com bom potencial. Aya Miyama pode ser considerada para apostas mais agressivas. Evita-se, por enquanto, a entrada em Shevchenko e Puyol devido à baixa probabilidade de continuação, e ignora-se o grupo de Kroos, Zanetti, Gerrard e Lahm para fins de especulação rápida, dado seu desempenho de mercado estagnado.
+Por fim, cartas como Sócrates (89, Icons) e Oliver Kahn (91, Icons) devem ser observadas com cautela. Sócrates, a 127 mil coins, tem alta de 23,4% e probabilidade de 28%, enquanto Kahn, a 70 mil coins, tem alta de 15,8% e probabilidade de 37%. As probabilidades relativamente baixas indicam que as altas recentes podem ter esgotado a demanda imediata, sugerindo que não são os melhores momentos para entrada, mas sim para aguardar correções ou sinais de nova tendência.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Andriy Shevchenko | 90 | Icons | 78k coins | +8.2% | +69.9% | 22% |
-| Aya Miyama | 91 | Icons | 85k coins | +32.8% | +65% | 27% |
-| Julie Foudy | 91 | Icons | 35k coins | +20.7% | +59.1% | 76% |
-| Oliver Kahn | 91 | Icons | 180k coins | +23.3% | +50% | 37% |
-| Toni Kroos | 90 | Icons | 128k coins | +2.4% | +49.7% | 31% |
-| Peter Schmeichel | 89 | Icons | 105k coins | +31.1% | +47.5% | 54% |
-| Javier Zanetti | 91 | Icons | 160k coins | +3.8% | +46.8% | 27% |
-| Steven Gerrard | 90 | Icons | 170k coins | +1.8% | +44.1% | 52% |
-| Philipp Lahm | 89 | Icons | 158k coins | +1.3% | +42.9% | 60% |
-| Carles Puyol | 89 | Icons | 97k coins | +19.8% | +41.6% | 23% |
-| Wayne Rooney | 88 | Icons | 146k coins | +5% | +40.4% | 49% |
-| David Beckham | 88 | Icons | 149k coins | +7.1% | +35.1% | 22% |
-| Camille Abily | 91 | Icons | 58k coins | +33.7% | +33% | 57% |
-| Iniesta | 92 | Icons | 170k coins | +32.6% | +29.6% | 64% |
-| Caroline Seger | 90 | Icons | 54k coins | +24.3% | +27.9% | 55% |
+| Sócrates | 89 | Icons | 127k coins | +23.4% | +77.9% | 28% |
+| Oliver Kahn | 91 | Icons | 70k coins | +15.8% | +69% | 37% |
+| Andriy Shevchenko | 90 | Icons | 74k coins | +1.4% | +68.2% | 22% |
+| Steffi Jones | 89 | Icons | 38k coins | +12.7% | +64.1% | 56% |
+| Steffi Jones | 91 | Icons | 69k coins | +21.1% | +61.4% | 15% |
+| Julie Foudy | 91 | Icons | 32k coins | +12.1% | +47.7% | 76% |
+| Emmanuel Petit | 87 | Icons | 96k coins | +11.2% | +36.3% | 49% |
+| Marco van Basten | 91 | Icons | 91k coins | +36.2% | +36.2% | 46% |
+| Iniesta | 92 | Icons | 166k coins | +14.5% | +29.7% | 64% |
+| Fernando Torres | 87 | Icons | 120k coins | +17.6% | +26.3% | 23% |
+| Raúl | 90 | Icons | 97k coins | +16.6% | +25.3% | 20% |
+| Hugo Sánchez | 89 | Icons | 116k coins | +16% | +22.1% | 35% |
+| Frank Lampard | 87 | Icons | 110k coins | +6.6% | +16.7% | 62% |
+| Franco Baresi | 91 | Icons | 79k coins | +14.5% | +14.5% | 40% |
+| Iniesta | 92 | Icons | 240k coins | +13.4% | +10% | 24% |
 
 
 ## 📈 Análise dos destaques
 
-- **Andriy Shevchenko (90)** — 78k coins, **+69.9% em 7 dias** (+8.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Sócrates (89)** — 127k coins, **+77.9% em 7 dias** (+23.4% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Aya Miyama (91)** — 85k coins, **+65% em 7 dias** (+32.8% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Oliver Kahn (91)** — 70k coins, **+69% em 7 dias** (+15.8% em 24h). Preço -53% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Julie Foudy (91)** — 35k coins, **+59.1% em 7 dias** (+20.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **76% de chance de seguir subindo**.
+- **Andriy Shevchenko (90)** — 74k coins, **+68.2% em 7 dias** (+1.4% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Oliver Kahn (91)** — 180k coins, **+50% em 7 dias** (+23.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Steffi Jones (89)** — 38k coins, **+64.1% em 7 dias** (+12.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Toni Kroos (90)** — 128k coins, **+49.7% em 7 dias** (+2.4% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Steffi Jones (91)** — 69k coins, **+61.4% em 7 dias** (+21.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -90,7 +90,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Andriy Shevchenko (90, Icons) lidera, com +69.9% em 7 dias a 78k coins no PC, e o modelo dá 22% de chance de seguir subindo.
+Sócrates (89, Icons) lidera, com +77.9% em 7 dias a 127k coins no PC, e o modelo dá 28% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
