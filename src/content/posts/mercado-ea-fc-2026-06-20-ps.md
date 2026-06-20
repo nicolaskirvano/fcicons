@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:56:52.000Z
+pubDatetime: 2026-06-20T19:56:46.000Z
 title: "Icons no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Gennaro Gattuso (86, Icons), com +30.4% em 24h, a 84k coins no Console (PS)."
+    a: "Steffi Jones (89, Icons), com +44.6% em 24h, a 33k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Lev Yashin (92), -48.7% em 24h, a 74k coins."
+    a: "Diego Armando Maradona (96), -47.5% em 24h, a 2.30M coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Alan Shearer (91) — 95% de probabilidade de alta, a 120k coins."
+    a: "Pelo modelo FutQuant, Garrincha (92) — 95% de probabilidade de alta, a 150k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 34 cartas em alta contra 136 em queda (média -17.32%)."
+    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 46 cartas em alta contra 123 em queda (média -10.09%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O cenário do mercado de Icons para esta terça-feira, 20 de junho de 2026, é de extrema volatilidade e pessimismo generalizado, com os vendedores dominando completamente as negociações em Console PS. Os dados indicam um desequilíbrio brutal na oferta e demanda, onde 136 jogadores sofreram quedas de preço contra apenas 34 que conseguiram manter ou aumentar seus valores, resultando em uma média negativa impressionante de -17.32% em apenas 24 horas. Este ambiente de 'mercado pressionado' sugere que a maioria dos investidores está realizando prejuízos para garantir liquidez ou desistir de posições estagnadas, criando uma oportunidade de caça a ativos descontados para traders de alto risco. A atmosfera é de cautela extrema, onde a única estratégia viável parece ser a de aproveitar o pânico dos demais para acumular ativos de longo prazo com margens de segurança históricas. Traders experientes sabem que dias assim, com quedas massivas, muitas vezes precedem correções técnicas de alta, mas entrar sem critério é o caminho mais rápido para a ruína financeira no FUT. O tom do dia é claro: o mercado está sangrando, e apenas aqueles com disciplina férrea e capital resistente conseguirão navegar por essas águas turbulentas sem serem engolidos pelas perdas generalizadas.
+O cenário do mercado de Icons em consoles para o dia 20 de junho de 2026 é marcado por uma pressão extrema e uma dominância clara das vendas, configurando um ambiente de alta volatilidade onde a liquidez sai mais rápido do que entra. Com um saldo negativo expressivo de 123 quedas contra apenas 46 altas, o indicador médio de variação de 24 horas registra uma queda de -10.09%, sinalizando que o sentimento dos traders é predominantemente de desinvestimento ou busca por ativos mais seguros. Esse contexto de mercado pressionado exige uma leitura atenta dos fundamentos de cada ativo, pois as oscilações não seguem um padrão uniforme, mas sim reações específicas a eventos de jogo ou ajustes de oferta e demanda pontual. A estratégia para hoje deve focar em identificar oportunidades de compra em ativos que estão sendo vendidos por pânico ou falta de liquidez, enquanto se evita expor capital em ativos que, apesar de subirem, apresentam baixa probabilidade de sustentação. O trader experiente sabe que em dias de queda generalizada, a disciplina é o único ativo que não perde valor, e a análise fria dos dados é crucial para não ser pego em movimentos de reversão falsa.
 
-> 🟢 **Maior alta:** Gennaro Gattuso (86) **+30.4%** · 🔴 **Maior baixa:** Lev Yashin (92) **-48.7%**
+> 🟢 **Maior alta:** Steffi Jones (89) **+44.6%** · 🔴 **Maior baixa:** Diego Armando Maradona (96) **-47.5%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gennaro Gattuso | 86 | Icons | 84k coins | +30.4% | +18.1% |
-| Marinette Pichon | 90 | Icons | 47k coins | +18.8% | -2.3% |
-| Juan Román Riquelme | 89 | Icons | 220k coins | +18.5% | +19.1% |
-| Paul Scholes | 91 | Icons | 210k coins | +18% | +37.3% |
-| Thierry Henry | 91 | Icons | 995k coins | +17.8% | +6.8% |
-| Geoff Hurst | 88 | Icons | 82k coins | +16.2% | +20.4% |
-| Toni Kroos | 90 | Icons | 101k coins | +16.1% | -6.5% |
-| Alex Morgan | 91 | Icons | 845k coins | +16% | -6.2% |
-| Homare Sawa | 92 | Icons | 424k coins | +14.6% | -0.5% |
-| Steven Gerrard | 89 | Icons | 101k coins | +8.4% | +10.2% |
+| Steffi Jones | 89 | Icons | 33k coins | +44.6% | +29.1% |
+| Fabio Cannavaro | 89 | Icons | 98k coins | +41.9% | +1.9% |
+| Alex Morgan | 91 | Icons | 910k coins | +31% | -1% |
+| Laurent Blanc | 88 | Icons | 90k coins | +22.4% | -14.7% |
+| Franz Beckenbauer | 93 | Icons | 275k coins | +22.2% | -9.2% |
+| Toni Kroos | 90 | Icons | 100k coins | +21.8% | +2.8% |
+| Samuel Eto'o | 89 | Icons | 280k coins | +14.3% | +27.9% |
+| Gennaro Gattuso | 86 | Icons | 90k coins | +14% | +17% |
+| Roy Keane | 86 | Icons | 81k coins | +13.7% | +8.2% |
+| Hristo Stoichkov | 89 | Icons | 84k coins | +13.4% | +2.4% |
 
 
-Em meio ao caos das quedas, um seleto grupo de Icons conseguiu se destacar com altas significativas, liderados por Gennaro Gattuso (86), que apresentou um salto robusto de 30.4% em 24 horas, atingindo a marca de 84k coins com uma probabilidade de alta calculada em 84%, indicando forte compra institucional. Marinette Pichon (90) também se firmou como uma aposta segura, subindo 18.8% para 47k coins, mantendo a mesma probabilidade alta de 84% de continuidade no movimento ascendente, o que a torna um dos ativos mais saudíveis do dia. Entre os nomes de maior patamar, Juan Román Riquelme (89) valorizou 18.5% para 220k coins, embora sua probabilidade de alta seja mais modesta de 42%, sugerindo que o movimento pode ser mais especulativo do que fundamentado em fluxo constante. Paul Scholes (91) seguiu a tendência com alta de 18% para 210k coins, mas com uma probabilidade de alta preocupantemente baixa de apenas 16%, sinalizando que o preço pode estar esticado e propenso a correção imediata. Thierry Henry (91) completou o top de altas com 17.8% de valorização, chegando a 995k coins, com uma probabilidade de 55% de continuar subindo, o que o coloca em uma zona de observação crítica para traders que buscam lucros em ativos de alto valor. Geoff Hurst (88) e Toni Kroos (90) também tiveram desempenhos positivos de 16.2% e 16.1% respectivamente, mas as baixas probabilidades de alta de 60% e 5% indicam que a sustentação desses preços é frágil e deve ser tratada com extrema cautela pelos investidores.
+Entre as poucas luzes neste dia de quedas, Steffi Jones se destaca com uma alta explosiva de 44.6%, atingindo 33k coins, embora sua probabilidade de alta futura seja moderada em 58%, sugerindo que este pode ser um pico de curto prazo impulsionado por necessidades de squad específicas. Fabio Cannavaro também apresenta um movimento robusto de 41.9%, posicionando-se em 98k coins com uma impressionante probabilidade de alta de 95%, o que indica uma tendência de sustentação forte e potencial para lucros maiores nos próximos dias. Alex Morgan, um ativo de alto valor, sobe 31% para 910k coins, mantendo uma probabilidade de alta de 74%, o que atrai traders de capital maior que buscam diversificação em itens premium com tendência confirmada. Laurent Blanc registra alta de 22.4% a 90k coins, mas sua probabilidade de alta de apenas 44% alerta para a possibilidade de uma correção rápida, tornando-o um ativo de risco para day trade agressivo. Franz Beckenbauer, icônico e caro, sobe 22.2% para 275k coins, mas com probabilidade de alta de apenas 18%, indicando que a demanda pode estar esgotada e que o preço atual pode ser um topo local. Toni Kroos, em uma versão específica, sobe 21.8% para 100k coins, mas com probabilidade de alta de apenas 5%, o que sugere fortemente uma armadilha de compra ou uma subida temporária sem fundamentos de sustentação. Samuel Eto'o e Gennaro Gattuso completam o grupo com altas de 14.3% e 14% respectivamente, onde Gattuso, com 90k coins e 84% de probabilidade de alta, parece ter fundamentos mais sólidos para continuação do movimento do que Eto'o, que está em 280k coins com apenas 27% de chance de continuar subindo.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lev Yashin | 92 | Icons | 74k coins | -48.7% | -43.2% |
-| Marcelo | 89 | Icons | 79k coins | -48.4% | -48.4% |
-| Thierry Henry | 93 | Icons | 840k coins | -47.8% | -47.6% |
-| Iniesta | 92 | Icons | 94k coins | -47.6% | -52.4% |
-| Andrea Pirlo | 91 | Icons | 315k coins | -46.9% | -54% |
-| Francesco Totti | 89 | Icons | 202k coins | -44.9% | -38.2% |
-| Diego Armando Maradona | 96 | Icons | 1.24M coins | -43.6% | -47.6% |
-| Lothar Matthäus | 90 | Icons | 168k coins | -42% | -36% |
-| Zinedine Zidane | 95 | Icons | 566k coins | -41.6% | -55.5% |
-| Fabio Cannavaro | 90 | Icons | 248k coins | -40.7% | -35.7% |
+| Diego Armando Maradona | 96 | Icons | 2.30M coins | -47.5% | -40.1% |
+| Aya Miyama | 92 | Icons | 22k coins | -45.9% | -57% |
+| Andrea Pirlo | 91 | Icons | 308k coins | -45.7% | -50.2% |
+| Patrick Vieira | 90 | Icons | 461k coins | -43.9% | -58.4% |
+| Cafu | 92 | Icons | 148k coins | -42.9% | -67.1% |
+| Gareth Bale | 94 | Icons | 1.75M coins | -41.7% | -67.6% |
+| Toni Kroos | 91 | Icons | 190k coins | -40.7% | -69.9% |
+| Pavel Nedvěd | 89 | Icons | 130k coins | -39.8% | -42.7% |
+| Franck Ribéry | 89 | Icons | 285k coins | -39.7% | -27.8% |
+| Edwin van der Sar | 88 | Icons | 72k coins | -38.8% | -53.8% |
 
 
-As quedas foram devastadoras e generalizadas, com Lev Yashin (92) liderando a lista de perdas ao despencar 48.7% para 74k coins, apesar de manter uma probabilidade de alta de 68%, o que sugere uma oportunidade de compra em fundo de poço para quem acredita na recuperação do ativo. Marcelo (89) sofreu queda semelhante de 48.4% para 79k coins, com probabilidade de alta de 60%, reforçando a tese de que defensores laterais estão sendo liquidados sem distinção no momento. Thierry Henry (93) foi ainda mais castigado, caindo 47.8% para 840k coins, e com uma probabilidade de alta de apenas 38%, indica que a confiança do mercado neste item de alto custo está abalada e pode levar a mais perdas. Iniesta (92) perdeu 47.6% para 94k coins, mas com probabilidade de alta de apenas 5%, o alerta é claro de que este ativo está em livre queda e deve ser evitado até sinais claros de estabilização. Andrea Pirlo (91) e Francesco Totti (89) também registraram quedas acentuadas de 46.9% e 44.9% respectivamente, caindo para 315k e 202k coins, com probabilidades de alta baixas de 35% e 33%, caracterizando ativos em zona de perigo. Diego Armando Maradona (96), o ícone máximo, caiu 43.6% para 1.24M coins, mas sua alta probabilidade de 84% de recuperação o torna um candidato forte para compra agressiva de quem tem capital para suportar a volatilidade. Lothar Matthäus (90) fechou o grupo de perdas com queda de 42% para 168k coins e 68% de probabilidade de alta, completando um quadro de liquidação massiva que deve ser monitorado de perto para entradas em fundos de valor.
+O lado das quedas é brutal e representa a maior parte do volume de negociação, com Diego Armando Maradona liderando as perdas com uma queda vertiginosa de 47.5%, atingindo 2.30M coins, embora sua probabilidade de alta de 32% sugira que a queda pode estar perto de um fundo técnico. Aya Miyama sofre uma queda de 45.9% para 22k coins, com probabilidade de alta de 28%, indicando que o ativo perdeu relevância imediata e pode não se recuperar rapidamente, sendo um risco para quem comprou na alta. Andrea Pirlo cai 45.7% para 308k coins, mas sua probabilidade de alta de 35% é ligeiramente mais otimista que a de Miyama, sugerindo um possível estabilização em níveis mais baixos. Patrick Vieira registra queda de 43.9% para 461k coins, com probabilidade de alta de apenas 18%, o que aponta para uma tendência de baixa estrutural ou falta de interesse de squads competitivos. Cafu cai 42.9% para 148k coins, mas com uma probabilidade de alta de apenas 5%, o que confirma uma venda massiva e a ausência de compradores, tornando o ativo extremamente perigoso para entrada. Gareth Bale, ativo de altíssimo valor, cai 41.7% para 1.75M coins, mas sua probabilidade de alta de 57% é um sinal de alerta para vendedores, pois pode haver uma reversão de mercado em breve. Toni Kroos, em outra versão, cai 40.7% para 190k coins, com probabilidade de alta de 60%, sugerindo que a queda foi exagerada e pode ser uma oportunidade de compra. Pavel Nedvěd cai 39.8% para 130k coins, mas com probabilidade de alta de 95%, é o ativo mais promissor para compra imediata, pois a queda foi provavelmente causada por falta de liquidez temporária e não por desvalorização real.
 
 
 ## 🔮 Radar de valorização (24h)
@@ -74,17 +74,17 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Alan Shearer | 91 | 120k coins | 153k coins | 95% |
+| Garrincha | 92 | 150k coins | 178k coins | 95% |
 | Dunga | 87 | 66k coins | 89k coins | 95% |
 | Frank Rijkaard | 87 | 66k coins | 78k coins | 95% |
 | Kelly Smith | 89 | 68k coins | 84k coins | 95% |
-| Garrincha | 92 | 135k coins | 160k coins | 95% |
+| Pavel Nedvěd | 89 | 130k coins | 149k coins | 95% |
+| Andrea Pirlo | 90 | 83k coins | 105k coins | 95% |
 | Roberto Baggio | 91 | 69k coins | 85k coins | 95% |
-| Bastian Schweinsteiger | 89 | 80k coins | 99k coins | 95% |
-| Pavel Nedvěd | 89 | 145k coins | 167k coins | 95% |
+| Robin van Persie | 88 | 108k coins | 128k coins | 95% |
 
 
-O modelo de previsão identifica uma série de Icons com probabilidade máxima de alta de 95%, sugerindo uma rotação de capital para ativos de menor valor absoluto mas alta eficiência de retorno. Alan Shearer (91) está projetado para alta a 120k coins, enquanto Dunga (87) e Frank Rijkaard (87) compartilham a mesma probabilidade de 95% em valores de 66k coins, indicando uma valorização de ícones de custo acessível. Kelly Smith (89) segue o padrão com 95% de chance de subir para 68k coins, e Garrincha (92) aparece como um ativo de maior patamento na lista de previsões, com 95% de probabilidade de atingir 135k coins. Roberto Baggio (91) e Bastian Schweinsteiger (89) também têm 95% de chance de alta, para 69k e 80k coins respectivamente, consolidando uma tendência de compra em meias e atacantes de entrada. Finalmente, Pavel Nedvěd (89) completa a lista com 95% de probabilidade de alta para 145k coins, oferecendo uma das melhores relações risco-retorno previstas para o curto prazo, já que todos esses ativos apresentam a mesma certeza estatística de valorização imediata.
+O modelo de previsão indica fortes oportunidades de compra em ativos com probabilidade de alta de 95%, incluindo Garrincha a 150k coins, Dunga a 66k coins, Frank Rijkaard a 66k coins, Kelly Smith a 68k coins, Pavel Nedvěd a 130k coins, Andrea Pirlo a 83k coins, Roberto Baggio a 69k coins e Robin van Persie a 108k coins, sugerindo que esses ativos estão em pontos de fundo técnico e devem registrar altas significativas nas próximas horas.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -93,18 +93,18 @@ O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Emmanuel Petit | 87 | 74k coins | -17.5% |
-| Johan Cruyff | 87 | 195k coins | -21.3% |
-| Iniesta | 92 | 94k coins | -21.3% |
-| Dennis Bergkamp | 90 | 68k coins | -21.4% |
-| Steffi Jones | 89 | 68k coins | -15.7% |
-| Petr Čech | 88 | 68k coins | -15.6% |
 | Xabi Alonso | 87 | 66k coins | -21.4% |
-| Toni Kroos | 90 | 101k coins | -17.4% |
+| Petr Čech | 88 | 66k coins | -15.6% |
+| Emmanuel Petit | 87 | 74k coins | -17.5% |
+| Toni Kroos | 90 | 100k coins | -17.4% |
+| Homare Sawa | 91 | 88k coins | -15.6% |
+| Steffi Jones | 89 | 68k coins | -15.7% |
+| Dennis Bergkamp | 90 | 68k coins | -21.4% |
+| Roberto Carlos | 91 | 145k coins | -15.6% |
 
 
 ## 🎯 O que fazer hoje
-A estratégia para hoje deve ser altamente seletiva, focando na compra dos ativos com 95% de probabilidade de alta, como Alan Shearer, Dunga e Garrincha, que oferecem segurança estatística em um mercado caótico. Recomenda-se segurar posições em Gennaro Gattuso e Marinette Pichon, que demonstram força relativa e alta probabilidade de continuidade, evitando vender em pânico durante a correção do mercado. Deve-se evitar totalmente a compra de Iniesta e Paul Scholes neste momento, pois suas baixas probabilidades de alta indicam que os preços ainda não encontraram o fundo, expondo o trader a perdas contínuas. Para investidores de alto capital, a queda de Diego Maradona e Lev Yashin representa uma oportunidade de acumulação a longo prazo, dada a alta probabilidade de recuperação desses ícones de elite. A chave do dia é comprar os ativos previstos pelo modelo com disciplina e vender qualquer posição em ativos sem suporte fundamental, como os que apresentam quedas acentuadas com baixa probabilidade de rebote. O timing é crucial: entre enquanto o pânico vende os ativos de 95% de alta, e saia antes que a euforia retorne, maximizando os lucros em um ambiente de extrema adversidade.
+A estratégia para hoje deve ser extremamente seletiva, focando na compra de ativos que estão caindo mas possuem alta probabilidade de reversão, como Pavel Nedvěd e Toni Kroos, que combinam quedas recentes com altas chances de alta no modelo. Evite comprar ativos que estão subindo com baixa probabilidade de continuação, como Toni Kroos (versão 90) e Franz Beckenbauer, pois o risco de correção imediata é elevado e pode travar seu capital. Priorize a compra de Fabio Cannavaro e Gennaro Gattuso, que apresentam altas sustentadas e alta probabilidade de continuação, oferecendo um equilíbrio melhor entre risco e retorno neste mercado pressionado. Mantenha liquidez para aproveitar oportunidades de fundo em ativos de alto valor como Gareth Bale, caso a probabilidade de alta se confirme com volume de compra, mas seja cauteloso com Maradona devido à volatilidade extrema. Em resumo, o dia exige paciência e disciplina: compre os fortes que estão baratos (Nedvěd, Pirlo) e venda os fracos que estão caros (Beckenbauer, Eto'o), aproveitando a média de -10.09% para acumular ativos de longo prazo com desconto.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -114,16 +114,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Gennaro Gattuso (86, Icons), com +30.4% em 24h, a 84k coins no Console (PS).
+Steffi Jones (89, Icons), com +44.6% em 24h, a 33k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Lev Yashin (92), -48.7% em 24h, a 74k coins.
+Diego Armando Maradona (96), -47.5% em 24h, a 2.30M coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Alan Shearer (91) — 95% de probabilidade de alta, a 120k coins.
+Pelo modelo FutQuant, Garrincha (92) — 95% de probabilidade de alta, a 150k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 34 cartas em alta contra 136 em queda (média -17.32%).
+Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 46 cartas em alta contra 123 em queda (média -10.09%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
