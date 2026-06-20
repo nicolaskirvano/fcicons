@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T10:57:01.000Z
+pubDatetime: 2026-06-20T22:57:14.000Z
 title: "Melhores investimentos em Icons no EA FC (20/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Paul Scholes (91, Icons) lidera, com +32.7% em 7 dias a 194k coins no Console (PS), e o modelo dá 16% de chance de seguir subindo."
+    a: "Alan Shearer (91, Icons) lidera, com +43.6% em 7 dias a 135k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,19 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Paul Scholes (91) acumula **+32.7% em 7 dias** a 194k coins.
+> 🔝 **Destaque:** Alan Shearer (91) acumula **+43.6% em 7 dias** a 135k coins.
 
 
 ## 🧠 A leitura do dia
-No cenário do EA FC Ultimate Team para consoles PlayStation, datado de 20 de junho de 2026, o mercado de cartas lendárias, ou "Icons", apresenta uma dinâmica volátil que exige análise precisa das tendências de valorização recentes. Ao observar os dados dos últimos sete dias, focando especificamente no desempenho das últimas 24 horas, identificamos oportunidades claras para investidores que buscam maximizar seus lucros com ativos de alto status. A estratégia central reside em distinguir entre movimentos especulativos de curto prazo e tendências sustentadas com alta probabilidade de continuação, garantindo que o capital investido seja aplicado nas cartas com maior potencial de retorno real.
+Ao analisar o mercado de Icons no EA FC Ultimate Team para consoles PlayStation na data de 20 de junho de 2026, é fundamental observar a volatilidade e as tendências de curto prazo para identificar oportunidades de investimento sólidas. O cenário atual destaca uma seleção específica de lendas que apresentam variação positiva nos últimos 24 horas, indicando uma demanda crescente por parte dos jogadores que buscam reforçar seus times. A análise foca em identificar quais dessas cartas oferecem o melhor potencial de retorno com base na probabilidade estatística de alta e no volume de negociação, garantindo que o investidor tome decisões embasadas estritamente nos dados de mercado disponíveis, sem especulações infundadas.
 
-Dentre as opções disponíveis, Dunga (87, Icons) destaca-se como o investimento mais sólido e seguro no momento. Com uma valorização impressionante de 11,2% nas últimas 24 horas e uma probabilidade de alta de 95%, esta carta a 93k coins oferece um perfil de risco extremamente baixo. A combinação de um aumento significativo no preço base com uma quase certeza estatística de continuidade na tendência torna Dunga a escolha prioritária para quem deseja segurança na carteira, aproveitando um momentum que parece estar apenas no início de sua fase de expansão.
+Entre as opções de alto risco e alto retorno, destaca-se a carta de Frank Lampard, com rating de 87. Esta lenda apresentou um impressionante aumento de 32,7% em apenas 24 horas, atingindo um preço atual de 136k coins. O que torna essa carta particularmente atraente para entrada imediata é a probabilidade de alta de 95%, um indicador robusto que sugere sustentabilidade na tendência de valorização. Para investidores que buscam estabilidade com ganhos expressivos, Lampard se posiciona como uma das escolhas mais seguras do dia, combinando um desempenho de mercado excepcional com uma alta probabilidade estatística de continuar subindo de valor nas próximas horas.
 
-Paralelamente, Roy Keane (86, Icons) emerge como outra oportunidade excepcional, embora com uma dinâmica de preço diferente. Negociada a 79k coins, a carta registrou um aumento de 3,9% em 24 horas, mas o dado mais relevante é sua probabilidade de alta de 95%, idêntica à de Dunga. Para investidores com menor capital inicial, Keane representa uma entrada acessível com a mesma segurança estatística de valorização futura. A consistência desses dois ativos sugere que o mercado está consolidando valores em defensores e volantes icônicos, criando uma base estável para portfólios diversificados.
+Outra carta que merece atenção imediata é Alan Shearer, com rating de 91. Embora seu aumento de 2,3% em 24 horas possa parecer modesto em comparação com outros, o preço atual de 135k coins e a probabilidade de alta de 95% indicam uma demanda consistente e estável. Shearer é uma escolha prudente para quem deseja evitar volatilidade excessiva, pois a alta probabilidade de valorização sugere que o mercado está consolidando esse preço. É uma entrada segura para portfólios que priorizam a segurança do capital investido, aproveitando a tendência de alta sustentada por uma base de compradores fiéis à lenda.
 
-John Barnes (87, Icons) apresenta um caso interessante de alta volatilidade com potencial de retorno elevado. Com o maior percentual de alta em 24 horas entre as principais Icons analisadas (13,6%), a carta a 76k coins atrai atenção imediata. No entanto, sua probabilidade de alta é de 60%, o que indica um nível de risco moderado. Investidores mais agressivos podem considerar Barnes para ganhos rápidos, apostando na continção do impulso de curto prazo, mas devem estar cientes de que a falta de certeza absoluta exige uma saída mais rápida do mercado em comparação com Dunga ou Keane.
+Para os investidores dispostos a assumir maiores riscos em busca de retornos mais agressivos, Kenny Dalglish (89) e Roy Keane (86) apresentam perfis interessantes. Dalglish, cotado a 180k coins, subiu 5,2% em 24 horas com uma probabilidade de alta de 95%, oferecendo um equilíbrio entre preço elevado e segurança estatística. Por outro lado, Roy Keane, a 86k coins, teve um aumento de 15,4% com a mesma probabilidade de alta de 95%. A acessibilidade do preço de Keane, aliada à forte probabilidade de valorização, o torna uma opção atrativa para quem deseja diversificar com investimentos de menor valor inicial, mas com potencial de crescimento significativo.
 
-Para perfis de investimento de maior porte, Javier Zanetti (91, Icons) e Juan Román Riquelme (89, Icons) merecem atenção cautelosa. Zanetti, a 100k coins, subiu 7,6% com 49% de probabilidade de alta, enquanto Riquelme, a 245k coins, teve alta de 9,4% com 42% de probabilidade. Ambos apresentam riscos equilibrados (próximo a 50/50), o que significa que o mercado ainda está indeciso sobre a direção imediata. Enquanto Riquelme oferece maior margem de lucro absoluto devido ao preço base elevado, a incerteza estatística exige monitoramento constante. Por fim, cartas como Paul Scholes (91) e Luís Figo (89) mostram sinais mais fracos de sustentabilidade, com probabilidades de alta de 16% e 8%, respectivamente, sugerindo que não são ideais para entrada neste momento específico.
+No extremo oposto, cartas como Michaël Essien (86) e Aya Miyama (91) mostram movimentos recentes fortes, com aumentos de 15,7% e 22,9% respectivamente, mas possuem baixas probabilidades de alta sustentada (16% para ambos). Essien está a 99k coins e Miyama a 66k coins. Embora os ganhos de curto prazo tenham sido expressivos, a baixa probabilidade de continuidade da tendência sugere cautela. Essas cartas podem ser interessantes para day-trading de muito curto prazo, mas não são recomendadas para investimentos de médio prazo devido ao risco elevado de correção de preços.
+
+Finalmente, Samuel Eto'o (89), a 240k coins, e Raúl (90), a 95k coins, apresentam aumentos moderados de 4,4% e 5,3% respectivamente, com probabilidades de alta de 27% e 28%. Essas probabilidades intermediárias indicam um mercado indeciso, onde a valorização não é garantida. Marinette Pichon (88) e Davor Šuker (87), com probabilidades de 52% e 57% respectivamente, ocupam uma posição intermediária, oferecendo um equilíbrio razoável entre risco e recompensa. Em resumo, as melhores entradas hoje são claramente Frank Lampard, Alan Shearer, Kenny Dalglish e Roy Keane, devido à combinação de alta probabilidade de valorização e dados de mercado favoráveis, enquanto as demais exigem uma estratégia mais tática e de curto prazo.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +45,30 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Paul Scholes | 91 | Icons | 194k coins | +3.1% | +32.7% | 16% |
-| Dunga | 87 | Icons | 93k coins | +11.2% | +26.2% | 95% |
-| Juan Román Riquelme | 89 | Icons | 245k coins | +9.4% | +25.8% | 42% |
-| Roy Keane | 86 | Icons | 79k coins | +3.9% | +23.1% | 95% |
-| John Barnes | 87 | Icons | 76k coins | +13.6% | +20.5% | 60% |
-| Luís Figo | 89 | Icons | 79k coins | +5.3% | +14.3% | 8% |
-| Javier Zanetti | 91 | Icons | 100k coins | +7.6% | +13.6% | 49% |
-| Sol Campbell | 86 | Icons | 72k coins | +2% | +12.8% | 52% |
-| Aya Miyama | 90 | Icons | 76k coins | +7% | +11.8% | 32% |
-| Paul Scholes | 88 | Icons | 70k coins | +5% | +11.3% | 23% |
-| Julie Foudy | 90 | Icons | 75k coins | +9.5% | +10.3% | 60% |
-| Marinette Pichon | 88 | Icons | 75k coins | +3.5% | +9.8% | 52% |
-| Dennis Bergkamp | 90 | Icons | 70k coins | +4.7% | +8.3% | 5% |
-| Juan Román Riquelme | 88 | Icons | 72k coins | +2.9% | +8.3% | 8% |
-| Hugo Sánchez | 89 | Icons | 88k coins | +10.6% | +8.2% | 16% |
+| Alan Shearer | 91 | Icons | 135k coins | +2.3% | +43.6% | 95% |
+| Michaël Essien | 86 | Icons | 99k coins | +15.7% | +35.4% | 16% |
+| Frank Lampard | 87 | Icons | 136k coins | +32.7% | +30.1% | 95% |
+| Raúl | 90 | Icons | 95k coins | +5.3% | +19.8% | 28% |
+| Samuel Eto'o | 89 | Icons | 240k coins | +4.4% | +18.7% | 27% |
+| Kenny Dalglish | 89 | Icons | 180k coins | +5.2% | +14.6% | 95% |
+| Aya Miyama | 91 | Icons | 66k coins | +22.9% | +13.3% | 16% |
+| Roy Keane | 86 | Icons | 86k coins | +15.4% | +7.5% | 95% |
+| Marinette Pichon | 88 | Icons | 75k coins | +2.1% | +7.5% | 52% |
+| Davor Šuker | 87 | Icons | 76k coins | +6.7% | +6.7% | 57% |
+| Toni Kroos | 90 | Icons | 119k coins | +15.4% | +5% | 5% |
 
 
 ## 📈 Análise dos destaques
 
-- **Paul Scholes (91)** — 194k coins, **+32.7% em 7 dias** (+3.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Alan Shearer (91)** — 135k coins, **+43.6% em 7 dias** (+2.3% em 24h). Preço +28% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Dunga (87)** — 93k coins, **+26.2% em 7 dias** (+11.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Michaël Essien (86)** — 99k coins, **+35.4% em 7 dias** (+15.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Juan Román Riquelme (89)** — 245k coins, **+25.8% em 7 dias** (+9.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Frank Lampard (87)** — 136k coins, **+30.1% em 7 dias** (+32.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Roy Keane (86)** — 79k coins, **+23.1% em 7 dias** (+3.9% em 24h). Preço em linha com a média de 7 dias (+4%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Raúl (90)** — 95k coins, **+19.8% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (+5%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **John Barnes (87)** — 76k coins, **+20.5% em 7 dias** (+13.6% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Samuel Eto'o (89)** — 240k coins, **+18.7% em 7 dias** (+4.4% em 24h). Preço -18% abaixo da média de 7 dias (descontada). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -88,7 +86,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Paul Scholes (91, Icons) lidera, com +32.7% em 7 dias a 194k coins no Console (PS), e o modelo dá 16% de chance de seguir subindo.
+Alan Shearer (91, Icons) lidera, com +43.6% em 7 dias a 135k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
