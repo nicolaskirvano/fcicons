@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcicons.pages.dev/",
     title: "Icons Market",
     description:
-      "Precos e mercado das cartas Icon no EA FC Ultimate Team, atualizados todos os dias.",
+      "preços e mercado das cartas Icon no EA FC Ultimate Team, atualizados todos os dias.",
     author: "Icons Market",
-    profile: "https://fcicons.pages.dev/",
+    profile: "https://fcicons.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Icons Market",
