@@ -1,72 +1,84 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:56:18.000Z
-title: "Melhores investimentos em Icons no EA FC (16/07/2026): análise e previsões — PC"
+pubDatetime: 2026-07-16T23:59:11.000Z
+title: "Investimentos EA FC: Icons em 16/07 — PC"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Andrea Pirlo (90, Icons) lidera, com +70.6% em 7 dias a 167k coins no PC, e o modelo dá 32% de chance de seguir subindo."
+    a: "Pavel Nedvěd (88, Icons) lidera, com +86.5% em 7 dias a 116k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **PC**:
+Esta lista de **16/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Andrea Pirlo (90) acumula **+70.6% em 7 dias** a 167k coins.
+> 🔝 **Destaque:** Pavel Nedvěd (88) acumula **+86.5% em 7 dias** a 116k coins; leitura atual: **esticada**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 16/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-16-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+13.3% em 24h** e **+47.0% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Andrea Pirlo | 90 | Icons | 167k coins | +27.3% | +70.6% | 32% |
-| Cha Bum Kun | 86 | Icons | 103k coins | +16.2% | +60% | 19% |
-| Lotta Schelin | 90 | Icons | 100k coins | +15.2% | +54.1% | 0% |
-| Kelly Smith | 89 | Icons | 104k coins | +10.6% | +54.1% | 0% |
-| Hristo Stoichkov | 89 | Icons | 136k coins | +27.6% | +47.9% | 0% |
-| Rivaldo | 91 | Icons | 128k coins | +34.7% | +47.1% | 0% |
-| David Beckham | 89 | Icons | 72k coins | +5% | +47% | 0% |
-| Gheorghe Hagi | 90 | Icons | 120k coins | +37.5% | +46.7% | 0% |
-| Marcelo | 89 | Icons | 142k coins | +14.5% | +40.6% | 0% |
-| Lothar Matthäus | 90 | Icons | 185k coins | +19.5% | +36.1% | 0% |
-| Lilian Thuram | 88 | Icons | 170k coins | +5.5% | +34.9% | 0% |
-| Gianluigi Buffon | 91 | Icons | 225k coins | +33.9% | +33.1% | 0% |
-| Philipp Lahm | 89 | Icons | 88k coins | +6.5% | +32.6% | 0% |
-| Cafu | 91 | Icons | 160k coins | +10% | +31% | 0% |
-| Xavi | 91 | Icons | 155k coins | +35.3% | +30.9% | 29% |
+| Pavel Nedvěd | 88 | Icons | 116k coins | +12.7% | +86.5% | Esticada |
+| Bastian Schweinsteiger | 88 | Icons | 130k coins | +12.1% | +85.7% | Esticada |
+| Andrea Pirlo | 90 | Icons | 165k coins | +16.9% | +68.5% | Esticada |
+| Cha Bum Kun | 86 | Icons | 160k coins | +13.3% | +56.9% | Momentum moderado |
+| Hristo Stoichkov | 89 | Icons | 119k coins | +33.7% | +55% | Esticada |
+| Dennis Bergkamp | 91 | Icons | 99k coins | +1% | +54.3% | Momentum moderado |
+| Geoff Hurst | 90 | Icons | 74k coins | +14.5% | +50% | Momentum moderado |
+| David Beckham | 89 | Icons | 74k coins | +5% | +47% | Momentum moderado |
+| Oliver Kahn | 91 | Icons | 72k coins | +4.3% | +47% | Momentum moderado |
+| Lotta Schelin | 90 | Icons | 107k coins | +9.5% | +46.5% | Momentum moderado |
+| Cafu | 91 | Icons | 162k coins | +10% | +31% | Momentum moderado |
+| Gianluca Zambrotta | 86 | Icons | 131k coins | +38.2% | +28.2% | Esticada |
+| Cha Bum Kun | 88 | Icons | 185k coins | +36% | +27.6% | Esticada |
+| Xavi | 91 | Icons | 149k coins | +19.2% | +26% | Momentum moderado |
+| Xabi Alonso | 87 | Icons | 78k coins | +24.8% | +25.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Andrea Pirlo (90)** — 167k coins, **+70.6% em 7 dias** (+27.3% em 24h). Preço +37% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Pavel Nedvěd (88)** — 116k coins, **+86.5% em 7 dias** (+12.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cha Bum Kun (86)** — 103k coins, **+60% em 7 dias** (+16.2% em 24h). Preço em linha com a média de 7 dias (-6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bastian Schweinsteiger (88)** — 130k coins, **+85.7% em 7 dias** (+12.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lotta Schelin (90)** — 100k coins, **+54.1% em 7 dias** (+15.2% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Andrea Pirlo (90)** — 165k coins, **+68.5% em 7 dias** (+16.9% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kelly Smith (89)** — 104k coins, **+54.1% em 7 dias** (+10.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Cha Bum Kun (86)** — 160k coins, **+56.9% em 7 dias** (+13.3% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hristo Stoichkov (89)** — 136k coins, **+47.9% em 7 dias** (+27.6% em 24h). Preço +33% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Hristo Stoichkov (89)** — 119k coins, **+55% em 7 dias** (+33.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
 
 ## 🧪 De onde vêm estes números
@@ -76,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Andrea Pirlo (90, Icons) lidera, com +70.6% em 7 dias a 167k coins no PC, e o modelo dá 32% de chance de seguir subindo.
+Pavel Nedvěd (88, Icons) lidera, com +86.5% em 7 dias a 116k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -90,3 +102,10 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de PC, referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Mercado EA FC em 16/07: Icons — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:56:07.000Z
-title: "Icons no EA FC hoje (16/07/2026): mercado, altas, baixas e previsões — Console (PS)"
+pubDatetime: 2026-07-16T23:59:00.000Z
+title: "Mercado EA FC em 16/07: Icons — Console (PS)"
 draft: false
 featured: true
 tags:
@@ -10,84 +10,92 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 16/07/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
+description: "Dados de 16/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Robert Pirès (89, Icons), com +44.6% em 24h, a 40k coins no Console (PS)."
+    a: "Giorgio Chiellini (89, Icons), com +58.6% em 24h, a 121k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Garrincha (93), -28.9% em 24h, a 667k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Steffi Jones (91) — 62% de probabilidade de alta, a 61k coins."
+    a: "George Best (90), -29% em 24h, a 171k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 78 cartas em alta contra 101 em queda (média -0.04%)."
+    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 77 cartas em alta contra 103 em queda (média -0.93%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **16/07/2026** (Console (PS)): mercado **de lado** — altas e quedas se equilibram. Entre as cartas relevantes (80+ e acima de 5k coins), foram **78 em alta** e **101 em queda**, média de **-0.04%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **16/07/2026** (Console (PS)): mercado **de lado** — altas e quedas se equilibram. Entre as cartas relevantes (80+ e acima de 5k coins), foram **77 em alta** e **103 em queda**, média de **-0.93%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Robert Pirès (89) **+44.6%** · 🔴 **Maior baixa:** Garrincha (93) **-28.9%**
+> 🟢 **Maior alta:** Giorgio Chiellini (89) **+58.6%** · 🔴 **Maior baixa:** George Best (90) **-29%**
+
+![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Icons — Console (PS)](/charts/mercado-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Leitura específica deste recorte
+
+- **Amplitude do dia:** 87.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.8% entre as cartas que se moveram; o universo observado reúne 196 cartas.
+- **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Robert Pirès | 89 | Icons | 40k coins | +44.6% | +24.1% |
-| Davor Šuker | 89 | Icons | 34k coins | +37% | +56.2% |
-| Zico | 91 | Icons | 220k coins | +28.7% | +41% |
-| Lilian Thuram | 93 | Icons | 590k coins | +27.7% | +63.9% |
-| Bastian Schweinsteiger | 88 | Icons | 90k coins | +27.7% | +35.3% |
-| Camille Abily | 92 | Icons | 64k coins | +27.5% | +12.1% |
-| Gerd Müller | 92 | Icons | 92k coins | +27% | +20.9% |
-| Dennis Bergkamp | 91 | Icons | 116k coins | +24.7% | +69.3% |
-| Camille Abily | 91 | Icons | 50k coins | +24.2% | +17.6% |
-| Patrick Vieira | 90 | Icons | 689k coins | +23.2% | +58% |
+| Giorgio Chiellini | 89 | Icons | 121k coins | +58.6% | +163.9% |
+| Paolo Maldini | 93 | Icons | 950k coins | +37.1% | +51.4% |
+| Zico | 91 | Icons | 274k coins | +28.7% | +41% |
+| Gerd Müller | 92 | Icons | 85k coins | +27% | +20.9% |
+| Patrick Vieira | 90 | Icons | 719k coins | +26.7% | +62.1% |
+| Lilian Thuram | 93 | Icons | 570k coins | +25.5% | +61.2% |
+| Francesco Totti | 89 | Icons | 400k coins | +19.4% | +34.2% |
+| Cha Bum Kun | 88 | Icons | 130k coins | +17.9% | +0.8% |
+| Marinette Pichon | 90 | Icons | 80k coins | +17.5% | +66% |
+| Steffi Jones | 89 | Icons | 28k coins | +16.5% | -23.7% |
 
 
 ### Análise das altas
 
-- **Robert Pirès (89)** subiu **+44.6%** em 24h, a **40k coins** (faixa do dia: 28k–48k). Está +22% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+- **Giorgio Chiellini (89)** subiu **+58.6%** em 24h, a **121k coins** (faixa do dia: 90k–160k). Está +54% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Davor Šuker (89)** subiu **+37%** em 24h, a **34k coins** (faixa do dia: 15k–25k). Está +69% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (48% de chance de subir mais).
+- **Paolo Maldini (93)** subiu **+37.1%** em 24h, a **950k coins** (faixa do dia: 636k–1M). Está +32% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Zico (91)** subiu **+28.7%** em 24h, a **220k coins** (faixa do dia: 170k–288k). Está +24% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Zico (91)** subiu **+28.7%** em 24h, a **274k coins** (faixa do dia: 170k–288k). Está +54% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Garrincha | 93 | Icons | 667k coins | -28.9% | +26% |
-| Lilian Thuram | 88 | Icons | 141k coins | -26.9% | +43.1% |
-| George Best | 90 | Icons | 191k coins | -26.5% | +36.4% |
-| Franz Beckenbauer | 93 | Icons | 420k coins | -24.9% | -6.5% |
-| Iniesta | 92 | Icons | 198k coins | -20.2% | +17.7% |
-| Roberto Carlos | 90 | Icons | 164k coins | -19.7% | +14.4% |
-| Lev Yashin | 92 | Icons | 130k coins | -19.1% | +3.6% |
-| Lothar Matthäus | 90 | Icons | 227k coins | -19.1% | +34.7% |
-| Marcelo | 89 | Icons | 138k coins | -18.8% | +72.5% |
-| Alex Morgan | 91 | Icons | 294k coins | -18.7% | +21.6% |
+| George Best | 90 | Icons | 171k coins | -29% | +36.4% |
+| Garrincha | 93 | Icons | 889k coins | -28.9% | +13.2% |
+| Xavi | 92 | Icons | 270k coins | -28.8% | +19.1% |
+| Franz Beckenbauer | 93 | Icons | 448k coins | -24.7% | -8.4% |
+| Iniesta | 92 | Icons | 198k coins | -23.3% | +13.1% |
+| Lothar Matthäus | 90 | Icons | 216k coins | -22.6% | +28.8% |
+| Alex Morgan | 91 | Icons | 287k coins | -21.4% | +17.6% |
+| Roberto Carlos | 90 | Icons | 154k coins | -20.4% | +12.3% |
+| John Barnes | 89 | Icons | 48k coins | -19.8% | -7.3% |
+| Peter Schmeichel | 89 | Icons | 74k coins | -19.7% | +5% |
 
 
 ### Análise das baixas
 
-- **Garrincha (93)** caiu **-28.9%** em 24h, a **667k coins** (faixa do dia: 667k–1.05M). Está -18% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **George Best (90)** caiu **-29%** em 24h, a **171k coins** (faixa do dia: 171k–278k). Está em linha com a média de 7 dias (-7%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Lilian Thuram (88)** caiu **-26.9%** em 24h, a **141k coins** (faixa do dia: 141k–192k). Está em linha com a média de 7 dias (+4%). O modelo vê **estabilização** no curto prazo.
+- **Garrincha (93)** caiu **-28.9%** em 24h, a **889k coins** (faixa do dia: 667k–1.05M). Está +9% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **George Best (90)** caiu **-26.5%** em 24h, a **191k coins** (faixa do dia: 188k–278k). Está em linha com a média de 7 dias (+4%). O modelo vê **estabilização** no curto prazo.
+- **Xavi (92)** caiu **-28.8%** em 24h, a **270k coins** (faixa do dia: 145k–285k). Está +65% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
-## 🔮 Projeções do modelo para 24h
+## Decisão prática para hoje
 
-Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
+- **Evite perseguir topo:** Giorgio Chiellini já avançou 58.6% em 24h; espere nova cotação antes de entrar.
 
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Steffi Jones | 91 | 61k coins | 64k coins | 62% |
-| Toni Kroos | 90 | 86k coins | 89k coins | 59% |
+- **Queda não é compra automática:** George Best recuou -29%; confirme estabilização e liquidez.
+
+- Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
 
 ## 🧪 De onde vêm estes números
@@ -97,16 +105,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Robert Pirès (89, Icons), com +44.6% em 24h, a 40k coins no Console (PS).
+Giorgio Chiellini (89, Icons), com +58.6% em 24h, a 121k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Garrincha (93), -28.9% em 24h, a 667k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Steffi Jones (91) — 62% de probabilidade de alta, a 61k coins.
+George Best (90), -29% em 24h, a 171k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 78 cartas em alta contra 101 em queda (média -0.04%).
+Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 77 cartas em alta contra 103 em queda (média -0.93%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
@@ -117,3 +122,10 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Investimentos EA FC: Icons em 16/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
