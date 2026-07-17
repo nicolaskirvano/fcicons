@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **-4,4%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📊 Como está o mercado agora
+## Dados preservados do snapshot
 
-O cenário dos Icons para o dia 20 de junho de 2026 apresenta uma liquidez extremamente hostil para os traders que buscam ganhos rápidos, com o mercado claramente pressionado por uma onda de vendas massivas que resultou em um saldo negativo esmagador. Os dados consolidados mostram que apenas 49 cartas sofreram alta de preço, enquanto 137 registraram quedas, criando um ambiente onde a média de variação negativa se estabelece em impressionantes -7.23% nas últimas 24 horas. Esse desequilíbrio entre oferta e demanda indica que a maioria dos investidores está realizando lucros ou cortando prejuízos, o que derruba a confiança imediata no segmento e torna a entrada cega de capital uma estratégia perigosa. O tom do dia é de cautela extrema, pois a volatilidade gerada pelas quedas não parece ter um fundo claro imediato, sugerindo um ajuste de preços necessário após períodos de especulação. Entender essa dinâmica é crucial, pois enquanto o mercado sangra, oportunidades de compra em ativos fundamentais podem surgir para quem tem paciência e visão de longo prazo.
+As 4 tabelas abaixo preservam **36 registros** de **31 jogadores** observados em 20/06/2026 no Console (PS). Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Ferenc Puskás (94) **+59.1%** · 🔴 **Maior baixa:** Pavel Nedvěd (89) **-44.9%**
-
-## 🟢 Maiores altas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O cenário dos Icons para o dia 20 de junho de 2026 apresenta uma liquidez extre
 | Garrincha | 93 | Icons | 530k coins | +25.7% | -17.1% |
 | Carlos Alberto | 92 | Icons | 123k coins | +21.8% | -58.6% |
 
-
-Apesar da dominância das quedas, alguns ativos específicos se destacaram com movimentos de alta significativos, liderados pelo lendário Ferenc Puskás, cuja carta de rating 94 disparou 59.1% em apenas 24 horas, atingindo um pico de 513k coins. Essa subida robusta, que possui uma probabilidade de alta futura estimada em 60%, sugere uma compra agressiva focada em squads de elite, onde a performance do húngaro é insubstituível. Logo atrás, Robin van Persie apresentou uma alta de 55.2%, posicionando sua carta de rating 88 na faixa de 121k coins, com uma probabilidade altíssima de 95% de continuar subindo, indicando forte demanda sustentada. Iniesta também não ficou para trás, com sua versão de rating 93 subindo 33.3% para 189k coins, mantendo a mesma probabilidade robusta de 93% de alta, o que confirma a resiliência dos playmakers de elite mesmo em dias de mercado fraco. Lothar Matthäus registrou uma alta de 30.6%, alcançando 653k coins, embora a probabilidade de alta futura seja mais modesta, com apenas 35%, o que pode indicar uma correção iminente para essa carta de defesa sólida. Roy Keane, por sua vez, subiu 29.9% para 96k coins, com uma probabilidade de 95% de alta, mostrando que defensores de baixo custo e alta utilidade estão sendo acumulados para times de custo reduzido.
-
-
-## 🔴 Quem mais caiu (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,13 +61,7 @@ Apesar da dominância das quedas, alguns ativos específicos se destacaram com m
 | Diego Armando Maradona | 96 | Icons | 1.30M coins | -30.7% | -43.8% |
 | Cafu | 92 | Icons | 130k coins | -30.7% | -77.5% |
 
-
-O outro lado da moeda revela quedas drásticas que definem o sentimento negativo do dia, sendo Pavel Nedvěd o mais atingido com uma queda brutal de 44.9%, despencando para 119k coins. Essa queda acentuada ocorre mesmo com uma probabilidade de alta futura de 95%, o que sugere fortemente que este é um ponto de compra de alto risco e alta recompensa para traders ágeis. Thierry Henry também sofreu com a liquidez negativa, caindo 38.8% e se estabelecendo em 724k coins, com uma probabilidade de alta de apenas 55%, indicando que a confiança no atacante francês ainda está abalada. Zico registrou uma queda de 36% para 140k coins, mas a probabilidade de alta de 74% aponta para uma possível estabilização em breve, tornando-o um ativo interessante para monitoramento de curto prazo. Bastian Schweinsteiger, em sua versão de rating 89, caiu 35.5% para 66k coins, mas assim como Nedvěd, possui 95% de probabilidade de alta, o que caracteriza uma oportunidade clássica de compra no fundo. Fabio Cannavaro, com queda de 35.3% para 219k coins e probabilidade de alta de apenas 35%, parece estar em tendência de baixa estrutural, devendo ser evitado por enquanto até sinais de reversion apareçarem no mercado.
-
-
-## 🔮 Radar de valorização (24h)
-
-Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
+### Probabilidades registradas no snapshot
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -86,13 +74,7 @@ Na publicação original, estas cartas receberam as maiores probabilidades de va
 | Robin van Persie | 88 | 121k coins | 144k coins | 95% |
 | Andrea Pirlo | 90 | 76k coins | 96k coins | 95% |
 
-
-O modelo preditivo identifica uma convergência interessante entre ativos que sofreram quedas e aqueles que estão estagnados, apontando para uma recuperação provável em uma lista específica de jogadores. Pavel Nedvěd continua no topo das previsões com 95% de probabilidade de alta, agora em 119k coins, reforçando a tese de compra na queda. Dunga surge como uma oportunidade de baixo custo, com 95% de probabilidade de alta em 74k coins, ideal para traders com capital limitado que buscam segurança estatística. Frank Rijkaard também entra no radar com 95% de probabilidade de alta a 79k coins, oferecendo uma alternativa defensiva sólida e barata para a rotação de squads. Kelly Smith, com 95% de probabilidade de alta a 68k coins, representa um ativo de nicho que pode ter alta volatilidade positiva devido à sua utilidade específica em desafios de gênero ou squads temáticos. Bastian Schweinsteiger, já mencionado nas quedas, mantém a previsão de 95% de alta a 66k coins, consolidando sua posição como o ativo de maior convicção do dia para compra. Roberto Baggio e Robin van Persie completam a lista com 95% de probabilidade de alta, respectivamente a 78k coins e 121k coins, enquanto Andrea Pirlo fecha a lista com 95% de probabilidade a 76k coins, sugerindo uma onda de recompra generalizada em ícones de meio-campo.
-
-
-## ⚠️ Cuidado: o modelo projeta queda
-
-Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h — segure a compra:
+### Tabela preservada 4
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -105,38 +87,14 @@ Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h 
 | Mia Hamm | 93 | 169k coins | -17.3% |
 | Iniesta | 92 | 110k coins | -21.3% |
 
+## Como interpretar este arquivo
 
-## 🎯 O que fazer hoje
-A estratégia recomendada para o dia 20 de junho é focar agressivamente na compra de ativos com alta probabilidade de retorno que sofreram quedas acentuadas, priorizando Pavel Nedvěd e Bastian Schweinsteiger como as oportunidades mais claras de curto prazo. Evite comprar Ferenc Puskás e Lothar Matthäus neste momento, pois as altas recentes parecem ter esgotado o ar de compra imediato, e a probabilidade de alta futura é insuficiente para justificar o risco em um mercado pressionado. Segure suas posições em Robin van Persie e Iniesta, pois a alta probabilidade de continuidade de alta sugere que ainda há espaço para ganhos antes de uma possível correção. Para traders conservadores, a compra de Dunga e Frank Rijkaard oferece uma entrada de baixo risco com retorno estatisticamente favorável, aproveitando a desconfiança do mercado para acumular ativos fundamentais. O timing é crucial: compre as quedas dos ativos com 95% de probabilidade de alta nas primeiras horas do dia e realize os lucros rapidamente assim que o preço começar a se estabilizar, pois a volatilidade negativa pode se reverter em alta repentina. Mantenha o caixa elevado e aguarde sinais de que o mercado como um todo está se estabilizando antes de fazer investimentos maiores em cartas de alto valor como Thierry Henry.
-
-
-## 📐 Como o FutQuant le o mercado
-Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de varias fontes e atualizados ao longo do dia. Antes de publicar, filtramos **anomalias** (cartas extintas, erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. Você vê aqui o que poucos sites mostram: não só o preço, mas **para onde ele tende a ir**.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
-Ferenc Puskás (94, Icons), com +59.1% em 24h, a 513k coins no Console (PS).
-
-**E a maior queda do dia?**
-Pavel Nedvěd (89), -44.9% em 24h, a 119k coins.
-
-**Qual carta tinha maior probabilidade registrada nesse snapshot?**
-No snapshot histórico, Pavel Nedvěd (89) — 95% de probabilidade de alta, a 119k coins.
-
-**Como estava o mercado do EA FC nesse dia?**
-Naquele dia, o mercado estava pressionado — as quedas dominam o dia, com 49 cartas em alta contra 137 em queda (média -7.23%).
-
-**Posso confiar nos preços e previsões do FutQuant?**
-Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
-
-
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
-
----
-
-*Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **66k coins** a **1.30M coins**, com mediana de **135k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **-4,4%**.
+- A mediana das variações de 7d presentes nas tabelas foi **-34,5%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -146,3 +104,7 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 - [Momentum de Icons no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.
