@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:56:08.000Z
+pubDatetime: 2026-07-17T16:56:08.000Z
 title: "Mercado EA FC em 17/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Alex Morgan (91, Icons), com +54.3% em 24h, a 1.44M coins no Console (PS)."
+    a: "Roberto Carlos (91, Icons), com +54.4% em 24h, a 393k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "John Barnes (89), -46.3% em 24h, a 40k coins."
+    a: "Paul Scholes (91), -27.3% em 24h, a 149k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 105 cartas em alta contra 86 em queda (média 2.08%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 88 cartas em alta contra 102 em queda (média 0.46%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **17/07/2026** no Console (PS) com mercado **aquecido** — as altas dominam o dia: **105 cartas subiram** e **86 caíram** (80+ acima de 5k coins), variação média de **2.08%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **17/07/2026** no Console (PS) com dia **indefinido** — sem tendência dominante: **88 cartas subiram** e **102 caíram** (80+ acima de 5k coins), variação média de **0.46%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Alex Morgan (91) **+54.3%** · 🔴 **Maior baixa:** John Barnes (89) **-46.3%**
+> 🟢 **Maior alta:** Roberto Carlos (91) **+54.4%** · 🔴 **Maior baixa:** Paul Scholes (91) **-27.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Icons — Console (PS)](/charts/mercado-ea-fc-2026-07-17-ps.svg)
 
@@ -35,65 +35,65 @@ O mercado do **EA FC** abre **17/07/2026** no Console (PS) com mercado **aquecid
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 55.0% entre as cartas que se moveram; o universo observado reúne 212 cartas.
+- **Amplitude do dia:** 81.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.3% entre as cartas que se moveram; o universo observado reúne 205 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alex Morgan | 91 | Icons | 1.44M coins | +54.3% | +55.3% |
-| Andrea Pirlo | 90 | Icons | 143k coins | +46.7% | +44.4% |
-| Javier Zanetti | 91 | Icons | 199k coins | +45.3% | +99% |
-| Raúl | 90 | Icons | 146k coins | +43.7% | +55.8% |
-| Patrick Vieira | 90 | Icons | 740k coins | +37.9% | +68.5% |
-| Roberto Baggio | 91 | Icons | 100k coins | +36.4% | +36.4% |
-| Ronaldinho | 94 | Icons | 1.95M coins | +34.3% | +31.3% |
-| Zinedine Zidane | 95 | Icons | 900k coins | +33.7% | +51.3% |
-| Iniesta | 93 | Icons | 280k coins | +29.4% | +38.1% |
-| Lilian Thuram | 93 | Icons | 590k coins | +27.4% | +63.7% |
+| Roberto Carlos | 91 | Icons | 393k coins | +54.4% | +105.6% |
+| Cafu | 91 | Icons | 208k coins | +32.5% | +52.9% |
+| Robin van Persie | 88 | Icons | 104k coins | +31.6% | +26.1% |
+| Frank Rijkaard | 87 | Icons | 86k coins | +29.7% | +33.6% |
+| Julie Foudy | 92 | Icons | 36k coins | +29.2% | +39.6% |
+| Andrea Pirlo | 90 | Icons | 126k coins | +28.6% | +35% |
+| Sócrates | 89 | Icons | 129k coins | +27.4% | +56.1% |
+| Homare Sawa | 91 | Icons | 103k coins | +25.7% | +84.1% |
+| Hernán Crespo | 88 | Icons | 32k coins | +25.5% | +20.8% |
+| Roberto Baggio | 91 | Icons | 90k coins | +24.8% | +22.4% |
 
 
 ### Análise das altas
 
-- **Alex Morgan (91)** subiu **+54.3%** em 24h, a **1.44M coins** (faixa do dia: 939k–1.50M). Está +44% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Roberto Carlos (91)** subiu **+54.4%** em 24h, a **393k coins** (faixa do dia: 270k–450k). Está +27% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Andrea Pirlo (90)** subiu **+46.7%** em 24h, a **143k coins** (faixa do dia: 88k–146k). Está +26% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Cafu (91)** subiu **+32.5%** em 24h, a **208k coins** (faixa do dia: 145k–222k). Está +36% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Javier Zanetti (91)** subiu **+45.3%** em 24h, a **199k coins** (faixa do dia: 137k–200k). Está +63% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Robin van Persie (88)** subiu **+31.6%** em 24h, a **104k coins** (faixa do dia: 74k–108k). Está +19% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| John Barnes | 89 | Icons | 40k coins | -46.3% | -24.8% |
-| Paul Scholes | 91 | Icons | 185k coins | -36.7% | -11.3% |
-| Pavel Nedvěd | 88 | Icons | 66k coins | -35.1% | -17.2% |
-| Thierry Henry | 91 | Icons | 1.19M coins | -33.1% | -24.3% |
-| Zlatan Ibrahimović | 92 | Icons | 5.35M coins | -30.9% | -8.3% |
-| Julie Foudy | 91 | Icons | 40k coins | -27.5% | +36.5% |
-| Roberto Carlos | 90 | Icons | 179k coins | -27.2% | +27.5% |
-| Gennaro Gattuso | 86 | Icons | 74k coins | -25.6% | +1.4% |
-| Pelé | 96 | Icons | 1.69M coins | -24.7% | +7.5% |
-| George Best | 90 | Icons | 172k coins | -24.6% | +22.9% |
+| Paul Scholes | 91 | Icons | 149k coins | -27.3% | +4.6% |
+| Pavel Nedvěd | 88 | Icons | 86k coins | -26.6% | -11% |
+| Wayne Rooney | 92 | Icons | 208k coins | -23.6% | +5.5% |
+| Garrincha | 93 | Icons | 695k coins | -23.4% | -5% |
+| Roberto Carlos | 90 | Icons | 170k coins | -22.3% | +20.3% |
+| Luis Hernández | 86 | Icons | 66k coins | -20.8% | +0.8% |
+| Philipp Lahm | 90 | Icons | 350k coins | -20.3% | +75% |
+| Ronaldo | 94 | Icons | 4.70M coins | -19.5% | -14.6% |
+| Kelly Smith | 89 | Icons | 68k coins | -19.2% | 0% |
+| Caroline Seger | 91 | Icons | 53k coins | -19.1% | +35.9% |
 
 
 ### Análise das baixas
 
-- **John Barnes (89)** caiu **-46.3%** em 24h, a **40k coins** (faixa do dia: 40k–74k). Está -26% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Paul Scholes (91)** caiu **-27.3%** em 24h, a **149k coins** (faixa do dia: 133k–220k). Está -27% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Paul Scholes (91)** caiu **-36.7%** em 24h, a **185k coins** (faixa do dia: 130k–265k). Está -9% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Pavel Nedvěd (88)** caiu **-26.6%** em 24h, a **86k coins** (faixa do dia: 66k–112k). Está em linha com a média de 7 dias (-5%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Pavel Nedvěd (88)** caiu **-35.1%** em 24h, a **66k coins** (faixa do dia: 66k–112k). Está -27% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Wayne Rooney (92)** caiu **-23.6%** em 24h, a **208k coins** (faixa do dia: 185k–340k). Está -14% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Alex Morgan já avançou 54.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Roberto Carlos já avançou 54.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** John Barnes recuou -46.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Paul Scholes recuou -27.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -114,13 +114,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Alex Morgan (91, Icons), com +54.3% em 24h, a 1.44M coins no Console (PS).
+Roberto Carlos (91, Icons), com +54.4% em 24h, a 393k coins no Console (PS).
 
 **E a maior queda do dia?**  
-John Barnes (89), -46.3% em 24h, a 40k coins.
+Paul Scholes (91), -27.3% em 24h, a 149k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 105 cartas em alta contra 86 em queda (média 2.08%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 88 cartas em alta contra 102 em queda (média 0.46%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
