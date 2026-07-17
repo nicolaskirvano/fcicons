@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Icons Market"
 pubDatetime: 2026-06-18T23:28:09.000Z
-title: "Icons no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Icons no EA FC em 18/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Javier Zanetti (91, Icons), com +56.5% em 24h, a 169k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Dunga (87), -33.7% em 24h, a 66k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 86 cartas em alta contra 75 em queda (média 2.08%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PC: Javier Zanetti liderou as altas e Dunga as baixas em Icons. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Javier Zanetti** registrou o maior movimento de 24h (+56,5%), enquanto **Dunga** marcou o menor (-33,7%). A distância entre os extremos foi de **90,2 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+8,7%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Icons no EA FC em 18/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-18-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de Icons no PC apresenta um cenário extremamente agressivo e polarizado nesta segunda-feira, 18 de junho de 2026, onde a euforia de compra se sobrepõe claramente à cautela dos vendedores, refletida em um balanço de 86 valorizações contra apenas 75 quedas nas últimas 24 horas. A média de variação positiva de 2.08% pode parecer discreta para quem não está atento aos micro-movimentos, mas no segmento de lendas, onde a liquidez é alta e os spreads são apertados, esse volume indica uma entrada massiva de capital especulativo buscando exposição em ativos de alta volatilidade. O sentimento predominante é de alta, impulsionado por uma combinação de rumores de futuras promoções de evento e a tradicional liquidez de fim de semana que se estende até o início da semana, criando um ambiente propício para trades de curto prazo. Jogadores com alta probabilidade de alta estão sendo alvos de caça predatória por bots e traders experientes, enquanto aqueles com fundamentos mais fracos ou sobrecarga de oferta sofrem correções bruscas, exigindo uma leitura fina do mercado para distinguir ruído de tendência real.
 
@@ -76,16 +81,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Javier Zanetti (91, Icons), com +56.5% em 24h, a 169k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Dunga (87), -33.7% em 24h, a 66k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 86 cartas em alta contra 75 em queda (média 2.08%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 86 cartas em alta contra 75 em queda (média 2.08%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -94,3 +99,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Icons no EA FC em 18/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-18-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Momentum de Icons no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

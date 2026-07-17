@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Icons Market"
 pubDatetime: 2026-06-01T01:56:01.000Z
-title: "Icons no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Icons no EA FC em 31/05: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,23 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Gianluca Zambrotta (86, Icons), com +38.5% em 24h, a 99k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Camille Abily (92), -39% em 24h, a 50k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Robin van Persie (88) — 95% de probabilidade de alta, a 97k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 94 cartas em alta contra 119 em queda (média 0.27%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 31/05/2026 no PS: Gianluca Zambrotta liderou as altas e Camille Abily as baixas em Icons. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 31/05/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **94 subiram** e **119 caíram**, com variação média de **0.27%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Gianluca Zambrotta** registrou o maior movimento de 24h (+38,5%), enquanto **Camille Abily** marcou o menor (-39,0%). A distância entre os extremos foi de **77,5 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+1,8%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Icons no EA FC em 31/05: altas e baixas — PS](/charts/mercado-ea-fc-2026-05-31-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** estava em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **94 subiram** e **119 caíram**, com variação média de **0.27%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Gianluca Zambrotta (86) **+38.5%** · 🔴 **Maior baixa:** Camille Abily (92) **-39%**
 
@@ -50,9 +53,9 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 - **Gianluca Zambrotta (86)** subiu **+38.5%** em 24h, a **99k coins** (faixa do dia: 71k–99k). Está +20% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Pavel Nedvěd (89)** subiu **+34.6%** em 24h, a **222k coins** (faixa do dia: 192k–240k). Está +17% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
+- **Pavel Nedvěd (89)** subiu **+34.6%** em 24h, a **222k coins** (faixa do dia: 192k–240k). Está +17% acima da média de 7 dias (aquecida). 🔮 Naquele snapshot, o modelo projetava **continuidade da alta** (95% de chance de subir mais).
 
-- **Steven Gerrard (90)** subiu **+34.2%** em 24h, a **153k coins** (faixa do dia: 110k–160k). Está +31% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (84% de chance de subir mais).
+- **Steven Gerrard (90)** subiu **+34.2%** em 24h, a **153k coins** (faixa do dia: 110k–160k). Está +31% acima da média de 7 dias (aquecida). 🔮 Naquele snapshot, o modelo projetava **continuidade da alta** (84% de chance de subir mais).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,16 +76,16 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ### Análise das baixas
 
-- **Camille Abily (92)** caiu **-39%** em 24h, a **50k coins** (faixa do dia: 50k–80k). Está -31% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Camille Abily (92)** caiu **-39%** em 24h, a **50k coins** (faixa do dia: 50k–80k). Está -31% abaixo da média de 7 dias (descontada). ⚠️ Naquele snapshot, o modelo projetava **continuidade da queda** — ainda não encontrou fundo.
 
-- **Philipp Lahm (90)** caiu **-24.6%** em 24h, a **490k coins** (faixa do dia: 485k–555k). Está em linha com a média de 7 dias (-4%). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Philipp Lahm (90)** caiu **-24.6%** em 24h, a **490k coins** (faixa do dia: 485k–555k). Está em linha com a média de 7 dias (-4%). ⚠️ Naquele snapshot, o modelo projetava **continuidade da queda** — ainda não encontrou fundo.
 
-- **Homare Sawa (92)** caiu **-22%** em 24h, a **343k coins** (faixa do dia: 343k–440k). Está -20% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 95% de probabilidade.
+- **Homare Sawa (92)** caiu **-22%** em 24h, a **343k coins** (faixa do dia: 343k–440k). Está -20% abaixo da média de 7 dias (descontada). 🔮 Naquele snapshot, o modelo projetava **recuperação** (reversão para alta), com 95% de probabilidade.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -119,19 +122,19 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
+**Qual foi a maior alta do EA FC hoje (31/05/2026)?**
 Gianluca Zambrotta (86, Icons), com +38.5% em 24h, a 99k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Camille Abily (92), -39% em 24h, a 50k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Robin van Persie (88) — 95% de probabilidade de alta, a 97k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Robin van Persie (88) — 95% de probabilidade de alta, a 97k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 94 cartas em alta contra 119 em queda (média 0.27%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 94 cartas em alta contra 119 em queda (média 0.27%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -140,3 +143,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 31/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Icons no EA FC em 31/05 — PS](/posts/melhores-investimentos-ea-fc-2026-05-31-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Momentum de Icons no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

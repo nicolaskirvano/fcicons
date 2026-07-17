@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Icons Market"
 pubDatetime: 2026-06-19T01:57:01.000Z
-title: "Icons no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Icons no EA FC em 18/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "David Beckham (88, Icons), com +34.3% em 24h, a 188k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Cha Bum Kun (86), -44.9% em 24h, a 65k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Andrea Pirlo (90) — 95% de probabilidade de alta, a 131k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 104 cartas em alta contra 106 em queda (média 0.61%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PS: David Beckham liderou as altas e Cha Bum Kun as baixas em Icons. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **David Beckham** registrou o maior movimento de 24h (+34,3%), enquanto **Cha Bum Kun** marcou o menor (-44,9%). A distância entre os extremos foi de **79,2 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+1,5%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Icons no EA FC em 18/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de Icons no console PS para 18 de junho de 2026 apresenta um cenário de lateralidade acentuada, com uma distribuição quase equânime entre altas e quedas que reflete a indecisão dos traders institucionais e varejistas. Registramos 104 altas e 106 quedas nas últimas 24 horas, resultando em uma variação média pífia de apenas 0,61%, o que indica uma liquidez presa em faixas de preço específicas sem um catalisador macroeconômico forte impulsionando o volume geral. Essa estagnação relativa sugere que os jogadores estão aguardando um evento de jogo ou anúncio da EA para mover grandes volumes, enquanto os pequenos traders testam as águas com operações de curto prazo mais arriscadas. O tom do dia é de cautela extrema, onde a volatilidade é mais pontual do que sistêmica, exigindo que o analista tenha olhos de águia para identificar as discrepâncias de preço que surgem em meio ao caos aparente da indecisão do mercado. Operar nesse ambiente requer paciência cirúrgica, pois qualquer movimento brusco pode ser uma armadilha de liquidez ou uma oportunidade de ouro, dependendo da leitura correta dos fundamentos de cada carta específica.
 
@@ -68,7 +71,7 @@ Entre as maiores altas, David Beckham (88) lidera com um impressionante aumento 
 Na ponta oposta, Cha Bum Kun (86) despencou 44,9% em 24 horas, caindo para 65 mil coins, embora tenha 57% de probabilidade de alta, o que indica um fundo potencialmente reversivo onde traders agressivos podem estar comprando o pânico para revender na recuperação. Sócrates (89) recua 31,6% para 143 mil coins, com 49% de probabilidade de alta, mostrando uma instabilidade típica de cards de ataque que sofrem com a saída de usuários de squads competitivos quando não há eventos de jogo para demandar suas habilidades. Ruud Gullit (90) cai 24,9% para 2,14 milhões de coins, com 50% de probabilidade de alta, o que é preocupante dado o alto ticket, sugerindo que grandes investidores estão realizando lucros ou ajustando portfólios antes de um possível evento de fim de semana. Ferenc Puskás (94) despenca 23% para 693 mil coins, com 60% de probabilidade de alta, o que pode representar uma oportunidade de compra de valor em um ativo premium que foi vendido em excesso por desespero de mercado. Pavel Nedvěd (89) baixa 22,4% para 177 mil coins, mas com uma altíssima probabilidade de alta de 95%, tornando-o o candidato mais forte para uma reversão rápida e lucrativa para traders que entendem como operar contra a psicologia de venda em massa.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -84,7 +87,7 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 | Roberto Baggio | 91 | 80k coins | 99k coins | 95% |
 
 
-O modelo projeta altas significativas para Andrea Pirlo (90) a 131 mil coins, Dunga (87) a 76 mil coins, Frank Rijkaard (87) a 78 mil coins, Kelly Smith (89) a 68 mil coins, Robin van Persie (88) a 99 mil coins, Petr Čech (89) a 123 mil coins, Bobby Charlton (92) a 94 mil coins e Roberto Baggio (91) a 80 mil coins, todos com probabilidade de alta de 95%.
+Naquele snapshot, o modelo projetava altas significativas para Andrea Pirlo (90) a 131 mil coins, Dunga (87) a 76 mil coins, Frank Rijkaard (87) a 78 mil coins, Kelly Smith (89) a 68 mil coins, Robin van Persie (88) a 99 mil coins, Petr Čech (89) a 123 mil coins, Bobby Charlton (92) a 94 mil coins e Roberto Baggio (91) a 80 mil coins, todos com probabilidade de alta de 95%.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -113,19 +116,19 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 David Beckham (88, Icons), com +34.3% em 24h, a 188k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Cha Bum Kun (86), -44.9% em 24h, a 65k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Andrea Pirlo (90) — 95% de probabilidade de alta, a 131k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Andrea Pirlo (90) — 95% de probabilidade de alta, a 131k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 104 cartas em alta contra 106 em queda (média 0.61%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 104 cartas em alta contra 106 em queda (média 0.61%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Icons no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Momentum de Icons no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
