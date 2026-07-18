@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:56:18.000Z
+pubDatetime: 2026-07-18T16:56:18.000Z
 title: "Investimentos EA FC: Icons em 18/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.2% em 24h** e **+42.4% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+12.7% em 24h** e **+43.4% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Lev Yashin | 93 | Icons | 220k coins | +2.8% | +71.9% | Esticada |
-| Marinette Pichon | 90 | Icons | 80k coins | +34.5% | +68.4% | Esticada |
-| Steffi Jones | 89 | Icons | 32k coins | +17.9% | +63% | Esticada |
-| Marco van Basten | 91 | Icons | 111k coins | +14.1% | +62.6% | Esticada |
-| George Best | 90 | Icons | 221k coins | +31.4% | +59.7% | Esticada |
-| Homare Sawa | 91 | Icons | 176k coins | +38% | +50.8% | Esticada |
-| Xavi | 91 | Icons | 148k coins | +31.1% | +45.8% | Esticada |
-| Gerd Müller | 92 | Icons | 96k coins | +2.1% | +42.4% | Momentum moderado |
-| Gianluca Zambrotta | 86 | Icons | 124k coins | +5.9% | +32.3% | Momentum moderado |
-| Caroline Seger | 90 | Icons | 65k coins | +21.5% | +30% | Esticada |
-| Bobby Charlton | 92 | Icons | 160k coins | +17.2% | +29.3% | Momentum moderado |
-| Alessandro Nesta | 89 | Icons | 86k coins | +5.5% | +28.9% | Momentum moderado |
-| Michaël Essien | 86 | Icons | 121k coins | +15.5% | +27.6% | Momentum moderado |
-| Gennaro Gattuso | 86 | Icons | 86k coins | +17.2% | +27.3% | Momentum moderado |
-| Didier Drogba | 89 | Icons | 100k coins | +5% | +26.2% | Momentum moderado |
+| Lev Yashin | 93 | Icons | 220k coins | +2.3% | +71.9% | Esticada |
+| Alessandro Del Piero | 90 | Icons | 104k coins | +30.6% | +63.2% | Esticada |
+| Oliver Kahn | 91 | Icons | 80k coins | +18.5% | +60% | Esticada |
+| Steffi Jones | 89 | Icons | 32k coins | +14.3% | +58% | Momentum moderado |
+| Marco van Basten | 91 | Icons | 107k coins | +20% | +56.5% | Esticada |
+| George Best | 90 | Icons | 206k coins | +24.9% | +51.8% | Esticada |
+| Homare Sawa | 91 | Icons | 165k coins | +33.1% | +46.6% | Esticada |
+| Dennis Bergkamp | 90 | Icons | 97k coins | +12.7% | +43.4% | Momentum moderado |
+| Gerd Müller | 92 | Icons | 88k coins | +6.6% | +28.1% | Momentum moderado |
+| Caroline Seger | 90 | Icons | 60k coins | +6.2% | +24.4% | Momentum moderado |
+| Gianluca Zambrotta | 86 | Icons | 118k coins | +11.1% | +24.4% | Momentum moderado |
+| Emilio Butragueño | 89 | Icons | 96k coins | +4.9% | +21.5% | Entrada a observar |
+| Javier Zanetti | 89 | Icons | 80k coins | +17.3% | +20.7% | Momentum moderado |
+| Gennaro Gattuso | 86 | Icons | 84k coins | +11.3% | +19.3% | Momentum moderado |
+| Michaël Essien | 86 | Icons | 116k coins | +6.4% | +17.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Lev Yashin (93)** — 220k coins, **+71.9% em 7 dias** (+2.8% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lev Yashin (93)** — 220k coins, **+71.9% em 7 dias** (+2.3% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marinette Pichon (90)** — 80k coins, **+68.4% em 7 dias** (+34.5% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Del Piero (90)** — 104k coins, **+63.2% em 7 dias** (+30.6% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steffi Jones (89)** — 32k coins, **+63% em 7 dias** (+17.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oliver Kahn (91)** — 80k coins, **+60% em 7 dias** (+18.5% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marco van Basten (91)** — 111k coins, **+62.6% em 7 dias** (+14.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (89)** — 32k coins, **+58% em 7 dias** (+14.3% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **George Best (90)** — 221k coins, **+59.7% em 7 dias** (+31.4% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marco van Basten (91)** — 107k coins, **+56.5% em 7 dias** (+20% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
