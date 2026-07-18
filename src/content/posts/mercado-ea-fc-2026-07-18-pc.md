@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:56:16.000Z
+pubDatetime: 2026-07-18T13:56:16.000Z
 title: "Mercado EA FC em 18/07: Icons — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Andrea Pirlo (90, Icons), com +60% em 24h, a 199k coins no PC."
+    a: "Francesco Totti (89, Icons), com +57.5% em 24h, a 630k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Lilian Thuram (93), -36.4% em 24h, a 700k coins."
+    a: "Robert Pirès (89), -46.1% em 24h, a 41k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 87 cartas em alta contra 60 em queda (média 4.44%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 75 cartas em alta contra 64 em queda (média 1.1%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **18/07/2026** no PC: mercado **em alta** — predominam as valorizações. **87 valorizações** contra **60 quedas** entre as cartas relevantes, com média de **4.44%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **18/07/2026** no PC: mercado **lateral** — sem direção clara. **75 valorizações** contra **64 quedas** entre as cartas relevantes, com média de **1.1%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Andrea Pirlo (90) **+60%** · 🔴 **Maior baixa:** Lilian Thuram (93) **-36.4%**
+> 🟢 **Maior alta:** Francesco Totti (89) **+57.5%** · 🔴 **Maior baixa:** Robert Pirès (89) **-46.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Icons — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **18/07/2026** no PC: mercado **em alta** — predominam as valorizaç
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 96.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 59.2% entre as cartas que se moveram; o universo observado reúne 208 cartas.
+- **Amplitude do dia:** 103.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.0% entre as cartas que se moveram; o universo observado reúne 202 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrea Pirlo | 90 | Icons | 199k coins | +60% | +131.2% |
-| Francesco Totti | 89 | Icons | 630k coins | +57.5% | +41.9% |
-| Carles Puyol | 90 | Icons | 746k coins | +49.2% | -4.8% |
-| Frank Lampard | 87 | Icons | 155k coins | +48.6% | +103.9% |
-| Patrick Kluivert | 87 | Icons | 163k coins | +42.2% | +150% |
-| Francesco Totti | 89 | Icons | 249k coins | +38.5% | +53.1% |
-| Steven Gerrard | 88 | Icons | 152k coins | +37% | +33.6% |
-| Hernán Crespo | 88 | Icons | 54k coins | +35.8% | +35% |
-| Xavi | 91 | Icons | 158k coins | +35.5% | +46.1% |
-| Marco van Basten | 91 | Icons | 134k coins | +35% | +91.5% |
+| Francesco Totti | 89 | Icons | 630k coins | +57.5% | -10% |
+| Andrea Pirlo | 90 | Icons | 187k coins | +55.4% | +113.6% |
+| Frank Lampard | 87 | Icons | 151k coins | +54.8% | +100% |
+| Sissi | 88 | Icons | 75k coins | +42.9% | +13.6% |
+| Patrick Kluivert | 87 | Icons | 158k coins | +41.6% | +142.4% |
+| Claude Makélélé | 87 | Icons | 98k coins | +40.1% | +14.4% |
+| Homare Sawa | 91 | Icons | 176k coins | +38% | +50.8% |
+| Marinette Pichon | 90 | Icons | 80k coins | +34.5% | +68.4% |
+| George Best | 90 | Icons | 221k coins | +31.4% | +59.7% |
+| Xavi | 91 | Icons | 148k coins | +31.1% | +45.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **18/07/2026** no PC: mercado **em alta** — predominam as valorizaç
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Andrea Pirlo (90)** subiu **+60%** em 24h, a **199k coins** (faixa do dia: 100k–210k). Está +50% acima da média de 7 dias (aquecida).
-
 - **Francesco Totti (89)** subiu **+57.5%** em 24h, a **630k coins** (faixa do dia: 400k–700k). Está em linha com a média de 7 dias (-5%).
 
-- **Carles Puyol (90)** subiu **+49.2%** em 24h, a **746k coins** (faixa do dia: 746k–850k). Está -13% abaixo da média de 7 dias (descontada).
+- **Andrea Pirlo (90)** subiu **+55.4%** em 24h, a **187k coins** (faixa do dia: 100k–210k). Está +39% acima da média de 7 dias (aquecida).
+
+- **Frank Lampard (87)** subiu **+54.8%** em 24h, a **151k coins** (faixa do dia: 113k–160k). Está +30% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Robert Pirès | 89 | Icons | 41k coins | -46.1% | -17.5% |
+| Andriy Shevchenko | 90 | Icons | 99k coins | -44.4% | -21.6% |
+| Frank Rijkaard | 87 | Icons | 96k coins | -39.7% | +19.1% |
+| Oliver Kahn | 91 | Icons | 78k coins | -38.9% | -14% |
 | Lilian Thuram | 93 | Icons | 700k coins | -36.4% | -22.2% |
-| Cha Bum Kun | 86 | Icons | 85k coins | -35.7% | -12.3% |
+| Geoff Hurst | 90 | Icons | 45k coins | -35.3% | -7.2% |
 | Steffi Jones | 91 | Icons | 42k coins | -32.1% | -7.7% |
-| Dunga | 87 | Icons | 66k coins | -29.6% | 0% |
-| Patrick Vieira | 90 | Icons | 690k coins | -29.6% | -23.3% |
-| Juan Román Riquelme | 88 | Icons | 66k coins | -29.3% | 0% |
-| Hristo Stoichkov | 89 | Icons | 68k coins | -28.6% | -23.7% |
-| Roberto Baggio | 91 | Icons | 69k coins | -28.5% | -20.2% |
-| Toni Kroos | 90 | Icons | 75k coins | -25.5% | 0% |
-| Thierry Henry | 86 | Icons | 1.58M coins | -24.8% | -12.7% |
+| Roberto Carlos | 90 | Icons | 157k coins | -29.8% | -1.2% |
+| David Beckham | 89 | Icons | 46k coins | -29.4% | +7.6% |
+| Toni Kroos | 90 | Icons | 69k coins | -28% | -3.4% |
 
 
 ### Análise das baixas
 
-- **Lilian Thuram (93)** caiu **-36.4%** em 24h, a **700k coins** (faixa do dia: 700k–1.10M). Está -22% abaixo da média de 7 dias (descontada).
+- **Robert Pirès (89)** caiu **-46.1%** em 24h, a **41k coins** (faixa do dia: 41k–76k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Cha Bum Kun (86)** caiu **-35.7%** em 24h, a **85k coins** (faixa do dia: 68k–124k). Está -20% abaixo da média de 7 dias (descontada).
+- **Andriy Shevchenko (90)** caiu **-44.4%** em 24h, a **99k coins** (faixa do dia: 60k–105k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Steffi Jones (91)** caiu **-32.1%** em 24h, a **42k coins** (faixa do dia: 42k–62k). Está -17% abaixo da média de 7 dias (descontada).
+- **Frank Rijkaard (87)** caiu **-39.7%** em 24h, a **96k coins** (faixa do dia: 96k–160k). Está -12% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Andrea Pirlo já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Francesco Totti já avançou 57.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Lilian Thuram recuou -36.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Robert Pirès recuou -46.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Andrea Pirlo (90, Icons), com +60% em 24h, a 199k coins no PC.
+Francesco Totti (89, Icons), com +57.5% em 24h, a 630k coins no PC.
 
 **E a maior queda do dia?**
-Lilian Thuram (93), -36.4% em 24h, a 700k coins.
+Robert Pirès (89), -46.1% em 24h, a 41k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 87 cartas em alta contra 60 em queda (média 4.44%).
+Hoje o mercado está lateral — sem direção clara, com 75 cartas em alta contra 64 em queda (média 1.1%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
