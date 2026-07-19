@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:45:13.000Z
+pubDatetime: 2026-07-19T10:56:17.000Z
 title: "Mercado EA FC em 19/07: Icons — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Lothar Matthäus (90, Icons), com +56.8% em 24h, a 260k coins no PC."
+    a: "Robin van Persie (88, Icons), com +54.4% em 24h, a 176k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Edwin van der Sar (88), -49.8% em 24h, a 108k coins."
+    a: "Edwin van der Sar (88), -49.5% em 24h, a 108k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 72 cartas em alta contra 72 em queda (média 4.25%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 74 cartas em alta contra 71 em queda (média 4.69%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**19/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **72 subiram**, **72 caíram** (80+ e 5k+ coins), média de **4.25%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**19/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **74 subiram**, **71 caíram** (80+ e 5k+ coins), média de **4.69%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lothar Matthäus (90) **+56.8%** · 🔴 **Maior baixa:** Edwin van der Sar (88) **-49.8%**
+> 🟢 **Maior alta:** Robin van Persie (88) **+54.4%** · 🔴 **Maior baixa:** Edwin van der Sar (88) **-49.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Icons — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,16 +35,16 @@ Hoje (**19/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 216 cartas.
+- **Amplitude do dia:** 103.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.0% entre as cartas que se moveram; o universo observado reúne 218 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lothar Matthäus | 90 | Icons | 260k coins | +56.8% | +16.7% |
 | Robin van Persie | 88 | Icons | 176k coins | +54.4% | +49.2% |
+| Lothar Matthäus | 90 | Icons | 257k coins | +53.8% | +14.5% |
 | Oliver Kahn | 91 | Icons | 128k coins | +53.3% | +7.6% |
 | Jairzinho | 89 | Icons | 377k coins | +46.7% | +67.9% |
 | Davor Šuker | 87 | Icons | 98k coins | +46.6% | +47.7% |
@@ -61,9 +61,9 @@ Hoje (**19/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lothar Matthäus (90)** subiu **+56.8%** em 24h, a **260k coins** (faixa do dia: 120k–290k). Está +44% acima da média de 7 dias (aquecida).
-
 - **Robin van Persie (88)** subiu **+54.4%** em 24h, a **176k coins** (faixa do dia: 113k–208k). Está +15% acima da média de 7 dias (aquecida).
+
+- **Lothar Matthäus (90)** subiu **+53.8%** em 24h, a **257k coins** (faixa do dia: 120k–290k). Está +42% acima da média de 7 dias (aquecida).
 
 - **Oliver Kahn (91)** subiu **+53.3%** em 24h, a **128k coins** (faixa do dia: 75k–133k). Está em linha com a média de 7 dias (+6%).
 
@@ -72,32 +72,32 @@ Hoje (**19/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Edwin van der Sar | 88 | Icons | 108k coins | -49.8% | -12.2% |
-| Frank Lampard | 87 | Icons | 83k coins | -46.1% | -18.9% |
+| Edwin van der Sar | 88 | Icons | 108k coins | -49.5% | -12.2% |
+| Frank Lampard | 87 | Icons | 82k coins | -46.5% | -19.4% |
 | Bastian Schweinsteiger | 88 | Icons | 103k coins | -38.2% | +65.4% |
-| Pelé | 95 | Icons | 370k coins | -37.7% | -3.9% |
+| Pelé | 95 | Icons | 348k coins | -36.9% | -2.6% |
 | Hernán Crespo | 88 | Icons | 34k coins | -34.3% | -11.2% |
-| Camille Abily | 91 | Icons | 40k coins | -33.3% | 0% |
+| Camille Abily | 91 | Icons | 40k coins | -33.3% | -3% |
 | Patrick Kluivert | 87 | Icons | 104k coins | -33.1% | +65.2% |
 | Fabio Cannavaro | 89 | Icons | 91k coins | -31.3% | -37.8% |
+| Toni Kroos | 90 | Icons | 121k coins | -31.3% | +49.1% |
 | Raúl | 90 | Icons | 119k coins | -25.2% | +3.5% |
-| Michaël Essien | 86 | Icons | 100k coins | -22.5% | -1% |
 
 
 ### Análise das baixas
 
-- **Edwin van der Sar (88)** caiu **-49.8%** em 24h, a **108k coins** (faixa do dia: 104k–199k). Está -28% abaixo da média de 7 dias (descontada).
+- **Edwin van der Sar (88)** caiu **-49.5%** em 24h, a **108k coins** (faixa do dia: 104k–199k). Está -28% abaixo da média de 7 dias (descontada).
 
-- **Frank Lampard (87)** caiu **-46.1%** em 24h, a **83k coins** (faixa do dia: 70k–155k). Está -30% abaixo da média de 7 dias (descontada).
+- **Frank Lampard (87)** caiu **-46.5%** em 24h, a **82k coins** (faixa do dia: 70k–155k). Está -30% abaixo da média de 7 dias (descontada).
 
 - **Bastian Schweinsteiger (88)** caiu **-38.2%** em 24h, a **103k coins** (faixa do dia: 95k–180k). Está -11% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lothar Matthäus já avançou 56.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Robin van Persie já avançou 54.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Edwin van der Sar recuou -49.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Edwin van der Sar recuou -49.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Lothar Matthäus (90, Icons), com +56.8% em 24h, a 260k coins no PC.
+Robin van Persie (88, Icons), com +54.4% em 24h, a 176k coins no PC.
 
 **E a maior queda do dia?**
-Edwin van der Sar (88), -49.8% em 24h, a 108k coins.
+Edwin van der Sar (88), -49.5% em 24h, a 108k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 72 cartas em alta contra 72 em queda (média 4.25%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 74 cartas em alta contra 71 em queda (média 4.69%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

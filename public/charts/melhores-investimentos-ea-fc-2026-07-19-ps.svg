@@ -7,19 +7,19 @@
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Steffi Jones</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
 <text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+73.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aya Miyama</text>
-<rect x="285" y="153" width="471" height="28" rx="7" fill="#22c55e"/>
-<text x="766" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+72.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ronald Koeman</text>
+<rect x="285" y="153" width="400" height="28" rx="7" fill="#22c55e"/>
+<text x="695" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+61.2%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caroline Seger</text>
-<rect x="285" y="211" width="411" height="28" rx="7" fill="#22c55e"/>
-<text x="706" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+62.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ronald Koeman</text>
-<rect x="285" y="269" width="409" height="28" rx="7" fill="#22c55e"/>
-<text x="704" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+62.7%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oliver Kahn</text>
-<rect x="285" y="327" width="381" height="28" rx="7" fill="#22c55e"/>
-<text x="676" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Robert Pirès</text>
-<rect x="285" y="385" width="345" height="28" rx="7" fill="#22c55e"/>
-<text x="640" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.9%</text>
+<rect x="285" y="211" width="387" height="28" rx="7" fill="#22c55e"/>
+<text x="682" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oliver Kahn</text>
+<rect x="285" y="269" width="366" height="28" rx="7" fill="#22c55e"/>
+<text x="661" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Robert Pirès</text>
+<rect x="285" y="327" width="345" height="28" rx="7" fill="#22c55e"/>
+<text x="640" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Xavi</text>
+<rect x="285" y="385" width="340" height="28" rx="7" fill="#22c55e"/>
+<text x="635" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.1%</text>
 </svg>
