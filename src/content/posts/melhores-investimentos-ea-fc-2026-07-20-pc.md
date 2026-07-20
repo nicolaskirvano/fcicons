@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T13:56:18.000Z
+pubDatetime: 2026-07-20T16:56:19.000Z
 title: "Investimentos EA FC: Icons em 20/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Xavi (91, Icons) lidera, com +76.2% em 7 dias a 181k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "David Beckham (88, Icons) lidera, com +64.5% em 7 dias a 153k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Xavi (91) acumula **+76.2% em 7 dias** a 181k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** David Beckham (88) acumula **+64.5% em 7 dias** a 153k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 20/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-20-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.7% em 24h** e **+44.4% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+20.2% em 24h** e **+32.9% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Xavi | 91 | Icons | 181k coins | +9.5% | +76.2% | Esticada |
-| Oliver Kahn | 91 | Icons | 80k coins | +21.2% | +74.9% | Esticada |
-| Pavel Nedvěd | 88 | Icons | 180k coins | +36.4% | +71% | Esticada |
-| Raúl | 90 | Icons | 160k coins | +16.8% | +61.6% | Esticada |
-| Gianfranco Zola | 87 | Icons | 98k coins | +28.6% | +50% | Esticada |
-| Robin van Persie | 88 | Icons | 202k coins | +19.7% | +50% | Momentum moderado |
-| Davor Šuker | 89 | Icons | 30k coins | +13% | +45.2% | Momentum moderado |
-| Alessandro Nesta | 89 | Icons | 94k coins | +8.3% | +44.4% | Momentum moderado |
-| Gennaro Gattuso | 86 | Icons | 121k coins | +29.5% | +40.4% | Esticada |
-| Petr Čech | 89 | Icons | 150k coins | +7.1% | +40.2% | Momentum moderado |
-| Andriy Shevchenko | 90 | Icons | 100k coins | +9.3% | +32.5% | Momentum moderado |
-| Kenny Dalglish | 89 | Icons | 193k coins | +33.1% | +29.6% | Esticada |
-| Gianluca Zambrotta | 86 | Icons | 146k coins | +38.4% | +22.3% | Esticada |
-| Aya Miyama | 92 | Icons | 69k coins | +32.7% | +17.2% | Esticada |
-| Lilian Thuram | 88 | Icons | 171k coins | +19.6% | +14.8% | Momentum moderado |
+| David Beckham | 88 | Icons | 153k coins | +39.1% | +64.5% | Esticada |
+| Henrik Larsson | 88 | Icons | 103k coins | +31.2% | +59.7% | Esticada |
+| Aya Miyama | 87 | Icons | 31k coins | +20.2% | +54.3% | Esticada |
+| Bastian Schweinsteiger | 88 | Icons | 147k coins | +14.7% | +54.2% | Momentum moderado |
+| Gianfranco Zola | 87 | Icons | 96k coins | +26.1% | +46.2% | Esticada |
+| Lotta Schelin | 90 | Icons | 118k coins | +11.9% | +45.2% | Momentum moderado |
+| Robin van Persie | 88 | Icons | 170k coins | +21.1% | +43.4% | Esticada |
+| Gennaro Gattuso | 86 | Icons | 112k coins | +22.2% | +32.9% | Esticada |
+| Andriy Shevchenko | 90 | Icons | 60k coins | +5.8% | +32.5% | Momentum moderado |
+| Alessandro Nesta | 89 | Icons | 88k coins | +17.1% | +31.9% | Momentum moderado |
+| Rivaldo | 91 | Icons | 129k coins | +37.6% | +30% | Esticada |
+| Fernando Torres | 87 | Icons | 189k coins | +26.9% | +27.7% | Esticada |
+| Carles Puyol | 89 | Icons | 84k coins | +17.2% | +25.9% | Momentum moderado |
+| Petr Čech | 89 | Icons | 150k coins | +7.4% | +20.4% | Momentum moderado |
+| John Barnes | 89 | Icons | 91k coins | +1.1% | +17.7% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Xavi (91)** — 181k coins, **+76.2% em 7 dias** (+9.5% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Beckham (88)** — 153k coins, **+64.5% em 7 dias** (+39.1% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oliver Kahn (91)** — 80k coins, **+74.9% em 7 dias** (+21.2% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Henrik Larsson (88)** — 103k coins, **+59.7% em 7 dias** (+31.2% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pavel Nedvěd (88)** — 180k coins, **+71% em 7 dias** (+36.4% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aya Miyama (87)** — 31k coins, **+54.3% em 7 dias** (+20.2% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Raúl (90)** — 160k coins, **+61.6% em 7 dias** (+16.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bastian Schweinsteiger (88)** — 147k coins, **+54.2% em 7 dias** (+14.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianfranco Zola (87)** — 98k coins, **+50% em 7 dias** (+28.6% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianfranco Zola (87)** — 96k coins, **+46.2% em 7 dias** (+26.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Xavi (91, Icons) lidera, com +76.2% em 7 dias a 181k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+David Beckham (88, Icons) lidera, com +64.5% em 7 dias a 153k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
