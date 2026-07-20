@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:43:43.000Z
+pubDatetime: 2026-07-20T10:56:18.000Z
 title: "Investimentos EA FC: Icons em 20/07 — PC"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.7% em 24h** e **+60.0% em 7 dias**.
+- A mediana é de **+21.1% em 24h** e **+59.5% em 7 dias**.
 - **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Aya Miyama | 92 | Icons | 75k coins | +15.4% | +87.5% | Esticada |
-| Dunga | 87 | Icons | 114k coins | +33.3% | +78.8% | Esticada |
 | Oliver Kahn | 91 | Icons | 80k coins | +21.2% | +74.9% | Esticada |
-| Gianfranco Zola | 87 | Icons | 110k coins | +32.5% | +66.7% | Esticada |
-| Eric Cantona | 89 | Icons | 200k coins | +22.7% | +66.7% | Esticada |
+| Gianfranco Zola | 87 | Icons | 106k coins | +32.5% | +66.7% | Esticada |
 | Marcelo | 89 | Icons | 130k coins | +30% | +62.5% | Esticada |
 | Robin van Persie | 88 | Icons | 229k coins | +31.4% | +62% | Esticada |
+| Eric Cantona | 89 | Icons | 193k coins | +18.4% | +60.8% | Esticada |
 | Raúl | 90 | Icons | 160k coins | +34.5% | +60% | Esticada |
-| Davor Šuker | 89 | Icons | 32k coins | +13.6% | +59.5% | Momentum moderado |
-| Giorgio Chiellini | 88 | Icons | 114k coins | +36.8% | +54.5% | Esticada |
-| Carlos Alberto | 91 | Icons | 205k coins | +2.7% | +48.7% | Momentum moderado |
-| Gennaro Gattuso | 86 | Icons | 125k coins | +31.3% | +45.3% | Esticada |
+| Davor Šuker | 89 | Icons | 36k coins | +13.6% | +59.5% | Momentum moderado |
+| Carlos Alberto | 91 | Icons | 205k coins | +2.7% | +49.7% | Momentum moderado |
+| Giorgio Chiellini | 88 | Icons | 114k coins | +33.7% | +49.4% | Esticada |
 | Steven Gerrard | 89 | Icons | 140k coins | +12% | +40% | Momentum moderado |
+| Gennaro Gattuso | 86 | Icons | 125k coins | +26.3% | +39.7% | Esticada |
 | Andriy Shevchenko | 90 | Icons | 100k coins | +8.1% | +32.5% | Momentum moderado |
-| Homare Sawa | 91 | Icons | 158k coins | +9% | +24.4% | Momentum moderado |
+| Homare Sawa | 91 | Icons | 158k coins | +9.7% | +24.4% | Momentum moderado |
+| Gheorghe Hagi | 88 | Icons | 78k coins | +21.1% | +21.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Aya Miyama (92)** — 75k coins, **+87.5% em 7 dias** (+15.4% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dunga (87)** — 114k coins, **+78.8% em 7 dias** (+33.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Oliver Kahn (91)** — 80k coins, **+74.9% em 7 dias** (+21.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianfranco Zola (87)** — 110k coins, **+66.7% em 7 dias** (+32.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianfranco Zola (87)** — 106k coins, **+66.7% em 7 dias** (+32.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eric Cantona (89)** — 200k coins, **+66.7% em 7 dias** (+22.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcelo (89)** — 130k coins, **+62.5% em 7 dias** (+30% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Robin van Persie (88)** — 229k coins, **+62% em 7 dias** (+31.4% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

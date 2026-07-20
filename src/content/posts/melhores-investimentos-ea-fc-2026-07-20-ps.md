@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:43:34.000Z
+pubDatetime: 2026-07-20T10:56:08.000Z
 title: "Investimentos EA FC: Icons em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.3% em 24h** e **+60.4% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+11.7% em 24h** e **+60.4% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -45,19 +45,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Ronald Koeman | 91 | Icons | 134k coins | +38.7% | +89% | Esticada |
 | Camille Abily | 92 | Icons | 69k coins | +18.7% | +86% | Esticada |
-| Homare Sawa | 91 | Icons | 137k coins | +20.5% | +82.1% | Esticada |
-| Cha Bum Kun | 88 | Icons | 162k coins | +9.2% | +77.5% | Esticada |
-| Giorgio Chiellini | 89 | Icons | 124k coins | +11.3% | +70.7% | Esticada |
+| Cha Bum Kun | 88 | Icons | 162k coins | +10.7% | +77.5% | Esticada |
+| Homare Sawa | 91 | Icons | 129k coins | +17.3% | +77.4% | Esticada |
+| Giorgio Chiellini | 89 | Icons | 123k coins | +11.3% | +70.7% | Esticada |
 | Geoff Hurst | 90 | Icons | 116k coins | +2.7% | +65.7% | Esticada |
 | Xavi | 92 | Icons | 221k coins | +14.2% | +60.7% | Esticada |
-| Fernando Torres | 87 | Icons | 154k coins | +10.8% | +60.4% | Esticada |
+| Fernando Torres | 87 | Icons | 177k coins | +10.8% | +60.4% | Esticada |
+| Sócrates | 89 | Icons | 133k coins | +23.7% | +59.3% | Esticada |
 | Aya Miyama | 87 | Icons | 22k coins | +15.9% | +56.9% | Momentum moderado |
 | Steven Gerrard | 88 | Icons | 147k coins | +40% | +48.5% | Esticada |
-| Raúl | 90 | Icons | 149k coins | +8.1% | +48.2% | Momentum moderado |
-| Xavi | 91 | Icons | 90k coins | +10.8% | +42.1% | Momentum moderado |
-| Gheorghe Hagi | 90 | Icons | 75k coins | +5.7% | +41.9% | Momentum moderado |
-| Andrea Pirlo | 90 | Icons | 148k coins | +11.3% | +41% | Momentum moderado |
-| Carlos Alberto | 91 | Icons | 148k coins | +11.7% | +40.4% | Momentum moderado |
+| Raúl | 90 | Icons | 126k coins | +8.1% | +48.2% | Momentum moderado |
+| Andrea Pirlo | 90 | Icons | 144k coins | +11.3% | +41% | Momentum moderado |
+| Xavi | 91 | Icons | 88k coins | +9.8% | +40.9% | Momentum moderado |
+| Carlos Alberto | 91 | Icons | 153k coins | +11.7% | +40.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -66,11 +66,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Camille Abily (92)** — 69k coins, **+86% em 7 dias** (+18.7% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Homare Sawa (91)** — 137k coins, **+82.1% em 7 dias** (+20.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cha Bum Kun (88)** — 162k coins, **+77.5% em 7 dias** (+10.7% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cha Bum Kun (88)** — 162k coins, **+77.5% em 7 dias** (+9.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Homare Sawa (91)** — 129k coins, **+77.4% em 7 dias** (+17.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giorgio Chiellini (89)** — 124k coins, **+70.7% em 7 dias** (+11.3% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Chiellini (89)** — 123k coins, **+70.7% em 7 dias** (+11.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
