@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:56:17.000Z
+pubDatetime: 2026-07-20T01:56:17.000Z
 title: "Mercado EA FC em 19/07: Icons — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Dennis Bergkamp (91, Icons), com +53.8% em 24h, a 100k coins no PC."
+    a: "Cha Bum Kun (86, Icons), com +59.4% em 24h, a 157k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Geoff Hurst (90), -49.3% em 24h, a 35k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 67 cartas em alta contra 68 em queda (média 3.16%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 66 cartas em alta contra 63 em queda (média 3.6%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**19/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **67 subiram**, **68 caíram** (80+ e 5k+ coins), média de **3.16%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**19/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **66 subiram**, **63 caíram** (80+ e 5k+ coins), média de **3.6%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Dennis Bergkamp (91) **+53.8%** · 🔴 **Maior baixa:** Geoff Hurst (90) **-49.3%**
+> 🟢 **Maior alta:** Cha Bum Kun (86) **+59.4%** · 🔴 **Maior baixa:** Geoff Hurst (90) **-49.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Icons — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**19/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.6% entre as cartas que se moveram; o universo observado reúne 204 cartas.
+- **Amplitude do dia:** 108.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.2% entre as cartas que se moveram; o universo observado reúne 198 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dennis Bergkamp | 91 | Icons | 100k coins | +53.8% | +62.6% |
-| Camille Abily | 91 | Icons | 50k coins | +50% | +54.8% |
-| Gennaro Gattuso | 86 | Icons | 109k coins | +38.7% | +37.8% |
-| Roberto Carlos | 90 | Icons | 160k coins | +35.1% | -33.1% |
-| Petr Čech | 88 | Icons | 121k coins | +32.9% | +13% |
-| Edwin van der Sar | 88 | Icons | 150k coins | +32.8% | +27.8% |
-| Petr Čech | 89 | Icons | 150k coins | +32.6% | +33.3% |
-| Steven Gerrard | 89 | Icons | 140k coins | +32.1% | +40% |
-| Franck Ribéry | 88 | Icons | 160k coins | +30% | +9% |
-| Diego Armando Maradona | 96 | Icons | 2.30M coins | +29.3% | +22.3% |
+| Cha Bum Kun | 86 | Icons | 157k coins | +59.4% | +29.8% |
+| Frank Rijkaard | 87 | Icons | 125k coins | +58.2% | +26.9% |
+| Fabio Cannavaro | 89 | Icons | 144k coins | +54.8% | +16.1% |
+| Hugo Sánchez | 89 | Icons | 147k coins | +52.6% | +33.3% |
+| Paul Scholes | 88 | Icons | 99k coins | +50.4% | +22.7% |
+| Camille Abily | 91 | Icons | 60k coins | +50% | +51.9% |
+| Dennis Bergkamp | 91 | Icons | 100k coins | +47.1% | +55% |
+| Petr Čech | 88 | Icons | 117k coins | +43% | +18% |
+| Steven Gerrard | 89 | Icons | 140k coins | +40.7% | +40% |
+| Michaël Essien | 86 | Icons | 125k coins | +35.9% | +5.9% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ Hoje (**19/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Dennis Bergkamp (91)** subiu **+53.8%** em 24h, a **100k coins** (faixa do dia: 56k–100k). Está +24% acima da média de 7 dias (aquecida).
+- **Cha Bum Kun (86)** subiu **+59.4%** em 24h, a **157k coins** (faixa do dia: 72k–160k). Está +54% acima da média de 7 dias (aquecida).
 
-- **Camille Abily (91)** subiu **+50%** em 24h, a **50k coins** (faixa do dia: 40k–60k). Está em linha com a média de 7 dias (+1%).
+- **Frank Rijkaard (87)** subiu **+58.2%** em 24h, a **125k coins** (faixa do dia: 105k–148k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Gennaro Gattuso (86)** subiu **+38.7%** em 24h, a **109k coins** (faixa do dia: 70k–113k). Está +23% acima da média de 7 dias (aquecida).
+- **Fabio Cannavaro (89)** subiu **+54.8%** em 24h, a **144k coins** (faixa do dia: 74k–149k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,29 +73,29 @@ Hoje (**19/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Geoff Hurst | 90 | Icons | 35k coins | -49.3% | -41.7% |
-| Dennis Bergkamp | 90 | Icons | 98k coins | -42% | +44.1% |
-| Steffi Jones | 89 | Icons | 21k coins | -37.8% | -41.3% |
-| Didier Drogba | 89 | Icons | 75k coins | -36.9% | -36.3% |
-| David Beckham | 89 | Icons | 44k coins | -36% | -30.8% |
-| Carlos Alberto | 91 | Icons | 155k coins | -34.5% | -9.4% |
-| Giorgio Chiellini | 89 | Icons | 64k coins | -34.2% | -27.1% |
-| Henrik Larsson | 88 | Icons | 66k coins | -31.4% | +3.1% |
-| Samuel Eto'o | 89 | Icons | 275k coins | -29.5% | 0% |
-| Camille Abily | 92 | Icons | 59k coins | -28.7% | -20.7% |
+| Steffi Jones | 89 | Icons | 20k coins | -39.6% | -42.6% |
+| Diego Armando Maradona | 95 | Icons | 2.70M coins | -32.4% | +101.6% |
+| Homare Sawa | 91 | Icons | 130k coins | -28.7% | -15.7% |
+| Ian Wright | 87 | Icons | 125k coins | -28% | +73.8% |
+| Lilian Thuram | 88 | Icons | 129k coins | -27.1% | -10.4% |
+| Lotta Schelin | 92 | Icons | 320k coins | -26.8% | -1.8% |
+| Gerd Müller | 92 | Icons | 100k coins | -26.6% | -14.1% |
+| Franco Baresi | 91 | Icons | 69k coins | -26.6% | 0% |
+| Caroline Seger | 90 | Icons | 50k coins | -23.5% | +57.9% |
 
 
 ### Análise das baixas
 
 - **Geoff Hurst (90)** caiu **-49.3%** em 24h, a **35k coins** (faixa do dia: 35k–69k). Está -39% abaixo da média de 7 dias (descontada).
 
-- **Dennis Bergkamp (90)** caiu **-42%** em 24h, a **98k coins** (faixa do dia: 98k–170k). Está em linha com a média de 7 dias (+6%).
+- **Steffi Jones (89)** caiu **-39.6%** em 24h, a **20k coins** (faixa do dia: 20k–35k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Steffi Jones (89)** caiu **-37.8%** em 24h, a **21k coins** (faixa do dia: 21k–35k). Está -28% abaixo da média de 7 dias (descontada).
+- **Diego Armando Maradona (95)** caiu **-32.4%** em 24h, a **2.70M coins** (faixa do dia: 1.90M–3.90M). Está em linha com a média de 7 dias (-7%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Dennis Bergkamp já avançou 53.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Cha Bum Kun já avançou 59.4% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Geoff Hurst recuou -49.3%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Dennis Bergkamp (91, Icons), com +53.8% em 24h, a 100k coins no PC.
+Cha Bum Kun (86, Icons), com +59.4% em 24h, a 157k coins no PC.
 
 **E a maior queda do dia?**
 Geoff Hurst (90), -49.3% em 24h, a 35k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 67 cartas em alta contra 68 em queda (média 3.16%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 66 cartas em alta contra 63 em queda (média 3.6%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
