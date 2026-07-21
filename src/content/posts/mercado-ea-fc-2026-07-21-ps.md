@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T16:56:07.000Z
+pubDatetime: 2026-07-21T19:56:07.000Z
 title: "Mercado EA FC em 21/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Bobby Charlton (92, Icons), com +58.7% em 24h, a 155k coins no Console (PS)."
+    a: "Philipp Lahm (89, Icons), com +44.1% em 24h, a 100k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Birgit Prinz (93), -47.5% em 24h, a 47k coins."
+    a: "Roberto Carlos (90), -30.1% em 24h, a 179k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 81 cartas em alta contra 87 em queda (média 0.76%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 72 cartas em alta contra 100 em queda (média 0.57%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **21/07/2026** (Console (PS)): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **81 em alta** e **87 em queda**, média de **0.76%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **21/07/2026** (Console (PS)): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **72 em alta** e **100 em queda**, média de **0.57%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Bobby Charlton (92) **+58.7%** · 🔴 **Maior baixa:** Birgit Prinz (93) **-47.5%**
+> 🟢 **Maior alta:** Philipp Lahm (89) **+44.1%** · 🔴 **Maior baixa:** Roberto Carlos (90) **-30.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Icons — Console (PS)](/charts/mercado-ea-fc-2026-07-21-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **21/07/2026** (Console (PS)): mercado **lateral** — sem direção
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.2% entre as cartas que se moveram; o universo observado reúne 194 cartas.
+- **Amplitude do dia:** 74.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 41.9% entre as cartas que se moveram; o universo observado reúne 195 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bobby Charlton | 92 | Icons | 155k coins | +58.7% | +29% |
-| Bobby Moore | 91 | Icons | 483k coins | +52.7% | +82.4% |
-| Wayne Rooney | 92 | Icons | 236k coins | +39.3% | +5.7% |
-| Roberto Carlos | 91 | Icons | 236k coins | +36.1% | -7.1% |
-| Camille Abily | 91 | Icons | 50k coins | +34.1% | +71.4% |
-| Roberto Baggio | 91 | Icons | 105k coins | +28.7% | +35.8% |
-| Caroline Seger | 90 | Icons | 75k coins | +26.1% | +183% |
-| Fabio Cannavaro | 89 | Icons | 120k coins | +25.7% | +31.9% |
-| Giorgio Chiellini | 89 | Icons | 125k coins | +24.5% | +66% |
-| Patrick Vieira | 86 | Icons | 790k coins | +23.1% | +15.9% |
+| Philipp Lahm | 89 | Icons | 100k coins | +44.1% | +64.5% |
+| Paolo Maldini | 94 | Icons | 957k coins | +38.1% | +7.5% |
+| Johan Cruyff | 94 | Icons | 765k coins | +36% | +36.5% |
+| Xavi | 93 | Icons | 300k coins | +35.9% | +25.1% |
+| Julie Foudy | 92 | Icons | 22k coins | +33.3% | -5.1% |
+| Franz Beckenbauer | 93 | Icons | 350k coins | +31.8% | -11.9% |
+| Giorgio Chiellini | 89 | Icons | 115k coins | +31.6% | +96.1% |
+| Garrincha | 93 | Icons | 777k coins | +29.5% | -6% |
+| Fernando Torres | 90 | Icons | 590k coins | +28.3% | +20.9% |
+| Franck Ribéry | 89 | Icons | 301k coins | +23.7% | -8.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **21/07/2026** (Console (PS)): mercado **lateral** — sem direção
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Bobby Charlton (92)** subiu **+58.7%** em 24h, a **155k coins** (faixa do dia: 100k–255k). Está em linha com a média de 7 dias (+7%).
+- **Philipp Lahm (89)** subiu **+44.1%** em 24h, a **100k coins** (faixa do dia: 80k–169k). Está +24% acima da média de 7 dias (aquecida).
 
-- **Bobby Moore (91)** subiu **+52.7%** em 24h, a **483k coins** (faixa do dia: 190k–500k). Está +31% acima da média de 7 dias (aquecida).
+- **Paolo Maldini (94)** subiu **+38.1%** em 24h, a **957k coins** (faixa do dia: 710k–1.05M). Está em linha com a média de 7 dias (+6%).
 
-- **Wayne Rooney (92)** subiu **+39.3%** em 24h, a **236k coins** (faixa do dia: 177k–303k). Está em linha com a média de 7 dias (-4%).
+- **Johan Cruyff (94)** subiu **+36%** em 24h, a **765k coins** (faixa do dia: 465k–779k). Está +25% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Birgit Prinz | 93 | Icons | 47k coins | -47.5% | +9.1% |
-| Steffi Jones | 89 | Icons | 28k coins | -34.3% | -0.9% |
-| Alex Morgan | 91 | Icons | 208k coins | -30.7% | -24.4% |
-| Ronald Koeman | 91 | Icons | 69k coins | -29.6% | -13.2% |
-| Dennis Bergkamp | 91 | Icons | 72k coins | -26% | -4% |
-| Pelé | 96 | Icons | 981k coins | -25.5% | -30.6% |
-| Kenny Dalglish | 89 | Icons | 130k coins | -21.7% | -25.3% |
-| Zico | 91 | Icons | 149k coins | -21% | -31.2% |
-| Philipp Lahm | 90 | Icons | 321k coins | -20.9% | -30.8% |
-| Zinedine Zidane | 94 | Icons | 538k coins | -20.9% | -17.2% |
+| Roberto Carlos | 90 | Icons | 179k coins | -30.1% | -14.4% |
+| Andrea Pirlo | 91 | Icons | 750k coins | -25% | -27.3% |
+| Bastian Schweinsteiger | 88 | Icons | 78k coins | -24.9% | -3.6% |
+| Ronaldinho | 93 | Icons | 1.09M coins | -21.9% | -18.8% |
+| Petr Čech | 89 | Icons | 70k coins | -20.6% | -31.9% |
+| Eusébio | 94 | Icons | 1.72M coins | -20.1% | +0.6% |
+| Eric Cantona | 89 | Icons | 83k coins | -20% | -10.8% |
+| Juan Román Riquelme | 89 | Icons | 420k coins | -19.8% | +4.2% |
+| Gianluigi Buffon | 91 | Icons | 114k coins | -19.1% | -26% |
+| Paolo Maldini | 93 | Icons | 698k coins | -18.3% | +6.1% |
 
 
 ### Análise das baixas
 
-- **Birgit Prinz (93)** caiu **-47.5%** em 24h, a **47k coins** (faixa do dia: 39k–80k). Está em linha com a média de 7 dias (-5%).
+- **Roberto Carlos (90)** caiu **-30.1%** em 24h, a **179k coins** (faixa do dia: 149k–257k). Está -8% abaixo da média de 7 dias (descontada).
 
-- **Steffi Jones (89)** caiu **-34.3%** em 24h, a **28k coins** (faixa do dia: 13.750–43k). Está -13% abaixo da média de 7 dias (descontada).
+- **Andrea Pirlo (91)** caiu **-25%** em 24h, a **750k coins** (faixa do dia: 600k–900k). Está em linha com a média de 7 dias (-6%).
 
-- **Alex Morgan (91)** caiu **-30.7%** em 24h, a **208k coins** (faixa do dia: 199k–300k). Está -28% abaixo da média de 7 dias (descontada).
+- **Bastian Schweinsteiger (88)** caiu **-24.9%** em 24h, a **78k coins** (faixa do dia: 66k–123k). Está em linha com a média de 7 dias (+1%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Bobby Charlton já avançou 58.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Philipp Lahm já avançou 44.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Birgit Prinz recuou -47.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Roberto Carlos recuou -30.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Bobby Charlton (92, Icons), com +58.7% em 24h, a 155k coins no Console (PS).
+Philipp Lahm (89, Icons), com +44.1% em 24h, a 100k coins no Console (PS).
 
 **E a maior queda do dia?**
-Birgit Prinz (93), -47.5% em 24h, a 47k coins.
+Roberto Carlos (90), -30.1% em 24h, a 179k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 81 cartas em alta contra 87 em queda (média 0.76%).
+Hoje o mercado está lateral — sem direção clara, com 72 cartas em alta contra 100 em queda (média 0.57%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
