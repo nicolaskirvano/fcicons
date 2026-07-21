@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:56:18.000Z
+pubDatetime: 2026-07-21T01:56:18.000Z
 title: "Investimentos EA FC: Icons em 20/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.7% em 24h** e **+35.4% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+21.0% em 24h** e **+56.0% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Steven Gerrard | 89 | Icons | 190k coins | +35.7% | +90% | Esticada |
-| Oliver Kahn | 91 | Icons | 80k coins | +1.3% | +74.9% | Esticada |
-| Henrik Larsson | 88 | Icons | 110k coins | +11.7% | +64.2% | Esticada |
-| Emmanuel Petit | 87 | Icons | 134k coins | +10.5% | +63.1% | Esticada |
-| Claude Makélélé | 87 | Icons | 116k coins | +29% | +51.3% | Esticada |
-| Juan Román Riquelme | 88 | Icons | 130k coins | +13.4% | +42.3% | Momentum moderado |
-| Steven Gerrard | 88 | Icons | 154k coins | +13% | +38.1% | Momentum moderado |
-| Paul Scholes | 88 | Icons | 109k coins | +25% | +35.4% | Esticada |
-| Michaël Essien | 86 | Icons | 124k coins | +6% | +22.8% | Momentum moderado |
-| Gianfranco Zola | 87 | Icons | 104k coins | +5% | +22.1% | Entrada a observar |
-| Toni Kroos | 90 | Icons | 100k coins | +10.5% | +20.1% | Momentum moderado |
-| Carles Puyol | 89 | Icons | 80k coins | +16.5% | +20% | Momentum moderado |
-| Bobby Charlton | 92 | Icons | 105k coins | +7.7% | +16.7% | Momentum moderado |
-| Camille Abily | 92 | Icons | 72k coins | +21.7% | +15.9% | Esticada |
-| Bastian Schweinsteiger | 88 | Icons | 124k coins | +5.9% | +10.6% | Momentum moderado |
+| Dennis Bergkamp | 91 | Icons | 130k coins | +21% | +89.1% | Esticada |
+| Caroline Seger | 90 | Icons | 65k coins | +30.7% | +87.1% | Esticada |
+| Steffi Jones | 91 | Icons | 80k coins | +31.1% | +83.9% | Esticada |
+| Andrea Pirlo | 90 | Icons | 176k coins | +25.9% | +73.1% | Esticada |
+| Marcelo | 89 | Icons | 160k coins | +23.1% | +68.4% | Esticada |
+| Eric Cantona | 89 | Icons | 185k coins | +3.4% | +60.9% | Esticada |
+| Emmanuel Petit | 87 | Icons | 131k coins | +9.2% | +56% | Momentum moderado |
+| Carlos Alberto | 91 | Icons | 206k coins | +34.2% | +50.7% | Esticada |
+| Henrik Larsson | 88 | Icons | 107k coins | +11.7% | +46.7% | Momentum moderado |
+| Aya Miyama | 87 | Icons | 26k coins | +8.1% | +44.6% | Momentum moderado |
+| Camille Abily | 91 | Icons | 80k coins | +32.5% | +44.5% | Esticada |
+| Claude Makélélé | 87 | Icons | 94k coins | +4.9% | +38.1% | Momentum moderado |
+| Steven Gerrard | 90 | Icons | 240k coins | +20% | +34.8% | Esticada |
+| Dunga | 89 | Icons | 160k coins | +12.7% | +33.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Steven Gerrard (89)** — 190k coins, **+90% em 7 dias** (+35.7% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (89)** — 190k coins, **+90% em 7 dias** (+35.7% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oliver Kahn (91)** — 80k coins, **+74.9% em 7 dias** (+1.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dennis Bergkamp (91)** — 130k coins, **+89.1% em 7 dias** (+21% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Henrik Larsson (88)** — 110k coins, **+64.2% em 7 dias** (+11.7% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caroline Seger (90)** — 65k coins, **+87.1% em 7 dias** (+30.7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Emmanuel Petit (87)** — 134k coins, **+63.1% em 7 dias** (+10.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (91)** — 80k coins, **+83.9% em 7 dias** (+31.1% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Claude Makélélé (87)** — 116k coins, **+51.3% em 7 dias** (+29% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andrea Pirlo (90)** — 176k coins, **+73.1% em 7 dias** (+25.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
