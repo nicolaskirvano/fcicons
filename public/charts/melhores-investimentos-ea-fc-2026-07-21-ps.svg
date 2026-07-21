@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cha Bum Kun</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fernando Torres</text>
-<rect x="285" y="153" width="446" height="28" rx="7" fill="#22c55e"/>
-<text x="741" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.3%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Raúl</text>
-<rect x="285" y="211" width="259" height="28" rx="7" fill="#22c55e"/>
-<text x="554" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gianluca Zambrotta</text>
-<rect x="285" y="269" width="200" height="28" rx="7" fill="#22c55e"/>
-<text x="495" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Iniesta</text>
-<rect x="285" y="327" width="194" height="28" rx="7" fill="#22c55e"/>
-<text x="489" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.7%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fabio Cannavaro</text>
-<rect x="285" y="385" width="178" height="28" rx="7" fill="#22c55e"/>
-<text x="473" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.9%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+71.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Philipp Lahm</text>
+<rect x="285" y="153" width="366" height="28" rx="7" fill="#22c55e"/>
+<text x="661" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hugo Sánchez</text>
+<rect x="285" y="211" width="321" height="28" rx="7" fill="#22c55e"/>
+<text x="616" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marco van Basten</text>
+<rect x="285" y="269" width="309" height="28" rx="7" fill="#22c55e"/>
+<text x="604" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roberto Baggio</text>
+<rect x="285" y="327" width="289" height="28" rx="7" fill="#22c55e"/>
+<text x="584" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fernando Torres</text>
+<rect x="285" y="385" width="248" height="28" rx="7" fill="#22c55e"/>
+<text x="543" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.9%</text>
 </svg>
