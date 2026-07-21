@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:43:42.000Z
+pubDatetime: 2026-07-21T10:56:17.000Z
 title: "Mercado EA FC em 21/07: Icons — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Lev Yashin (93, Icons), com +40.3% em 24h, a 195k coins no PC."
+    a: "Sissi (88, Icons), com +39.6% em 24h, a 103k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Dennis Bergkamp (91), -47.6% em 24h, a 50k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 70 cartas em alta contra 94 em queda (média 0.79%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 71 cartas em alta contra 91 em queda (média 0.83%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **21/07/2026** (PC): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **70 em alta** e **94 em queda**, média de **0.79%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **21/07/2026** (PC): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **71 em alta** e **91 em queda**, média de **0.83%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lev Yashin (93) **+40.3%** · 🔴 **Maior baixa:** Dennis Bergkamp (91) **-47.6%**
+> 🟢 **Maior alta:** Sissi (88) **+39.6%** · 🔴 **Maior baixa:** Dennis Bergkamp (91) **-47.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Icons — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,23 +35,23 @@ Panorama de **21/07/2026** (PC): mercado **lateral** — sem direção clara. En
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 87.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.7% entre as cartas que se moveram; o universo observado reúne 210 cartas.
+- **Amplitude do dia:** 87.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.8% entre as cartas que se moveram; o universo observado reúne 209 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lev Yashin | 93 | Icons | 195k coins | +40.3% | -1.5% |
 | Sissi | 88 | Icons | 103k coins | +39.6% | +39.6% |
-| Rivaldo | 91 | Icons | 120k coins | +38.9% | +38.9% |
+| Rivaldo | 91 | Icons | 120k coins | +37.8% | +37.8% |
+| Davor Šuker | 87 | Icons | 188k coins | +37% | +119.8% |
 | Peter Schmeichel | 89 | Icons | 98k coins | +35.9% | +8.2% |
-| Robert Pirès | 89 | Icons | 74k coins | +34.8% | +89.9% |
-| Petr Čech | 88 | Icons | 140k coins | +33.1% | +57.8% |
-| Steffi Jones | 91 | Icons | 80k coins | +32.2% | +53.8% |
+| Robert Pirès | 89 | Icons | 50k coins | +34.8% | +89.9% |
+| Steffi Jones | 91 | Icons | 80k coins | +32.2% | +52.4% |
+| Petr Čech | 88 | Icons | 140k coins | +32.2% | +56.8% |
 | Franco Baresi | 91 | Icons | 86k coins | +31.9% | +31.9% |
-| Gerd Müller | 92 | Icons | 130k coins | +31.3% | +11.1% |
+| Ronaldo | 94 | Icons | 7.30M coins | +30.8% | +104.8% |
 | Caroline Seger | 90 | Icons | 65k coins | +30.7% | +65.6% |
 
 
@@ -61,27 +61,27 @@ Panorama de **21/07/2026** (PC): mercado **lateral** — sem direção clara. En
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lev Yashin (93)** subiu **+40.3%** em 24h, a **195k coins** (faixa do dia: 178k–250k). Está em linha com a média de 7 dias (-3%).
-
 - **Sissi (88)** subiu **+39.6%** em 24h, a **103k coins** (faixa do dia: 69k–108k). Está +45% acima da média de 7 dias (aquecida).
 
-- **Rivaldo (91)** subiu **+38.9%** em 24h, a **120k coins** (faixa do dia: 85k–150k). Está +13% acima da média de 7 dias (aquecida).
+- **Rivaldo (91)** subiu **+37.8%** em 24h, a **120k coins** (faixa do dia: 85k–150k). Está +13% acima da média de 7 dias (aquecida).
+
+- **Davor Šuker (87)** subiu **+37%** em 24h, a **188k coins** (faixa do dia: 135k–190k). Está +96% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dennis Bergkamp | 91 | Icons | 50k coins | -47.6% | +5.3% |
+| Dennis Bergkamp | 91 | Icons | 50k coins | -47.6% | +4.7% |
 | Aya Miyama | 91 | Icons | 32k coins | -47.5% | +2.4% |
+| Steven Gerrard | 88 | Icons | 94k coins | -46.4% | -25.8% |
 | Frank Rijkaard | 87 | Icons | 66k coins | -46.3% | -49.6% |
-| Steven Gerrard | 88 | Icons | 94k coins | -45.3% | -24.2% |
 | Hernán Crespo | 88 | Icons | 34k coins | -43.3% | -11.1% |
 | Giorgio Chiellini | 88 | Icons | 66k coins | -41.7% | -30.4% |
-| Bastian Schweinsteiger | 88 | Icons | 98k coins | -40.5% | -16.7% |
 | Ian Wright | 87 | Icons | 96k coins | -40.4% | +24.7% |
 | David Beckham | 88 | Icons | 111k coins | -39.7% | +17.5% |
 | Gianfranco Zola | 87 | Icons | 66k coins | -37.7% | -25.8% |
+| Marco van Basten | 91 | Icons | 70k coins | -36.2% | -16.3% |
 
 
 ### Análise das baixas
@@ -90,12 +90,12 @@ Panorama de **21/07/2026** (PC): mercado **lateral** — sem direção clara. En
 
 - **Aya Miyama (91)** caiu **-47.5%** em 24h, a **32k coins** (faixa do dia: 32k–60k). Está -45% abaixo da média de 7 dias (descontada).
 
-- **Frank Rijkaard (87)** caiu **-46.3%** em 24h, a **66k coins** (faixa do dia: 66k–123k). Está -41% abaixo da média de 7 dias (descontada).
+- **Steven Gerrard (88)** caiu **-46.4%** em 24h, a **94k coins** (faixa do dia: 67k–178k). Está -33% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lev Yashin já avançou 40.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Sissi já avançou 39.6% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Dennis Bergkamp recuou -47.6%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Lev Yashin (93, Icons), com +40.3% em 24h, a 195k coins no PC.
+Sissi (88, Icons), com +39.6% em 24h, a 103k coins no PC.
 
 **E a maior queda do dia?**
 Dennis Bergkamp (91), -47.6% em 24h, a 50k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 70 cartas em alta contra 94 em queda (média 0.79%).
+Hoje o mercado está lateral — sem direção clara, com 71 cartas em alta contra 91 em queda (média 0.83%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

@@ -8,8 +8,8 @@
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
 <text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+89.9%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Raúl</text>
-<rect x="285" y="153" width="447" height="28" rx="7" fill="#22c55e"/>
-<text x="742" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.8%</text>
+<rect x="285" y="153" width="428" height="28" rx="7" fill="#22c55e"/>
+<text x="723" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.2%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Andrea Pirlo</text>
 <rect x="285" y="211" width="407" height="28" rx="7" fill="#22c55e"/>
 <text x="702" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+76.2%</text>
@@ -19,7 +19,7 @@
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caroline Seger</text>
 <rect x="285" y="327" width="350" height="28" rx="7" fill="#22c55e"/>
 <text x="645" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marcelo</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Davor Šuker</text>
 <rect x="285" y="385" width="320" height="28" rx="7" fill="#22c55e"/>
 <text x="615" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
 </svg>

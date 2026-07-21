@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:43:34.000Z
+pubDatetime: 2026-07-21T10:56:09.000Z
 title: "Investimentos EA FC: Icons em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.0% em 24h** e **+48.1% em 7 dias**.
+- A mediana é de **+14.0% em 24h** e **+43.2% em 7 dias**.
 - **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -45,19 +45,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Camille Abily | 91 | Icons | 70k coins | +38.9% | +77.3% | Esticada |
 | Homare Sawa | 91 | Icons | 140k coins | +5.8% | +75.9% | Esticada |
+| Steffi Jones | 91 | Icons | 67k coins | +14% | +64.3% | Esticada |
 | Xavi | 92 | Icons | 239k coins | +8.6% | +63.3% | Esticada |
-| Steffi Jones | 91 | Icons | 68k coins | +14% | +62.4% | Esticada |
 | John Barnes | 89 | Icons | 73k coins | +29.8% | +57.4% | Esticada |
-| Marcelo | 89 | Icons | 138k coins | +31% | +53.4% | Esticada |
+| Marcelo | 89 | Icons | 136k coins | +31% | +53.4% | Esticada |
 | Roberto Baggio | 91 | Icons | 124k coins | +28.3% | +50.3% | Esticada |
-| Xavi | 91 | Icons | 114k coins | +33.3% | +48.1% | Esticada |
-| Raúl | 90 | Icons | 140k coins | +1.4% | +32.4% | Momentum moderado |
+| Xavi | 91 | Icons | 114k coins | +32.6% | +43.2% | Esticada |
+| Raúl | 90 | Icons | 135k coins | +1.4% | +31.2% | Momentum moderado |
 | Gennaro Gattuso | 86 | Icons | 94k coins | +20.6% | +30.4% | Esticada |
 | Zico | 87 | Icons | 91k coins | +11.1% | +22% | Momentum moderado |
-| David Beckham | 89 | Icons | 45k coins | +11.1% | +21.6% | Momentum moderado |
-| Iniesta | 92 | Icons | 188k coins | +15.2% | +20.4% | Momentum moderado |
-| Gerd Müller | 92 | Icons | 106k coins | +7.9% | +19.8% | Momentum moderado |
-| Robin van Persie | 88 | Icons | 109k coins | +7.4% | +18.6% | Momentum moderado |
+| David Beckham | 89 | Icons | 36k coins | +10.4% | +21.6% | Momentum moderado |
+| Iniesta | 92 | Icons | 188k coins | +16% | +20.4% | Momentum moderado |
+| Oliver Kahn | 91 | Icons | 90k coins | +11.4% | +19.4% | Momentum moderado |
+| Robin van Persie | 88 | Icons | 105k coins | +7.4% | +18.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -66,9 +66,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Homare Sawa (91)** — 140k coins, **+75.9% em 7 dias** (+5.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Xavi (92)** — 239k coins, **+63.3% em 7 dias** (+8.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (91)** — 67k coins, **+64.3% em 7 dias** (+14% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steffi Jones (91)** — 68k coins, **+62.4% em 7 dias** (+14% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Xavi (92)** — 239k coins, **+63.3% em 7 dias** (+8.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **John Barnes (89)** — 73k coins, **+57.4% em 7 dias** (+29.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
