@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T19:56:09.000Z
+pubDatetime: 2026-07-22T22:56:09.000Z
 title: "Investimentos EA FC: Icons em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Caroline Seger (90, Icons) lidera, com +68.4% em 7 dias a 80k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Camille Abily (91, Icons) lidera, com +65.7% em 7 dias a 70k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Caroline Seger (90) acumula **+68.4% em 7 dias** a 80k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Camille Abily (91) acumula **+65.7% em 7 dias** a 70k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 22/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-22-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.8% em 24h** e **+19.6% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+15.0% em 24h** e **+21.2% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Caroline Seger | 90 | Icons | 80k coins | +12.7% | +68.4% | Esticada |
-| Camille Abily | 91 | Icons | 70k coins | +14.5% | +61.4% | Esticada |
-| Steffi Jones | 91 | Icons | 79k coins | +28.3% | +43.6% | Esticada |
-| Lotta Schelin | 90 | Icons | 100k coins | +33.3% | +36% | Esticada |
-| Marco van Basten | 91 | Icons | 110k coins | +2.6% | +27.5% | Momentum moderado |
-| Giorgio Chiellini | 89 | Icons | 131k coins | +6.4% | +24.3% | Momentum moderado |
-| Julie Foudy | 90 | Icons | 89k coins | +23.5% | +23.5% | Esticada |
-| Dunga | 87 | Icons | 82k coins | +17.9% | +19.6% | Momentum moderado |
-| Robert Pirès | 89 | Icons | 35k coins | +13.8% | +16.7% | Momentum moderado |
-| Toni Kroos | 90 | Icons | 70k coins | +22.2% | +16.2% | Esticada |
-| Hernán Crespo | 86 | Icons | 74k coins | +14.6% | +14.6% | Momentum moderado |
-| Luis Hernández | 86 | Icons | 80k coins | +12.6% | +13.4% | Momentum moderado |
-| Toni Kroos | 90 | Icons | 75k coins | +9% | +13.3% | Momentum moderado |
-| Ian Wright | 87 | Icons | 71k coins | +12.9% | +12.9% | Momentum moderado |
-| John Barnes | 87 | Icons | 66k coins | +12.9% | +12% | Momentum moderado |
+| Camille Abily | 91 | Icons | 70k coins | +1.4% | +65.7% | Esticada |
+| Aya Miyama | 90 | Icons | 110k coins | +25.4% | +52.1% | Esticada |
+| Gheorghe Hagi | 90 | Icons | 87k coins | +23.1% | +37.5% | Esticada |
+| Sócrates | 89 | Icons | 135k coins | +2.4% | +31.3% | Momentum moderado |
+| Camille Abily | 90 | Icons | 95k coins | +16.3% | +30.9% | Momentum moderado |
+| Dennis Bergkamp | 90 | Icons | 99k coins | +33.3% | +25% | Esticada |
+| Andriy Shevchenko | 90 | Icons | 90k coins | +11.9% | +23.1% | Momentum moderado |
+| Luís Figo | 90 | Icons | 58k coins | +22.4% | +21.2% | Esticada |
+| Lotta Schelin | 90 | Icons | 93k coins | +8.1% | +20% | Momentum moderado |
+| Xavi | 91 | Icons | 102k coins | +2% | +20% | Entrada a observar |
+| Toni Kroos | 90 | Icons | 86k coins | +22.9% | +19.4% | Esticada |
+| Steffi Jones | 91 | Icons | 82k coins | +15% | +16% | Momentum moderado |
+| Henrik Larsson | 88 | Icons | 200k coins | +29.2% | +15.7% | Esticada |
+| Henrik Larsson | 86 | Icons | 72k coins | +11.5% | +11.5% | Momentum moderado |
+| Robert Pirès | 89 | Icons | 30k coins | +6.3% | +10.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Caroline Seger (90)** — 80k coins, **+68.4% em 7 dias** (+12.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Camille Abily (91)** — 70k coins, **+65.7% em 7 dias** (+1.4% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Camille Abily (91)** — 70k coins, **+61.4% em 7 dias** (+14.5% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aya Miyama (90)** — 110k coins, **+52.1% em 7 dias** (+25.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steffi Jones (91)** — 79k coins, **+43.6% em 7 dias** (+28.3% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gheorghe Hagi (90)** — 87k coins, **+37.5% em 7 dias** (+23.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lotta Schelin (90)** — 100k coins, **+36% em 7 dias** (+33.3% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sócrates (89)** — 135k coins, **+31.3% em 7 dias** (+2.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marco van Basten (91)** — 110k coins, **+27.5% em 7 dias** (+2.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Camille Abily (90)** — 95k coins, **+30.9% em 7 dias** (+16.3% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -97,7 +97,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Caroline Seger (90, Icons) lidera, com +68.4% em 7 dias a 80k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Camille Abily (91, Icons) lidera, com +65.7% em 7 dias a 70k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
