@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:45:33.000Z
+pubDatetime: 2026-07-22T10:56:18.000Z
 title: "Investimentos EA FC: Icons em 22/07 — PC"
 draft: false
 featured: true
@@ -34,7 +34,7 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 ## O que os números desta lista mostram
 
 - A mediana é de **+11.2% em 24h** e **+22.3% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,19 +44,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Andriy Shevchenko | 90 | Icons | 129k coins | +34.4% | +61.3% | Esticada |
-| Juan Román Riquelme | 88 | Icons | 138k coins | +6.9% | +59.8% | Momentum moderado |
 | Alessandro Del Piero | 90 | Icons | 101k coins | +22.2% | +50% | Esticada |
 | Birgit Prinz | 93 | Icons | 74k coins | +22.5% | +48.5% | Esticada |
 | Steven Gerrard | 89 | Icons | 128k coins | +11.2% | +41% | Momentum moderado |
-| Julie Foudy | 91 | Icons | 48k coins | +5.4% | +38.6% | Momentum moderado |
+| Julie Foudy | 91 | Icons | 48k coins | +3.2% | +38.6% | Momentum moderado |
+| Andrea Pirlo | 90 | Icons | 176k coins | +4.8% | +33.1% | Momentum moderado |
 | John Barnes | 89 | Icons | 109k coins | +11.2% | +27.5% | Momentum moderado |
-| Cha Bum Kun | 86 | Icons | 111k coins | +16.2% | +22.3% | Momentum moderado |
-| Alessandro Nesta | 89 | Icons | 82k coins | +6.5% | +21.5% | Momentum moderado |
+| Cha Bum Kun | 86 | Icons | 110k coins | +16.2% | +22.3% | Momentum moderado |
+| Alessandro Nesta | 89 | Icons | 142k coins | +9.3% | +21.5% | Momentum moderado |
 | Davor Šuker | 89 | Icons | 34k coins | +9.4% | +18.6% | Momentum moderado |
-| Claude Makélélé | 87 | Icons | 101k coins | +19.8% | +16.4% | Momentum moderado |
+| Claude Makélélé | 87 | Icons | 101k coins | +20.5% | +16.4% | Esticada |
 | Emmanuel Petit | 87 | Icons | 118k coins | +20% | +12.1% | Esticada |
 | Toni Kroos | 90 | Icons | 85k coins | +8.9% | +11.7% | Momentum moderado |
-| Marcelo | 89 | Icons | 118k coins | +20.9% | +7.8% | Esticada |
+| Marcelo | 89 | Icons | 117k coins | +20.9% | +7.8% | Esticada |
 | Nemanja Vidić | 87 | Icons | 160k coins | +3.9% | +7.4% | Entrada a observar |
 
 
@@ -64,13 +64,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Andriy Shevchenko (90)** — 129k coins, **+61.3% em 7 dias** (+34.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Juan Román Riquelme (88)** — 138k coins, **+59.8% em 7 dias** (+6.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Alessandro Del Piero (90)** — 101k coins, **+50% em 7 dias** (+22.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Birgit Prinz (93)** — 74k coins, **+48.5% em 7 dias** (+22.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Steven Gerrard (89)** — 128k coins, **+41% em 7 dias** (+11.2% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Julie Foudy (91)** — 48k coins, **+38.6% em 7 dias** (+3.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
