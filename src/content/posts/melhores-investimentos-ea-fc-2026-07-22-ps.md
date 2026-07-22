@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:56:09.000Z
+pubDatetime: 2026-07-22T13:56:09.000Z
 title: "Investimentos EA FC: Icons em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Luís Figo (90, Icons) lidera, com +72.7% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Luís Figo (90, Icons) lidera, com +71.4% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Luís Figo (90) acumula **+72.7% em 7 dias** a 60k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Luís Figo (90) acumula **+71.4% em 7 dias** a 60k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 22/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-22-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.0% em 24h** e **+27.8% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+20.4% em 24h** e **+28.4% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Luís Figo | 90 | Icons | 60k coins | +37.1% | +72.7% | Esticada |
-| Julie Foudy | 91 | Icons | 50k coins | +11.1% | +43.9% | Momentum moderado |
-| Fabio Cannavaro | 89 | Icons | 108k coins | +18.1% | +37% | Momentum moderado |
-| Steffi Jones | 89 | Icons | 31k coins | +5.3% | +34.6% | Momentum moderado |
-| Gerd Müller | 92 | Icons | 120k coins | +1% | +32.5% | Momentum moderado |
-| Steffi Jones | 91 | Icons | 49k coins | +11% | +31% | Momentum moderado |
-| Raúl | 90 | Icons | 145k coins | +2.1% | +28.3% | Momentum moderado |
-| Oliver Kahn | 91 | Icons | 48k coins | +3.8% | +27.8% | Momentum moderado |
-| Marco van Basten | 91 | Icons | 119k coins | +14.5% | +27.5% | Momentum moderado |
-| Luis Hernández | 86 | Icons | 86k coins | +22.1% | +26.7% | Esticada |
-| Caroline Seger | 91 | Icons | 55k coins | +7.6% | +25.6% | Momentum moderado |
-| Gennaro Gattuso | 86 | Icons | 88k coins | +5.9% | +20.7% | Momentum moderado |
-| Davor Šuker | 87 | Icons | 72k coins | +20.5% | +20.5% | Esticada |
-| Dunga | 87 | Icons | 86k coins | +25% | +18.7% | Esticada |
-| Aya Miyama | 91 | Icons | 84k coins | +9.9% | +18.4% | Momentum moderado |
+| Luís Figo | 90 | Icons | 60k coins | +39.5% | +71.4% | Esticada |
+| Gerd Müller | 92 | Icons | 104k coins | +26.9% | +51% | Esticada |
+| Julie Foudy | 91 | Icons | 50k coins | +28.2% | +42.9% | Esticada |
+| Raúl | 90 | Icons | 150k coins | +11.4% | +38.1% | Momentum moderado |
+| Luis Hernández | 86 | Icons | 98k coins | +35.5% | +35.5% | Esticada |
+| Sócrates | 89 | Icons | 142k coins | +4.2% | +33% | Momentum moderado |
+| Julie Foudy | 88 | Icons | 28k coins | +19.4% | +29% | Momentum moderado |
+| Homare Sawa | 91 | Icons | 139k coins | +7.7% | +28.4% | Momentum moderado |
+| Davor Šuker | 89 | Icons | 24k coins | +20.4% | +23.1% | Esticada |
+| Aya Miyama | 91 | Icons | 88k coins | +19.6% | +22.1% | Momentum moderado |
+| Alessandro Del Piero | 90 | Icons | 92k coins | +28.7% | +21.9% | Esticada |
+| Franco Baresi | 91 | Icons | 94k coins | +36% | +19.6% | Esticada |
+| Lotta Schelin | 90 | Icons | 88k coins | +22.4% | +16.1% | Esticada |
+| Gerd Müller | 93 | Icons | 123k coins | +6% | +10.7% | Momentum moderado |
+| Caroline Seger | 91 | Icons | 55k coins | +3.6% | +10.4% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Luís Figo (90)** — 60k coins, **+72.7% em 7 dias** (+37.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luís Figo (90)** — 60k coins, **+71.4% em 7 dias** (+39.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julie Foudy (91)** — 50k coins, **+43.9% em 7 dias** (+11.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerd Müller (92)** — 104k coins, **+51% em 7 dias** (+26.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fabio Cannavaro (89)** — 108k coins, **+37% em 7 dias** (+18.1% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julie Foudy (91)** — 50k coins, **+42.9% em 7 dias** (+28.2% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steffi Jones (89)** — 31k coins, **+34.6% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Raúl (90)** — 150k coins, **+38.1% em 7 dias** (+11.4% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gerd Müller (92)** — 120k coins, **+32.5% em 7 dias** (+1% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luis Hernández (86)** — 98k coins, **+35.5% em 7 dias** (+35.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -97,7 +97,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Luís Figo (90, Icons) lidera, com +72.7% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Luís Figo (90, Icons) lidera, com +71.4% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
