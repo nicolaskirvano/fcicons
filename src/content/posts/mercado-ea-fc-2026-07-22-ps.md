@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T16:56:07.000Z
+pubDatetime: 2026-07-22T19:56:07.000Z
 title: "Mercado EA FC em 22/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Samuel Eto'o (90, Icons), com +55.5% em 24h, a 580k coins no Console (PS)."
+    a: "Samuel Eto'o (90, Icons), com +52% em 24h, a 570k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Bobby Moore (91), -42.7% em 24h, a 277k coins."
+    a: "Philipp Lahm (89), -40.7% em 24h, a 68k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 69 cartas em alta contra 109 em queda (média -2.95%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 72 cartas em alta contra 111 em queda (média -2.85%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **22/07/2026** no Console (PS) com clima **vendedor** — a maioria das cartas recuou: **69 cartas subiram** e **109 caíram** (80+ acima de 5k coins), variação média de **-2.95%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **22/07/2026** no Console (PS) com clima **vendedor** — a maioria das cartas recuou: **72 cartas subiram** e **111 caíram** (80+ acima de 5k coins), variação média de **-2.85%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Samuel Eto'o (90) **+55.5%** · 🔴 **Maior baixa:** Bobby Moore (91) **-42.7%**
+> 🟢 **Maior alta:** Samuel Eto'o (90) **+52%** · 🔴 **Maior baixa:** Philipp Lahm (89) **-40.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Icons — Console (PS)](/charts/mercado-ea-fc-2026-07-22-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **22/07/2026** no Console (PS) com clima **vendedor*
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 98.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.8% entre as cartas que se moveram; o universo observado reúne 195 cartas.
+- **Amplitude do dia:** 92.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 39.3% entre as cartas que se moveram; o universo observado reúne 202 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Samuel Eto'o | 90 | Icons | 580k coins | +55.5% | +28.6% |
-| Gerd Müller | 92 | Icons | 95k coins | +36.7% | +32.9% |
-| Franco Baresi | 91 | Icons | 109k coins | +32.6% | +14.4% |
-| Zico | 92 | Icons | 360k coins | +28.5% | -7.3% |
-| Caroline Seger | 91 | Icons | 56k coins | +21.3% | +16.2% |
-| Luís Figo | 90 | Icons | 56k coins | +21.2% | +40.1% |
-| Ronaldo | 92 | Icons | 12.66M coins | +20.4% | -12.4% |
-| Robin van Persie | 88 | Icons | 116k coins | +19.9% | +15% |
-| Marcelo | 89 | Icons | 96k coins | +19.1% | -35.7% |
-| Zico | 91 | Icons | 150k coins | +18.5% | -23% |
+| Samuel Eto'o | 90 | Icons | 570k coins | +52% | +26.4% |
+| Luís Figo | 90 | Icons | 60k coins | +41.2% | +50% |
+| Lotta Schelin | 90 | Icons | 100k coins | +33.3% | +36% |
+| Eric Cantona | 89 | Icons | 107k coins | +28.9% | +1.9% |
+| Steffi Jones | 91 | Icons | 79k coins | +28.3% | +43.6% |
+| Laurent Blanc | 88 | Icons | 90k coins | +28.3% | -17% |
+| Zico | 92 | Icons | 328k coins | +28.1% | -11.4% |
+| Zlatan Ibrahimović | 93 | Icons | 4.52M coins | +28.1% | -23% |
+| Julie Foudy | 90 | Icons | 89k coins | +23.5% | +23.5% |
+| Toni Kroos | 90 | Icons | 70k coins | +22.2% | +16.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **22/07/2026** no Console (PS) com clima **vendedor*
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Samuel Eto'o (90)** subiu **+55.5%** em 24h, a **580k coins** (faixa do dia: 366k–621k). Está +33% acima da média de 7 dias (aquecida).
+- **Samuel Eto'o (90)** subiu **+52%** em 24h, a **570k coins** (faixa do dia: 368k–621k). Está +31% acima da média de 7 dias (aquecida).
 
-- **Gerd Müller (92)** subiu **+36.7%** em 24h, a **95k coins** (faixa do dia: 70k–114k). Está +12% acima da média de 7 dias (aquecida).
+- **Luís Figo (90)** subiu **+41.2%** em 24h, a **60k coins** (faixa do dia: 45k–60k). Está +15% acima da média de 7 dias (aquecida).
 
-- **Franco Baresi (91)** subiu **+32.6%** em 24h, a **109k coins** (faixa do dia: 69k–132k). Está +31% acima da média de 7 dias (aquecida).
+- **Lotta Schelin (90)** subiu **+33.3%** em 24h, a **100k coins** (faixa do dia: 68k–113k). Está +13% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bobby Moore | 91 | Icons | 277k coins | -42.7% | -29% |
-| Zlatan Ibrahimović | 92 | Icons | 4.30M coins | -34.9% | -4.6% |
-| Franck Ribéry | 88 | Icons | 138k coins | -32.6% | -31.9% |
-| Cafu | 92 | Icons | 282k coins | -28.4% | +5.9% |
-| Johan Cruyff | 94 | Icons | 500k coins | -26.8% | -6.5% |
-| Sissi | 88 | Icons | 39k coins | -25.5% | -30% |
-| Alex Morgan | 91 | Icons | 930k coins | -25% | +14.3% |
-| Fernando Torres | 87 | Icons | 150k coins | -23.6% | -7% |
-| Roberto Baggio | 91 | Icons | 84k coins | -23.4% | -5.6% |
-| Xavi | 92 | Icons | 170k coins | -22.7% | +1.2% |
+| Philipp Lahm | 89 | Icons | 68k coins | -40.7% | +3.7% |
+| Zlatan Ibrahimović | 92 | Icons | 4.50M coins | -32.8% | -3.1% |
+| Fernando Torres | 90 | Icons | 399k coins | -32.4% | -33.5% |
+| Iniesta | 92 | Icons | 119k coins | -30.6% | -25.3% |
+| Pavel Nedvěd | 88 | Icons | 70k coins | -30.3% | -33% |
+| Sissi | 88 | Icons | 35k coins | -28.8% | -36.2% |
+| Patrick Vieira | 90 | Icons | 457k coins | -27.4% | -11.8% |
+| Ronaldinho | 94 | Icons | 1.09M coins | -25.3% | -39.9% |
+| Xavi | 92 | Icons | 166k coins | -24.5% | -20.6% |
+| Wayne Rooney | 88 | Icons | 130k coins | -23.8% | -42% |
 
 
 ### Análise das baixas
 
-- **Bobby Moore (91)** caiu **-42.7%** em 24h, a **277k coins** (faixa do dia: 277k–462k). Está -26% abaixo da média de 7 dias (descontada).
+- **Philipp Lahm (89)** caiu **-40.7%** em 24h, a **68k coins** (faixa do dia: 68k–136k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Zlatan Ibrahimović (92)** caiu **-34.9%** em 24h, a **4.30M coins** (faixa do dia: 4.30M–6.80M). Está -20% abaixo da média de 7 dias (descontada).
+- **Zlatan Ibrahimović (92)** caiu **-32.8%** em 24h, a **4.50M coins** (faixa do dia: 4.10M–5.67M). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Franck Ribéry (88)** caiu **-32.6%** em 24h, a **138k coins** (faixa do dia: 113k–196k). Está -21% abaixo da média de 7 dias (descontada).
+- **Fernando Torres (90)** caiu **-32.4%** em 24h, a **399k coins** (faixa do dia: 399k–600k). Está -25% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Samuel Eto'o já avançou 55.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Samuel Eto'o já avançou 52% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Bobby Moore recuou -42.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Philipp Lahm recuou -40.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Samuel Eto'o (90, Icons), com +55.5% em 24h, a 580k coins no Console (PS).
+Samuel Eto'o (90, Icons), com +52% em 24h, a 570k coins no Console (PS).
 
 **E a maior queda do dia?**
-Bobby Moore (91), -42.7% em 24h, a 277k coins.
+Philipp Lahm (89), -40.7% em 24h, a 68k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 69 cartas em alta contra 109 em queda (média -2.95%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 72 cartas em alta contra 111 em queda (média -2.85%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
