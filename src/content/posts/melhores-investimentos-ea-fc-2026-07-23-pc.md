@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:56:18.000Z
+pubDatetime: 2026-07-23T13:56:18.000Z
 title: "Investimentos EA FC: Icons em 23/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Julie Foudy (91, Icons) lidera, com +66.7% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Birgit Prinz (93, Icons) lidera, com +75% em 7 dias a 74k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Julie Foudy (91) acumula **+66.7% em 7 dias** a 60k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Birgit Prinz (93) acumula **+75% em 7 dias** a 74k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 23/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-23-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.8% em 24h** e **+28.5% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+20.3% em 24h** e **+33.3% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Julie Foudy | 91 | Icons | 60k coins | +23.7% | +66.7% | Esticada |
-| Franz Beckenbauer | 92 | Icons | 230k coins | +19.8% | +64.3% | Esticada |
-| Didier Drogba | 89 | Icons | 113k coins | +4.1% | +58.8% | Momentum moderado |
-| Paul Scholes | 91 | Icons | 189k coins | +11.2% | +51.2% | Momentum moderado |
-| Robert Pirès | 89 | Icons | 70k coins | +10.3% | +50% | Momentum moderado |
-| Raúl | 90 | Icons | 179k coins | +12.6% | +48% | Momentum moderado |
-| Roberto Baggio | 91 | Icons | 113k coins | +32.6% | +36.5% | Esticada |
-| Henrik Larsson | 86 | Icons | 82k coins | +28.5% | +28.5% | Esticada |
-| Toni Kroos | 90 | Icons | 101k coins | +21.4% | +24.4% | Esticada |
-| Eric Cantona | 89 | Icons | 200k coins | +11.7% | +20.5% | Momentum moderado |
-| Zico | 87 | Icons | 150k coins | +26.1% | +15.4% | Esticada |
-| Sissi | 88 | Icons | 84k coins | +25.4% | +15.3% | Esticada |
-| Dennis Bergkamp | 91 | Icons | 100k coins | +5.3% | +13.9% | Momentum moderado |
-| Gianfranco Zola | 87 | Icons | 106k coins | +26.4% | +11.1% | Esticada |
-| Giorgio Chiellini | 88 | Icons | 110k coins | +9.9% | +11% | Momentum moderado |
+| Birgit Prinz | 93 | Icons | 74k coins | +2.1% | +75% | Esticada |
+| Julie Foudy | 91 | Icons | 60k coins | +29% | +66.7% | Esticada |
+| Franz Beckenbauer | 92 | Icons | 230k coins | +17.3% | +64.3% | Esticada |
+| Paul Scholes | 91 | Icons | 189k coins | +14.5% | +51.2% | Momentum moderado |
+| Cha Bum Kun | 86 | Icons | 140k coins | +33.3% | +41.4% | Esticada |
+| Raúl | 90 | Icons | 163k coins | +7.5% | +34.6% | Momentum moderado |
+| Camille Abily | 91 | Icons | 80k coins | +5.3% | +33.3% | Momentum moderado |
+| Bastian Schweinsteiger | 89 | Icons | 170k coins | +29.5% | +33.3% | Esticada |
+| Roberto Baggio | 91 | Icons | 104k coins | +31.4% | +31.4% | Esticada |
+| Dennis Bergkamp | 91 | Icons | 70k coins | +25% | +26.6% | Esticada |
+| Eric Cantona | 89 | Icons | 200k coins | +5.3% | +24.2% | Momentum moderado |
+| Frank Rijkaard | 87 | Icons | 155k coins | +28.1% | +22% | Esticada |
+| Michael Owen | 88 | Icons | 78k coins | +20.3% | +20.3% | Esticada |
+| Henrik Larsson | 86 | Icons | 76k coins | +17.7% | +17.7% | Momentum moderado |
+| Sócrates | 89 | Icons | 142k coins | +25.4% | +13.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Julie Foudy (91)** — 60k coins, **+66.7% em 7 dias** (+23.7% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Birgit Prinz (93)** — 74k coins, **+75% em 7 dias** (+2.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Franz Beckenbauer (92)** — 230k coins, **+64.3% em 7 dias** (+19.8% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julie Foudy (91)** — 60k coins, **+66.7% em 7 dias** (+29% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Didier Drogba (89)** — 113k coins, **+58.8% em 7 dias** (+4.1% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franz Beckenbauer (92)** — 230k coins, **+64.3% em 7 dias** (+17.3% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paul Scholes (91)** — 189k coins, **+51.2% em 7 dias** (+11.2% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paul Scholes (91)** — 189k coins, **+51.2% em 7 dias** (+14.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Robert Pirès (89)** — 70k coins, **+50% em 7 dias** (+10.3% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cha Bum Kun (86)** — 140k coins, **+41.4% em 7 dias** (+33.3% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Julie Foudy (91, Icons) lidera, com +66.7% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Birgit Prinz (93, Icons) lidera, com +75% em 7 dias a 74k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
