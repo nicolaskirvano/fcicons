@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:44:21.000Z
+pubDatetime: 2026-07-23T10:56:17.000Z
 title: "Mercado EA FC em 23/07: Icons — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Patrick Kluivert (87), -49.2% em 24h, a 66k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 72 cartas em alta contra 76 em queda (média 4.06%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 72 cartas em alta contra 75 em queda (média 4.03%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **23/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **72 valorizações** contra **76 quedas** entre as cartas relevantes, com média de **4.06%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **23/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **72 valorizações** contra **75 quedas** entre as cartas relevantes, com média de **4.03%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Ronaldinho (93) **+54.5%** · 🔴 **Maior baixa:** Patrick Kluivert (87) **-49.2%**
 
@@ -36,7 +36,7 @@ Resumo de **23/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 103.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.6% entre as cartas que se moveram; o universo observado reúne 196 cartas.
+- **Participação das altas:** 49.0% entre as cartas que se moveram; o universo observado reúne 194 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -52,7 +52,7 @@ Resumo de **23/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 | Cha Bum Kun | 86 | Icons | 155k coins | +40.9% | +58.2% |
 | Andrea Pirlo | 91 | Icons | 1.10M coins | +39.2% | +10% |
 | Dennis Bergkamp | 93 | Icons | 297k coins | +38.8% | +23.8% |
-| Franz Beckenbauer | 92 | Icons | 230k coins | +36.1% | +64.3% |
+| Lev Yashin | 93 | Icons | 173k coins | +38.4% | -15.6% |
 
 
 ### Análise das altas
@@ -73,15 +73,15 @@ Resumo de **23/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Patrick Kluivert | 87 | Icons | 66k coins | -49.2% | -22.4% |
-| Steffi Jones | 91 | Icons | 42k coins | -47.2% | -31.7% |
-| Iniesta | 92 | Icons | 179k coins | -37.4% | +3.5% |
-| Giorgio Chiellini | 89 | Icons | 93k coins | -34% | -45.8% |
-| Alessandro Del Piero | 90 | Icons | 80k coins | -32.7% | -7.5% |
+| Steffi Jones | 91 | Icons | 42k coins | -47.2% | -29.4% |
+| Miroslav Klose | 88 | Icons | 72k coins | -45.6% | -2.6% |
+| Franck Ribéry | 88 | Icons | 132k coins | -43.6% | -19.9% |
+| Alessandro Del Piero | 90 | Icons | 80k coins | -32.7% | -10.5% |
 | Ronaldinho | 94 | Icons | 1.25M coins | -32.5% | -41.1% |
+| Wayne Rooney | 88 | Icons | 131k coins | -31.1% | 0% |
 | Dunga | 87 | Icons | 98k coins | -29.5% | +21.9% |
-| Aya Miyama | 90 | Icons | 85k coins | -29.2% | +25% |
+| Aya Miyama | 90 | Icons | 83k coins | -29.2% | +25% |
 | Ronaldo | 94 | Icons | 5.10M coins | -27.1% | -17.8% |
-| Ferenc Puskás | 92 | Icons | 150k coins | -26.1% | -23.1% |
 
 
 ### Análise das baixas
@@ -90,7 +90,7 @@ Resumo de **23/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 
 - **Steffi Jones (91)** caiu **-47.2%** em 24h, a **42k coins** (faixa do dia: 42k–80k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Iniesta (92)** caiu **-37.4%** em 24h, a **179k coins** (faixa do dia: 138k–285k). Está em linha com a média de 7 dias (-7%).
+- **Miroslav Klose (88)** caiu **-45.6%** em 24h, a **72k coins** (faixa do dia: 66k–155k). Está -20% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -115,7 +115,7 @@ Ronaldinho (93, Icons), com +54.5% em 24h, a 1.67M coins no PC.
 Patrick Kluivert (87), -49.2% em 24h, a 66k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 72 cartas em alta contra 76 em queda (média 4.06%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 72 cartas em alta contra 75 em queda (média 4.03%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

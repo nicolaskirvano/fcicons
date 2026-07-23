@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:44:11.000Z
+pubDatetime: 2026-07-23T10:56:07.000Z
 title: "Mercado EA FC em 23/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
     a: "Robert Pirès (89, Icons), com +47.1% em 24h, a 55k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Pavel Nedvěd (89), -43% em 24h, a 260k coins."
+    a: "Philipp Lahm (89), -34.6% em 24h, a 68k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 91 cartas em alta contra 98 em queda (média 2.37%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 84 cartas em alta contra 98 em queda (média 1.77%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **23/07/2026** no Console (PS): mercado **aquecido** — as altas dominam o dia. **91 valorizações** contra **98 quedas** entre as cartas relevantes, com média de **2.37%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **23/07/2026** no Console (PS): mercado **aquecido** — as altas dominam o dia. **84 valorizações** contra **98 quedas** entre as cartas relevantes, com média de **1.77%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Robert Pirès (89) **+47.1%** · 🔴 **Maior baixa:** Pavel Nedvěd (89) **-43%**
+> 🟢 **Maior alta:** Robert Pirès (89) **+47.1%** · 🔴 **Maior baixa:** Philipp Lahm (89) **-34.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Icons — Console (PS)](/charts/mercado-ea-fc-2026-07-23-ps.svg)
 
@@ -35,8 +35,8 @@ Resumo de **23/07/2026** no Console (PS): mercado **aquecido** — as altas domi
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 90.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.1% entre as cartas que se moveram; o universo observado reúne 200 cartas.
+- **Amplitude do dia:** 81.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.2% entre as cartas que se moveram; o universo observado reúne 195 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -45,14 +45,14 @@ Resumo de **23/07/2026** no Console (PS): mercado **aquecido** — as altas domi
 | --- | --- | --- | --- | --- | --- |
 | Robert Pirès | 89 | Icons | 55k coins | +47.1% | +28.2% |
 | Aya Miyama | 91 | Icons | 120k coins | +44.4% | +51.6% |
-| Aya Miyama | 87 | Icons | 22k coins | +43.8% | +1.8% |
 | Oliver Kahn | 91 | Icons | 107k coins | +40.8% | +9.2% |
 | Didier Drogba | 91 | Icons | 520k coins | +39% | +4.8% |
 | Andriy Shevchenko | 90 | Icons | 90k coins | +38.5% | +36.4% |
 | Dennis Bergkamp | 90 | Icons | 96k coins | +37.9% | +18.4% |
-| Toni Kroos | 90 | Icons | 96k coins | +36.9% | +26.1% |
-| Mia Hamm | 94 | Icons | 800k coins | +34.9% | -18.8% |
-| Cafu | 92 | Icons | 308k coins | +34.2% | +44.9% |
+| Toni Kroos | 90 | Icons | 96k coins | +36.9% | +25.3% |
+| Dennis Bergkamp | 91 | Icons | 86k coins | +35.4% | -21.8% |
+| Cafu | 92 | Icons | 188k coins | +34.2% | +44.9% |
+| Mia Hamm | 94 | Icons | 800k coins | +34% | -18.8% |
 
 
 ### Análise das altas
@@ -65,39 +65,39 @@ Resumo de **23/07/2026** no Console (PS): mercado **aquecido** — as altas domi
 
 - **Aya Miyama (91)** subiu **+44.4%** em 24h, a **120k coins** (faixa do dia: 66k–130k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Aya Miyama (87)** subiu **+43.8%** em 24h, a **22k coins** (faixa do dia: 16.250–40k). Está -9% abaixo da média de 7 dias (descontada).
+- **Oliver Kahn (91)** subiu **+40.8%** em 24h, a **107k coins** (faixa do dia: 82k–132k). Está +10% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Pavel Nedvěd | 89 | Icons | 260k coins | -43% | -26.2% |
-| Bobby Moore | 91 | Icons | 262k coins | -41.5% | -40% |
-| Philipp Lahm | 89 | Icons | 68k coins | -35.2% | +3.7% |
-| Hernán Crespo | 88 | Icons | 24k coins | -34.7% | -34.2% |
-| Birgit Prinz | 93 | Icons | 33k coins | -31.5% | -19.6% |
-| Pelé | 96 | Icons | 588k coins | -30.7% | -65.2% |
-| Robin van Persie | 88 | Icons | 99k coins | -30.6% | +19% |
-| Garrincha | 93 | Icons | 566k coins | -29.1% | -41.1% |
+| Philipp Lahm | 89 | Icons | 68k coins | -34.6% | +3.7% |
+| Bobby Moore | 91 | Icons | 262k coins | -34.5% | -32.8% |
+| Birgit Prinz | 93 | Icons | 33k coins | -32.1% | -20.8% |
+| Robin van Persie | 88 | Icons | 99k coins | -31.2% | +17.9% |
+| Pelé | 96 | Icons | 586k coins | -30.7% | -65.2% |
+| Frank Rijkaard | 89 | Icons | 60k coins | -28.4% | -42.1% |
 | Luis Hernández | 86 | Icons | 65k coins | -27.4% | -9.7% |
-| Eric Cantona | 89 | Icons | 87k coins | -26.1% | -21.5% |
+| Eric Cantona | 89 | Icons | 86k coins | -26.1% | -21.5% |
+| Iniesta | 92 | Icons | 170k coins | -25.8% | -34.6% |
+| Roberto Carlos | 90 | Icons | 165k coins | -25.5% | -31.7% |
 
 
 ### Análise das baixas
 
-- **Pavel Nedvěd (89)** caiu **-43%** em 24h, a **260k coins** (faixa do dia: 245k–499k). Está -22% abaixo da média de 7 dias (descontada).
+- **Philipp Lahm (89)** caiu **-34.6%** em 24h, a **68k coins** (faixa do dia: 68k–115k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Bobby Moore (91)** caiu **-41.5%** em 24h, a **262k coins** (faixa do dia: 199k–388k). Está -28% abaixo da média de 7 dias (descontada).
+- **Bobby Moore (91)** caiu **-34.5%** em 24h, a **262k coins** (faixa do dia: 199k–388k). Está -28% abaixo da média de 7 dias (descontada).
 
-- **Philipp Lahm (89)** caiu **-35.2%** em 24h, a **68k coins** (faixa do dia: 68k–115k). Está -21% abaixo da média de 7 dias (descontada).
+- **Birgit Prinz (93)** caiu **-32.1%** em 24h, a **33k coins** (faixa do dia: 29k–48k). Está -32% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Robert Pirès já avançou 47.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Pavel Nedvěd recuou -43%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Philipp Lahm recuou -34.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +112,10 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 Robert Pirès (89, Icons), com +47.1% em 24h, a 55k coins no Console (PS).
 
 **E a maior queda do dia?**
-Pavel Nedvěd (89), -43% em 24h, a 260k coins.
+Philipp Lahm (89), -34.6% em 24h, a 68k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 91 cartas em alta contra 98 em queda (média 2.37%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 84 cartas em alta contra 98 em queda (média 1.77%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

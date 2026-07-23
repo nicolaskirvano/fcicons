@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:44:22.000Z
+pubDatetime: 2026-07-23T10:56:18.000Z
 title: "Investimentos EA FC: Icons em 23/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+21.4% em 24h** e **+36.5% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+19.8% em 24h** e **+28.5% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,31 +44,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 91 | Icons | 60k coins | +23.7% | +66.7% | Esticada |
-| Franz Beckenbauer | 92 | Icons | 230k coins | +36.1% | +64.3% | Esticada |
-| Didier Drogba | 89 | Icons | 114k coins | +4.9% | +60% | Esticada |
-| Paul Scholes | 91 | Icons | 189k coins | +10.6% | +50.4% | Momentum moderado |
+| Franz Beckenbauer | 92 | Icons | 230k coins | +19.8% | +64.3% | Esticada |
+| Didier Drogba | 89 | Icons | 113k coins | +4.1% | +58.8% | Momentum moderado |
+| Paul Scholes | 91 | Icons | 189k coins | +11.2% | +51.2% | Momentum moderado |
 | Robert Pirès | 89 | Icons | 70k coins | +10.3% | +50% | Momentum moderado |
 | Raúl | 90 | Icons | 179k coins | +12.6% | +48% | Momentum moderado |
-| Wayne Rooney | 92 | Icons | 150k coins | +3.2% | +45% | Momentum moderado |
 | Roberto Baggio | 91 | Icons | 113k coins | +32.6% | +36.5% | Esticada |
 | Henrik Larsson | 86 | Icons | 82k coins | +28.5% | +28.5% | Esticada |
-| Toni Kroos | 90 | Icons | 78k coins | +21.4% | +24.4% | Esticada |
+| Toni Kroos | 90 | Icons | 101k coins | +21.4% | +24.4% | Esticada |
 | Eric Cantona | 89 | Icons | 200k coins | +11.7% | +20.5% | Momentum moderado |
-| Kaká | 89 | Icons | 243k coins | +10.3% | +15.8% | Momentum moderado |
 | Zico | 87 | Icons | 150k coins | +26.1% | +15.4% | Esticada |
 | Sissi | 88 | Icons | 84k coins | +25.4% | +15.3% | Esticada |
-| Paul Scholes | 88 | Icons | 88k coins | +30.3% | +14.1% | Esticada |
+| Dennis Bergkamp | 91 | Icons | 100k coins | +5.3% | +13.9% | Momentum moderado |
+| Gianfranco Zola | 87 | Icons | 106k coins | +26.4% | +11.1% | Esticada |
+| Giorgio Chiellini | 88 | Icons | 110k coins | +9.9% | +11% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Julie Foudy (91)** — 60k coins, **+66.7% em 7 dias** (+23.7% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Franz Beckenbauer (92)** — 230k coins, **+64.3% em 7 dias** (+36.1% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franz Beckenbauer (92)** — 230k coins, **+64.3% em 7 dias** (+19.8% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Didier Drogba (89)** — 114k coins, **+60% em 7 dias** (+4.9% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Didier Drogba (89)** — 113k coins, **+58.8% em 7 dias** (+4.1% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paul Scholes (91)** — 189k coins, **+50.4% em 7 dias** (+10.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paul Scholes (91)** — 189k coins, **+51.2% em 7 dias** (+11.2% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Robert Pirès (89)** — 70k coins, **+50% em 7 dias** (+10.3% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
