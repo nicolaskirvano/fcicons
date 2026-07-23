@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T13:56:17.000Z
+pubDatetime: 2026-07-23T16:56:17.000Z
 title: "Mercado EA FC em 23/07: Icons — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Lothar Matthäus (90, Icons), com +50.6% em 24h, a 210k coins no PC."
+    a: "Marco van Basten (91, Icons), com +49.7% em 24h, a 105k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Caroline Seger (90), -48.7% em 24h, a 30k coins."
+    a: "Xavi (92), -49.4% em 24h, a 157k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 68 cartas em alta contra 93 em queda (média 3.01%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 75 cartas em alta contra 81 em queda (média 3.12%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **23/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **68 valorizações** contra **93 quedas** entre as cartas relevantes, com média de **3.01%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **23/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **75 valorizações** contra **81 quedas** entre as cartas relevantes, com média de **3.12%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lothar Matthäus (90) **+50.6%** · 🔴 **Maior baixa:** Caroline Seger (90) **-48.7%**
+> 🟢 **Maior alta:** Marco van Basten (91) **+49.7%** · 🔴 **Maior baixa:** Xavi (92) **-49.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Icons — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **23/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 99.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.2% entre as cartas que se moveram; o universo observado reúne 203 cartas.
+- **Amplitude do dia:** 99.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.1% entre as cartas que se moveram; o universo observado reúne 197 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lothar Matthäus | 90 | Icons | 210k coins | +50.6% | +4.4% |
-| Gheorghe Hagi | 88 | Icons | 144k coins | +47.7% | +108.7% |
-| Bobby Charlton | 92 | Icons | 225k coins | +47.5% | +61.2% |
-| Kelly Smith | 89 | Icons | 97k coins | +47.4% | -13.5% |
-| Jairzinho | 89 | Icons | 440k coins | +46.7% | +20.5% |
-| Carles Puyol | 90 | Icons | 899k coins | +42.2% | +58.3% |
-| Ronald Koeman | 91 | Icons | 300k coins | +38.2% | +21% |
-| Francesco Totti | 89 | Icons | 199k coins | +33.6% | +11.2% |
-| Cha Bum Kun | 86 | Icons | 140k coins | +33.3% | +41.4% |
-| David Beckham | 89 | Icons | 52k coins | +32.1% | -20.8% |
+| Marco van Basten | 91 | Icons | 105k coins | +49.7% | +14% |
+| Patrick Vieira | 86 | Icons | 1.12M coins | +45.5% | -27.3% |
+| Alex Morgan | 91 | Icons | 1.35M coins | +42% | -3.6% |
+| Ronald Koeman | 91 | Icons | 270k coins | +38.2% | +21% |
+| Petr Čech | 89 | Icons | 160k coins | +37.5% | +19.6% |
+| Sócrates | 89 | Icons | 137k coins | +32.4% | +10.3% |
+| Mia Hamm | 93 | Icons | 1M coins | +30.4% | +42.9% |
+| Lothar Matthäus | 90 | Icons | 187k coins | +29.5% | -16.4% |
+| David Beckham | 89 | Icons | 54k coins | +28.6% | -22.9% |
+| Homare Sawa | 92 | Icons | 538k coins | +28.1% | -14.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **23/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lothar Matthäus (90)** subiu **+50.6%** em 24h, a **210k coins** (faixa do dia: 138k–250k). Está em linha com a média de 7 dias (+7%).
+- **Marco van Basten (91)** subiu **+49.7%** em 24h, a **105k coins** (faixa do dia: 74k–146k). Está em linha com a média de 7 dias (-3%).
 
-- **Gheorghe Hagi (88)** subiu **+47.7%** em 24h, a **144k coins** (faixa do dia: 66k–166k). Está +80% acima da média de 7 dias (aquecida).
+- **Patrick Vieira (86)** subiu **+45.5%** em 24h, a **1.12M coins** (faixa do dia: 676k–1.16M). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Bobby Charlton (92)** subiu **+47.5%** em 24h, a **225k coins** (faixa do dia: 83k–240k). Está +59% acima da média de 7 dias (aquecida).
+- **Alex Morgan (91)** subiu **+42%** em 24h, a **1.35M coins** (faixa do dia: 949k–1.90M). Está -17% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Caroline Seger | 90 | Icons | 30k coins | -48.7% | -50.4% |
-| Steffi Jones | 91 | Icons | 42k coins | -47.2% | -22.9% |
-| Patrick Kluivert | 87 | Icons | 66k coins | -45.9% | -32% |
-| David Beckham | 88 | Icons | 88k coins | -45.8% | -16.7% |
+| Xavi | 92 | Icons | 157k coins | -49.4% | -42.3% |
+| Caroline Seger | 90 | Icons | 30k coins | -48.7% | -53.1% |
+| Steven Gerrard | 90 | Icons | 120k coins | -47.6% | -40% |
+| Kelly Smith | 89 | Icons | 91k coins | -47.2% | -35.8% |
+| Michael Owen | 88 | Icons | 66k coins | -46.8% | 0% |
+| Camille Abily | 91 | Icons | 39k coins | -45.8% | -35% |
 | Gareth Bale | 94 | Icons | 3.50M coins | -41.7% | +6.1% |
-| Oliver Kahn | 91 | Icons | 115k coins | -40.5% | -36.7% |
-| Andriy Shevchenko | 90 | Icons | 79k coins | -38.8% | -20.2% |
-| Iniesta | 92 | Icons | 166k coins | -36.1% | 0% |
-| Dunga | 87 | Icons | 88k coins | -34.9% | +14.2% |
-| Homare Sawa | 91 | Icons | 148k coins | -32.3% | -0.7% |
+| Patrick Kluivert | 87 | Icons | 66k coins | -41.1% | -35.3% |
+| Dunga | 87 | Icons | 87k coins | -38.4% | +11.5% |
+| Pavel Nedvěd | 88 | Icons | 93k coins | -37.6% | -22.5% |
 
 
 ### Análise das baixas
 
-- **Caroline Seger (90)** caiu **-48.7%** em 24h, a **30k coins** (faixa do dia: 30k–65k). Está -48% abaixo da média de 7 dias (descontada).
+- **Xavi (92)** caiu **-49.4%** em 24h, a **157k coins** (faixa do dia: 157k–310k). Está -43% abaixo da média de 7 dias (descontada).
 
-- **Steffi Jones (91)** caiu **-47.2%** em 24h, a **42k coins** (faixa do dia: 42k–80k). Está -34% abaixo da média de 7 dias (descontada).
+- **Caroline Seger (90)** caiu **-48.7%** em 24h, a **30k coins** (faixa do dia: 30k–65k). Está -47% abaixo da média de 7 dias (descontada).
 
-- **Patrick Kluivert (87)** caiu **-45.9%** em 24h, a **66k coins** (faixa do dia: 66k–115k). Está -31% abaixo da média de 7 dias (descontada).
+- **Steven Gerrard (90)** caiu **-47.6%** em 24h, a **120k coins** (faixa do dia: 118k–237k). Está -38% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lothar Matthäus já avançou 50.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Marco van Basten já avançou 49.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Caroline Seger recuou -48.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Xavi recuou -49.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Lothar Matthäus (90, Icons), com +50.6% em 24h, a 210k coins no PC.
+Marco van Basten (91, Icons), com +49.7% em 24h, a 105k coins no PC.
 
 **E a maior queda do dia?**
-Caroline Seger (90), -48.7% em 24h, a 30k coins.
+Xavi (92), -49.4% em 24h, a 157k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 68 cartas em alta contra 93 em queda (média 3.01%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 75 cartas em alta contra 81 em queda (média 3.12%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
