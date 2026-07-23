@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T19:56:07.000Z
+pubDatetime: 2026-07-23T22:56:07.000Z
 title: "Mercado EA FC em 23/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Fernando Torres (90, Icons), com +47.9% em 24h, a 579k coins no Console (PS)."
+    a: "Marinette Pichon (90, Icons), com +49.1% em 24h, a 85k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Dunga (89), -43% em 24h, a 70k coins."
+    a: "Aya Miyama (87), -41.3% em 24h, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 73 cartas em alta contra 98 em queda (média -0.2%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 74 cartas em alta contra 98 em queda (média -0.82%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **23/07/2026** no Console (PS): dia **indefinido** — sem tendência dominante. **73 valorizações** contra **98 quedas** entre as cartas relevantes, com média de **-0.2%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **23/07/2026** no Console (PS): dia **indefinido** — sem tendência dominante. **74 valorizações** contra **98 quedas** entre as cartas relevantes, com média de **-0.82%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Fernando Torres (90) **+47.9%** · 🔴 **Maior baixa:** Dunga (89) **-43%**
+> 🟢 **Maior alta:** Marinette Pichon (90) **+49.1%** · 🔴 **Maior baixa:** Aya Miyama (87) **-41.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Icons — Console (PS)](/charts/mercado-ea-fc-2026-07-23-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **23/07/2026** no Console (PS): dia **indefinido** — sem tendência 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 90.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.7% entre as cartas que se moveram; o universo observado reúne 199 cartas.
+- **Amplitude do dia:** 90.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.0% entre as cartas que se moveram; o universo observado reúne 193 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fernando Torres | 90 | Icons | 579k coins | +47.9% | +13.5% |
-| Didier Drogba | 91 | Icons | 505k coins | +45.3% | +2.4% |
-| Birgit Prinz | 93 | Icons | 47k coins | +38.3% | +28.7% |
-| Edwin van der Sar | 88 | Icons | 106k coins | +32.9% | -13.2% |
-| Lotta Schelin | 91 | Icons | 267k coins | +31.3% | -20.8% |
-| Toni Kroos | 90 | Icons | 95k coins | +31.2% | +31.2% |
-| Carlos Alberto | 92 | Icons | 201k coins | +30.5% | +11.7% |
-| Gheorghe Hagi | 90 | Icons | 75k coins | +29.7% | +15% |
-| Julie Foudy | 90 | Icons | 107k coins | +29.2% | +69.1% |
-| Alan Shearer | 91 | Icons | 377k coins | +28.9% | +37.8% |
+| Marinette Pichon | 90 | Icons | 85k coins | +49.1% | +11.1% |
+| Fernando Torres | 90 | Icons | 579k coins | +45.1% | +11.3% |
+| Edwin van der Sar | 88 | Icons | 100k coins | +39.6% | -8.8% |
+| Paul Scholes | 91 | Icons | 199k coins | +37.2% | +4.7% |
+| Mia Hamm | 93 | Icons | 620k coins | +31.2% | -7.4% |
+| Lev Yashin | 93 | Icons | 130k coins | +29.6% | +5.7% |
+| Kaká | 89 | Icons | 183k coins | +27.1% | -6.1% |
+| Lotta Schelin | 91 | Icons | 262k coins | +26.9% | -23.2% |
+| Petr Čech | 89 | Icons | 79k coins | +23.5% | -18.4% |
+| Homare Sawa | 91 | Icons | 120k coins | +22% | -2.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **23/07/2026** no Console (PS): dia **indefinido** — sem tendência 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Fernando Torres (90)** subiu **+47.9%** em 24h, a **579k coins** (faixa do dia: 399k–600k). Está +10% acima da média de 7 dias (aquecida).
+- **Marinette Pichon (90)** subiu **+49.1%** em 24h, a **85k coins** (faixa do dia: 57k–85k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Didier Drogba (91)** subiu **+45.3%** em 24h, a **505k coins** (faixa do dia: 349k–750k). Está em linha com a média de 7 dias (+4%).
+- **Fernando Torres (90)** subiu **+45.1%** em 24h, a **579k coins** (faixa do dia: 399k–600k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Birgit Prinz (93)** subiu **+38.3%** em 24h, a **47k coins** (faixa do dia: 29k–52k). Está em linha com a média de 7 dias (-4%).
+- **Edwin van der Sar (88)** subiu **+39.6%** em 24h, a **100k coins** (faixa do dia: 68k–107k). Está em linha com a média de 7 dias (-0%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dunga | 89 | Icons | 70k coins | -43% | -57.3% |
-| Franco Baresi | 92 | Icons | 200k coins | -35.6% | -34.8% |
-| Camille Abily | 92 | Icons | 26k coins | -35.4% | -54.7% |
-| John Barnes | 89 | Icons | 34k coins | -31.6% | -39.2% |
-| Eric Cantona | 89 | Icons | 73k coins | -31.5% | -46.8% |
-| George Best | 91 | Icons | 210k coins | -31% | -29% |
-| Lev Yashin | 92 | Icons | 90k coins | -29% | -49.3% |
-| Gareth Bale | 88 | Icons | 390k coins | -27.1% | -47.1% |
-| Marcelo | 89 | Icons | 78k coins | -25.9% | -47.1% |
-| Steven Gerrard | 90 | Icons | 150k coins | -23.1% | -25.7% |
+| Aya Miyama | 87 | Icons | 22k coins | -41.3% | -22.1% |
+| George Best | 91 | Icons | 270k coins | -32.3% | -38.4% |
+| John Barnes | 89 | Icons | 34k coins | -31.8% | -40.6% |
+| George Best | 90 | Icons | 123k coins | -27.3% | -38.4% |
+| Garrincha | 93 | Icons | 451k coins | -24.7% | -40.2% |
+| Alex Morgan | 93 | Icons | 344k coins | -24.2% | -26.7% |
+| Marcelo | 89 | Icons | 74k coins | -21.5% | -46% |
+| Jairzinho | 94 | Icons | 385k coins | -21.4% | -19.8% |
+| Robin van Persie | 88 | Icons | 85k coins | -21.3% | -5.6% |
+| Homare Sawa | 92 | Icons | 433k coins | -21.1% | -11.6% |
 
 
 ### Análise das baixas
 
-- **Dunga (89)** caiu **-43%** em 24h, a **70k coins** (faixa do dia: 70k–132k). Está -46% abaixo da média de 7 dias (descontada).
+- **Aya Miyama (87)** caiu **-41.3%** em 24h, a **22k coins** (faixa do dia: 21k–38k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Franco Baresi (92)** caiu **-35.6%** em 24h, a **200k coins** (faixa do dia: 200k–360k). Está -30% abaixo da média de 7 dias (descontada).
+- **George Best (91)** caiu **-32.3%** em 24h, a **270k coins** (faixa do dia: 184k–282k). Está em linha com a média de 7 dias (-4%).
 
-- **Camille Abily (92)** caiu **-35.4%** em 24h, a **26k coins** (faixa do dia: 26k–53k). Está -50% abaixo da média de 7 dias (descontada).
+- **John Barnes (89)** caiu **-31.8%** em 24h, a **34k coins** (faixa do dia: 30k–52k). Está -46% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Fernando Torres já avançou 47.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Marinette Pichon já avançou 49.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Dunga recuou -43%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Aya Miyama recuou -41.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Fernando Torres (90, Icons), com +47.9% em 24h, a 579k coins no Console (PS).
+Marinette Pichon (90, Icons), com +49.1% em 24h, a 85k coins no Console (PS).
 
 **E a maior queda do dia?**
-Dunga (89), -43% em 24h, a 70k coins.
+Aya Miyama (87), -41.3% em 24h, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 73 cartas em alta contra 98 em queda (média -0.2%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 74 cartas em alta contra 98 em queda (média -0.82%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
