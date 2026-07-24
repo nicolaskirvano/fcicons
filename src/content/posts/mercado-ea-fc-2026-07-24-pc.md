@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:44:53.000Z
+pubDatetime: 2026-07-24T10:56:17.000Z
 title: "Mercado EA FC em 24/07: Icons — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Johan Cruyff (93), -48.7% em 24h, a 308k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 74 cartas em alta contra 84 em queda (média 2.48%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 70 cartas em alta contra 85 em queda (média 2.7%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**24/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **74 subiram**, **84 caíram** (80+ e 5k+ coins), média de **2.48%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**24/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **70 subiram**, **85 caíram** (80+ e 5k+ coins), média de **2.7%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Marinette Pichon (90) **+60%** · 🔴 **Maior baixa:** Johan Cruyff (93) **-48.7%**
 
@@ -36,21 +36,21 @@ Hoje (**24/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 108.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.8% entre as cartas que se moveram; o universo observado reúne 199 cartas.
+- **Participação das altas:** 45.2% entre as cartas que se moveram; o universo observado reúne 200 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marinette Pichon | 90 | Icons | 32k coins | +60% | -50.8% |
-| Nemanja Vidić | 87 | Icons | 210k coins | +59.1% | +56.7% |
+| Marinette Pichon | 90 | Icons | 32k coins | +60% | -50.4% |
+| Steven Gerrard | 90 | Icons | 224k coins | +60% | +24.4% |
+| Nemanja Vidić | 87 | Icons | 229k coins | +59.1% | +56.7% |
 | Peter Schmeichel | 89 | Icons | 141k coins | +58.4% | +91.8% |
 | Hernán Crespo | 88 | Icons | 58k coins | +55.7% | -0.9% |
-| Gianfranco Zola | 87 | Icons | 158k coins | +53.8% | +115.9% |
-| Paolo Maldini | 94 | Icons | 2.10M coins | +50% | +44.8% |
-| Wayne Rooney | 88 | Icons | 205k coins | +48.9% | +54.4% |
+| Gianfranco Zola | 87 | Icons | 158k coins | +50% | +110.6% |
 | Toni Kroos | 91 | Icons | 447k coins | +46.1% | +31.5% |
+| Wayne Rooney | 88 | Icons | 205k coins | +45.4% | +50.7% |
 | Oliver Kahn | 91 | Icons | 98k coins | +42.8% | -9.6% |
 | Franz Beckenbauer | 93 | Icons | 796k coins | +36.8% | +22.5% |
 
@@ -63,9 +63,9 @@ Hoje (**24/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 
 - **Marinette Pichon (90)** subiu **+60%** em 24h, a **32k coins** (faixa do dia: 20k–80k). Está -54% abaixo da média de 7 dias (descontada).
 
-- **Nemanja Vidić (87)** subiu **+59.1%** em 24h, a **210k coins** (faixa do dia: 118k–240k). Está +39% acima da média de 7 dias (aquecida).
+- **Steven Gerrard (90)** subiu **+60%** em 24h, a **224k coins** (faixa do dia: 118k–232k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Peter Schmeichel (89)** subiu **+58.4%** em 24h, a **141k coins** (faixa do dia: 88k–159k). Está +56% acima da média de 7 dias (aquecida).
+- **Nemanja Vidić (87)** subiu **+59.1%** em 24h, a **229k coins** (faixa do dia: 118k–240k). Está +52% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
@@ -73,14 +73,14 @@ Hoje (**24/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Johan Cruyff | 93 | Icons | 308k coins | -48.7% | -40.8% |
-| Jairzinho | 89 | Icons | 231k coins | -47.5% | -37.2% |
-| Xavi | 91 | Icons | 90k coins | -43.1% | -30% |
-| Hugo Sánchez | 89 | Icons | 87k coins | -42% | -17.9% |
+| Jairzinho | 89 | Icons | 231k coins | -47.5% | -33.6% |
+| Xavi | 91 | Icons | 88k coins | -42.8% | -30% |
+| Hugo Sánchez | 89 | Icons | 85k coins | -42% | -17.9% |
 | Paul Scholes | 91 | Icons | 110k coins | -41.8% | -31.2% |
-| Cha Bum Kun | 86 | Icons | 91k coins | -41% | -31.7% |
-| Toni Kroos | 90 | Icons | 130k coins | -40.2% | +20.2% |
+| Toni Kroos | 90 | Icons | 129k coins | -40.6% | +19.3% |
+| Franck Ribéry | 89 | Icons | 389k coins | -40.3% | -47.5% |
 | Carlos Alberto | 92 | Icons | 178k coins | -38.6% | -36.4% |
-| Ruud Gullit | 93 | Icons | 6.50M coins | -38.1% | -31.6% |
+| Ruud Gullit | 93 | Icons | 7.10M coins | -38.1% | -31.6% |
 | Didier Drogba | 91 | Icons | 900k coins | -35.7% | -24.2% |
 
 
@@ -90,7 +90,7 @@ Hoje (**24/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 
 - **Jairzinho (89)** caiu **-47.5%** em 24h, a **231k coins** (faixa do dia: 231k–440k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Xavi (91)** caiu **-43.1%** em 24h, a **90k coins** (faixa do dia: 79k–143k). Está -35% abaixo da média de 7 dias (descontada).
+- **Xavi (91)** caiu **-42.8%** em 24h, a **88k coins** (faixa do dia: 79k–143k). Está -37% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -115,7 +115,7 @@ Marinette Pichon (90, Icons), com +60% em 24h, a 32k coins no PC.
 Johan Cruyff (93), -48.7% em 24h, a 308k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 74 cartas em alta contra 84 em queda (média 2.48%).
+Hoje o mercado está em alta — predominam as valorizações, com 70 cartas em alta contra 85 em queda (média 2.7%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
