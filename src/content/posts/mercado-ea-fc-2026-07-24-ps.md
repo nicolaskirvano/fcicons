@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:56:08.000Z
+pubDatetime: 2026-07-24T19:56:08.000Z
 title: "Mercado EA FC em 24/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Davor Šuker (87, Icons), com +54.5% em 24h, a 101k coins no Console (PS)."
+    a: "Giorgio Chiellini (89, Icons), com +47.5% em 24h, a 177k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ronaldo (92), -36.2% em 24h, a 6.99M coins."
+    a: "Aya Miyama (90), -45.6% em 24h, a 68k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 99 cartas em alta contra 85 em queda (média 1.6%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 48 cartas em alta contra 88 em queda (média -5.98%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**24/07/2026**, Console (PS)) o Ultimate Team está **em alta** — predominam as valorizações — **99 subiram**, **85 caíram** (80+ e 5k+ coins), média de **1.6%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**24/07/2026**, Console (PS)) o Ultimate Team está **em baixa** — predominam as quedas — **48 subiram**, **88 caíram** (80+ e 5k+ coins), média de **-5.98%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Davor Šuker (87) **+54.5%** · 🔴 **Maior baixa:** Ronaldo (92) **-36.2%**
+> 🟢 **Maior alta:** Giorgio Chiellini (89) **+47.5%** · 🔴 **Maior baixa:** Aya Miyama (90) **-45.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Icons — Console (PS)](/charts/mercado-ea-fc-2026-07-24-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**24/07/2026**, Console (PS)) o Ultimate Team está **em alta** — predom
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 90.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.8% entre as cartas que se moveram; o universo observado reúne 196 cartas.
+- **Amplitude do dia:** 93.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 35.3% entre as cartas que se moveram; o universo observado reúne 153 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Davor Šuker | 87 | Icons | 101k coins | +54.5% | +54.5% |
-| Cafu | 92 | Icons | 254k coins | +43.3% | +21.4% |
-| Lev Yashin | 92 | Icons | 96k coins | +39.4% | -20.8% |
-| Patrick Vieira | 86 | Icons | 567k coins | +37.4% | -16% |
-| Raúl | 90 | Icons | 143k coins | +36.8% | +4.3% |
-| Gareth Bale | 89 | Icons | 1.18M coins | +35.9% | -16.7% |
-| Mia Hamm | 94 | Icons | 949k coins | +35.6% | -4.6% |
-| Bastian Schweinsteiger | 88 | Icons | 92k coins | +34.5% | +24.7% |
-| Aya Miyama | 91 | Icons | 130k coins | +33.3% | +32% |
-| Oliver Kahn | 91 | Icons | 125k coins | +31.6% | +28.3% |
+| Giorgio Chiellini | 89 | Icons | 177k coins | +47.5% | +51.3% |
+| Samuel Eto'o | 90 | Icons | 481k coins | +42.9% | +36.3% |
+| Gheorghe Hagi | 90 | Icons | 90k coins | +24% | +16.2% |
+| Davor Šuker | 87 | Icons | 85k coins | +23.6% | +34.8% |
+| Ronald Koeman | 91 | Icons | 137k coins | +21% | +44% |
+| Juan Román Riquelme | 88 | Icons | 76k coins | +19.5% | +12.8% |
+| Diego Armando Maradona | 96 | Icons | 2.40M coins | +17.9% | -14.4% |
+| Wayne Rooney | 88 | Icons | 129k coins | +16.2% | -20.4% |
+| Birgit Prinz | 93 | Icons | 40k coins | +16.1% | +27.2% |
+| Gabriel Batistuta | 92 | Icons | 288k coins | +14.4% | -25.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,52 @@ Hoje (**24/07/2026**, Console (PS)) o Ultimate Team está **em alta** — predom
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Davor Šuker (87)** subiu **+54.5%** em 24h, a **101k coins** (faixa do dia: 66k–128k). Está +39% acima da média de 7 dias (aquecida).
+- **Giorgio Chiellini (89)** subiu **+47.5%** em 24h, a **177k coins** (faixa do dia: 123k–210k). Está +32% acima da média de 7 dias (aquecida).
 
-- **Cafu (92)** subiu **+43.3%** em 24h, a **254k coins** (faixa do dia: 130k–345k). Está +10% acima da média de 7 dias (aquecida).
+- **Samuel Eto'o (90)** subiu **+42.9%** em 24h, a **481k coins** (faixa do dia: 289k–650k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Lev Yashin (92)** subiu **+39.4%** em 24h, a **96k coins** (faixa do dia: 71k–118k). Está em linha com a média de 7 dias (-7%).
+- **Gheorghe Hagi (90)** subiu **+24%** em 24h, a **90k coins** (faixa do dia: 74k–130k). Está em linha com a média de 7 dias (+5%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ronaldo | 92 | Icons | 6.99M coins | -36.2% | -42.7% |
-| Zico | 92 | Icons | 180k coins | -35.5% | -12.3% |
-| Franco Baresi | 91 | Icons | 69k coins | -33.8% | -24% |
-| Javier Zanetti | 91 | Icons | 88k coins | -32.8% | -47.4% |
-| Zlatan Ibrahimović | 92 | Icons | 3.10M coins | -32.4% | -38.9% |
-| Franco Baresi | 92 | Icons | 209k coins | -32% | -40.1% |
-| Bobby Moore | 90 | Icons | 68k coins | -29.9% | -13.8% |
-| Camille Abily | 91 | Icons | 50k coins | -28.6% | 0% |
-| Julie Foudy | 90 | Icons | 86k coins | -27.9% | +14.6% |
-| Gerd Müller | 93 | Icons | 74k coins | -25.9% | -29.8% |
+| Aya Miyama | 90 | Icons | 68k coins | -45.6% | -19% |
+| Zico | 92 | Icons | 182k coins | -40.3% | -17.3% |
+| Sissi | 88 | Icons | 30k coins | -36.2% | -56.2% |
+| Homare Sawa | 91 | Icons | 108k coins | -32.8% | -32.8% |
+| Franco Baresi | 91 | Icons | 103k coins | -32.4% | -24.6% |
+| Iniesta | 92 | Icons | 142k coins | -29.9% | -28.4% |
+| Mia Hamm | 93 | Icons | 310k coins | -29.2% | -41.6% |
+| Fabio Cannavaro | 90 | Icons | 246k coins | -28.1% | -41.4% |
+| Cha Bum Kun | 88 | Icons | 101k coins | -27.5% | -26.4% |
+| Julie Foudy | 90 | Icons | 76k coins | -25.2% | +6% |
 
 
 ### Análise das baixas
 
-- **Ronaldo (92)** caiu **-36.2%** em 24h, a **6.99M coins** (faixa do dia: 6.99M–10.96M). Está -35% abaixo da média de 7 dias (descontada).
+- **Aya Miyama (90)** caiu **-45.6%** em 24h, a **68k coins** (faixa do dia: 68k–129k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Zico (92)** caiu **-35.5%** em 24h, a **180k coins** (faixa do dia: 180k–374k). Está -40% abaixo da média de 7 dias (descontada).
+- **Zico (92)** caiu **-40.3%** em 24h, a **182k coins** (faixa do dia: 180k–374k). Está -39% abaixo da média de 7 dias (descontada).
 
-- **Franco Baresi (91)** caiu **-33.8%** em 24h, a **69k coins** (faixa do dia: 69k–114k). Está -20% abaixo da média de 7 dias (descontada).
+- **Sissi (88)** caiu **-36.2%** em 24h, a **30k coins** (faixa do dia: 30k–94k). Está -46% abaixo da média de 7 dias (descontada).
+
+
+## ⚠️ Alerta de queda projetada
+
+Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes de comprar:
+
+| Jogador | OVR | Preço atual | Variação prevista |
+| --- | --- | --- | --- |
+| John Barnes | 89 | 32k coins | -2.3% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Davor Šuker já avançou 54.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Giorgio Chiellini já avançou 47.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ronaldo recuou -36.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Aya Miyama recuou -45.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +118,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Davor Šuker (87, Icons), com +54.5% em 24h, a 101k coins no Console (PS).
+Giorgio Chiellini (89, Icons), com +47.5% em 24h, a 177k coins no Console (PS).
 
 **E a maior queda do dia?**
-Ronaldo (92), -36.2% em 24h, a 6.99M coins.
+Aya Miyama (90), -45.6% em 24h, a 68k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 99 cartas em alta contra 85 em queda (média 1.6%).
+Hoje o mercado está em baixa — predominam as quedas, com 48 cartas em alta contra 88 em queda (média -5.98%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
