@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:56:17.000Z
+pubDatetime: 2026-07-24T01:56:17.000Z
 title: "Mercado EA FC em 23/07: Icons — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Iniesta (92, Icons), com +57% em 24h, a 161k coins no PC."
+    a: "Toni Kroos (90, Icons), com +58.9% em 24h, a 146k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Didier Drogba (89), -50% em 24h, a 68k coins."
+    a: "Gareth Bale (94), -41.7% em 24h, a 3.50M coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 65 cartas em alta contra 70 em queda (média 2.95%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 65 cartas em alta contra 73 em queda (média 5.29%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **23/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **65 valorizações** contra **70 quedas** entre as cartas relevantes, com média de **2.95%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **23/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **65 valorizações** contra **73 quedas** entre as cartas relevantes, com média de **5.29%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Iniesta (92) **+57%** · 🔴 **Maior baixa:** Didier Drogba (89) **-50%**
+> 🟢 **Maior alta:** Toni Kroos (90) **+58.9%** · 🔴 **Maior baixa:** Gareth Bale (94) **-41.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Icons — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **23/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.1% entre as cartas que se moveram; o universo observado reúne 178 cartas.
+- **Amplitude do dia:** 100.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.1% entre as cartas que se moveram; o universo observado reúne 178 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Iniesta | 92 | Icons | 161k coins | +57% | +65.6% |
-| Thierry Henry | 91 | Icons | 2.70M coins | +54.3% | +8% |
-| Toni Kroos | 90 | Icons | 157k coins | +51% | +11.3% |
-| Steffi Jones | 89 | Icons | 40k coins | +44.1% | +135.3% |
-| Ronaldinho | 94 | Icons | 1.70M coins | +43.8% | -19% |
-| Henrik Larsson | 88 | Icons | 109k coins | +41.6% | +92.9% |
-| Fernando Torres | 87 | Icons | 250k coins | +39.7% | +61.3% |
-| Hristo Stoichkov | 89 | Icons | 111k coins | +39.2% | -4% |
-| Roberto Baggio | 91 | Icons | 96k coins | +38.4% | +3.8% |
-| Ferenc Puskás | 94 | Icons | 720k coins | +36.9% | 0% |
+| Toni Kroos | 90 | Icons | 146k coins | +58.9% | +6.5% |
+| Fernando Torres | 87 | Icons | 200k coins | +57.2% | +61.3% |
+| Iniesta | 92 | Icons | 220k coins | +50.7% | +35% |
+| Lothar Matthäus | 90 | Icons | 189k coins | +50.3% | +68.9% |
+| Dennis Bergkamp | 91 | Icons | 90k coins | +44.7% | +22.2% |
+| Toni Kroos | 91 | Icons | 447k coins | +44.2% | +31.5% |
+| Henrik Larsson | 88 | Icons | 110k coins | +42.9% | +107.5% |
+| Gennaro Gattuso | 86 | Icons | 103k coins | +42.1% | +18.4% |
+| Gerd Müller | 92 | Icons | 139k coins | +39% | +28.7% |
+| Ferenc Puskás | 94 | Icons | 720k coins | +36.9% | -3.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **23/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Iniesta (92)** subiu **+57%** em 24h, a **161k coins** (faixa do dia: 138k–289k). Está -18% abaixo da média de 7 dias (descontada).
+- **Toni Kroos (90)** subiu **+58.9%** em 24h, a **146k coins** (faixa do dia: 120k–220k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Thierry Henry (91)** subiu **+54.3%** em 24h, a **2.70M coins** (faixa do dia: 1.75M–2.70M). Está em linha com a média de 7 dias (+5%).
+- **Fernando Torres (87)** subiu **+57.2%** em 24h, a **200k coins** (faixa do dia: 106k–250k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Toni Kroos (90)** subiu **+51%** em 24h, a **157k coins** (faixa do dia: 88k–220k). Está +26% acima da média de 7 dias (aquecida).
+- **Iniesta (92)** subiu **+50.7%** em 24h, a **220k coins** (faixa do dia: 138k–289k). Está +11% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Didier Drogba | 89 | Icons | 68k coins | -50% | -22% |
-| Steven Gerrard | 89 | Icons | 70k coins | -47.8% | -46.2% |
-| Camille Abily | 91 | Icons | 39k coins | -47.7% | -35% |
-| Kaká | 89 | Icons | 235k coins | -42.1% | -33.9% |
 | Gareth Bale | 94 | Icons | 3.50M coins | -41.7% | +6.1% |
-| Kelly Smith | 89 | Icons | 76k coins | -34.4% | -43.3% |
-| Bastian Schweinsteiger | 88 | Icons | 103k coins | -34.2% | -16.8% |
-| Ruud Gullit | 93 | Icons | 7M coins | -33.3% | -26.3% |
+| Frank Lampard | 87 | Icons | 98k coins | -38.1% | -19.9% |
+| Ruud Gullit | 93 | Icons | 7.50M coins | -33.3% | -26.3% |
 | Nemanja Vidić | 89 | Icons | 600k coins | -29.4% | -55.2% |
-| Steven Gerrard | 90 | Icons | 128k coins | -29.3% | -28.9% |
+| Xavi | 91 | Icons | 89k coins | -28.7% | -42% |
+| Kenny Dalglish | 89 | Icons | 194k coins | -28.1% | +26% |
+| Andrea Pirlo | 91 | Icons | 799k coins | -27.4% | -10.3% |
+| Alex Morgan | 91 | Icons | 415k coins | -27.2% | -15.1% |
+| Zico | 91 | Icons | 360k coins | -25.9% | -28.3% |
+| Xavi | 92 | Icons | 157k coins | -25.2% | -46.2% |
 
 
 ### Análise das baixas
 
-- **Didier Drogba (89)** caiu **-50%** em 24h, a **68k coins** (faixa do dia: 68k–145k). Está -37% abaixo da média de 7 dias (descontada).
+- **Gareth Bale (94)** caiu **-41.7%** em 24h, a **3.50M coins** (faixa do dia: 3.50M–6M). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Steven Gerrard (89)** caiu **-47.8%** em 24h, a **70k coins** (faixa do dia: 63k–134k). Está -46% abaixo da média de 7 dias (descontada).
+- **Frank Lampard (87)** caiu **-38.1%** em 24h, a **98k coins** (faixa do dia: 74k–140k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Camille Abily (91)** caiu **-47.7%** em 24h, a **39k coins** (faixa do dia: 39k–80k). Está -36% abaixo da média de 7 dias (descontada).
+- **Ruud Gullit (93)** caiu **-33.3%** em 24h, a **7.50M coins** (faixa do dia: 5.50M–10.50M). Está -29% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Iniesta já avançou 57% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Toni Kroos já avançou 58.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Didier Drogba recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Gareth Bale recuou -41.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Iniesta (92, Icons), com +57% em 24h, a 161k coins no PC.
+Toni Kroos (90, Icons), com +58.9% em 24h, a 146k coins no PC.
 
 **E a maior queda do dia?**
-Didier Drogba (89), -50% em 24h, a 68k coins.
+Gareth Bale (94), -41.7% em 24h, a 3.50M coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 65 cartas em alta contra 70 em queda (média 2.95%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 65 cartas em alta contra 73 em queda (média 5.29%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

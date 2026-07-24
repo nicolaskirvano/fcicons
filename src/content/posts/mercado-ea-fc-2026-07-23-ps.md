@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:56:07.000Z
+pubDatetime: 2026-07-24T01:56:07.000Z
 title: "Mercado EA FC em 23/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Marinette Pichon (90, Icons), com +49.1% em 24h, a 85k coins no Console (PS)."
+    a: "Steffi Jones (89, Icons), com +55.6% em 24h, a 49k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Aya Miyama (87), -41.3% em 24h, a 22k coins."
+    a: "Ronaldo (92), -39.1% em 24h, a 7.50M coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 74 cartas em alta contra 98 em queda (média -0.82%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 94 cartas em alta contra 89 em queda (média 1.23%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **23/07/2026** no Console (PS): dia **indefinido** — sem tendência dominante. **74 valorizações** contra **98 quedas** entre as cartas relevantes, com média de **-0.82%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **23/07/2026** no Console (PS): dia **indefinido** — sem tendência dominante. **94 valorizações** contra **89 quedas** entre as cartas relevantes, com média de **1.23%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Marinette Pichon (90) **+49.1%** · 🔴 **Maior baixa:** Aya Miyama (87) **-41.3%**
+> 🟢 **Maior alta:** Steffi Jones (89) **+55.6%** · 🔴 **Maior baixa:** Ronaldo (92) **-39.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Icons — Console (PS)](/charts/mercado-ea-fc-2026-07-23-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **23/07/2026** no Console (PS): dia **indefinido** — sem tendência 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 90.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.0% entre as cartas que se moveram; o universo observado reúne 193 cartas.
+- **Amplitude do dia:** 94.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.4% entre as cartas que se moveram; o universo observado reúne 196 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marinette Pichon | 90 | Icons | 85k coins | +49.1% | +11.1% |
-| Fernando Torres | 90 | Icons | 579k coins | +45.1% | +11.3% |
-| Edwin van der Sar | 88 | Icons | 100k coins | +39.6% | -8.8% |
-| Paul Scholes | 91 | Icons | 199k coins | +37.2% | +4.7% |
-| Mia Hamm | 93 | Icons | 620k coins | +31.2% | -7.4% |
-| Lev Yashin | 93 | Icons | 130k coins | +29.6% | +5.7% |
-| Kaká | 89 | Icons | 183k coins | +27.1% | -6.1% |
-| Lotta Schelin | 91 | Icons | 262k coins | +26.9% | -23.2% |
-| Petr Čech | 89 | Icons | 79k coins | +23.5% | -18.4% |
-| Homare Sawa | 91 | Icons | 120k coins | +22% | -2.4% |
+| Steffi Jones | 89 | Icons | 49k coins | +55.6% | +63.3% |
+| Fernando Torres | 90 | Icons | 579k coins | +45.1% | +10.3% |
+| Camille Abily | 92 | Icons | 56k coins | +36.6% | -19.4% |
+| Lotta Schelin | 91 | Icons | 293k coins | +36.4% | -18.9% |
+| Eusébio | 92 | Icons | 745k coins | +35.7% | -18.7% |
+| Mia Hamm | 93 | Icons | 499k coins | +26.8% | -16.1% |
+| Bobby Charlton | 92 | Icons | 124k coins | +26.2% | -12.8% |
+| Iniesta | 93 | Icons | 255k coins | +26.1% | -21.7% |
+| Nemanja Vidić | 89 | Icons | 585k coins | +24.7% | +32.4% |
+| Steffi Jones | 91 | Icons | 90k coins | +23.5% | +44.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **23/07/2026** no Console (PS): dia **indefinido** — sem tendência 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Marinette Pichon (90)** subiu **+49.1%** em 24h, a **85k coins** (faixa do dia: 57k–85k). Está +14% acima da média de 7 dias (aquecida).
+- **Steffi Jones (89)** subiu **+55.6%** em 24h, a **49k coins** (faixa do dia: 28k–55k). Está +45% acima da média de 7 dias (aquecida).
 
 - **Fernando Torres (90)** subiu **+45.1%** em 24h, a **579k coins** (faixa do dia: 399k–600k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Edwin van der Sar (88)** subiu **+39.6%** em 24h, a **100k coins** (faixa do dia: 68k–107k). Está em linha com a média de 7 dias (-0%).
+- **Camille Abily (92)** subiu **+36.6%** em 24h, a **56k coins** (faixa do dia: 26k–60k). Está +10% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aya Miyama | 87 | Icons | 22k coins | -41.3% | -22.1% |
-| George Best | 91 | Icons | 270k coins | -32.3% | -38.4% |
-| John Barnes | 89 | Icons | 34k coins | -31.8% | -40.6% |
-| George Best | 90 | Icons | 123k coins | -27.3% | -38.4% |
-| Garrincha | 93 | Icons | 451k coins | -24.7% | -40.2% |
-| Alex Morgan | 93 | Icons | 344k coins | -24.2% | -26.7% |
-| Marcelo | 89 | Icons | 74k coins | -21.5% | -46% |
-| Jairzinho | 94 | Icons | 385k coins | -21.4% | -19.8% |
-| Robin van Persie | 88 | Icons | 85k coins | -21.3% | -5.6% |
-| Homare Sawa | 92 | Icons | 433k coins | -21.1% | -11.6% |
+| Ronaldo | 92 | Icons | 7.50M coins | -39.1% | -44.4% |
+| Franco Baresi | 92 | Icons | 199k coins | -37.4% | -35.8% |
+| Gheorghe Hagi | 90 | Icons | 78k coins | -37.1% | -11.7% |
+| Samuel Eto'o | 90 | Icons | 310k coins | -34.6% | -29.7% |
+| Wayne Rooney | 92 | Icons | 208k coins | -34% | -23.8% |
+| George Best | 90 | Icons | 135k coins | -30.4% | -30.1% |
+| Johan Cruyff | 94 | Icons | 458k coins | -28.7% | -21.9% |
+| Alex Morgan | 91 | Icons | 750k coins | -26.4% | -58.3% |
+| Aya Miyama | 91 | Icons | 96k coins | -25.8% | +19.9% |
+| Alex Morgan | 93 | Icons | 295k coins | -25.6% | -21.6% |
 
 
 ### Análise das baixas
 
-- **Aya Miyama (87)** caiu **-41.3%** em 24h, a **22k coins** (faixa do dia: 21k–38k). Está -12% abaixo da média de 7 dias (descontada).
+- **Ronaldo (92)** caiu **-39.1%** em 24h, a **7.50M coins** (faixa do dia: 7.35M–12.46M). Está -33% abaixo da média de 7 dias (descontada).
 
-- **George Best (91)** caiu **-32.3%** em 24h, a **270k coins** (faixa do dia: 184k–282k). Está em linha com a média de 7 dias (-4%).
+- **Franco Baresi (92)** caiu **-37.4%** em 24h, a **199k coins** (faixa do dia: 180k–360k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **John Barnes (89)** caiu **-31.8%** em 24h, a **34k coins** (faixa do dia: 30k–52k). Está -46% abaixo da média de 7 dias (descontada).
+- **Gheorghe Hagi (90)** caiu **-37.1%** em 24h, a **78k coins** (faixa do dia: 74k–130k). Está em linha com a média de 7 dias (-6%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Marinette Pichon já avançou 49.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Steffi Jones já avançou 55.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Aya Miyama recuou -41.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ronaldo recuou -39.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Marinette Pichon (90, Icons), com +49.1% em 24h, a 85k coins no Console (PS).
+Steffi Jones (89, Icons), com +55.6% em 24h, a 49k coins no Console (PS).
 
 **E a maior queda do dia?**
-Aya Miyama (87), -41.3% em 24h, a 22k coins.
+Ronaldo (92), -39.1% em 24h, a 7.50M coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 74 cartas em alta contra 98 em queda (média -0.82%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 94 cartas em alta contra 89 em queda (média 1.23%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

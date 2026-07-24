@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:56:09.000Z
+pubDatetime: 2026-07-24T01:56:09.000Z
 title: "Investimentos EA FC: Icons em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Aya Miyama (90, Icons) lidera, com +61.3% em 7 dias a 116k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Bobby Moore (90, Icons) lidera, com +72.1% em 7 dias a 98k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Aya Miyama (90) acumula **+61.3% em 7 dias** a 116k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Bobby Moore (90) acumula **+72.1% em 7 dias** a 98k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.0% em 24h** e **+21.3% em 7 dias**.
-- **1 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+10.0% em 24h** e **+30.1% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Aya Miyama | 90 | Icons | 116k coins | +8.7% | +61.3% | Esticada |
-| Bobby Moore | 90 | Icons | 98k coins | +2% | +51.5% | Momentum moderado |
-| Roberto Baggio | 91 | Icons | 116k coins | +16% | +28.2% | Momentum moderado |
-| Franco Baresi | 91 | Icons | 105k coins | +17.9% | +26.9% | Momentum moderado |
-| Lotta Schelin | 90 | Icons | 99k coins | +11.8% | +25.3% | Momentum moderado |
-| Marco van Basten | 91 | Icons | 86k coins | +7.8% | +23.6% | Momentum moderado |
-| Toni Kroos | 90 | Icons | 92k coins | +14.5% | +22.4% | Momentum moderado |
-| Toni Kroos | 90 | Icons | 98k coins | +17.1% | +21.3% | Momentum moderado |
-| Aya Miyama | 91 | Icons | 96k coins | +9% | +19.9% | Momentum moderado |
-| Gabriel Batistuta | 89 | Icons | 80k coins | +8.1% | +10.3% | Momentum moderado |
-| Carlos Alberto | 91 | Icons | 139k coins | +8.3% | +10% | Momentum moderado |
-| Hernán Crespo | 86 | Icons | 65k coins | +10% | +9.2% | Momentum moderado |
-| Davor Šuker | 87 | Icons | 84k coins | +11.4% | +8.9% | Momentum moderado |
-| Luís Figo | 89 | Icons | 78k coins | +7.6% | +8.4% | Momentum moderado |
-| Michaël Essien | 86 | Icons | 84k coins | +6% | +8.2% | Momentum moderado |
+| Bobby Moore | 90 | Icons | 98k coins | +3.5% | +72.1% | Esticada |
+| Roberto Baggio | 91 | Icons | 125k coins | +9.6% | +47.1% | Momentum moderado |
+| Steffi Jones | 91 | Icons | 90k coins | +23.5% | +44.9% | Esticada |
+| Alessandro Del Piero | 90 | Icons | 110k coins | +3.8% | +36.6% | Momentum moderado |
+| Marco van Basten | 91 | Icons | 106k coins | +6% | +35.5% | Momentum moderado |
+| Franco Baresi | 91 | Icons | 106k coins | +7% | +34.6% | Momentum moderado |
+| Toni Kroos | 90 | Icons | 109k coins | +21.3% | +31.7% | Esticada |
+| Oliver Kahn | 91 | Icons | 135k coins | +21.8% | +30.1% | Esticada |
+| Casillas | 90 | Icons | 89k coins | +22.9% | +23.6% | Esticada |
+| Luís Figo | 90 | Icons | 45k coins | +1.7% | +20% | Entrada a observar |
+| Xavi | 91 | Icons | 111k coins | +13.3% | +11% | Momentum moderado |
+| Kaká | 89 | Icons | 169k coins | +20.6% | +10.7% | Esticada |
+| Rivaldo | 91 | Icons | 110k coins | +10% | +10.6% | Momentum moderado |
+| Geoff Hurst | 88 | Icons | 75k coins | +9.8% | +9.8% | Momentum moderado |
+| Sissi | 86 | Icons | 74k coins | +13.1% | +9.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Aya Miyama (90)** — 116k coins, **+61.3% em 7 dias** (+8.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bobby Moore (90)** — 98k coins, **+72.1% em 7 dias** (+3.5% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bobby Moore (90)** — 98k coins, **+51.5% em 7 dias** (+2% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roberto Baggio (91)** — 125k coins, **+47.1% em 7 dias** (+9.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Roberto Baggio (91)** — 116k coins, **+28.2% em 7 dias** (+16% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (91)** — 90k coins, **+44.9% em 7 dias** (+23.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Franco Baresi (91)** — 105k coins, **+26.9% em 7 dias** (+17.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Del Piero (90)** — 110k coins, **+36.6% em 7 dias** (+3.8% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lotta Schelin (90)** — 99k coins, **+25.3% em 7 dias** (+11.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marco van Basten (91)** — 106k coins, **+35.5% em 7 dias** (+6% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Aya Miyama (90, Icons) lidera, com +61.3% em 7 dias a 116k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Bobby Moore (90, Icons) lidera, com +72.1% em 7 dias a 98k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
