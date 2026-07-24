@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emmanuel Petit</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bastian Schweinsteiger</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+72.2%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hristo Stoichkov</text>
-<rect x="285" y="153" width="365" height="28" rx="7" fill="#22c55e"/>
-<text x="660" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.9%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bastian Schweinsteiger</text>
-<rect x="285" y="211" width="319" height="28" rx="7" fill="#22c55e"/>
-<text x="614" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marinette Pichon</text>
-<rect x="285" y="269" width="310" height="28" rx="7" fill="#22c55e"/>
-<text x="605" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">David Beckham</text>
-<rect x="285" y="327" width="291" height="28" rx="7" fill="#22c55e"/>
-<text x="586" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pavel Nedvěd</text>
-<rect x="285" y="385" width="291" height="28" rx="7" fill="#22c55e"/>
-<text x="586" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Laurent Blanc</text>
+<rect x="285" y="153" width="406" height="28" rx="7" fill="#22c55e"/>
+<text x="701" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+67.7%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hristo Stoichkov</text>
+<rect x="285" y="211" width="349" height="28" rx="7" fill="#22c55e"/>
+<text x="644" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Franco Baresi</text>
+<rect x="285" y="269" width="185" height="28" rx="7" fill="#22c55e"/>
+<text x="480" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">John Barnes</text>
+<rect x="285" y="327" width="143" height="28" rx="7" fill="#22c55e"/>
+<text x="438" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oliver Kahn</text>
+<rect x="285" y="385" width="136" height="28" rx="7" fill="#22c55e"/>
+<text x="431" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.7%</text>
 </svg>
