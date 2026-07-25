@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:56:08.000Z
+pubDatetime: 2026-07-25T13:56:08.000Z
 title: "Mercado EA FC em 25/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Paul Scholes (91, Icons), com +52.6% em 24h, a 174k coins no Console (PS)."
+    a: "Bobby Moore (91, Icons), com +59.4% em 24h, a 556k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Nemanja Vidić (87), -48% em 24h, a 66k coins."
+    a: "Paolo Maldini (92), -46.3% em 24h, a 163k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 35 cartas em alta contra 137 em queda (média -17.55%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 39 cartas em alta contra 129 em queda (média -16.43%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **35 subiram** e **137 caíram**, com variação média de **-17.55%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **39 subiram** e **129 caíram**, com variação média de **-16.43%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Paul Scholes (91) **+52.6%** · 🔴 **Maior baixa:** Nemanja Vidić (87) **-48%**
+> 🟢 **Maior alta:** Bobby Moore (91) **+59.4%** · 🔴 **Maior baixa:** Paolo Maldini (92) **-46.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Icons — Console (PS)](/charts/mercado-ea-fc-2026-07-25-ps.svg)
 
@@ -35,24 +35,24 @@ Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 20.3% entre as cartas que se moveram; o universo observado reúne 190 cartas.
+- **Amplitude do dia:** 105.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 23.2% entre as cartas que se moveram; o universo observado reúne 182 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paul Scholes | 91 | Icons | 174k coins | +52.6% | +16% |
-| Eric Cantona | 89 | Icons | 100k coins | +43.7% | -7.3% |
-| Luis Hernández | 86 | Icons | 103k coins | +39.1% | +36.4% |
-| Raúl | 90 | Icons | 146k coins | +33.9% | +1.4% |
-| Franco Baresi | 92 | Icons | 261k coins | +26.2% | -8.1% |
-| Zico | 92 | Icons | 287k coins | +22.1% | -0.3% |
-| Hugo Sánchez | 89 | Icons | 84k coins | +20% | -2.1% |
-| Homare Sawa | 91 | Icons | 113k coins | +17.8% | -0.8% |
-| Zinedine Zidane | 94 | Icons | 520k coins | +17.6% | -29.2% |
-| Ronaldinho | 94 | Icons | 1.39M coins | +17.1% | -7.1% |
+| Bobby Moore | 91 | Icons | 556k coins | +59.4% | +4.7% |
+| Zico | 92 | Icons | 330k coins | +56.4% | +15.1% |
+| Paul Scholes | 91 | Icons | 172k coins | +54.2% | -4.5% |
+| Toni Kroos | 91 | Icons | 275k coins | +52.6% | +34.9% |
+| Lotta Schelin | 91 | Icons | 330k coins | +47.9% | +16.8% |
+| Zinedine Zidane | 94 | Icons | 500k coins | +34.3% | -23.9% |
+| Franco Baresi | 92 | Icons | 224k coins | +30.4% | -20.7% |
+| Dennis Bergkamp | 93 | Icons | 220k coins | +30% | +32.9% |
+| Steven Gerrard | 90 | Icons | 209k coins | +25.2% | -4.3% |
+| Lilian Thuram | 93 | Icons | 425k coins | +21.4% | -23.9% |
 
 
 ### Análise das altas
@@ -61,36 +61,36 @@ Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Paul Scholes (91)** subiu **+52.6%** em 24h, a **174k coins** (faixa do dia: 86k–180k). Está em linha com a média de 7 dias (+4%).
+- **Bobby Moore (91)** subiu **+59.4%** em 24h, a **556k coins** (faixa do dia: 200k–649k). Está +42% acima da média de 7 dias (aquecida).
 
-- **Eric Cantona (89)** subiu **+43.7%** em 24h, a **100k coins** (faixa do dia: 68k–120k). Está em linha com a média de 7 dias (-2%).
+- **Zico (92)** subiu **+56.4%** em 24h, a **330k coins** (faixa do dia: 136k–344k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Luis Hernández (86)** subiu **+39.1%** em 24h, a **103k coins** (faixa do dia: 65k–107k). Está +35% acima da média de 7 dias (aquecida).
+- **Paul Scholes (91)** subiu **+54.2%** em 24h, a **172k coins** (faixa do dia: 86k–180k). Está em linha com a média de 7 dias (+3%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nemanja Vidić | 87 | Icons | 66k coins | -48% | -38.3% |
-| Samuel Eto'o | 89 | Icons | 120k coins | -46.2% | -47.2% |
-| Juan Román Riquelme | 89 | Icons | 301k coins | -45.9% | -25.1% |
-| Eusébio | 92 | Icons | 400k coins | -42.2% | -44.4% |
-| Franck Ribéry | 88 | Icons | 94k coins | -41.6% | -39.4% |
-| Zico | 87 | Icons | 54k coins | -40.7% | -48.6% |
-| Ruud Gullit | 90 | Icons | 1.06M coins | -39% | -60.4% |
-| Fernando Torres | 87 | Icons | 112k coins | -37.7% | -31.4% |
-| Iniesta | 92 | Icons | 140k coins | -37.2% | -36.7% |
-| Pelé | 95 | Icons | 141k coins | -37% | -52.3% |
+| Paolo Maldini | 92 | Icons | 163k coins | -46.3% | -62.3% |
+| Eusébio | 91 | Icons | 290k coins | -44.5% | -50.3% |
+| Samuel Eto'o | 89 | Icons | 125k coins | -43.5% | -45.4% |
+| Juan Román Riquelme | 89 | Icons | 297k coins | -43.5% | -22.5% |
+| Ruud Gullit | 90 | Icons | 950k coins | -42% | -59.8% |
+| Iniesta | 92 | Icons | 123k coins | -41.7% | -43.6% |
+| Dunga | 89 | Icons | 52k coins | -39.4% | -62.1% |
+| Zlatan Ibrahimović | 93 | Icons | 2.64M coins | -38.7% | -60.5% |
+| David Beckham | 89 | Icons | 29k coins | -38.5% | -30.2% |
+| Davor Šuker | 87 | Icons | 66k coins | -36.5% | 0% |
 
 
 ### Análise das baixas
 
-- **Nemanja Vidić (87)** caiu **-48%** em 24h, a **66k coins** (faixa do dia: 66k–136k). Está -42% abaixo da média de 7 dias (descontada).
+- **Paolo Maldini (92)** caiu **-46.3%** em 24h, a **163k coins** (faixa do dia: 114k–299k). Está -50% abaixo da média de 7 dias (descontada).
 
-- **Samuel Eto'o (89)** caiu **-46.2%** em 24h, a **120k coins** (faixa do dia: 104k–216k). Está -45% abaixo da média de 7 dias (descontada).
+- **Eusébio (91)** caiu **-44.5%** em 24h, a **290k coins** (faixa do dia: 237k–549k). Está -47% abaixo da média de 7 dias (descontada).
 
-- **Juan Román Riquelme (89)** caiu **-45.9%** em 24h, a **301k coins** (faixa do dia: 258k–600k). Está -34% abaixo da média de 7 dias (descontada).
+- **Samuel Eto'o (89)** caiu **-43.5%** em 24h, a **125k coins** (faixa do dia: 104k–210k). Está -42% abaixo da média de 7 dias (descontada).
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -99,14 +99,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| John Barnes | 89 | 22k coins | -2.3% |
+| John Barnes | 89 | 19.500 coins | -2.3% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Paul Scholes já avançou 52.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Bobby Moore já avançou 59.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Nemanja Vidić recuou -48%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Paolo Maldini recuou -46.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +118,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Paul Scholes (91, Icons), com +52.6% em 24h, a 174k coins no Console (PS).
+Bobby Moore (91, Icons), com +59.4% em 24h, a 556k coins no Console (PS).
 
 **E a maior queda do dia?**
-Nemanja Vidić (87), -48% em 24h, a 66k coins.
+Paolo Maldini (92), -46.3% em 24h, a 163k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 35 cartas em alta contra 137 em queda (média -17.55%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 39 cartas em alta contra 129 em queda (média -16.43%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

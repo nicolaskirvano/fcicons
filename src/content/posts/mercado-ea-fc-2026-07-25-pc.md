@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:56:17.000Z
+pubDatetime: 2026-07-25T13:56:18.000Z
 title: "Mercado EA FC em 25/07: Icons — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Rivaldo (90, Icons), com +54.8% em 24h, a 116k coins no PC."
+    a: "Diego Armando Maradona (95, Icons), com +45.8% em 24h, a 1.39M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Camille Abily (91), -50% em 24h, a 30k coins."
+    a: "Hristo Stoichkov (89), -47.7% em 24h, a 68k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 49 cartas em alta contra 95 em queda (média -9.63%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 36 cartas em alta contra 100 em queda (média -15.91%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **49 subiram** e **95 caíram**, com variação média de **-9.63%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **36 subiram** e **100 caíram**, com variação média de **-15.91%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Rivaldo (90) **+54.8%** · 🔴 **Maior baixa:** Camille Abily (91) **-50%**
+> 🟢 **Maior alta:** Diego Armando Maradona (95) **+45.8%** · 🔴 **Maior baixa:** Hristo Stoichkov (89) **-47.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Icons — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,24 +35,24 @@ Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 34.0% entre as cartas que se moveram; o universo observado reúne 180 cartas.
+- **Amplitude do dia:** 93.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 26.5% entre as cartas que se moveram; o universo observado reúne 179 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rivaldo | 90 | Icons | 116k coins | +54.8% | +9.1% |
-| Gianluca Zambrotta | 86 | Icons | 142k coins | +54.3% | +24.6% |
-| Thierry Henry | 91 | Icons | 2.30M coins | +53.4% | -17.9% |
-| Thierry Henry | 93 | Icons | 2.20M coins | +52.4% | +4.8% |
-| Pavel Nedvěd | 88 | Icons | 96k coins | +51.5% | +53.3% |
-| Carlos Alberto | 91 | Icons | 130k coins | +50.4% | -6.9% |
-| Julie Foudy | 88 | Icons | 28k coins | +47.4% | +30.2% |
-| Fernando Torres | 87 | Icons | 240k coins | +41.2% | +54.8% |
-| Mia Hamm | 94 | Icons | 1.10M coins | +36.5% | +15.5% |
-| Franco Baresi | 91 | Icons | 84k coins | +36% | +97.1% |
+| Diego Armando Maradona | 95 | Icons | 1.39M coins | +45.8% | -55.9% |
+| Jairzinho | 89 | Icons | 430k coins | +40% | +40% |
+| Gennaro Gattuso | 86 | Icons | 94k coins | +33.3% | +8.5% |
+| Pavel Nedvěd | 88 | Icons | 109k coins | +30.6% | +33.7% |
+| Ferenc Puskás | 92 | Icons | 190k coins | +26.7% | -38.7% |
+| Toni Kroos | 90 | Icons | 110k coins | +26.3% | +61.1% |
+| Bastian Schweinsteiger | 89 | Icons | 180k coins | +21.6% | +30.4% |
+| Gabriel Batistuta | 92 | Icons | 500k coins | +16.3% | -6.2% |
+| Kelly Smith | 89 | Icons | 78k coins | +15.8% | -10.6% |
+| Johan Cruyff | 94 | Icons | 950k coins | +11.8% | +59.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rivaldo (90)** subiu **+54.8%** em 24h, a **116k coins** (faixa do dia: 70k–128k). Está em linha com a média de 7 dias (-5%).
+- **Diego Armando Maradona (95)** subiu **+45.8%** em 24h, a **1.39M coins** (faixa do dia: 1M–15M). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Gianluca Zambrotta (86)** subiu **+54.3%** em 24h, a **142k coins** (faixa do dia: 86k–160k). Está +21% acima da média de 7 dias (aquecida).
+- **Jairzinho (89)** subiu **+40%** em 24h, a **430k coins** (faixa do dia: 150k–440k). Está +28% acima da média de 7 dias (aquecida).
 
-- **Thierry Henry (91)** subiu **+53.4%** em 24h, a **2.30M coins** (faixa do dia: 1.04M–2.79M). Está em linha com a média de 7 dias (-3%).
+- **Gennaro Gattuso (86)** subiu **+33.3%** em 24h, a **94k coins** (faixa do dia: 82k–108k). Está em linha com a média de 7 dias (-1%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Camille Abily | 91 | Icons | 30k coins | -50% | -50% |
-| Homare Sawa | 91 | Icons | 74k coins | -50% | -48.6% |
-| Marco van Basten | 91 | Icons | 105k coins | -49% | -3.6% |
-| Franz Beckenbauer | 92 | Icons | 109k coins | -47.3% | -28.8% |
-| Kaká | 89 | Icons | 273k coins | -46.8% | -46.8% |
-| Dunga | 87 | Icons | 66k coins | -45.5% | 0% |
-| Peter Schmeichel | 89 | Icons | 69k coins | -45.4% | -20.7% |
-| Eusébio | 91 | Icons | 500k coins | -44.4% | -33.3% |
-| Fabio Cannavaro | 89 | Icons | 125k coins | -43.1% | +15.3% |
-| Samuel Eto'o | 90 | Icons | 400k coins | -42.8% | -35.1% |
+| Hristo Stoichkov | 89 | Icons | 68k coins | -47.7% | -23.3% |
+| Paolo Maldini | 92 | Icons | 186k coins | -46.9% | -53.4% |
+| Nemanja Vidić | 87 | Icons | 133k coins | -44.2% | +21.8% |
+| Lev Yashin | 92 | Icons | 70k coins | -44% | -53.4% |
+| Eric Cantona | 89 | Icons | 107k coins | -42.9% | -44% |
+| Lothar Matthäus | 90 | Icons | 98k coins | -42.1% | -24.7% |
+| Peter Schmeichel | 89 | Icons | 68k coins | -41.8% | -23.3% |
+| Dunga | 87 | Icons | 66k coins | -41.1% | 0% |
+| Giorgio Chiellini | 88 | Icons | 76k coins | -41% | -2.5% |
+| Gareth Bale | 88 | Icons | 463k coins | -40.8% | -58.8% |
 
 
 ### Análise das baixas
 
-- **Camille Abily (91)** caiu **-50%** em 24h, a **30k coins** (faixa do dia: 30k–80k). Está -50% abaixo da média de 7 dias (descontada).
+- **Hristo Stoichkov (89)** caiu **-47.7%** em 24h, a **68k coins** (faixa do dia: 68k–141k). Está -40% abaixo da média de 7 dias (descontada).
 
-- **Homare Sawa (91)** caiu **-50%** em 24h, a **74k coins** (faixa do dia: 74k–146k). Está -58% abaixo da média de 7 dias (descontada).
+- **Paolo Maldini (92)** caiu **-46.9%** em 24h, a **186k coins** (faixa do dia: 186k–399k). Está -54% abaixo da média de 7 dias (descontada).
 
-- **Marco van Basten (91)** caiu **-49%** em 24h, a **105k coins** (faixa do dia: 69k–220k). Está em linha com a média de 7 dias (-2%).
+- **Nemanja Vidić (87)** caiu **-44.2%** em 24h, a **133k coins** (faixa do dia: 133k–240k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Rivaldo já avançou 54.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Diego Armando Maradona já avançou 45.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Camille Abily recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Hristo Stoichkov recuou -47.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Rivaldo (90, Icons), com +54.8% em 24h, a 116k coins no PC.
+Diego Armando Maradona (95, Icons), com +45.8% em 24h, a 1.39M coins no PC.
 
 **E a maior queda do dia?**
-Camille Abily (91), -50% em 24h, a 30k coins.
+Hristo Stoichkov (89), -47.7% em 24h, a 68k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 49 cartas em alta contra 95 em queda (média -9.63%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 36 cartas em alta contra 100 em queda (média -15.91%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
