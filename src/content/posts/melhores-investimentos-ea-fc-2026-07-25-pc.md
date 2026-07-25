@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:45:16.000Z
+pubDatetime: 2026-07-25T10:56:19.000Z
 title: "Investimentos EA FC: Icons em 25/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.1% em 24h** e **+30.4% em 7 dias**.
-- **5 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.3% em 24h** e **+24.7% em 7 dias**.
+- **5 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,11 +44,12 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Laurent Blanc | 88 | Icons | 140k coins | +4.5% | +85.4% | Esticada |
-| Hristo Stoichkov | 89 | Icons | 109k coins | +21.9% | +68.9% | Esticada |
-| Oliver Kahn | 91 | Icons | 118k coins | +23.5% | +35.2% | Esticada |
+| Hristo Stoichkov | 89 | Icons | 68k coins | +21.9% | +68.9% | Esticada |
 | Zico | 87 | Icons | 153k coins | +9.7% | +30.8% | Momentum moderado |
 | Caroline Seger | 90 | Icons | 89k coins | +30% | +30% | Esticada |
+| Oliver Kahn | 91 | Icons | 114k coins | +23.5% | +24.7% | Esticada |
 | Sol Campbell | 86 | Icons | 73k coins | +12.3% | +12.3% | Momentum moderado |
+| Ian Wright | 87 | Icons | 72k coins | +9.1% | +9.1% | Momentum moderado |
 | Gennaro Gattuso | 86 | Icons | 97k coins | +30% | +7.1% | Esticada |
 | Henrik Larsson | 86 | Icons | 67k coins | +6.2% | +6.2% | Momentum moderado |
 
@@ -57,13 +58,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Laurent Blanc (88)** — 140k coins, **+85.4% em 7 dias** (+4.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hristo Stoichkov (89)** — 109k coins, **+68.9% em 7 dias** (+21.9% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Oliver Kahn (91)** — 118k coins, **+35.2% em 7 dias** (+23.5% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hristo Stoichkov (89)** — 68k coins, **+68.9% em 7 dias** (+21.9% em 24h). Preço -41% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Zico (87)** — 153k coins, **+30.8% em 7 dias** (+9.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Caroline Seger (90)** — 89k coins, **+30% em 7 dias** (+30% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Oliver Kahn (91)** — 114k coins, **+24.7% em 7 dias** (+23.5% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

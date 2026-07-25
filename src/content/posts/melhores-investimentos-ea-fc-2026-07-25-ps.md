@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:45:07.000Z
+pubDatetime: 2026-07-25T10:56:09.000Z
 title: "Investimentos EA FC: Icons em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.2% em 24h** e **+9.9% em 7 dias**.
+- A mediana é de **+8.2% em 24h** e **+9.9% em 7 dias**.
 - **1 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -48,9 +48,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Geoff Hurst | 88 | Icons | 72k coins | +11.1% | +12.8% | Momentum moderado |
 | Marco van Basten | 91 | Icons | 105k coins | +8.2% | +10.5% | Momentum moderado |
 | Didier Drogba | 89 | Icons | 74k coins | +10.1% | +9.4% | Momentum moderado |
-| Xabi Alonso | 87 | Icons | 79k coins | +13.1% | +9.2% | Momentum moderado |
-| Laurent Blanc | 88 | Icons | 91k coins | +2.7% | +7.3% | Entrada a observar |
 | Robert Pirès | 87 | Icons | 70k coins | +6.8% | +6.8% | Momentum moderado |
+| Laurent Blanc | 88 | Icons | 90k coins | +2.7% | +6.1% | Entrada a observar |
+| Rivaldo | 90 | Icons | 97k coins | +4.8% | +5.3% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
