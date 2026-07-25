@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T19:56:11.000Z
+pubDatetime: 2026-07-25T22:56:10.000Z
 title: "Jogadores baratos EA FC: Icons em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 12.000 coins.
+- **Preço médio das 10 opções:** 12.025 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
 - **Faixa real:** 11.250 a 14.000 coins; nenhuma carta custa 15 mil.
 
@@ -44,11 +44,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lev Yashin | 93 | GK | Icons | 14.000 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
+| Aya Miyama | 92 | LM | Icons | 12.250 coins | -6.7% |
 | Aya Miyama | 91 | LM | Icons | 11.500 coins | 0% |
-| Steffi Jones | 91 | CB | Icons | 11.500 coins | -6.1% |
+| Steffi Jones | 91 | CB | Icons | 11.500 coins | -4.2% |
 | Dennis Bergkamp | 91 | ST | Icons | 11.750 coins | 0% |
-| Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | -13.5% |
-| Geoff Hurst | 90 | ST | Icons | 11.250 coins | -6.2% |
+| Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | -4.3% |
+| Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
 
 
 ## 📈 Destaques
@@ -61,7 +62,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aya Miyama (91, LM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aya Miyama (92, LM)** da Icons, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca

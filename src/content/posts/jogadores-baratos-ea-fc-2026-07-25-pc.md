@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T19:56:20.000Z
+pubDatetime: 2026-07-25T22:56:19.000Z
 title: "Jogadores baratos EA FC: Icons em 25/07 — PC"
 draft: false
 featured: false
@@ -47,7 +47,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Aya Miyama | 91 | LM | Icons | 11.500 coins | 0% |
 | Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | -2.2% |
+| Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
 
 
