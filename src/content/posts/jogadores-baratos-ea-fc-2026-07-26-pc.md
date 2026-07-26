@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T13:56:19.000Z
+pubDatetime: 2026-07-26T16:56:20.000Z
 title: "Jogadores baratos EA FC: Icons em 26/07 — PC"
 draft: false
 featured: false
@@ -49,7 +49,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
-| Davor Šuker | 89 | ST | Icons | 11.250 coins | -6.2% |
+| Davor Šuker | 89 | ST | Icons | 11.250 coins | 0% |
 
 
 ## 📈 Destaques
@@ -108,6 +108,7 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Icons em 26/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-26-pc/)
 - [Mercado EA FC em 26/07: Icons — PC](/posts/mercado-ea-fc-2026-07-26-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

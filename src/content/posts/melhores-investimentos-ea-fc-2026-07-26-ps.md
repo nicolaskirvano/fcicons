@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T13:56:09.000Z
+pubDatetime: 2026-07-26T16:56:09.000Z
 title: "Investimentos EA FC: Icons em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Ian Wright (87, Icons) lidera, com +17.4% em 7 dias a 78k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Steffi Jones (89, Icons) lidera, com +33.3% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ian Wright (87) acumula **+17.4% em 7 dias** a 78k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Steffi Jones (89) acumula **+33.3% em 7 dias** a 60k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.0% em 24h** e **+7.6% em 7 dias**.
-- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.9% em 24h** e **+15.4% em 7 dias**.
+- **0 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ian Wright | 87 | Icons | 78k coins | +17.4% | +17.4% | Momentum moderado |
-| Cha Bum Kun | 86 | Icons | 78k coins | +20% | +11.4% | Esticada |
-| Marcel Desailly | 88 | Icons | 74k coins | +12% | +8% | Momentum moderado |
-| Davor Šuker | 87 | Icons | 70k coins | +7.6% | +7.6% | Momentum moderado |
-| Bastian Schweinsteiger | 88 | Icons | 69k coins | +6.8% | +6.8% | Momentum moderado |
-| Cafu | 91 | Icons | 129k coins | +20.2% | +6.4% | Esticada |
-| Michael Owen | 88 | Icons | 66k coins | +6.8% | +5.2% | Momentum moderado |
+| Steffi Jones | 89 | Icons | 60k coins | +12.9% | +33.3% | Momentum moderado |
+| Didier Drogba | 89 | Icons | 80k coins | +17.8% | +17.8% | Momentum moderado |
+| Ian Wright | 87 | Icons | 72k coins | +12.9% | +12.9% | Momentum moderado |
+| Davor Šuker | 87 | Icons | 69k coins | +5.3% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ian Wright (87)** — 78k coins, **+17.4% em 7 dias** (+17.4% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (89)** — 60k coins, **+33.3% em 7 dias** (+12.9% em 24h). Preço +63% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cha Bum Kun (86)** — 78k coins, **+11.4% em 7 dias** (+20% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Didier Drogba (89)** — 80k coins, **+17.8% em 7 dias** (+17.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcel Desailly (88)** — 74k coins, **+8% em 7 dias** (+12% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ian Wright (87)** — 72k coins, **+12.9% em 7 dias** (+12.9% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Davor Šuker (87)** — 70k coins, **+7.6% em 7 dias** (+7.6% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Bastian Schweinsteiger (88)** — 69k coins, **+6.8% em 7 dias** (+6.8% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Davor Šuker (87)** — 69k coins, **+5.3% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +75,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Ian Wright (87, Icons) lidera, com +17.4% em 7 dias a 78k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Steffi Jones (89, Icons) lidera, com +33.3% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
