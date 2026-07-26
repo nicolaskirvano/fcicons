@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:56:07.000Z
+pubDatetime: 2026-07-26T13:56:07.000Z
 title: "Mercado EA FC em 26/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Camille Abily (90, Icons), com +58.8% em 24h, a 108k coins no Console (PS)."
+    a: "Robert Pirès (89, Icons), com +55.1% em 24h, a 38k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Eusébio (92), -40.9% em 24h, a 269k coins."
+    a: "Johan Cruyff (94), -40.9% em 24h, a 430k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 128 cartas em alta contra 60 em queda (média 15.92%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 63 cartas em alta contra 43 em queda (média 5.93%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **26/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **128 em alta** e **60 em queda**, média de **15.92%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **26/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **63 em alta** e **43 em queda**, média de **5.93%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Camille Abily (90) **+58.8%** · 🔴 **Maior baixa:** Eusébio (92) **-40.9%**
+> 🟢 **Maior alta:** Robert Pirès (89) **+55.1%** · 🔴 **Maior baixa:** Johan Cruyff (94) **-40.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Icons — Console (PS)](/charts/mercado-ea-fc-2026-07-26-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **26/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 99.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 68.1% entre as cartas que se moveram; o universo observado reúne 233 cartas.
+- **Amplitude do dia:** 96.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 59.4% entre as cartas que se moveram; o universo observado reúne 149 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Camille Abily | 90 | Icons | 108k coins | +58.8% | +35% |
-| Pavel Nedvěd | 89 | Icons | 310k coins | +55% | +12.3% |
-| Petr Čech | 89 | Icons | 91k coins | +54.2% | -2.7% |
-| Gareth Bale | 88 | Icons | 529k coins | +53.8% | -7% |
-| Alex Morgan | 91 | Icons | 242k coins | +53.2% | -9.7% |
-| Nemanja Vidić | 87 | Icons | 109k coins | +52.4% | -1.8% |
-| Andrea Pirlo | 90 | Icons | 119k coins | +48.8% | -11.2% |
-| Gabriel Batistuta | 92 | Icons | 248k coins | +45.9% | -13% |
-| Gareth Bale | 89 | Icons | 1.09M coins | +45.3% | -14.8% |
-| Edwin van der Sar | 88 | Icons | 167k coins | +45.2% | +67% |
+| Robert Pirès | 89 | Icons | 38k coins | +55.1% | -2.6% |
+| Edwin van der Sar | 88 | Icons | 170k coins | +50.4% | +92.1% |
+| Iniesta | 92 | Icons | 198k coins | +46.7% | -18.2% |
+| Eusébio | 91 | Icons | 378k coins | +45.2% | -32% |
+| Gareth Bale | 88 | Icons | 524k coins | +38.3% | -7.9% |
+| Garrincha | 93 | Icons | 685k coins | +36.2% | +16.7% |
+| Gabriel Batistuta | 92 | Icons | 244k coins | +35.6% | -21.3% |
+| Gareth Bale | 89 | Icons | 979k coins | +33.5% | -21.8% |
+| Fernando Torres | 90 | Icons | 790k coins | +31.7% | +59.6% |
+| Francesco Totti | 89 | Icons | 395k coins | +30.4% | -18.6% |
 
 
 ### Análise das altas
@@ -61,52 +61,43 @@ Panorama de **26/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Camille Abily (90)** subiu **+58.8%** em 24h, a **108k coins** (faixa do dia: 68k–116k). Está +16% acima da média de 7 dias (aquecida).
+- **Robert Pirès (89)** subiu **+55.1%** em 24h, a **38k coins** (faixa do dia: 24k–40k). Está em linha com a média de 7 dias (+5%).
 
-- **Pavel Nedvěd (89)** subiu **+55%** em 24h, a **310k coins** (faixa do dia: 137k–400k). Está em linha com a média de 7 dias (+4%).
+- **Edwin van der Sar (88)** subiu **+50.4%** em 24h, a **170k coins** (faixa do dia: 115k–209k). Está +61% acima da média de 7 dias (aquecida).
 
-- **Petr Čech (89)** subiu **+54.2%** em 24h, a **91k coins** (faixa do dia: 40k–100k). Está +21% acima da média de 7 dias (aquecida).
+- **Iniesta (92)** subiu **+46.7%** em 24h, a **198k coins** (faixa do dia: 120k–214k). Está em linha com a média de 7 dias (-7%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Eusébio | 92 | Icons | 269k coins | -40.9% | -65.1% |
-| Zinedine Zidane | 94 | Icons | 320k coins | -39.8% | -52.2% |
-| Camille Abily | 91 | Icons | 34k coins | -37.3% | -31% |
-| Caroline Seger | 90 | Icons | 40k coins | -36% | -50% |
-| Franz Beckenbauer | 93 | Icons | 378k coins | -33.5% | +9.6% |
-| Johan Cruyff | 94 | Icons | 444k coins | -31.7% | -29.4% |
-| Cha Bum Kun | 88 | Icons | 80k coins | -30.6% | -46.3% |
-| Birgit Prinz | 93 | Icons | 25k coins | -28.4% | -60.5% |
-| Luís Figo | 90 | Icons | 22k coins | -27.7% | -61.6% |
-| Xavi | 93 | Icons | 262k coins | -27.2% | -12.7% |
+| Johan Cruyff | 94 | Icons | 430k coins | -40.9% | -30% |
+| Xavi | 93 | Icons | 247k coins | -31.1% | -17.3% |
+| Rio Ferdinand | 88 | Icons | 292k coins | -30.1% | -32.6% |
+| Thierry Henry | 91 | Icons | 887k coins | -25.7% | -25.2% |
+| Samuel Eto'o | 89 | Icons | 96k coins | -20.7% | -57.4% |
+| Gareth Bale | 94 | Icons | 2.50M coins | -20.6% | +13.8% |
+| Camille Abily | 91 | Icons | 34k coins | -17.8% | -30.5% |
+| Homare Sawa | 91 | Icons | 87k coins | -17.4% | -24.4% |
+| Jairzinho | 94 | Icons | 301k coins | -14.6% | -34.2% |
+| Patrick Vieira | 90 | Icons | 480k coins | -12.7% | -32.9% |
 
 
 ### Análise das baixas
 
-- **Eusébio (92)** caiu **-40.9%** em 24h, a **269k coins** (faixa do dia: 269k–479k). Está -58% abaixo da média de 7 dias (descontada).
+- **Johan Cruyff (94)** caiu **-40.9%** em 24h, a **430k coins** (faixa do dia: 429k–1M). Está -25% abaixo da média de 7 dias (descontada).
 
-- **Zinedine Zidane (94)** caiu **-39.8%** em 24h, a **320k coins** (faixa do dia: 320k–597k). Está -39% abaixo da média de 7 dias (descontada).
+- **Xavi (93)** caiu **-31.1%** em 24h, a **247k coins** (faixa do dia: 209k–389k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Camille Abily (91)** caiu **-37.3%** em 24h, a **34k coins** (faixa do dia: 24k–48k). Está -37% abaixo da média de 7 dias (descontada).
-
-
-## ⚠️ Cuidado: o modelo projeta queda
-
-O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
-
-| Jogador | OVR | Preço atual | Variação prevista |
-| --- | --- | --- | --- |
-| John Barnes | 89 | 16.250 coins | -2.3% |
+- **Rio Ferdinand (88)** caiu **-30.1%** em 24h, a **292k coins** (faixa do dia: 289k–424k). Está -33% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Camille Abily já avançou 58.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Robert Pirès já avançou 55.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Eusébio recuou -40.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Johan Cruyff recuou -40.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Camille Abily (90, Icons), com +58.8% em 24h, a 108k coins no Console (PS).
+Robert Pirès (89, Icons), com +55.1% em 24h, a 38k coins no Console (PS).
 
 **E a maior queda do dia?**
-Eusébio (92), -40.9% em 24h, a 269k coins.
+Johan Cruyff (94), -40.9% em 24h, a 430k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 128 cartas em alta contra 60 em queda (média 15.92%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 63 cartas em alta contra 43 em queda (média 5.93%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

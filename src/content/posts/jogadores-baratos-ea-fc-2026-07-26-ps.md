@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:56:10.000Z
+pubDatetime: 2026-07-26T13:56:10.000Z
 title: "Jogadores baratos EA FC: Icons em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -49,7 +49,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Dennis Bergkamp | 91 | ST | Icons | 11.750 coins | 0% |
 | Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
-| Davor Šuker | 89 | ST | Icons | 11.250 coins | -2.2% |
+| Davor Šuker | 89 | ST | Icons | 11.250 coins | 0% |
 
 
 ## 📈 Destaques
