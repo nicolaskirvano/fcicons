@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:56:10.000Z
+pubDatetime: 2026-07-26T01:56:11.000Z
 title: "Jogadores baratos EA FC: Icons em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 12.025 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
+- **Preço médio das 10 opções:** 11.950 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
 - **Faixa real:** 11.250 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -44,12 +44,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lev Yashin | 93 | GK | Icons | 14.000 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
-| Aya Miyama | 92 | LM | Icons | 12.250 coins | -6.7% |
 | Aya Miyama | 91 | LM | Icons | 11.500 coins | 0% |
-| Steffi Jones | 91 | CB | Icons | 11.500 coins | -4.2% |
+| Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Dennis Bergkamp | 91 | ST | Icons | 11.750 coins | 0% |
-| Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | -4.3% |
+| Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
+| Davor Šuker | 89 | ST | Icons | 11.500 coins | -5.9% |
 
 
 ## 📈 Destaques
@@ -62,7 +62,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aya Miyama (92, LM)** da Icons, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aya Miyama (91, LM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -108,6 +108,7 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Icons em 25/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-25-ps/)
 - [Mercado EA FC em 25/07: Icons — Console (PS)](/posts/mercado-ea-fc-2026-07-25-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
