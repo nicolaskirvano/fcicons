@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:56:10.000Z
+pubDatetime: 2026-07-26T19:56:13.000Z
 title: "Jogadores baratos EA FC: Icons em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 12.000 coins.
+- **Preço médio das 11 opções:** 11.909 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 11.250 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -49,6 +49,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Dennis Bergkamp | 91 | ST | Icons | 11.750 coins | 0% |
 | Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
+| Julie Foudy | 88 | CM | Icons | 11.000 coins | 0% |
+| Aya Miyama | 87 | LM | Icons | 12.000 coins | -11.3% |
 
 
 ## 📈 Destaques
@@ -107,7 +109,6 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Icons em 26/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-26-ps/)
 - [Mercado EA FC em 26/07: Icons — Console (PS)](/posts/mercado-ea-fc-2026-07-26-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
