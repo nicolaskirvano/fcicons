@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T19:56:13.000Z
+pubDatetime: 2026-07-26T22:56:14.000Z
 title: "Jogadores baratos EA FC: Icons em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 11.909 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 11.000 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 13 opções:** 12.096 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 11.250 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,13 +44,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lev Yashin | 93 | GK | Icons | 14.000 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
+| Aya Miyama | 92 | LM | Icons | 14.250 coins | -10.3% |
 | Aya Miyama | 91 | LM | Icons | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Dennis Bergkamp | 91 | ST | Icons | 11.750 coins | 0% |
 | Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
-| Julie Foudy | 88 | CM | Icons | 11.000 coins | 0% |
-| Aya Miyama | 87 | LM | Icons | 12.000 coins | -11.3% |
+| Davor Šuker | 89 | ST | Icons | 11.250 coins | -6.2% |
+| Julie Foudy | 88 | CM | Icons | 12.000 coins | +13.6% |
+| Aya Miyama | 87 | LM | Icons | 11.750 coins | -6% |
 
 
 ## 📈 Destaques
@@ -63,7 +65,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aya Miyama (91, LM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aya Miyama (92, LM)** da Icons, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -109,6 +111,7 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Icons em 26/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-26-ps/)
 - [Mercado EA FC em 26/07: Icons — Console (PS)](/posts/mercado-ea-fc-2026-07-26-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
