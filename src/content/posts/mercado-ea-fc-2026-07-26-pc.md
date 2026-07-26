@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:43:24.000Z
+pubDatetime: 2026-07-26T10:56:17.000Z
 title: "Mercado EA FC em 26/07: Icons — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Henrik Larsson (88), -50% em 24h, a 55k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 75 cartas em alta contra 90 em queda (média 3.19%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 74 cartas em alta contra 91 em queda (média 3.16%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **26/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **75 em alta** e **90 em queda**, média de **3.19%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **26/07/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **74 em alta** e **91 em queda**, média de **3.16%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Lev Yashin (92) **+58.2%** · 🔴 **Maior baixa:** Henrik Larsson (88) **-50%**
 
@@ -36,7 +36,7 @@ Panorama de **26/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 108.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.5% entre as cartas que se moveram; o universo observado reúne 232 cartas.
+- **Participação das altas:** 44.8% entre as cartas que se moveram; o universo observado reúne 232 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -48,11 +48,11 @@ Panorama de **26/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 | Johan Cruyff | 87 | Icons | 199k coins | +57.9% | -44.7% |
 | Paul Scholes | 91 | Icons | 190k coins | +57% | +216.7% |
 | George Best | 90 | Icons | 157k coins | +57% | -8.2% |
-| Johan Cruyff | 94 | Icons | 900k coins | +55.4% | +38.9% |
 | Ronaldo | 92 | Icons | 15M coins | +50% | 0% |
 | Jairzinho | 94 | Icons | 807k coins | +42.3% | +1% |
 | Marinette Pichon | 90 | Icons | 84k coins | +40.8% | +5.6% |
 | Lotta Schelin | 92 | Icons | 390k coins | +40.3% | -1.5% |
+| Andrea Pirlo | 90 | Icons | 210k coins | +40% | +46.9% |
 
 
 ### Análise das altas
@@ -72,9 +72,9 @@ Panorama de **26/07/2026** (PC): mercado **aquecido** — as altas dominam o dia
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Henrik Larsson | 88 | Icons | 55k coins | -50% | -34.9% |
+| Henrik Larsson | 88 | Icons | 55k coins | -50% | -34.1% |
 | Gianfranco Zola | 87 | Icons | 96k coins | -49.2% | +24% |
-| Alex Morgan | 91 | Icons | 900k coins | -47.8% | -52.6% |
+| Alex Morgan | 91 | Icons | 900k coins | -47.8% | -50% |
 | Jairzinho | 89 | Icons | 220k coins | -47.6% | -33.3% |
 | Fabio Cannavaro | 89 | Icons | 68k coins | -47.3% | -43.3% |
 | Roberto Baggio | 91 | Icons | 74k coins | -45.1% | -48.6% |
@@ -115,7 +115,7 @@ Lev Yashin (92, Icons), com +58.2% em 24h, a 121k coins no PC.
 Henrik Larsson (88), -50% em 24h, a 55k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 75 cartas em alta contra 90 em queda (média 3.19%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 74 cartas em alta contra 91 em queda (média 3.16%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

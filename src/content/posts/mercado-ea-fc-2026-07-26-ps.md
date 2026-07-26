@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:43:14.000Z
+pubDatetime: 2026-07-26T10:56:07.000Z
 title: "Mercado EA FC em 26/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Eusébio (92), -40.9% em 24h, a 269k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 127 cartas em alta contra 62 em queda (média 15.7%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 128 cartas em alta contra 60 em queda (média 15.92%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **26/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **127 em alta** e **62 em queda**, média de **15.7%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **26/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **128 em alta** e **60 em queda**, média de **15.92%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Camille Abily (90) **+58.8%** · 🔴 **Maior baixa:** Eusébio (92) **-40.9%**
 
@@ -36,7 +36,7 @@ Panorama de **26/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 99.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 67.2% entre as cartas que se moveram; o universo observado reúne 233 cartas.
+- **Participação das altas:** 68.1% entre as cartas que se moveram; o universo observado reúne 233 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -44,7 +44,7 @@ Panorama de **26/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Camille Abily | 90 | Icons | 108k coins | +58.8% | +35% |
-| Pavel Nedvěd | 89 | Icons | 310k coins | +55% | +3.7% |
+| Pavel Nedvěd | 89 | Icons | 310k coins | +55% | +12.3% |
 | Petr Čech | 89 | Icons | 91k coins | +54.2% | -2.7% |
 | Gareth Bale | 88 | Icons | 529k coins | +53.8% | -7% |
 | Alex Morgan | 91 | Icons | 242k coins | +53.2% | -9.7% |
@@ -52,7 +52,7 @@ Panorama de **26/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 | Andrea Pirlo | 90 | Icons | 119k coins | +48.8% | -11.2% |
 | Gabriel Batistuta | 92 | Icons | 248k coins | +45.9% | -13% |
 | Gareth Bale | 89 | Icons | 1.09M coins | +45.3% | -14.8% |
-| Pelé | 95 | Icons | 207k coins | +44.8% | -29.8% |
+| Edwin van der Sar | 88 | Icons | 167k coins | +45.2% | +67% |
 
 
 ### Análise das altas
@@ -72,11 +72,11 @@ Panorama de **26/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Eusébio | 92 | Icons | 269k coins | -40.9% | -65.9% |
+| Eusébio | 92 | Icons | 269k coins | -40.9% | -65.1% |
 | Zinedine Zidane | 94 | Icons | 320k coins | -39.8% | -52.2% |
 | Camille Abily | 91 | Icons | 34k coins | -37.3% | -31% |
 | Caroline Seger | 90 | Icons | 40k coins | -36% | -50% |
-| Franz Beckenbauer | 93 | Icons | 378k coins | -33.5% | +8.3% |
+| Franz Beckenbauer | 93 | Icons | 378k coins | -33.5% | +9.6% |
 | Johan Cruyff | 94 | Icons | 444k coins | -31.7% | -29.4% |
 | Cha Bum Kun | 88 | Icons | 80k coins | -30.6% | -46.3% |
 | Birgit Prinz | 93 | Icons | 25k coins | -28.4% | -60.5% |
@@ -124,7 +124,7 @@ Camille Abily (90, Icons), com +58.8% em 24h, a 108k coins no Console (PS).
 Eusébio (92), -40.9% em 24h, a 269k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 127 cartas em alta contra 62 em queda (média 15.7%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 128 cartas em alta contra 60 em queda (média 15.92%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
