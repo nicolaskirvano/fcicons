@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T13:56:17.000Z
+pubDatetime: 2026-07-27T16:56:20.000Z
 title: "Mercado EA FC em 27/07: Icons — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Roberto Baggio (91, Icons), com +56.5% em 24h, a 125k coins no PC."
+    a: "Lotta Schelin (90, Icons), com +59.2% em 24h, a 122k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Pavel Nedvěd (89), -46.9% em 24h, a 137k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 59 cartas em alta contra 66 em queda (média 6.19%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 47 cartas em alta contra 83 em queda (média 1.62%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **27/07/2026** no PC com mercado **em alta** — predominam as valorizações: **59 cartas subiram** e **66 caíram** (80+ acima de 5k coins), variação média de **6.19%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **27/07/2026** no PC com mercado **em alta** — predominam as valorizações: **47 cartas subiram** e **83 caíram** (80+ acima de 5k coins), variação média de **1.62%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Roberto Baggio (91) **+56.5%** · 🔴 **Maior baixa:** Pavel Nedvěd (89) **-46.9%**
+> 🟢 **Maior alta:** Lotta Schelin (90) **+59.2%** · 🔴 **Maior baixa:** Pavel Nedvěd (89) **-46.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Icons — PC](/charts/mercado-ea-fc-2026-07-27-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **27/07/2026** no PC com mercado **em alta** — pre
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.2% entre as cartas que se moveram; o universo observado reúne 190 cartas.
+- **Amplitude do dia:** 106.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 36.2% entre as cartas que se moveram; o universo observado reúne 200 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Roberto Baggio | 91 | Icons | 125k coins | +56.5% | +11.5% |
-| Zico | 92 | Icons | 1M coins | +54.3% | +11.1% |
-| Xavi | 92 | Icons | 284k coins | +50.3% | -2.7% |
+| Lotta Schelin | 90 | Icons | 122k coins | +59.2% | -0.8% |
+| Samuel Eto'o | 90 | Icons | 950k coins | +58.3% | +54.2% |
+| Xavi | 92 | Icons | 272k coins | +50.3% | -2.7% |
+| Franck Ribéry | 88 | Icons | 168k coins | +42.4% | -0.6% |
 | Gareth Bale | 89 | Icons | 2.70M coins | +42.1% | -10% |
-| Philipp Lahm | 89 | Icons | 96k coins | +37.8% | +21.6% |
-| Laurent Blanc | 88 | Icons | 127k coins | +36.9% | +16.4% |
-| Ferenc Puskás | 93 | Icons | 434k coins | +33.9% | +29.7% |
-| Iniesta | 92 | Icons | 192k coins | +31.5% | +3.7% |
-| Johan Cruyff | 87 | Icons | 240k coins | +30.7% | -27.8% |
-| Bobby Charlton | 92 | Icons | 96k coins | +30.5% | -19.3% |
+| Philipp Lahm | 89 | Icons | 88k coins | +34.8% | +12.3% |
+| Robert Pirès | 89 | Icons | 56k coins | +33.3% | -5.1% |
+| Roy Keane | 86 | Icons | 86k coins | +32.3% | -19.6% |
+| Dennis Bergkamp | 93 | Icons | 288k coins | +31.5% | +8.7% |
+| Gianluca Zambrotta | 86 | Icons | 122k coins | +29.6% | -8% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ O mercado do **EA FC** abre **27/07/2026** no PC com mercado **em alta** — pre
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Roberto Baggio (91)** subiu **+56.5%** em 24h, a **125k coins** (faixa do dia: 75k–155k). Está +21% acima da média de 7 dias (aquecida).
+- **Lotta Schelin (90)** subiu **+59.2%** em 24h, a **122k coins** (faixa do dia: 78k–166k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Zico (92)** subiu **+54.3%** em 24h, a **1M coins** (faixa do dia: 648k–1M). Está +16% acima da média de 7 dias (aquecida).
+- **Samuel Eto'o (90)** subiu **+58.3%** em 24h, a **950k coins** (faixa do dia: 570k–950k). Está +40% acima da média de 7 dias (aquecida).
 
-- **Xavi (92)** subiu **+50.3%** em 24h, a **284k coins** (faixa do dia: 120k–301k). Está +23% acima da média de 7 dias (aquecida).
+- **Xavi (92)** subiu **+50.3%** em 24h, a **272k coins** (faixa do dia: 120k–284k). Está +18% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
@@ -73,29 +73,29 @@ O mercado do **EA FC** abre **27/07/2026** no PC com mercado **em alta** — pre
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Pavel Nedvěd | 89 | Icons | 137k coins | -46.9% | -34.8% |
-| Edwin van der Sar | 88 | Icons | 118k coins | -37.2% | -6.3% |
-| Roy Keane | 88 | Icons | 236k coins | -36% | -16% |
-| Didier Drogba | 91 | Icons | 48k coins | -36% | -96% |
+| David Beckham | 88 | Icons | 105k coins | -38% | -39.2% |
+| Roy Keane | 88 | Icons | 228k coins | -36% | -16% |
 | Andrea Pirlo | 91 | Icons | 640k coins | -36% | -41.8% |
-| Marcelo | 89 | Icons | 154k coins | -30.5% | +16.8% |
-| Paul Scholes | 91 | Icons | 100k coins | -28.7% | -28.7% |
-| Caroline Seger | 90 | Icons | 32k coins | -28.7% | -37.7% |
-| Lotta Schelin | 91 | Icons | 300k coins | -28.6% | -48.3% |
-| Gianluca Zambrotta | 86 | Icons | 96k coins | -25.4% | -33.6% |
+| Didier Drogba | 91 | Icons | 48k coins | -36% | -96% |
+| Zlatan Ibrahimović | 95 | Icons | 2.50M coins | -34.5% | -54.5% |
+| Fernando Torres | 87 | Icons | 145k coins | -33.8% | -6.9% |
+| Marcelo | 89 | Icons | 147k coins | -32.9% | +26.7% |
+| Thierry Henry | 86 | Icons | 670k coins | -32% | -38.8% |
+| Jairzinho | 89 | Icons | 350k coins | -28.9% | -7.8% |
 
 
 ### Análise das baixas
 
 - **Pavel Nedvěd (89)** caiu **-46.9%** em 24h, a **137k coins** (faixa do dia: 133k–316k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Edwin van der Sar (88)** caiu **-37.2%** em 24h, a **118k coins** (faixa do dia: 98k–202k). Está -16% abaixo da média de 7 dias (descontada).
+- **David Beckham (88)** caiu **-38%** em 24h, a **105k coins** (faixa do dia: 92k–200k). Está em linha com a média de 7 dias (-5%).
 
-- **Roy Keane (88)** caiu **-36%** em 24h, a **236k coins** (faixa do dia: 236k–400k). Está -33% abaixo da média de 7 dias (descontada).
+- **Roy Keane (88)** caiu **-36%** em 24h, a **228k coins** (faixa do dia: 228k–400k). Está -35% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Roberto Baggio já avançou 56.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lotta Schelin já avançou 59.2% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Pavel Nedvěd recuou -46.9%; confirme estabilização e liquidez.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Roberto Baggio (91, Icons), com +56.5% em 24h, a 125k coins no PC.
+Lotta Schelin (90, Icons), com +59.2% em 24h, a 122k coins no PC.
 
 **E a maior queda do dia?**
 Pavel Nedvěd (89), -46.9% em 24h, a 137k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 59 cartas em alta contra 66 em queda (média 6.19%).
+Hoje o mercado está em alta — predominam as valorizações, com 47 cartas em alta contra 83 em queda (média 1.62%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

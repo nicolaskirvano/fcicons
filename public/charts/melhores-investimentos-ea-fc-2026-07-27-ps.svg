@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ronald Koeman</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giorgio Chiellini</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+70.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.4%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nemanja Vidić</text>
-<rect x="285" y="153" width="333" height="28" rx="7" fill="#22c55e"/>
-<text x="628" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.5%</text>
+<rect x="285" y="153" width="200" height="28" rx="7" fill="#22c55e"/>
+<text x="495" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.8%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oliver Kahn</text>
-<rect x="285" y="211" width="182" height="28" rx="7" fill="#22c55e"/>
-<text x="477" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.6%</text>
+<rect x="285" y="211" width="166" height="28" rx="7" fill="#22c55e"/>
+<text x="461" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.1%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Javier Zanetti</text>
-<rect x="285" y="269" width="177" height="28" rx="7" fill="#22c55e"/>
-<text x="472" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lotta Schelin</text>
-<rect x="285" y="327" width="151" height="28" rx="7" fill="#22c55e"/>
-<text x="446" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Henrik Larsson</text>
-<rect x="285" y="385" width="130" height="28" rx="7" fill="#22c55e"/>
-<text x="425" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.9%</text>
+<rect x="285" y="269" width="146" height="28" rx="7" fill="#22c55e"/>
+<text x="441" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Henrik Larsson</text>
+<rect x="285" y="327" width="89" height="28" rx="7" fill="#22c55e"/>
+<text x="384" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+9.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Xabi Alonso</text>
+<rect x="285" y="385" width="79" height="28" rx="7" fill="#22c55e"/>
+<text x="374" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+8.6%</text>
 </svg>
