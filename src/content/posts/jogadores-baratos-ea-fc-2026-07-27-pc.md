@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:56:25.000Z
+pubDatetime: 2026-07-27T22:56:19.000Z
 title: "Jogadores baratos EA FC: Icons em 27/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 11.500 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 11.250 a 11.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 11.864 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 11.250 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -49,6 +49,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
+| Davor Šuker | 89 | ST | Icons | 14.000 coins | +33.3% |
+| Julie Foudy | 88 | CM | Icons | 13.000 coins | +22.7% |
 
 
 ## 📈 Destaques

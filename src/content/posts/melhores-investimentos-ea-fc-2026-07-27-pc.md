@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:56:24.000Z
+pubDatetime: 2026-07-27T22:56:18.000Z
 title: "Investimentos EA FC: Icons em 27/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Emmanuel Petit (87, Icons) lidera, com +36.6% em 7 dias a 164k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Giorgio Chiellini (89, Icons) lidera, com +79% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Emmanuel Petit (87) acumula **+36.6% em 7 dias** a 164k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Giorgio Chiellini (89) acumula **+79% em 7 dias** a 100k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 27/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-27-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+23.4% em 24h** e **+23.5% em 7 dias**.
-- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.8% em 24h** e **+29.6% em 7 dias**.
+- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Emmanuel Petit | 87 | Icons | 164k coins | +24.4% | +36.6% | Esticada |
-| Bastian Schweinsteiger | 89 | Icons | 179k coins | +23.4% | +34.6% | Esticada |
-| Gheorghe Hagi | 90 | Icons | 101k coins | +17.6% | +25% | Momentum moderado |
-| Aya Miyama | 90 | Icons | 84k coins | +23.5% | +23.5% | Esticada |
-| Francesco Totti | 89 | Icons | 225k coins | +24.3% | +11.9% | Esticada |
-| Casillas | 90 | Icons | 99k coins | +18.1% | +7.4% | Momentum moderado |
-| Toni Kroos | 90 | Icons | 76k coins | +1.2% | +5.5% | Entrada a observar |
+| Giorgio Chiellini | 89 | Icons | 100k coins | +8.8% | +79% | Esticada |
+| Bastian Schweinsteiger | 89 | Icons | 180k coins | +37.7% | +35.6% | Esticada |
+| Frank Rijkaard | 89 | Icons | 140k coins | +16.7% | +29.6% | Momentum moderado |
+| Hristo Stoichkov | 89 | Icons | 128k coins | +16.8% | +24.5% | Momentum moderado |
+| Francesco Totti | 89 | Icons | 185k coins | +24.3% | +7.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Emmanuel Petit (87)** — 164k coins, **+36.6% em 7 dias** (+24.4% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Chiellini (89)** — 100k coins, **+79% em 7 dias** (+8.8% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bastian Schweinsteiger (89)** — 179k coins, **+34.6% em 7 dias** (+23.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bastian Schweinsteiger (89)** — 180k coins, **+35.6% em 7 dias** (+37.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gheorghe Hagi (90)** — 101k coins, **+25% em 7 dias** (+17.6% em 24h). Preço -19% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Frank Rijkaard (89)** — 140k coins, **+29.6% em 7 dias** (+16.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aya Miyama (90)** — 84k coins, **+23.5% em 7 dias** (+23.5% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hristo Stoichkov (89)** — 128k coins, **+24.5% em 7 dias** (+16.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Francesco Totti (89)** — 225k coins, **+11.9% em 7 dias** (+24.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Francesco Totti (89)** — 185k coins, **+7.1% em 7 dias** (+24.3% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +88,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Emmanuel Petit (87, Icons) lidera, com +36.6% em 7 dias a 164k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Giorgio Chiellini (89, Icons) lidera, com +79% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
