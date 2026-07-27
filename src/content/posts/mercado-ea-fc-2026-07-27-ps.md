@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T16:56:09.000Z
+pubDatetime: 2026-07-27T19:56:10.000Z
 title: "Mercado EA FC em 27/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Franz Beckenbauer (92, Icons), com +54.7% em 24h, a 160k coins no Console (PS)."
+    a: "Iniesta (93, Icons), com +55.3% em 24h, a 236k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "George Best (90), -46.3% em 24h, a 155k coins."
+    a: "George Best (90), -45.8% em 24h, a 164k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 70 cartas em alta contra 86 em queda (média -0.66%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 78 cartas em alta contra 75 em queda (média -0.28%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **27/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **70 cartas subiram** e **86 caíram** (80+ acima de 5k coins), variação média de **-0.66%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **27/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **78 cartas subiram** e **75 caíram** (80+ acima de 5k coins), variação média de **-0.28%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Franz Beckenbauer (92) **+54.7%** · 🔴 **Maior baixa:** George Best (90) **-46.3%**
+> 🟢 **Maior alta:** Iniesta (93) **+55.3%** · 🔴 **Maior baixa:** George Best (90) **-45.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Icons — Console (PS)](/charts/mercado-ea-fc-2026-07-27-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **27/07/2026** no Console (PS) com mercado **lateral
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.9% entre as cartas que se moveram; o universo observado reúne 194 cartas.
+- **Amplitude do dia:** 101.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.0% entre as cartas que se moveram; o universo observado reúne 193 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Franz Beckenbauer | 92 | Icons | 160k coins | +54.7% | -0.6% |
-| Alan Shearer | 91 | Icons | 400k coins | +42.9% | +27% |
-| Franck Ribéry | 89 | Icons | 300k coins | +38.2% | -21.1% |
-| Cha Bum Kun | 88 | Icons | 63k coins | +34.7% | -57.3% |
-| Giorgio Chiellini | 89 | Icons | 182k coins | +34% | +52.4% |
-| Thierry Henry | 91 | Icons | 599k coins | +26.8% | -5.5% |
-| Oliver Kahn | 91 | Icons | 93k coins | +26% | +18.1% |
-| Dennis Bergkamp | 93 | Icons | 191k coins | +23.7% | -4.5% |
-| Alex Morgan | 91 | Icons | 1.10M coins | +22.8% | -30.2% |
-| Javier Zanetti | 91 | Icons | 174k coins | +21.5% | +15.9% |
+| Iniesta | 93 | Icons | 236k coins | +55.3% | -18.6% |
+| John Barnes | 89 | Icons | 47k coins | +54.7% | +7.6% |
+| Patrick Vieira | 86 | Icons | 730k coins | +44.5% | +23.3% |
+| Rivaldo | 91 | Icons | 65k coins | +38.7% | -27.4% |
+| Alan Shearer | 91 | Icons | 400k coins | +35.6% | +27% |
+| Andrea Pirlo | 90 | Icons | 170k coins | +34.3% | +38.2% |
+| Cha Bum Kun | 88 | Icons | 60k coins | +31.2% | -59.3% |
+| Patrick Vieira | 88 | Icons | 210k coins | +28.8% | +13.9% |
+| Thierry Henry | 91 | Icons | 910k coins | +28.4% | +0.1% |
+| Carlos Alberto | 92 | Icons | 118k coins | +26.6% | -21.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **27/07/2026** no Console (PS) com mercado **lateral
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Franz Beckenbauer (92)** subiu **+54.7%** em 24h, a **160k coins** (faixa do dia: 98k–169k). Está +14% acima da média de 7 dias (aquecida).
+- **Iniesta (93)** subiu **+55.3%** em 24h, a **236k coins** (faixa do dia: 130k–270k). Está em linha com a média de 7 dias (+4%).
 
-- **Alan Shearer (91)** subiu **+42.9%** em 24h, a **400k coins** (faixa do dia: 280k–400k). Está +18% acima da média de 7 dias (aquecida).
+- **John Barnes (89)** subiu **+54.7%** em 24h, a **47k coins** (faixa do dia: 19.750–128k). Está em linha com a média de 7 dias (+5%).
 
-- **Franck Ribéry (89)** subiu **+38.2%** em 24h, a **300k coins** (faixa do dia: 206k–475k). Está em linha com a média de 7 dias (+8%).
+- **Patrick Vieira (86)** subiu **+44.5%** em 24h, a **730k coins** (faixa do dia: 524k–965k). Está +17% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| George Best | 90 | Icons | 155k coins | -46.3% | -4.8% |
-| Lothar Matthäus | 90 | Icons | 72k coins | -35.8% | -52.3% |
+| George Best | 90 | Icons | 164k coins | -45.8% | -10.3% |
+| Ronald Koeman | 91 | Icons | 70k coins | -45.3% | -20.2% |
+| Cafu | 91 | Icons | 91k coins | -35.1% | -37.3% |
+| Gheorghe Hagi | 90 | Icons | 58k coins | -31.5% | -18.7% |
+| Thierry Henry | 93 | Icons | 689k coins | -31.1% | -12.8% |
 | Homare Sawa | 92 | Icons | 30k coins | -31.1% | -94.3% |
-| Toni Kroos | 91 | Icons | 209k coins | -26.3% | -11.2% |
-| George Best | 91 | Icons | 214k coins | -25.8% | -28.3% |
-| Fabio Cannavaro | 89 | Icons | 102k coins | -25% | +19.3% |
-| Alessandro Del Piero | 90 | Icons | 68k coins | -21.8% | -6.8% |
-| Ferenc Puskás | 94 | Icons | 491k coins | -20.7% | -2% |
-| Raúl | 90 | Icons | 94k coins | -19.7% | -36% |
-| Lothar Matthäus | 91 | Icons | 426k coins | -17.6% | -49.2% |
+| Fabio Cannavaro | 89 | Icons | 96k coins | -29% | +9% |
+| Zico | 92 | Icons | 152k coins | -23.4% | -51.1% |
+| Casillas | 90 | Icons | 68k coins | -22.3% | -18.6% |
+| Michael Owen | 88 | Icons | 66k coins | -21.8% | 0% |
 
 
 ### Análise das baixas
 
-- **George Best (90)** caiu **-46.3%** em 24h, a **155k coins** (faixa do dia: 130k–294k). Está em linha com a média de 7 dias (-3%).
+- **George Best (90)** caiu **-45.8%** em 24h, a **164k coins** (faixa do dia: 130k–273k). Está em linha com a média de 7 dias (+2%).
 
-- **Lothar Matthäus (90)** caiu **-35.8%** em 24h, a **72k coins** (faixa do dia: 72k–122k). Está -46% abaixo da média de 7 dias (descontada).
+- **Ronald Koeman (91)** caiu **-45.3%** em 24h, a **70k coins** (faixa do dia: 70k–187k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Homare Sawa (92)** caiu **-31.1%** em 24h, a **30k coins** (faixa do dia: 30k–44k). Está -90% abaixo da média de 7 dias (descontada).
+- **Cafu (91)** caiu **-35.1%** em 24h, a **91k coins** (faixa do dia: 91k–159k). Está -33% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Franz Beckenbauer já avançou 54.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Iniesta já avançou 55.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** George Best recuou -46.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** George Best recuou -45.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Franz Beckenbauer (92, Icons), com +54.7% em 24h, a 160k coins no Console (PS).
+Iniesta (93, Icons), com +55.3% em 24h, a 236k coins no Console (PS).
 
 **E a maior queda do dia?**
-George Best (90), -46.3% em 24h, a 155k coins.
+George Best (90), -45.8% em 24h, a 164k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 70 cartas em alta contra 86 em queda (média -0.66%).
+Hoje o mercado está lateral — sem direção clara, com 78 cartas em alta contra 75 em queda (média -0.28%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

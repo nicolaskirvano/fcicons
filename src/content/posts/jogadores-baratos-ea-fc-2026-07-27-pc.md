@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T16:56:24.000Z
+pubDatetime: 2026-07-27T19:56:25.000Z
 title: "Jogadores baratos EA FC: Icons em 27/07 — PC"
 draft: false
 featured: false
