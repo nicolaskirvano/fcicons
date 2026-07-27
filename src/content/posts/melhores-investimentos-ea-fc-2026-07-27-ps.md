@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:45:05.000Z
+pubDatetime: 2026-07-27T10:56:13.000Z
 title: "Investimentos EA FC: Icons em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Giorgio Chiellini (89, Icons) lidera, com +88.9% em 7 dias a 230k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Roy Keane (86, Icons) lidera, com +55.9% em 7 dias a 111k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Giorgio Chiellini (89) acumula **+88.9% em 7 dias** a 230k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Roy Keane (86) acumula **+55.9% em 7 dias** a 111k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 27/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+21.4% em 24h** e **+18.2% em 7 dias**.
-- **5 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+23.8% em 24h** e **+10.6% em 7 dias**.
+- **6 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 11 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Giorgio Chiellini | 89 | Icons | 230k coins | +21.4% | +88.9% | Esticada |
-| Steffi Jones | 89 | Icons | 60k coins | +36.7% | +59.7% | Esticada |
 | Roy Keane | 86 | Icons | 111k coins | +37.8% | +55.9% | Esticada |
+| Steffi Jones | 89 | Icons | 60k coins | +32.2% | +54.5% | Esticada |
+| Fernando Torres | 87 | Icons | 209k coins | +39.2% | +46.7% | Esticada |
 | Nemanja Vidić | 87 | Icons | 145k coins | +33.9% | +40.4% | Esticada |
-| Davor Šuker | 87 | Icons | 70k coins | +18.2% | +18.2% | Momentum moderado |
-| Steven Gerrard | 90 | Icons | 215k coins | +24.4% | +11.1% | Esticada |
-| Michael Owen | 88 | Icons | 72k coins | +1.4% | +8.3% | Entrada a observar |
+| Steven Gerrard | 90 | Icons | 215k coins | +23.8% | +10.6% | Esticada |
+| Davor Šuker | 87 | Icons | 70k coins | +10.6% | +10.6% | Momentum moderado |
+| Michael Owen | 88 | Icons | 71k coins | +1.4% | +8.3% | Entrada a observar |
+| Franck Ribéry | 88 | Icons | 176k coins | +35% | +8% | Esticada |
 | John Barnes | 87 | Icons | 70k coins | +6.8% | +6.8% | Momentum moderado |
 | Juan Román Riquelme | 88 | Icons | 80k coins | +6.7% | +6% | Momentum moderado |
+| Xavi | 91 | Icons | 92k coins | +1.1% | +5.1% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Giorgio Chiellini (89)** — 230k coins, **+88.9% em 7 dias** (+21.4% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Steffi Jones (89)** — 60k coins, **+59.7% em 7 dias** (+36.7% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Roy Keane (86)** — 111k coins, **+55.9% em 7 dias** (+37.8% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nemanja Vidić (87)** — 145k coins, **+40.4% em 7 dias** (+33.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (89)** — 60k coins, **+54.5% em 7 dias** (+32.2% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Davor Šuker (87)** — 70k coins, **+18.2% em 7 dias** (+18.2% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fernando Torres (87)** — 209k coins, **+46.7% em 7 dias** (+39.2% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Nemanja Vidić (87)** — 145k coins, **+40.4% em 7 dias** (+33.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Steven Gerrard (90)** — 215k coins, **+10.6% em 7 dias** (+23.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -92,7 +94,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Giorgio Chiellini (89, Icons) lidera, com +88.9% em 7 dias a 230k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Roy Keane (86, Icons) lidera, com +55.9% em 7 dias a 111k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
