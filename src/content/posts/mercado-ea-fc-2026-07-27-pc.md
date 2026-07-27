@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:56:21.000Z
+pubDatetime: 2026-07-27T13:56:17.000Z
 title: "Mercado EA FC em 27/07: Icons — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Zico (92, Icons), com +54.3% em 24h, a 1M coins no PC."
+    a: "Roberto Baggio (91, Icons), com +56.5% em 24h, a 125k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Emmanuel Petit (87), -48.2% em 24h, a 132k coins."
+    a: "Pavel Nedvěd (89), -46.9% em 24h, a 137k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 60 cartas em alta contra 68 em queda (média 5.49%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 59 cartas em alta contra 66 em queda (média 6.19%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **27/07/2026** no PC com mercado **em alta** — predominam as valorizações: **60 cartas subiram** e **68 caíram** (80+ acima de 5k coins), variação média de **5.49%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **27/07/2026** no PC com mercado **em alta** — predominam as valorizações: **59 cartas subiram** e **66 caíram** (80+ acima de 5k coins), variação média de **6.19%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Zico (92) **+54.3%** · 🔴 **Maior baixa:** Emmanuel Petit (87) **-48.2%**
+> 🟢 **Maior alta:** Roberto Baggio (91) **+56.5%** · 🔴 **Maior baixa:** Pavel Nedvěd (89) **-46.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Icons — PC](/charts/mercado-ea-fc-2026-07-27-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **27/07/2026** no PC com mercado **em alta** — pre
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.9% entre as cartas que se moveram; o universo observado reúne 203 cartas.
+- **Amplitude do dia:** 103.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.2% entre as cartas que se moveram; o universo observado reúne 190 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Roberto Baggio | 91 | Icons | 125k coins | +56.5% | +11.5% |
 | Zico | 92 | Icons | 1M coins | +54.3% | +11.1% |
-| Pavel Nedvěd | 88 | Icons | 118k coins | +47.5% | -29.8% |
-| Toni Kroos | 90 | Icons | 106k coins | +47.2% | +9.8% |
-| Ferenc Puskás | 93 | Icons | 537k coins | +46.7% | +29.7% |
-| Johan Cruyff | 87 | Icons | 310k coins | +45.7% | -19.4% |
-| Dennis Bergkamp | 93 | Icons | 327k coins | +41.6% | +23.4% |
-| Iniesta | 93 | Icons | 290k coins | +41.1% | +19.7% |
-| Gheorghe Hagi | 90 | Icons | 130k coins | +37.6% | +66.7% |
-| Zico | 87 | Icons | 127k coins | +37% | +9.6% |
-| Lotta Schelin | 90 | Icons | 131k coins | +34.3% | -10.1% |
+| Xavi | 92 | Icons | 284k coins | +50.3% | -2.7% |
+| Gareth Bale | 89 | Icons | 2.70M coins | +42.1% | -10% |
+| Philipp Lahm | 89 | Icons | 96k coins | +37.8% | +21.6% |
+| Laurent Blanc | 88 | Icons | 127k coins | +36.9% | +16.4% |
+| Ferenc Puskás | 93 | Icons | 434k coins | +33.9% | +29.7% |
+| Iniesta | 92 | Icons | 192k coins | +31.5% | +3.7% |
+| Johan Cruyff | 87 | Icons | 240k coins | +30.7% | -27.8% |
+| Bobby Charlton | 92 | Icons | 96k coins | +30.5% | -19.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **27/07/2026** no PC com mercado **em alta** — pre
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
+- **Roberto Baggio (91)** subiu **+56.5%** em 24h, a **125k coins** (faixa do dia: 75k–155k). Está +21% acima da média de 7 dias (aquecida).
+
 - **Zico (92)** subiu **+54.3%** em 24h, a **1M coins** (faixa do dia: 648k–1M). Está +16% acima da média de 7 dias (aquecida).
 
-- **Pavel Nedvěd (88)** subiu **+47.5%** em 24h, a **118k coins** (faixa do dia: 66k–120k). Está em linha com a média de 7 dias (+6%).
-
-- **Toni Kroos (90)** subiu **+47.2%** em 24h, a **106k coins** (faixa do dia: 69k–148k). Está em linha com a média de 7 dias (-1%).
+- **Xavi (92)** subiu **+50.3%** em 24h, a **284k coins** (faixa do dia: 120k–301k). Está +23% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Emmanuel Petit | 87 | Icons | 132k coins | -48.2% | -15% |
-| Sissi | 88 | Icons | 38k coins | -43.7% | -49% |
-| Luís Figo | 90 | Icons | 22k coins | -43.6% | -54.2% |
-| Marinette Pichon | 90 | Icons | 51k coins | -40.2% | -36.9% |
-| Roy Keane | 88 | Icons | 236k coins | -36.6% | -16% |
-| Gianluca Zambrotta | 86 | Icons | 99k coins | -35% | -28.8% |
-| Kaká | 89 | Icons | 230k coins | -33.2% | -48.8% |
-| Xavi | 92 | Icons | 120k coins | -33% | -58.9% |
-| Diego Armando Maradona | 96 | Icons | 4.58M coins | -31.7% | -41.9% |
-| Marcelo | 89 | Icons | 139k coins | -30.5% | +28.6% |
+| Pavel Nedvěd | 89 | Icons | 137k coins | -46.9% | -34.8% |
+| Edwin van der Sar | 88 | Icons | 118k coins | -37.2% | -6.3% |
+| Roy Keane | 88 | Icons | 236k coins | -36% | -16% |
+| Didier Drogba | 91 | Icons | 48k coins | -36% | -96% |
+| Andrea Pirlo | 91 | Icons | 640k coins | -36% | -41.8% |
+| Marcelo | 89 | Icons | 154k coins | -30.5% | +16.8% |
+| Paul Scholes | 91 | Icons | 100k coins | -28.7% | -28.7% |
+| Caroline Seger | 90 | Icons | 32k coins | -28.7% | -37.7% |
+| Lotta Schelin | 91 | Icons | 300k coins | -28.6% | -48.3% |
+| Gianluca Zambrotta | 86 | Icons | 96k coins | -25.4% | -33.6% |
 
 
 ### Análise das baixas
 
-- **Emmanuel Petit (87)** caiu **-48.2%** em 24h, a **132k coins** (faixa do dia: 90k–209k). Está -9% abaixo da média de 7 dias (descontada).
+- **Pavel Nedvěd (89)** caiu **-46.9%** em 24h, a **137k coins** (faixa do dia: 133k–316k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Sissi (88)** caiu **-43.7%** em 24h, a **38k coins** (faixa do dia: 28k–68k). Está -47% abaixo da média de 7 dias (descontada).
+- **Edwin van der Sar (88)** caiu **-37.2%** em 24h, a **118k coins** (faixa do dia: 98k–202k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Luís Figo (90)** caiu **-43.6%** em 24h, a **22k coins** (faixa do dia: 20k–39k). Está -51% abaixo da média de 7 dias (descontada).
+- **Roy Keane (88)** caiu **-36%** em 24h, a **236k coins** (faixa do dia: 236k–400k). Está -33% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Zico já avançou 54.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Roberto Baggio já avançou 56.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Emmanuel Petit recuou -48.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Pavel Nedvěd recuou -46.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Zico (92, Icons), com +54.3% em 24h, a 1M coins no PC.
+Roberto Baggio (91, Icons), com +56.5% em 24h, a 125k coins no PC.
 
 **E a maior queda do dia?**
-Emmanuel Petit (87), -48.2% em 24h, a 132k coins.
+Pavel Nedvěd (89), -46.9% em 24h, a 137k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 60 cartas em alta contra 68 em queda (média 5.49%).
+Hoje o mercado está em alta — predominam as valorizações, com 59 cartas em alta contra 66 em queda (média 6.19%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

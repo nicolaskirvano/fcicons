@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:56:24.000Z
+pubDatetime: 2026-07-27T13:56:20.000Z
 title: "Jogadores baratos EA FC: Icons em 27/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 11.722 coins.
+- **Preço médio das 10 opções:** 11.450 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 11.250 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.000 a 11.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,7 +41,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
-| Lev Yashin | 93 | GK | Icons | 13.750 coins | 0% |
+| Lev Yashin | 93 | GK | Icons | 11.750 coins | -14.5% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Aya Miyama | 91 | LM | Icons | 11.500 coins | 0% |
@@ -49,13 +49,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
+| Julie Foudy | 88 | CM | Icons | 11.000 coins | -12% |
 
 
 ## 📈 Destaques
 
 - **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lev Yashin (93, GK)** da Icons, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lev Yashin (93, GK)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Camille Abily (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -66,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 ## Como distribuir a banca
 
-- **Defesa:** Lev Yashin (93, GK) por 13.750 coins é a referência de rating deste recorte.
+- **Defesa:** Lev Yashin (93, GK) por 11.750 coins é a referência de rating deste recorte.
 
 - **Meio:** Camille Abily (92, CM) por 11.500 coins é a referência de rating deste recorte.
 

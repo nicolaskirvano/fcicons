@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:56:23.000Z
+pubDatetime: 2026-07-27T13:56:18.000Z
 title: "Investimentos EA FC: Icons em 27/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Gheorghe Hagi (90, Icons) lidera, com +66.7% em 7 dias a 130k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lev Yashin (92, Icons) lidera, com +60% em 7 dias a 185k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Gheorghe Hagi (90) acumula **+66.7% em 7 dias** a 130k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Lev Yashin (92) acumula **+60% em 7 dias** a 185k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 27/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-27-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.1% em 24h** e **+19.8% em 7 dias**.
-- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.8% em 24h** e **+21.0% em 7 dias**.
+- **5 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 12 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gheorghe Hagi | 90 | Icons | 130k coins | +37.6% | +66.7% | Esticada |
-| Giorgio Chiellini | 89 | Icons | 119k coins | +18.1% | +51.9% | Momentum moderado |
-| Bastian Schweinsteiger | 89 | Icons | 167k coins | +12.8% | +22.8% | Momentum moderado |
-| Philipp Lahm | 89 | Icons | 100k coins | +30.7% | +22.7% | Esticada |
-| Gianfranco Zola | 87 | Icons | 110k coins | +23.6% | +19.8% | Esticada |
-| Hristo Stoichkov | 89 | Icons | 145k coins | +17.7% | +18.7% | Momentum moderado |
-| Zico | 87 | Icons | 127k coins | +37% | +9.6% | Esticada |
-| Henrik Larsson | 86 | Icons | 70k coins | +7.7% | +7.7% | Momentum moderado |
-| Gianluigi Buffon | 91 | Icons | 164k coins | +15.8% | +5.6% | Momentum moderado |
+| Lev Yashin | 92 | Icons | 185k coins | +28% | +60% | Esticada |
+| Gheorghe Hagi | 90 | Icons | 90k coins | +28.7% | +58% | Esticada |
+| Giorgio Chiellini | 89 | Icons | 111k coins | +8.8% | +32.9% | Momentum moderado |
+| Frank Rijkaard | 89 | Icons | 140k coins | +8.3% | +30% | Momentum moderado |
+| Steven Gerrard | 90 | Icons | 240k coins | +15.4% | +23.7% | Momentum moderado |
+| Philipp Lahm | 89 | Icons | 96k coins | +37.8% | +21.6% | Esticada |
+| Peter Schmeichel | 89 | Icons | 89k coins | +11.3% | +20.4% | Momentum moderado |
+| Ronald Koeman | 91 | Icons | 244k coins | +4.2% | +19.7% | Entrada a observar |
+| Javier Zanetti | 89 | Icons | 87k coins | +28.9% | +19.2% | Esticada |
+| Laurent Blanc | 88 | Icons | 127k coins | +36.9% | +16.4% | Esticada |
+| Bastian Schweinsteiger | 89 | Icons | 152k coins | +12.1% | +15.4% | Momentum moderado |
+| Franz Beckenbauer | 92 | Icons | 164k coins | +10.8% | +8.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Gheorghe Hagi (90)** — 130k coins, **+66.7% em 7 dias** (+37.6% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lev Yashin (92)** — 185k coins, **+60% em 7 dias** (+28% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giorgio Chiellini (89)** — 119k coins, **+51.9% em 7 dias** (+18.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gheorghe Hagi (90)** — 90k coins, **+58% em 7 dias** (+28.7% em 24h). Preço -27% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bastian Schweinsteiger (89)** — 167k coins, **+22.8% em 7 dias** (+12.8% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Chiellini (89)** — 111k coins, **+32.9% em 7 dias** (+8.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Philipp Lahm (89)** — 100k coins, **+22.7% em 7 dias** (+30.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Frank Rijkaard (89)** — 140k coins, **+30% em 7 dias** (+8.3% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianfranco Zola (87)** — 110k coins, **+19.8% em 7 dias** (+23.6% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (90)** — 240k coins, **+23.7% em 7 dias** (+15.4% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -92,7 +95,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Gheorghe Hagi (90, Icons) lidera, com +66.7% em 7 dias a 130k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lev Yashin (92, Icons) lidera, com +60% em 7 dias a 185k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
