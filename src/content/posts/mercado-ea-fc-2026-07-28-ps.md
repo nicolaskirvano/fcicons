@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T16:56:10.000Z
+pubDatetime: 2026-07-28T19:56:08.000Z
 title: "Mercado EA FC em 28/07: Icons — Console (PS)"
 draft: false
 featured: true

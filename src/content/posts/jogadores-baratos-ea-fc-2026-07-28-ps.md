@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T16:56:13.000Z
+pubDatetime: 2026-07-28T19:56:11.000Z
 title: "Jogadores baratos EA FC: Icons em 28/07 — Console (PS)"
 draft: false
 featured: false
