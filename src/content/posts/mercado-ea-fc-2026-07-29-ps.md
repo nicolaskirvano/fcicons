@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:56:09.000Z
+pubDatetime: 2026-07-29T19:56:13.000Z
 title: "Mercado EA FC em 29/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Jairzinho (89, Icons), com +42.1% em 24h, a 225k coins no Console (PS)."
+    a: "Fernando Torres (90, Icons), com +55.5% em 24h, a 915k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Petr Čech (89), -21.3% em 24h, a 64k coins."
+    a: "Patrick Vieira (88), -50% em 24h, a 190k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 43 cartas em alta contra 58 em queda (média -0.54%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 83 cartas em alta contra 81 em queda (média 4.36%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**29/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **43 subiram**, **58 caíram** (80+ e 5k+ coins), média de **-0.54%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**29/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as altas dominam o dia — **83 subiram**, **81 caíram** (80+ e 5k+ coins), média de **4.36%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Jairzinho (89) **+42.1%** · 🔴 **Maior baixa:** Petr Čech (89) **-21.3%**
+> 🟢 **Maior alta:** Fernando Torres (90) **+55.5%** · 🔴 **Maior baixa:** Patrick Vieira (88) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Icons — Console (PS)](/charts/mercado-ea-fc-2026-07-29-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**29/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 63.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.6% entre as cartas que se moveram; o universo observado reúne 142 cartas.
+- **Amplitude do dia:** 105.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.6% entre as cartas que se moveram; o universo observado reúne 202 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jairzinho | 89 | Icons | 225k coins | +42.1% | +21.7% |
-| Sol Campbell | 86 | Icons | 69k coins | +20% | +18.2% |
-| Toni Kroos | 91 | Icons | 256k coins | +16.1% | +27% |
-| Samuel Eto'o | 89 | Icons | 124k coins | +14.5% | -41.7% |
-| Aya Miyama | 90 | Icons | 157k coins | +12.9% | +71.7% |
-| Steven Gerrard | 88 | Icons | 106k coins | +12.8% | +8.7% |
-| Hugo Sánchez | 89 | Icons | 72k coins | +12.6% | -13.6% |
-| Zlatan Ibrahimović | 91 | Icons | 2.47M coins | +11.5% | +5% |
-| Toni Kroos | 90 | Icons | 76k coins | +10% | -6.7% |
-| Kenny Dalglish | 89 | Icons | 133k coins | +8.9% | -8.2% |
+| Fernando Torres | 90 | Icons | 915k coins | +55.5% | +129.6% |
+| Gareth Bale | 94 | Icons | 3.43M coins | +49.8% | +24% |
+| Ferenc Puskás | 93 | Icons | 550k coins | +41.8% | +56.7% |
+| Marinette Pichon | 90 | Icons | 32k coins | +41.1% | -54.6% |
+| Gianluca Zambrotta | 86 | Icons | 96k coins | +39.7% | +41.6% |
+| Jairzinho | 94 | Icons | 337k coins | +36.4% | -11.8% |
+| Luis Hernández | 86 | Icons | 82k coins | +33.1% | +28.1% |
+| Alex Morgan | 91 | Icons | 299k coins | +32.3% | +35.3% |
+| Bastian Schweinsteiger | 88 | Icons | 94k coins | +32.2% | +42.8% |
+| Johan Cruyff | 94 | Icons | 519k coins | +29.8% | -7.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**29/07/2026**, Console (PS)) o Ultimate Team está em dia **indefinido** 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jairzinho (89)** subiu **+42.1%** em 24h, a **225k coins** (faixa do dia: 214k–280k). Está +10% acima da média de 7 dias (aquecida).
+- **Fernando Torres (90)** subiu **+55.5%** em 24h, a **915k coins** (faixa do dia: 589k–916k). Está +45% acima da média de 7 dias (aquecida).
 
-- **Sol Campbell (86)** subiu **+20%** em 24h, a **69k coins** (faixa do dia: 65k–78k). Está em linha com a média de 7 dias (+3%).
+- **Gareth Bale (94)** subiu **+49.8%** em 24h, a **3.43M coins** (faixa do dia: 2.29M–3.60M). Está +27% acima da média de 7 dias (aquecida).
 
-- **Toni Kroos (91)** subiu **+16.1%** em 24h, a **256k coins** (faixa do dia: 229k–259k). Está +14% acima da média de 7 dias (aquecida).
+- **Ferenc Puskás (93)** subiu **+41.8%** em 24h, a **550k coins** (faixa do dia: 388k–593k). Está +53% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Petr Čech | 89 | Icons | 64k coins | -21.3% | -13.2% |
-| Ferenc Puskás | 92 | Icons | 151k coins | -15.2% | -23.5% |
-| Garrincha | 92 | Icons | 130k coins | -14.3% | -23.5% |
-| George Best | 90 | Icons | 139k coins | -14% | -13.5% |
-| Gianfranco Zola | 87 | Icons | 66k coins | -13.2% | -10.8% |
-| Philipp Lahm | 90 | Icons | 444k coins | -13% | +24.3% |
-| Dunga | 87 | Icons | 72k coins | -12% | -7.9% |
-| Alessandro Del Piero | 90 | Icons | 78k coins | -12% | -21% |
-| Frank Lampard | 87 | Icons | 77k coins | -11.9% | +1.4% |
-| Birgit Prinz | 93 | Icons | 34k coins | -11.8% | -5% |
+| Patrick Vieira | 88 | Icons | 190k coins | -50% | +27.5% |
+| Pavel Nedvěd | 89 | Icons | 275k coins | -36.7% | -25.8% |
+| Kaká | 89 | Icons | 146k coins | -31.1% | +1.3% |
+| Robin van Persie | 88 | Icons | 97k coins | -28.2% | -0.9% |
+| George Best | 91 | Icons | 220k coins | -27.2% | -19.1% |
+| Julie Foudy | 90 | Icons | 131k coins | -25.6% | +50.6% |
+| Franck Ribéry | 88 | Icons | 179k coins | -24.4% | +11.3% |
+| Zlatan Ibrahimović | 92 | Icons | 3.16M coins | -24.3% | -33% |
+| Iniesta | 93 | Icons | 247k coins | -21.6% | +7.8% |
+| Johan Cruyff | 93 | Icons | 230k coins | -21.3% | -43.4% |
 
 
 ### Análise das baixas
 
-- **Petr Čech (89)** caiu **-21.3%** em 24h, a **64k coins** (faixa do dia: 54k–75k). Está -13% abaixo da média de 7 dias (descontada).
+- **Patrick Vieira (88)** caiu **-50%** em 24h, a **190k coins** (faixa do dia: 175k–380k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Ferenc Puskás (92)** caiu **-15.2%** em 24h, a **151k coins** (faixa do dia: 126k–165k). Está -11% abaixo da média de 7 dias (descontada).
+- **Pavel Nedvěd (89)** caiu **-36.7%** em 24h, a **275k coins** (faixa do dia: 275k–458k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Garrincha (92)** caiu **-14.3%** em 24h, a **130k coins** (faixa do dia: 107k–133k). Está em linha com a média de 7 dias (+2%).
+- **Kaká (89)** caiu **-31.1%** em 24h, a **146k coins** (faixa do dia: 146k–219k). Está em linha com a média de 7 dias (-7%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jairzinho já avançou 42.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Fernando Torres já avançou 55.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Petr Čech recuou -21.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Patrick Vieira recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Jairzinho (89, Icons), com +42.1% em 24h, a 225k coins no Console (PS).
+Fernando Torres (90, Icons), com +55.5% em 24h, a 915k coins no Console (PS).
 
 **E a maior queda do dia?**
-Petr Čech (89), -21.3% em 24h, a 64k coins.
+Patrick Vieira (88), -50% em 24h, a 190k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 43 cartas em alta contra 58 em queda (média -0.54%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 83 cartas em alta contra 81 em queda (média 4.36%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
