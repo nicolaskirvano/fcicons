@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:56:10.000Z
+pubDatetime: 2026-07-29T16:56:12.000Z
 title: "Jogadores baratos EA FC: Icons em 29/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 11.444 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 11.250 a 11.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 14 opções:** 12.036 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 11.250 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,35 +40,40 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Gerd Müller | 93 | ST | Icons | 11.750 coins | -14.5% |
+| Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
+| Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
+| Bobby Charlton | 93 | CAM | Icons | 14.000 coins | 0% |
+| Cafu | 92 | RB | Icons | 11.500 coins | 0% |
+| Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Aya Miyama | 91 | LM | Icons | 11.500 coins | 0% |
-| Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | -2.1% |
+| Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
-| Aya Miyama | 87 | LM | Icons | 11.250 coins | -2.1% |
+| Steffi Jones | 89 | CB | Icons | 14.750 coins | -6.3% |
+| Aya Miyama | 87 | LM | Icons | 13.250 coins | -1.9% |
 
 
 ## 📈 Destaques
 
 - **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Camille Abily (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lev Yashin (93, GK)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Bobby Charlton (93, CAM)** da Icons, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aya Miyama (91, LM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Cafu (92, RB)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dennis Bergkamp (91, ST)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Wayne Rooney (92, ST)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Steffi Jones (91, CB) por 11.500 coins é a referência de rating deste recorte.
+- **Defesa:** Lev Yashin (93, GK) por 11.750 coins é a referência de rating deste recorte.
 
-- **Meio:** Camille Abily (92, CM) por 11.500 coins é a referência de rating deste recorte.
+- **Meio:** Bobby Charlton (93, CAM) por 14.000 coins é a referência de rating deste recorte.
 
 - **Ataque:** Gerd Müller (93, ST) por 11.750 coins é a referência de rating deste recorte.
 
