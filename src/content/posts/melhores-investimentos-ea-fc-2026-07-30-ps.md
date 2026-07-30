@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:44:50.000Z
+pubDatetime: 2026-07-30T10:56:09.000Z
 title: "Investimentos EA FC: Icons em 30/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.7% em 24h** e **+17.7% em 7 dias**.
-- **1 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.1% em 24h** e **+12.1% em 7 dias**.
+- **1 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,11 +45,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Fabio Cannavaro | 89 | Icons | 165k coins | +16.5% | +58.8% | Momentum moderado |
 | Gianluigi Buffon | 91 | Icons | 173k coins | +23.1% | +49.5% | Esticada |
-| Steven Gerrard | 90 | Icons | 240k coins | +4.3% | +38.9% | Momentum moderado |
+| Steven Gerrard | 90 | Icons | 237k coins | +3% | +37.1% | Momentum moderado |
 | Luis Hernández | 86 | Icons | 76k coins | +17.7% | +17.7% | Momentum moderado |
 | Eric Cantona | 89 | Icons | 105k coins | +14.7% | +12.1% | Momentum moderado |
 | Sol Campbell | 86 | Icons | 74k coins | +13.1% | +10.5% | Momentum moderado |
+| Didier Drogba | 89 | Icons | 76k coins | +12.5% | +9.3% | Momentum moderado |
 | Bastian Schweinsteiger | 88 | Icons | 71k coins | +2.7% | +7.7% | Entrada a observar |
+| Alex Morgan | 91 | Icons | 230k coins | +1.8% | +7% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
@@ -58,7 +60,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Gianluigi Buffon (91)** — 173k coins, **+49.5% em 7 dias** (+23.1% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Gerrard (90)** — 240k coins, **+38.9% em 7 dias** (+4.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (90)** — 237k coins, **+37.1% em 7 dias** (+3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Luis Hernández (86)** — 76k coins, **+17.7% em 7 dias** (+17.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

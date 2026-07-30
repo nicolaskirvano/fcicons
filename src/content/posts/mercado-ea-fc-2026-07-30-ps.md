@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:44:49.000Z
+pubDatetime: 2026-07-30T10:56:07.000Z
 title: "Mercado EA FC em 30/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Eusébio (92), -48.1% em 24h, a 399k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 70 cartas em alta contra 78 em queda (média 3.49%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 68 cartas em alta contra 77 em queda (média 2.92%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **70 subiram** e **78 caíram**, com variação média de **3.49%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **68 subiram** e **77 caíram**, com variação média de **2.92%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Marcelo (89) **+55.3%** · 🔴 **Maior baixa:** Eusébio (92) **-48.1%**
 
@@ -36,7 +36,7 @@ Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 103.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.3% entre as cartas que se moveram; o universo observado reúne 186 cartas.
+- **Participação das altas:** 46.9% entre as cartas que se moveram; o universo observado reúne 185 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
@@ -48,11 +48,11 @@ Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Roberto Carlos | 91 | Icons | 465k coins | +47.6% | +29.9% |
 | Johan Cruyff | 94 | Icons | 584k coins | +47.2% | +13.3% |
 | Patrick Vieira | 90 | Icons | 549k coins | +45.4% | +28.9% |
-| Luís Figo | 90 | Icons | 22k coins | +45% | -63.7% |
+| Luís Figo | 90 | Icons | 20k coins | +45% | -63.7% |
 | Johan Cruyff | 93 | Icons | 315k coins | +38.1% | +1.4% |
 | Carlos Alberto | 91 | Icons | 121k coins | +36.2% | -17.8% |
 | Xavi | 92 | Icons | 335k coins | +36% | +34.4% |
-| Pelé | 95 | Icons | 144k coins | +32.6% | -32.4% |
+| Franco Baresi | 92 | Icons | 354k coins | +34.6% | +27.8% |
 
 
 ### Análise das altas
@@ -115,7 +115,7 @@ Marcelo (89, Icons), com +55.3% em 24h, a 139k coins no Console (PS).
 Eusébio (92), -48.1% em 24h, a 399k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 70 cartas em alta contra 78 em queda (média 3.49%).
+Hoje o mercado está em alta — predominam as valorizações, com 68 cartas em alta contra 77 em queda (média 2.92%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

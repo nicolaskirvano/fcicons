@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:44:52.000Z
+pubDatetime: 2026-07-30T10:56:10.000Z
 title: "Jogadores baratos EA FC: Icons em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 11.792 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
+- **Preço médio das 14 opções:** 11.750 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
 - **Faixa real:** 11.250 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -44,6 +44,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
 | Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
 | Bobby Charlton | 93 | CAM | Icons | 14.000 coins | 0% |
+| Cafu | 92 | RB | Icons | 11.500 coins | 0% |
+| Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Aya Miyama | 91 | LM | Icons | 11.500 coins | 0% |
@@ -64,7 +66,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Bobby Charlton (93, CAM)** da Icons, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Camille Abily (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Cafu (92, RB)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca

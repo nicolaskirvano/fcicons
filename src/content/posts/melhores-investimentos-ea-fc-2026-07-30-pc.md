@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:45:00.000Z
+pubDatetime: 2026-07-30T10:56:18.000Z
 title: "Investimentos EA FC: Icons em 30/07 — PC"
 draft: false
 featured: true
@@ -49,7 +49,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Nemanja Vidić | 87 | Icons | 234k coins | +28.6% | +61.4% | Esticada |
 | Gianluigi Buffon | 91 | Icons | 170k coins | +30.8% | +51.8% | Esticada |
 | David Beckham | 88 | Icons | 84k coins | +28.5% | +34.5% | Esticada |
-| Marinette Pichon | 90 | Icons | 54k coins | +24.4% | +33.8% | Esticada |
+| Marinette Pichon | 90 | Icons | 70k coins | +24.4% | +33.8% | Esticada |
 | Gianluca Zambrotta | 86 | Icons | 100k coins | +9.9% | +12.9% | Momentum moderado |
 | Hristo Stoichkov | 89 | Icons | 121k coins | +7.8% | +12.6% | Momentum moderado |
 | Giorgio Chiellini | 89 | Icons | 128k coins | +36.2% | +11.3% | Esticada |
