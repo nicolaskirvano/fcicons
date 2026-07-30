@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:56:07.000Z
+pubDatetime: 2026-07-30T13:56:12.000Z
 title: "Mercado EA FC em 30/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 30/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Marcelo (89, Icons), com +55.3% em 24h, a 139k coins no Console (PS)."
+    a: "Ronaldo (92, Icons), com +59.4% em 24h, a 12.10M coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Eusébio (92), -48.1% em 24h, a 399k coins."
+    a: "Alex Morgan (91), -41.4% em 24h, a 220k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 68 cartas em alta contra 77 em queda (média 2.92%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 60 cartas em alta contra 89 em queda (média 0.46%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **68 subiram** e **77 caíram**, com variação média de **2.92%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **60 subiram** e **89 caíram**, com variação média de **0.46%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Marcelo (89) **+55.3%** · 🔴 **Maior baixa:** Eusébio (92) **-48.1%**
+> 🟢 **Maior alta:** Ronaldo (92) **+59.4%** · 🔴 **Maior baixa:** Alex Morgan (91) **-41.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Icons — Console (PS)](/charts/mercado-ea-fc-2026-07-30-ps.svg)
 
@@ -35,24 +35,24 @@ Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.9% entre as cartas que se moveram; o universo observado reúne 185 cartas.
+- **Amplitude do dia:** 100.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 40.3% entre as cartas que se moveram; o universo observado reúne 195 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marcelo | 89 | Icons | 139k coins | +55.3% | +89.1% |
-| Ferenc Puskás | 93 | Icons | 575k coins | +49.5% | +72.1% |
-| Roberto Carlos | 91 | Icons | 465k coins | +47.6% | +29.9% |
-| Johan Cruyff | 94 | Icons | 584k coins | +47.2% | +13.3% |
-| Patrick Vieira | 90 | Icons | 549k coins | +45.4% | +28.9% |
-| Luís Figo | 90 | Icons | 20k coins | +45% | -63.7% |
-| Johan Cruyff | 93 | Icons | 315k coins | +38.1% | +1.4% |
-| Carlos Alberto | 91 | Icons | 121k coins | +36.2% | -17.8% |
-| Xavi | 92 | Icons | 335k coins | +36% | +34.4% |
-| Franco Baresi | 92 | Icons | 354k coins | +34.6% | +27.8% |
+| Ronaldo | 92 | Icons | 12.10M coins | +59.4% | +4% |
+| Patrick Vieira | 90 | Icons | 495k coins | +57.3% | +28.5% |
+| Sissi | 88 | Icons | 90k coins | +43.2% | +141.9% |
+| Paul Scholes | 91 | Icons | 242k coins | +42.2% | +83.4% |
+| Iniesta | 93 | Icons | 280k coins | +39.3% | +33.3% |
+| Johan Cruyff | 93 | Icons | 250k coins | +36.4% | -14.3% |
+| Gareth Bale | 88 | Icons | 520k coins | +33.2% | +32.8% |
+| Oliver Kahn | 91 | Icons | 52k coins | +31.2% | -25% |
+| Philipp Lahm | 89 | Icons | 85k coins | +28.1% | +18.5% |
+| Franco Baresi | 92 | Icons | 354k coins | +27.5% | +39.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Marcelo (89)** subiu **+55.3%** em 24h, a **139k coins** (faixa do dia: 94k–239k). Está +48% acima da média de 7 dias (aquecida).
+- **Ronaldo (92)** subiu **+59.4%** em 24h, a **12.10M coins** (faixa do dia: 6M–12.10M). Está +66% acima da média de 7 dias (aquecida).
 
-- **Ferenc Puskás (93)** subiu **+49.5%** em 24h, a **575k coins** (faixa do dia: 388k–593k). Está +51% acima da média de 7 dias (aquecida).
+- **Patrick Vieira (90)** subiu **+57.3%** em 24h, a **495k coins** (faixa do dia: 346k–549k). Está em linha com a média de 7 dias (+7%).
 
-- **Roberto Carlos (91)** subiu **+47.6%** em 24h, a **465k coins** (faixa do dia: 311k–470k). Está +51% acima da média de 7 dias (aquecida).
+- **Sissi (88)** subiu **+43.2%** em 24h, a **90k coins** (faixa do dia: 34k–130k). Está +82% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Eusébio | 92 | Icons | 399k coins | -48.1% | -41.2% |
-| Iniesta | 92 | Icons | 155k coins | -43.5% | +5% |
-| Patrick Vieira | 88 | Icons | 219k coins | -42.4% | +48% |
-| Pavel Nedvěd | 89 | Icons | 276k coins | -39.7% | -12.7% |
-| Franz Beckenbauer | 92 | Icons | 122k coins | -33.9% | -9.4% |
-| Roy Keane | 86 | Icons | 96k coins | -33.3% | +30.6% |
-| Bobby Moore | 91 | Icons | 434k coins | -31.3% | +49.7% |
-| Francesco Totti | 89 | Icons | 390k coins | -29.3% | +14.4% |
-| Paolo Maldini | 92 | Icons | 230k coins | -28.7% | -22.5% |
-| Franck Ribéry | 88 | Icons | 169k coins | -27.1% | +12.6% |
+| Alex Morgan | 91 | Icons | 220k coins | -41.4% | -4.7% |
+| Fernando Torres | 87 | Icons | 132k coins | -40% | -9.4% |
+| Dunga | 89 | Icons | 88k coins | -35% | -1.6% |
+| Michael Laudrup | 88 | Icons | 66k coins | -31.1% | -6.3% |
+| Zinedine Zidane | 94 | Icons | 284k coins | -30.6% | -41.8% |
+| Paolo Maldini | 94 | Icons | 27k coins | -27.7% | -96.7% |
+| Roberto Carlos | 90 | Icons | 110k coins | -27.5% | -32.7% |
+| Hernán Crespo | 88 | Icons | 24k coins | -24.5% | -17.8% |
+| Bastian Schweinsteiger | 88 | Icons | 68k coins | -24.3% | -4.9% |
+| Peter Schmeichel | 89 | Icons | 105k coins | -23.9% | +42.9% |
 
 
 ### Análise das baixas
 
-- **Eusébio (92)** caiu **-48.1%** em 24h, a **399k coins** (faixa do dia: 307k–730k). Está -25% abaixo da média de 7 dias (descontada).
+- **Alex Morgan (91)** caiu **-41.4%** em 24h, a **220k coins** (faixa do dia: 205k–350k). Está em linha com a média de 7 dias (+1%).
 
-- **Iniesta (92)** caiu **-43.5%** em 24h, a **155k coins** (faixa do dia: 110k–263k). Está em linha com a média de 7 dias (-7%).
+- **Fernando Torres (87)** caiu **-40%** em 24h, a **132k coins** (faixa do dia: 126k–212k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Patrick Vieira (88)** caiu **-42.4%** em 24h, a **219k coins** (faixa do dia: 125k–380k). Está em linha com a média de 7 dias (-7%).
+- **Dunga (89)** caiu **-35%** em 24h, a **88k coins** (faixa do dia: 70k–139k). Está em linha com a média de 7 dias (-4%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Marcelo já avançou 55.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Ronaldo já avançou 59.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Eusébio recuou -48.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Alex Morgan recuou -41.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Marcelo (89, Icons), com +55.3% em 24h, a 139k coins no Console (PS).
+Ronaldo (92, Icons), com +59.4% em 24h, a 12.10M coins no Console (PS).
 
 **E a maior queda do dia?**
-Eusébio (92), -48.1% em 24h, a 399k coins.
+Alex Morgan (91), -41.4% em 24h, a 220k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 68 cartas em alta contra 77 em queda (média 2.92%).
+Hoje o mercado está lateral — sem direção clara, com 60 cartas em alta contra 89 em queda (média 0.46%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

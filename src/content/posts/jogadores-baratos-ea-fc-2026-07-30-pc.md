@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:56:19.000Z
+pubDatetime: 2026-07-30T13:56:24.000Z
 title: "Jogadores baratos EA FC: Icons em 30/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 30/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (30/07/2026)?"
-    a: "Zinedine Zidane (95, Icons) aparece como melhor custo-benefício, a 12.250 coins no PC."
+    a: "Zinedine Zidane (95, Icons) aparece como melhor custo-benefício, a 13.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **30/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Zinedine Zidane (95) por apenas 12.250 coins.
+> 💰 **Melhor pechincha:** Zinedine Zidane (95) por apenas 13.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Icons em 30/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-30-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 11.768 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 11.250 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 13 opções:** 11.673 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 11.250 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,11 +40,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Zinedine Zidane | 95 | CAM | Icons | 12.250 coins | 0% |
-| Eusébio | 94 | ST | Icons | 14.250 coins | 0% |
+| Zinedine Zidane | 95 | CAM | Icons | 13.500 coins | -9.3% |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
 | Bobby Charlton | 93 | CAM | Icons | 11.750 coins | 0% |
-| Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
+| Lev Yashin | 93 | GK | Icons | 11.750 coins | -2.1% |
 | Cafu | 92 | RB | Icons | 11.500 coins | 0% |
 | Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
@@ -58,9 +57,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 ## 📈 Destaques
 
-- **Zinedine Zidane (95, CAM)** da Icons, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Eusébio (94, ST)** da Icons, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Zinedine Zidane (95, CAM)** da Icons, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -68,14 +65,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lev Yashin (93, GK)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Cafu (92, RB)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 
 ## Como distribuir a banca
 
 - **Defesa:** Lev Yashin (93, GK) por 11.750 coins é a referência de rating deste recorte.
 
-- **Meio:** Zinedine Zidane (95, CAM) por 12.250 coins é a referência de rating deste recorte.
+- **Meio:** Zinedine Zidane (95, CAM) por 13.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Eusébio (94, ST) por 14.250 coins é a referência de rating deste recorte.
+- **Ataque:** Gerd Müller (93, ST) por 11.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -94,7 +93,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (30/07/2026)?**  
-Zinedine Zidane (95, Icons) aparece como melhor custo-benefício, a 12.250 coins no PC.
+Zinedine Zidane (95, Icons) aparece como melhor custo-benefício, a 13.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
