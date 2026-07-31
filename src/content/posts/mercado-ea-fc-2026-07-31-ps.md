@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:56:08.000Z
+pubDatetime: 2026-07-31T16:56:07.000Z
 title: "Mercado EA FC em 31/07: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "George Best (91, Icons), com +54.2% em 24h, a 224k coins no Console (PS)."
+    a: "Bastian Schweinsteiger (89, Icons), com +48% em 24h, a 134k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Davor Šuker (87), -45.5% em 24h, a 66k coins."
+    a: "Sissi (88), -44.1% em 24h, a 45k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 69 cartas em alta contra 86 em queda (média -1.2%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 70 cartas em alta contra 67 em queda (média 0.21%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **31/07/2026** (Console (PS)): mercado **de lado** — altas e quedas se equilibram. Entre as cartas relevantes (80+ e acima de 5k coins), foram **69 em alta** e **86 em queda**, média de **-1.2%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **31/07/2026** (Console (PS)): mercado **de lado** — altas e quedas se equilibram. Entre as cartas relevantes (80+ e acima de 5k coins), foram **70 em alta** e **67 em queda**, média de **0.21%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** George Best (91) **+54.2%** · 🔴 **Maior baixa:** Davor Šuker (87) **-45.5%**
+> 🟢 **Maior alta:** Bastian Schweinsteiger (89) **+48%** · 🔴 **Maior baixa:** Sissi (88) **-44.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Icons — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **31/07/2026** (Console (PS)): mercado **de lado** — altas e queda
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 99.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.5% entre as cartas que se moveram; o universo observado reúne 198 cartas.
+- **Amplitude do dia:** 92.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.1% entre as cartas que se moveram; o universo observado reúne 180 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| George Best | 91 | Icons | 224k coins | +54.2% | +9.3% |
-| Zico | 87 | Icons | 95k coins | +53.2% | +26.7% |
-| Henrik Larsson | 88 | Icons | 276k coins | +45.3% | +48.4% |
-| Roy Keane | 86 | Icons | 100k coins | +42.9% | +43.9% |
-| Roberto Carlos | 90 | Icons | 177k coins | +42.2% | -8.8% |
-| Diego Armando Maradona | 95 | Icons | 1.20M coins | +39.8% | +62.4% |
-| Zinedine Zidane | 94 | Icons | 360k coins | +36.6% | -5.7% |
-| Patrick Vieira | 86 | Icons | 695k coins | +29.9% | -0.7% |
-| Steven Gerrard | 88 | Icons | 124k coins | +28.7% | +57.6% |
-| Bobby Charlton | 92 | Icons | 86k coins | +27.1% | -21.9% |
+| Bastian Schweinsteiger | 89 | Icons | 134k coins | +48% | +48.7% |
+| Zico | 91 | Icons | 154k coins | +43.1% | +16.5% |
+| Zico | 87 | Icons | 77k coins | +37.1% | +41.7% |
+| Samuel Eto'o | 89 | Icons | 125k coins | +33.7% | -26.8% |
+| Steven Gerrard | 89 | Icons | 180k coins | +33.3% | +75.2% |
+| Xabi Alonso | 87 | Icons | 88k coins | +33.1% | +29.2% |
+| Caroline Seger | 91 | Icons | 30k coins | +30.4% | -37.5% |
+| Ruud Gullit | 90 | Icons | 1.50M coins | +30.3% | -5.3% |
+| Paul Scholes | 88 | Icons | 88k coins | +30.3% | +34.1% |
+| Thierry Henry | 91 | Icons | 999k coins | +25% | +11% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **31/07/2026** (Console (PS)): mercado **de lado** — altas e queda
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **George Best (91)** subiu **+54.2%** em 24h, a **224k coins** (faixa do dia: 127k–416k). Está -9% abaixo da média de 7 dias (descontada).
+- **Bastian Schweinsteiger (89)** subiu **+48%** em 24h, a **134k coins** (faixa do dia: 50k–189k). Está +34% acima da média de 7 dias (aquecida).
 
-- **Zico (87)** subiu **+53.2%** em 24h, a **95k coins** (faixa do dia: 42k–98k). Está +68% acima da média de 7 dias (aquecida).
+- **Zico (91)** subiu **+43.1%** em 24h, a **154k coins** (faixa do dia: 98k–154k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Henrik Larsson (88)** subiu **+45.3%** em 24h, a **276k coins** (faixa do dia: 181k–360k). Está +22% acima da média de 7 dias (aquecida).
+- **Zico (87)** subiu **+37.1%** em 24h, a **77k coins** (faixa do dia: 42k–98k). Está +35% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Davor Šuker | 87 | Icons | 66k coins | -45.5% | -32% |
-| Xavi | 92 | Icons | 174k coins | -41% | -3.3% |
-| Bobby Moore | 91 | Icons | 391k coins | -37.7% | +26.9% |
-| Ferenc Puskás | 93 | Icons | 385k coins | -33.8% | +27.5% |
-| Pelé | 96 | Icons | 25k coins | -33.1% | -80.4% |
-| Sissi | 88 | Icons | 51k coins | -32.8% | +73.7% |
-| Fernando Torres | 87 | Icons | 150k coins | -32.6% | -27% |
-| Ronaldo | 92 | Icons | 7.50M coins | -31.8% | +7.1% |
-| Dunga | 89 | Icons | 64k coins | -28.2% | -15.6% |
-| Fabio Cannavaro | 90 | Icons | 321k coins | -26.9% | -40.9% |
+| Sissi | 88 | Icons | 45k coins | -44.1% | +49.2% |
+| Bobby Moore | 91 | Icons | 388k coins | -38.3% | +51% |
+| John Barnes | 89 | Icons | 32k coins | -37.1% | +32.3% |
+| Davor Šuker | 87 | Icons | 66k coins | -35.3% | -32% |
+| Jairzinho | 89 | Icons | 158k coins | -34.7% | -35.7% |
+| Thierry Henry | 93 | Icons | 795k coins | -33.3% | -3.3% |
+| Lotta Schelin | 92 | Icons | 294k coins | -28.7% | +30.1% |
+| Gheorghe Hagi | 90 | Icons | 50k coins | -27% | -54.5% |
+| Dunga | 89 | Icons | 62k coins | -22.7% | -17.1% |
+| Samuel Eto'o | 90 | Icons | 294k coins | -22.4% | -12.2% |
 
 
 ### Análise das baixas
 
-- **Davor Šuker (87)** caiu **-45.5%** em 24h, a **66k coins** (faixa do dia: 66k–121k). Está -14% abaixo da média de 7 dias (descontada).
+- **Sissi (88)** caiu **-44.1%** em 24h, a **45k coins** (faixa do dia: 35k–89k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Xavi (92)** caiu **-41%** em 24h, a **174k coins** (faixa do dia: 174k–334k). Está -23% abaixo da média de 7 dias (descontada).
+- **Bobby Moore (91)** caiu **-38.3%** em 24h, a **388k coins** (faixa do dia: 388k–629k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Bobby Moore (91)** caiu **-37.7%** em 24h, a **391k coins** (faixa do dia: 391k–629k). Está -20% abaixo da média de 7 dias (descontada).
+- **John Barnes (89)** caiu **-37.1%** em 24h, a **32k coins** (faixa do dia: 20k–84k). Está -27% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** George Best já avançou 54.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Bastian Schweinsteiger já avançou 48% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Davor Šuker recuou -45.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Sissi recuou -44.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-George Best (91, Icons), com +54.2% em 24h, a 224k coins no Console (PS).
+Bastian Schweinsteiger (89, Icons), com +48% em 24h, a 134k coins no Console (PS).
 
 **E a maior queda do dia?**
-Davor Šuker (87), -45.5% em 24h, a 66k coins.
+Sissi (88), -44.1% em 24h, a 45k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 69 cartas em alta contra 86 em queda (média -1.2%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 70 cartas em alta contra 67 em queda (média 0.21%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
