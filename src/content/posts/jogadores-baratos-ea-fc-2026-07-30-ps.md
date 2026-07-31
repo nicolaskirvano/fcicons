@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:56:11.000Z
+pubDatetime: 2026-07-31T01:56:11.000Z
 title: "Jogadores baratos EA FC: Icons em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 11.732 coins.
+- **Preço médio das 13 opções:** 11.577 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 11.250 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.250 a 12.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,7 +40,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | -7.7% |
+| Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | -3.9% |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
 | Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
 | Cafu | 92 | RB | Icons | 11.500 coins | 0% |
@@ -52,8 +52,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | 0% |
 | Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
-| Julie Foudy | 88 | CM | Icons | 13.750 coins | 0% |
-| Aya Miyama | 87 | LM | Icons | 12.000 coins | +1.9% |
+| Julie Foudy | 88 | CM | Icons | 12.000 coins | -12.1% |
 
 
 ## 📈 Destaques
