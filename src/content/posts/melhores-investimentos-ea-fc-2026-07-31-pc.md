@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:56:18.000Z
+pubDatetime: 2026-07-31T13:56:19.000Z
 title: "Investimentos EA FC: Icons em 31/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Petr Čech (88, Icons) lidera, com +75.5% em 7 dias a 179k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Petr Čech (88, Icons) lidera, com +73.8% em 7 dias a 173k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Petr Čech (88) acumula **+75.5% em 7 dias** a 179k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Petr Čech (88) acumula **+73.8% em 7 dias** a 173k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 31/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-31-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.8% em 24h** e **+15.7% em 7 dias**.
-- **3 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 10 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+19.4% em 24h** e **+21.0% em 7 dias**.
+- **8 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 12 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,29 +43,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Petr Čech | 88 | Icons | 179k coins | +2.3% | +75.5% | Esticada |
-| Franck Ribéry | 88 | Icons | 230k coins | +15% | +35.3% | Momentum moderado |
-| Hristo Stoichkov | 89 | Icons | 135k coins | +12.4% | +33.3% | Momentum moderado |
-| Iniesta | 92 | Icons | 234k coins | +4.9% | +17% | Entrada a observar |
-| Dunga | 89 | Icons | 116k coins | +18.3% | +16.2% | Momentum moderado |
-| Gennaro Gattuso | 86 | Icons | 98k coins | +26.3% | +15.2% | Esticada |
-| Edwin van der Sar | 88 | Icons | 168k coins | +12.7% | +14.2% | Momentum moderado |
-| Frank Rijkaard | 87 | Icons | 155k coins | +27% | +11.5% | Esticada |
-| Frank Lampard | 87 | Icons | 98k coins | +4.1% | +10.4% | Entrada a observar |
-| Gabriel Batistuta | 89 | Icons | 76k coins | +14.8% | +6.9% | Momentum moderado |
+| Petr Čech | 88 | Icons | 173k coins | +7.2% | +73.8% | Esticada |
+| Marinette Pichon | 90 | Icons | 52k coins | +5.5% | +64.1% | Esticada |
+| Hugo Sánchez | 89 | Icons | 113k coins | +37.6% | +58.1% | Esticada |
+| Carles Puyol | 89 | Icons | 114k coins | +15% | +42.9% | Momentum moderado |
+| Frank Rijkaard | 87 | Icons | 154k coins | +27% | +29.2% | Esticada |
+| Hristo Stoichkov | 89 | Icons | 134k coins | +33% | +25% | Esticada |
+| Rivaldo | 90 | Icons | 113k coins | +9.3% | +17% | Momentum moderado |
+| Gennaro Gattuso | 86 | Icons | 95k coins | +25.8% | +14% | Esticada |
+| Philipp Lahm | 89 | Icons | 94k coins | +5.1% | +14% | Momentum moderado |
+| Luís Figo | 89 | Icons | 88k coins | +23.9% | +11.4% | Esticada |
+| Miroslav Klose | 88 | Icons | 72k coins | +9% | +9% | Momentum moderado |
+| Fabio Cannavaro | 89 | Icons | 225k coins | +36.1% | +6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Petr Čech (88)** — 179k coins, **+75.5% em 7 dias** (+2.3% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Petr Čech (88)** — 173k coins, **+73.8% em 7 dias** (+7.2% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Franck Ribéry (88)** — 230k coins, **+35.3% em 7 dias** (+15% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marinette Pichon (90)** — 52k coins, **+64.1% em 7 dias** (+5.5% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hristo Stoichkov (89)** — 135k coins, **+33.3% em 7 dias** (+12.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hugo Sánchez (89)** — 113k coins, **+58.1% em 7 dias** (+37.6% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iniesta (92)** — 234k coins, **+17% em 7 dias** (+4.9% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carles Puyol (89)** — 114k coins, **+42.9% em 7 dias** (+15% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dunga (89)** — 116k coins, **+16.2% em 7 dias** (+18.3% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Frank Rijkaard (87)** — 154k coins, **+29.2% em 7 dias** (+27% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -83,7 +85,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Petr Čech (88, Icons) lidera, com +75.5% em 7 dias a 179k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Petr Čech (88, Icons) lidera, com +73.8% em 7 dias a 173k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
