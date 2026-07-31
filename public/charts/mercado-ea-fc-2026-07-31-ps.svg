@@ -10,16 +10,16 @@
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roberto Carlos</text>
 <rect x="285" y="153" width="478" height="28" rx="7" fill="#22c55e"/>
 <text x="773" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Zinedine Zidane</text>
-<rect x="285" y="211" width="459" height="28" rx="7" fill="#22c55e"/>
-<text x="754" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.7%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gennaro Gattuso</text>
-<rect x="285" y="269" width="408" height="28" rx="7" fill="#22c55e"/>
-<text x="703" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Zico</text>
-<rect x="285" y="327" width="349" height="28" rx="7" fill="#22c55e"/>
-<text x="644" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Frank Rijkaard</text>
-<rect x="285" y="385" width="341" height="28" rx="7" fill="#22c55e"/>
-<text x="636" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Thierry Henry</text>
+<rect x="285" y="211" width="468" height="28" rx="7" fill="#22c55e"/>
+<text x="763" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pavel Nedvěd</text>
+<rect x="285" y="269" width="465" height="28" rx="7" fill="#22c55e"/>
+<text x="760" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Zinedine Zidane</text>
+<rect x="285" y="327" width="459" height="28" rx="7" fill="#22c55e"/>
+<text x="754" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aya Miyama</text>
+<rect x="285" y="385" width="415" height="28" rx="7" fill="#22c55e"/>
+<text x="710" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.8%</text>
 </svg>
