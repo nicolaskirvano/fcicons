@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:56:10.000Z
+pubDatetime: 2026-07-31T22:56:10.000Z
 title: "Jogadores baratos EA FC: Icons em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -42,7 +42,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | 0% |
 | Eusébio | 94 | ST | Icons | 11.750 coins | 0% |
-| Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
+| Lev Yashin | 93 | GK | Icons | 11.750 coins | +4.3% |
 | Bobby Charlton | 93 | CAM | Icons | 11.750 coins | 0% |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |

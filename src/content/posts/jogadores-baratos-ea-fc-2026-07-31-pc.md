@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:56:19.000Z
+pubDatetime: 2026-07-31T22:56:19.000Z
 title: "Jogadores baratos EA FC: Icons em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.650 coins.
+- **Preço médio das 15 opções:** 11.583 coins.
 - **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 11.250 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.250 a 12.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,8 +40,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | 0% |
-| Eusébio | 94 | ST | Icons | 12.750 coins | 0% |
+| Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | +4.2% |
+| Eusébio | 94 | ST | Icons | 11.750 coins | 0% |
 | Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
 | Bobby Charlton | 93 | CAM | Icons | 11.750 coins | 0% |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
@@ -61,7 +61,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Zinedine Zidane (95, CAM)** da Icons, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Eusébio (94, ST)** da Icons, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Eusébio (94, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Lev Yashin (93, GK)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -76,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Zinedine Zidane (95, CAM) por 12.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Eusébio (94, ST) por 12.750 coins é a referência de rating deste recorte.
+- **Ataque:** Eusébio (94, ST) por 11.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

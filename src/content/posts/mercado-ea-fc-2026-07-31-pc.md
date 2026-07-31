@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:56:16.000Z
+pubDatetime: 2026-07-31T22:56:16.000Z
 title: "Mercado EA FC em 31/07: Icons — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Zlatan Ibrahimović (95, Icons), com +60% em 24h, a 4.80M coins no PC."
+    a: "Gareth Bale (89, Icons), com +57.5% em 24h, a 3.50M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Robin van Persie (88), -42.4% em 24h, a 110k coins."
+    a: "Zico (92), -46.2% em 24h, a 538k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 59 cartas em alta contra 50 em queda (média 5.21%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 63 cartas em alta contra 57 em queda (média 1.72%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **31/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **59 em alta** e **50 em queda**, média de **5.21%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **31/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **63 em alta** e **57 em queda**, média de **1.72%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Zlatan Ibrahimović (95) **+60%** · 🔴 **Maior baixa:** Robin van Persie (88) **-42.4%**
+> 🟢 **Maior alta:** Gareth Bale (89) **+57.5%** · 🔴 **Maior baixa:** Zico (92) **-46.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Icons — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **31/07/2026** (PC): clima **comprador** — a maioria das cartas su
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 54.1% entre as cartas que se moveram; o universo observado reúne 170 cartas.
+- **Amplitude do dia:** 103.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.5% entre as cartas que se moveram; o universo observado reúne 181 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Zlatan Ibrahimović | 95 | Icons | 4.80M coins | +60% | +52.4% |
-| Samuel Eto'o | 89 | Icons | 310k coins | +58.5% | +34.4% |
-| Carles Puyol | 89 | Icons | 134k coins | +55.1% | +97.1% |
-| Giorgio Chiellini | 88 | Icons | 113k coins | +54.4% | +43.8% |
-| Hernán Crespo | 88 | Icons | 22k coins | +48.4% | -31.9% |
-| Frank Lampard | 87 | Icons | 99k coins | +48.1% | +31.6% |
-| Pelé | 95 | Icons | 360k coins | +41.9% | +54.4% |
-| Gerd Müller | 92 | Icons | 169k coins | +39.4% | +122.6% |
-| Bastian Schweinsteiger | 89 | Icons | 180k coins | +38.5% | +21.6% |
-| Franz Beckenbauer | 92 | Icons | 246k coins | +34.4% | +88% |
+| Gareth Bale | 89 | Icons | 3.50M coins | +57.5% | +40% |
+| Samuel Eto'o | 89 | Icons | 304k coins | +53.3% | +19.6% |
+| Patrick Vieira | 86 | Icons | 1.19M coins | +51.5% | +24.1% |
+| Franck Ribéry | 88 | Icons | 260k coins | +50% | +68.8% |
+| Diego Armando Maradona | 96 | Icons | 2.75M coins | +40% | -58.2% |
+| Giorgio Chiellini | 88 | Icons | 100k coins | +39.6% | +30% |
+| Patrick Vieira | 90 | Icons | 847k coins | +36.4% | +66.1% |
+| Mia Hamm | 93 | Icons | 950k coins | +35.7% | -13.1% |
+| Bastian Schweinsteiger | 89 | Icons | 175k coins | +33.6% | +20.9% |
+| Jairzinho | 94 | Icons | 898k coins | +33.4% | +16.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **31/07/2026** (PC): clima **comprador** — a maioria das cartas su
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Zlatan Ibrahimović (95)** subiu **+60%** em 24h, a **4.80M coins** (faixa do dia: 3M–4.80M). Está +24% acima da média de 7 dias (aquecida).
+- **Gareth Bale (89)** subiu **+57.5%** em 24h, a **3.50M coins** (faixa do dia: 2.22M–3.60M). Está +62% acima da média de 7 dias (aquecida).
 
-- **Samuel Eto'o (89)** subiu **+58.5%** em 24h, a **310k coins** (faixa do dia: 160k–370k). Está +26% acima da média de 7 dias (aquecida).
+- **Samuel Eto'o (89)** subiu **+53.3%** em 24h, a **304k coins** (faixa do dia: 160k–370k). Está +23% acima da média de 7 dias (aquecida).
 
-- **Carles Puyol (89)** subiu **+55.1%** em 24h, a **134k coins** (faixa do dia: 86k–170k). Está +60% acima da média de 7 dias (aquecida).
+- **Patrick Vieira (86)** subiu **+51.5%** em 24h, a **1.19M coins** (faixa do dia: 694k–1.80M). Está +40% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Robin van Persie | 88 | Icons | 110k coins | -42.4% | -8.3% |
-| Dennis Bergkamp | 93 | Icons | 118k coins | -38.9% | -55.5% |
-| Johan Cruyff | 94 | Icons | 454k coins | -35.1% | -43.2% |
-| Paul Scholes | 88 | Icons | 66k coins | -30.7% | -36.7% |
-| Zlatan Ibrahimović | 92 | Icons | 4.20M coins | -28.2% | -47.5% |
-| Gianluigi Buffon | 91 | Icons | 140k coins | -27.8% | +12% |
-| Paolo Maldini | 92 | Icons | 191k coins | -26.5% | -24.8% |
-| Caroline Seger | 91 | Icons | 29k coins | -25.2% | -32.4% |
-| Roberto Carlos | 90 | Icons | 165k coins | -25% | -16.7% |
-| Fabio Cannavaro | 89 | Icons | 158k coins | -19.7% | -23.2% |
+| Zico | 92 | Icons | 538k coins | -46.2% | -17% |
+| Ian Wright | 87 | Icons | 66k coins | -42.9% | +3% |
+| Bastian Schweinsteiger | 88 | Icons | 71k coins | -42.6% | -61.1% |
+| Nemanja Vidić | 87 | Icons | 123k coins | -42.2% | -16.8% |
+| Dennis Bergkamp | 93 | Icons | 118k coins | -38.9% | -54.8% |
+| Lotta Schelin | 92 | Icons | 260k coins | -38.8% | -30.7% |
+| Lothar Matthäus | 90 | Icons | 114k coins | -33.3% | -32.9% |
+| Rivaldo | 91 | Icons | 78k coins | -32.9% | -4.7% |
+| Wayne Rooney | 88 | Icons | 94k coins | -30.1% | -43.2% |
+| Paul Scholes | 88 | Icons | 135k coins | -29.3% | -36.7% |
 
 
 ### Análise das baixas
 
-- **Robin van Persie (88)** caiu **-42.4%** em 24h, a **110k coins** (faixa do dia: 98k–197k). Está -28% abaixo da média de 7 dias (descontada).
+- **Zico (92)** caiu **-46.2%** em 24h, a **538k coins** (faixa do dia: 538k–1M). Está -40% abaixo da média de 7 dias (descontada).
 
-- **Dennis Bergkamp (93)** caiu **-38.9%** em 24h, a **118k coins** (faixa do dia: 118k–195k). Está -52% abaixo da média de 7 dias (descontada).
+- **Ian Wright (87)** caiu **-42.9%** em 24h, a **66k coins** (faixa do dia: 66k–151k). Está -44% abaixo da média de 7 dias (descontada).
 
-- **Johan Cruyff (94)** caiu **-35.1%** em 24h, a **454k coins** (faixa do dia: 454k–629k). Está -39% abaixo da média de 7 dias (descontada).
+- **Bastian Schweinsteiger (88)** caiu **-42.6%** em 24h, a **71k coins** (faixa do dia: 71k–201k). Está -45% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Zlatan Ibrahimović já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Gareth Bale já avançou 57.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Robin van Persie recuou -42.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Zico recuou -46.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Zlatan Ibrahimović (95, Icons), com +60% em 24h, a 4.80M coins no PC.
+Gareth Bale (89, Icons), com +57.5% em 24h, a 3.50M coins no PC.
 
 **E a maior queda do dia?**
-Robin van Persie (88), -42.4% em 24h, a 110k coins.
+Zico (92), -46.2% em 24h, a 538k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 59 cartas em alta contra 50 em queda (média 5.21%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 63 cartas em alta contra 57 em queda (média 1.72%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

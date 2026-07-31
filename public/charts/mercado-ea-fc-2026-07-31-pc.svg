@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Zlatan Ibrahimović</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gareth Bale</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.5%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Samuel Eto&#x27;o</text>
-<rect x="285" y="153" width="468" height="28" rx="7" fill="#22c55e"/>
-<text x="763" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carles Puyol</text>
-<rect x="285" y="211" width="441" height="28" rx="7" fill="#22c55e"/>
-<text x="736" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.1%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giorgio Chiellini</text>
-<rect x="285" y="269" width="435" height="28" rx="7" fill="#22c55e"/>
-<text x="730" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hernán Crespo</text>
-<rect x="285" y="327" width="387" height="28" rx="7" fill="#22c55e"/>
-<text x="682" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.4%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Frank Lampard</text>
-<rect x="285" y="385" width="385" height="28" rx="7" fill="#22c55e"/>
-<text x="680" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.1%</text>
+<rect x="285" y="153" width="445" height="28" rx="7" fill="#22c55e"/>
+<text x="740" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patrick Vieira</text>
+<rect x="285" y="211" width="430" height="28" rx="7" fill="#22c55e"/>
+<text x="725" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Franck Ribéry</text>
+<rect x="285" y="269" width="417" height="28" rx="7" fill="#22c55e"/>
+<text x="712" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Diego Armando Maradona</text>
+<rect x="285" y="327" width="334" height="28" rx="7" fill="#22c55e"/>
+<text x="629" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giorgio Chiellini</text>
+<rect x="285" y="385" width="331" height="28" rx="7" fill="#22c55e"/>
+<text x="626" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.6%</text>
 </svg>
