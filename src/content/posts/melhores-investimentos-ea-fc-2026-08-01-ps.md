@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:56:09.000Z
+pubDatetime: 2026-08-01T16:56:09.000Z
 title: "Investimentos EA FC: Icons em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Robert Pirès (89, Icons) lidera, com +53.3% em 7 dias a 46k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gianluca Zambrotta (86, Icons) lidera, com +87.7% em 7 dias a 142k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Robert Pirès (89) acumula **+53.3% em 7 dias** a 46k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Gianluca Zambrotta (86) acumula **+87.7% em 7 dias** a 142k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.8% em 24h** e **+27.3% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+16.2% em 24h** e **+28.5% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Robert Pirès | 89 | Icons | 46k coins | +15% | +53.3% | Momentum moderado |
-| Patrick Vieira | 88 | Icons | 222k coins | +15.5% | +50.3% | Momentum moderado |
-| Johan Cruyff | 87 | Icons | 163k coins | +7.2% | +49.5% | Momentum moderado |
-| Iniesta | 92 | Icons | 200k coins | +13.9% | +36.7% | Momentum moderado |
-| Iniesta | 92 | Icons | 178k coins | +22.1% | +36.2% | Esticada |
-| Pelé | 95 | Icons | 160k coins | +21.8% | +33.8% | Esticada |
-| Franck Ribéry | 88 | Icons | 147k coins | +1.4% | +30.1% | Momentum moderado |
-| Gerd Müller | 92 | Icons | 88k coins | +19.6% | +27.3% | Momentum moderado |
-| Raúl | 90 | Icons | 159k coins | +14% | +15.7% | Momentum moderado |
-| Sócrates | 89 | Icons | 95k coins | +31.6% | +15.3% | Esticada |
-| Kelly Smith | 89 | Icons | 68k coins | +14.8% | +14.8% | Momentum moderado |
-| Garrincha | 92 | Icons | 132k coins | +21.1% | +13.8% | Esticada |
-| Cha Bum Kun | 86 | Icons | 68k coins | +13.1% | +13.1% | Momentum moderado |
-| Emmanuel Petit | 87 | Icons | 77k coins | +8.7% | +12.4% | Momentum moderado |
-| Camille Abily | 90 | Icons | 74k coins | +10.3% | +10.3% | Momentum moderado |
+| Gianluca Zambrotta | 86 | Icons | 142k coins | +39.1% | +87.7% | Esticada |
+| Patrick Vieira | 88 | Icons | 232k coins | +30.3% | +61.7% | Esticada |
+| Frank Rijkaard | 89 | Icons | 90k coins | +7.5% | +50.4% | Momentum moderado |
+| Franck Ribéry | 88 | Icons | 158k coins | +33.1% | +48.2% | Esticada |
+| Sol Campbell | 86 | Icons | 90k coins | +36.2% | +44.4% | Esticada |
+| Garrincha | 92 | Icons | 156k coins | +16.2% | +35% | Momentum moderado |
+| Marcelo | 89 | Icons | 101k coins | +34.5% | +33.7% | Esticada |
+| Petr Čech | 89 | Icons | 111k coins | +7.1% | +28.5% | Momentum moderado |
+| Zico | 91 | Icons | 158k coins | +14.2% | +26.8% | Momentum moderado |
+| Gerd Müller | 92 | Icons | 85k coins | +23.7% | +21.1% | Esticada |
+| Raúl | 90 | Icons | 175k coins | +14.9% | +20.9% | Momentum moderado |
+| Lev Yashin | 92 | Icons | 100k coins | +12.6% | +19.7% | Momentum moderado |
+| Bastian Schweinsteiger | 88 | Icons | 76k coins | +15.3% | +18.8% | Momentum moderado |
+| Lothar Matthäus | 90 | Icons | 92k coins | +12.6% | +17.5% | Momentum moderado |
+| Sócrates | 89 | Icons | 129k coins | +35.5% | +13.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Robert Pirès (89)** — 46k coins, **+53.3% em 7 dias** (+15% em 24h). Preço +65% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluca Zambrotta (86)** — 142k coins, **+87.7% em 7 dias** (+39.1% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patrick Vieira (88)** — 222k coins, **+50.3% em 7 dias** (+15.5% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrick Vieira (88)** — 232k coins, **+61.7% em 7 dias** (+30.3% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Johan Cruyff (87)** — 163k coins, **+49.5% em 7 dias** (+7.2% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Frank Rijkaard (89)** — 90k coins, **+50.4% em 7 dias** (+7.5% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iniesta (92)** — 200k coins, **+36.7% em 7 dias** (+13.9% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franck Ribéry (88)** — 158k coins, **+48.2% em 7 dias** (+33.1% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iniesta (92)** — 178k coins, **+36.2% em 7 dias** (+22.1% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sol Campbell (86)** — 90k coins, **+44.4% em 7 dias** (+36.2% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Robert Pirès (89, Icons) lidera, com +53.3% em 7 dias a 46k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gianluca Zambrotta (86, Icons) lidera, com +87.7% em 7 dias a 142k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

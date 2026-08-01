@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:56:16.000Z
+pubDatetime: 2026-08-01T16:56:17.000Z
 title: "Mercado EA FC em 01/08: Icons — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Paolo Maldini (94, Icons), com +59.3% em 24h, a 45k coins no PC."
+    a: "Diego Armando Maradona (96, Icons), com +57.9% em 24h, a 3M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Peter Schmeichel (89), -49.3% em 24h, a 72k coins."
+    a: "Franco Baresi (91), -48.6% em 24h, a 94k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 46 cartas em alta contra 96 em queda (média -7.58%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 44 cartas em alta contra 91 em queda (média -7.16%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **01/08/2026** no PC com mercado **pressionado** — as quedas dominam o dia: **46 cartas subiram** e **96 caíram** (80+ acima de 5k coins), variação média de **-7.58%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **01/08/2026** no PC com mercado **pressionado** — as quedas dominam o dia: **44 cartas subiram** e **91 caíram** (80+ acima de 5k coins), variação média de **-7.16%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Paolo Maldini (94) **+59.3%** · 🔴 **Maior baixa:** Peter Schmeichel (89) **-49.3%**
+> 🟢 **Maior alta:** Diego Armando Maradona (96) **+57.9%** · 🔴 **Maior baixa:** Franco Baresi (91) **-48.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Icons — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **01/08/2026** no PC com mercado **pressionado** —
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 32.4% entre as cartas que se moveram; o universo observado reúne 205 cartas.
+- **Amplitude do dia:** 106.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 32.6% entre as cartas que se moveram; o universo observado reúne 197 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paolo Maldini | 94 | Icons | 45k coins | +59.3% | -60.5% |
-| Zlatan Ibrahimović | 93 | Icons | 3.50M coins | +48% | -17.7% |
+| Diego Armando Maradona | 96 | Icons | 3M coins | +57.9% | -45.7% |
 | Patrick Kluivert | 87 | Icons | 96k coins | +45.5% | +45.5% |
-| Gianluca Zambrotta | 86 | Icons | 117k coins | +43.7% | -15.5% |
-| Diego Armando Maradona | 96 | Icons | 2.67M coins | +40.5% | -51.7% |
-| Gennaro Gattuso | 86 | Icons | 130k coins | +36.8% | +52% |
-| Xavi | 91 | Icons | 142k coins | +30.9% | +60% |
-| Franck Ribéry | 88 | Icons | 251k coins | +27.5% | +65.6% |
-| Zico | 87 | Icons | 149k coins | +26.3% | +53.6% |
-| Paolo Maldini | 92 | Icons | 242k coins | +23.6% | +14.4% |
+| Gianluca Zambrotta | 86 | Icons | 113k coins | +42.5% | -20.8% |
+| Zlatan Ibrahimović | 93 | Icons | 3.11M coins | +40% | -20.5% |
+| Dunga | 87 | Icons | 98k coins | +37.9% | +51.5% |
+| Xavi | 91 | Icons | 141k coins | +36.5% | +61.4% |
+| Patrick Vieira | 90 | Icons | 824k coins | +32.7% | +106% |
+| Mia Hamm | 94 | Icons | 1.60M coins | +32.7% | +6.7% |
+| Petr Čech | 89 | Icons | 104k coins | +30% | -4.6% |
+| Franck Ribéry | 88 | Icons | 260k coins | +24.4% | +65.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **01/08/2026** no PC com mercado **pressionado** —
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Paolo Maldini (94)** subiu **+59.3%** em 24h, a **45k coins** (faixa do dia: 25k–45k). Está -22% abaixo da média de 7 dias (descontada).
+- **Diego Armando Maradona (96)** subiu **+57.9%** em 24h, a **3M coins** (faixa do dia: 1.85M–3M). Está em linha com a média de 7 dias (-6%).
 
-- **Zlatan Ibrahimović (93)** subiu **+48%** em 24h, a **3.50M coins** (faixa do dia: 2.50M–3.70M). Está em linha com a média de 7 dias (+6%).
+- **Patrick Kluivert (87)** subiu **+45.5%** em 24h, a **96k coins** (faixa do dia: 66k–183k). Está em linha com a média de 7 dias (-2%).
 
-- **Patrick Kluivert (87)** subiu **+45.5%** em 24h, a **96k coins** (faixa do dia: 66k–183k). Está em linha com a média de 7 dias (-1%).
+- **Gianluca Zambrotta (86)** subiu **+42.5%** em 24h, a **113k coins** (faixa do dia: 90k–125k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Peter Schmeichel | 89 | Icons | 72k coins | -49.3% | +1.4% |
-| Steven Gerrard | 88 | Icons | 91k coins | -45.9% | +33.8% |
-| Ronaldinho | 93 | Icons | 802k coins | -42.7% | -48.1% |
-| Marco van Basten | 91 | Icons | 70k coins | -40.8% | -9% |
-| Claude Makélélé | 87 | Icons | 72k coins | -40% | +9.1% |
-| Marcelo | 89 | Icons | 86k coins | -38.2% | -31.3% |
-| Rivaldo | 90 | Icons | 68k coins | -37.9% | -17.8% |
-| Davor Šuker | 87 | Icons | 66k coins | -37.1% | 0% |
-| Bastian Schweinsteiger | 88 | Icons | 95k coins | -34.7% | +39% |
-| Roberto Carlos | 91 | Icons | 525k coins | -34% | -7.4% |
+| Franco Baresi | 91 | Icons | 94k coins | -48.6% | +33.6% |
+| Emmanuel Petit | 87 | Icons | 101k coins | -45.7% | +40.3% |
+| Petr Čech | 88 | Icons | 92k coins | -45.7% | +22.1% |
+| Pavel Nedvěd | 88 | Icons | 97k coins | -44.3% | +30.2% |
+| Peter Schmeichel | 89 | Icons | 70k coins | -43.1% | +7.5% |
+| Xabi Alonso | 87 | Icons | 69k coins | -43% | +5.3% |
+| Franz Beckenbauer | 92 | Icons | 145k coins | -41.9% | +1.4% |
+| Cha Bum Kun | 86 | Icons | 71k coins | -35.5% | +9.2% |
+| Bastian Schweinsteiger | 88 | Icons | 87k coins | -32.2% | +27% |
+| Robert Pirès | 89 | Icons | 49k coins | -31.6% | +2.1% |
 
 
 ### Análise das baixas
 
-- **Peter Schmeichel (89)** caiu **-49.3%** em 24h, a **72k coins** (faixa do dia: 68k–151k). Está -26% abaixo da média de 7 dias (descontada).
+- **Franco Baresi (91)** caiu **-48.6%** em 24h, a **94k coins** (faixa do dia: 69k–186k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Steven Gerrard (88)** caiu **-45.9%** em 24h, a **91k coins** (faixa do dia: 88k–180k). Está -29% abaixo da média de 7 dias (descontada).
+- **Emmanuel Petit (87)** caiu **-45.7%** em 24h, a **101k coins** (faixa do dia: 90k–192k). Está -43% abaixo da média de 7 dias (descontada).
 
-- **Ronaldinho (93)** caiu **-42.7%** em 24h, a **802k coins** (faixa do dia: 801k–1.51M). Está -42% abaixo da média de 7 dias (descontada).
+- **Petr Čech (88)** caiu **-45.7%** em 24h, a **92k coins** (faixa do dia: 80k–173k). Está -29% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Paolo Maldini já avançou 59.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Diego Armando Maradona já avançou 57.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Peter Schmeichel recuou -49.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Franco Baresi recuou -48.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Paolo Maldini (94, Icons), com +59.3% em 24h, a 45k coins no PC.
+Diego Armando Maradona (96, Icons), com +57.9% em 24h, a 3M coins no PC.
 
 **E a maior queda do dia?**
-Peter Schmeichel (89), -49.3% em 24h, a 72k coins.
+Franco Baresi (91), -48.6% em 24h, a 94k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 46 cartas em alta contra 96 em queda (média -7.58%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 44 cartas em alta contra 91 em queda (média -7.16%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

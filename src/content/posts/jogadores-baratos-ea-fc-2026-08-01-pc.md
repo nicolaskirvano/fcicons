@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:56:19.000Z
+pubDatetime: 2026-08-01T16:56:19.000Z
 title: "Jogadores baratos EA FC: Icons em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.767 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 11.250 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.950 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 11.500 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,42 +41,42 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Zinedine Zidane | 95 | CAM | Icons | 13.500 coins | +10.4% |
-| Eusébio | 94 | ST | Icons | 13.000 coins | +2% |
+| Eusébio | 94 | ST | Icons | 11.750 coins | +5.9% |
 | Bobby Charlton | 93 | CAM | Icons | 11.750 coins | 0% |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
-| Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
-| Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
-| Homare Sawa | 92 | CM | Icons | 11.500 coins | 0% |
+| Lev Yashin | 93 | GK | Icons | 12.500 coins | +6.4% |
 | Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
+| Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Cafu | 92 | RB | Icons | 11.500 coins | 0% |
-| Aya Miyama | 91 | LM | Icons | 11.500 coins | 0% |
-| Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
+| Homare Sawa | 92 | CM | Icons | 11.500 coins | 0% |
 | Samuel Eto'o | 91 | ST | Icons | 11.500 coins | 0% |
 | Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | 0% |
+| Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
+| Aya Miyama | 91 | LM | Icons | 11.500 coins | 0% |
+| Julie Foudy | 91 | CM | Icons | 14.500 coins | -14% |
 
 
 ## 📈 Destaques
 
 - **Zinedine Zidane (95, CAM)** da Icons, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Eusébio (94, ST)** da Icons, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Eusébio (94, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Bobby Charlton (93, CAM)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins**
 
-- **Lev Yashin (93, GK)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lev Yashin (93, GK)** da Icons, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Lev Yashin (93, GK) por 11.750 coins é a referência de rating deste recorte.
+- **Defesa:** Lev Yashin (93, GK) por 12.500 coins é a referência de rating deste recorte.
 
 - **Meio:** Zinedine Zidane (95, CAM) por 13.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Eusébio (94, ST) por 13.000 coins é a referência de rating deste recorte.
+- **Ataque:** Eusébio (94, ST) por 11.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
