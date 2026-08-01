@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:43:31.000Z
+pubDatetime: 2026-08-01T10:56:18.000Z
 title: "Investimentos EA FC: Icons em 01/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.3% em 24h** e **+49.5% em 7 dias**.
-- **7 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 12 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.4% em 24h** e **+47.5% em 7 dias**.
+- **6 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 11 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,13 +44,12 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Hernán Crespo | 88 | Icons | 26k coins | +3.5% | +85.9% | Esticada |
-| Toni Kroos | 90 | Icons | 182k coins | +24.7% | +78.1% | Esticada |
-| David Beckham | 89 | Icons | 46k coins | +21.3% | +68.5% | Esticada |
-| Franck Ribéry | 88 | Icons | 237k coins | +3% | +54.9% | Momentum moderado |
+| David Beckham | 89 | Icons | 44k coins | +24% | +72.2% | Esticada |
+| Nemanja Vidić | 87 | Icons | 224k coins | +34.1% | +52.4% | Esticada |
 | Gennaro Gattuso | 86 | Icons | 130k coins | +32.7% | +52% | Esticada |
-| Nemanja Vidić | 87 | Icons | 224k coins | +34.1% | +51.4% | Esticada |
+| Francesco Totti | 89 | Icons | 210k coins | +16.4% | +50.6% | Momentum moderado |
 | Iniesta | 92 | Icons | 236k coins | +9.3% | +47.5% | Momentum moderado |
-| Edwin van der Sar | 88 | Icons | 180k coins | +8.9% | +31.4% | Momentum moderado |
+| Edwin van der Sar | 88 | Icons | 164k coins | +9.5% | +31.4% | Momentum moderado |
 | Roberto Carlos | 90 | Icons | 163k coins | +3.1% | +26.9% | Momentum moderado |
 | Toni Kroos | 90 | Icons | 100k coins | +25.8% | +26.6% | Esticada |
 | Steven Gerrard | 90 | Icons | 236k coins | +22.7% | +21.4% | Esticada |
@@ -61,13 +60,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Hernán Crespo (88)** — 26k coins, **+85.9% em 7 dias** (+3.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Toni Kroos (90)** — 182k coins, **+78.1% em 7 dias** (+24.7% em 24h). Preço +88% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Beckham (89)** — 44k coins, **+72.2% em 7 dias** (+24% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **David Beckham (89)** — 46k coins, **+68.5% em 7 dias** (+21.3% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Franck Ribéry (88)** — 237k coins, **+54.9% em 7 dias** (+3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nemanja Vidić (87)** — 224k coins, **+52.4% em 7 dias** (+34.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Gennaro Gattuso (86)** — 130k coins, **+52% em 7 dias** (+32.7% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Francesco Totti (89)** — 210k coins, **+50.6% em 7 dias** (+16.4% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

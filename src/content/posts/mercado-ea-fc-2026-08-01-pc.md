@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:43:29.000Z
+pubDatetime: 2026-08-01T10:56:16.000Z
 title: "Mercado EA FC em 01/08: Icons — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Zico (92), -46.2% em 24h, a 538k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 48 cartas em alta contra 89 em queda (média -7.67%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 49 cartas em alta contra 89 em queda (média -7.37%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **01/08/2026** no PC com mercado **pressionado** — as quedas dominam o dia: **48 cartas subiram** e **89 caíram** (80+ acima de 5k coins), variação média de **-7.67%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **01/08/2026** no PC com mercado **pressionado** — as quedas dominam o dia: **49 cartas subiram** e **89 caíram** (80+ acima de 5k coins), variação média de **-7.37%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 > 🟢 **Maior alta:** Zico (91) **+55.3%** · 🔴 **Maior baixa:** Zico (92) **-46.2%**
 
@@ -36,22 +36,22 @@ O mercado do **EA FC** abre **01/08/2026** no PC com mercado **pressionado** —
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 101.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 35.0% entre as cartas que se moveram; o universo observado reúne 200 cartas.
+- **Participação das altas:** 35.5% entre as cartas que se moveram; o universo observado reúne 200 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Zico | 91 | Icons | 295k coins | +55.3% | +54.5% |
+| Zico | 91 | Icons | 295k coins | +55.3% | +57.8% |
 | Patrick Vieira | 86 | Icons | 991k coins | +53% | +20% |
-| Zlatan Ibrahimović | 93 | Icons | 3.70M coins | +48% | -17.8% |
+| Zlatan Ibrahimović | 93 | Icons | 3.70M coins | +48% | -17.7% |
+| Toni Kroos | 90 | Icons | 182k coins | +45% | +78.1% |
 | Petr Čech | 89 | Icons | 105k coins | +41.7% | +54.5% |
 | Diego Armando Maradona | 96 | Icons | 2.67M coins | +40.5% | -51.7% |
-| Gianluca Zambrotta | 86 | Icons | 124k coins | +37.8% | -12.7% |
+| Gianluca Zambrotta | 86 | Icons | 122k coins | +37.8% | -12.7% |
 | Kaká | 89 | Icons | 310k coins | +37.2% | +54.2% |
-| Nemanja Vidić | 87 | Icons | 224k coins | +34.1% | +51.4% |
-| Julie Foudy | 91 | Icons | 26k coins | +33.3% | -14.5% |
+| Nemanja Vidić | 87 | Icons | 224k coins | +34.1% | +52.4% |
 | Gennaro Gattuso | 86 | Icons | 130k coins | +32.7% | +52% |
 
 
@@ -74,14 +74,14 @@ O mercado do **EA FC** abre **01/08/2026** no PC com mercado **pressionado** —
 | --- | --- | --- | --- | --- | --- |
 | Zico | 92 | Icons | 538k coins | -46.2% | -17% |
 | Ian Wright | 87 | Icons | 66k coins | -42.1% | 0% |
-| Bastian Schweinsteiger | 88 | Icons | 100k coins | -39.5% | +43.3% |
-| Rivaldo | 90 | Icons | 74k coins | -37% | -16.7% |
-| Steven Gerrard | 88 | Icons | 97k coins | -35.3% | +39.6% |
+| Bastian Schweinsteiger | 88 | Icons | 100k coins | -38.4% | +43.3% |
+| Steven Gerrard | 88 | Icons | 95k coins | -37.8% | +39.6% |
+| Rivaldo | 90 | Icons | 72k coins | -37% | -15.7% |
 | Marcelo | 89 | Icons | 102k coins | -34.4% | -17.7% |
-| Roberto Carlos | 91 | Icons | 525k coins | -34.3% | -22.7% |
-| Philipp Lahm | 89 | Icons | 94k coins | -33.9% | +40% |
-| Ronaldinho | 93 | Icons | 930k coins | -33.3% | -41.5% |
+| Roberto Carlos | 91 | Icons | 525k coins | -34.2% | -22.7% |
 | Alex Morgan | 93 | Icons | 392k coins | -33% | -32.6% |
+| Frank Rijkaard | 87 | Icons | 100k coins | -32.9% | -11.9% |
+| Eusébio | 92 | Icons | 298k coins | -32.6% | -53.8% |
 
 
 ### Análise das baixas
@@ -90,7 +90,7 @@ O mercado do **EA FC** abre **01/08/2026** no PC com mercado **pressionado** —
 
 - **Ian Wright (87)** caiu **-42.1%** em 24h, a **66k coins** (faixa do dia: 66k–110k). Está -44% abaixo da média de 7 dias (descontada).
 
-- **Bastian Schweinsteiger (88)** caiu **-39.5%** em 24h, a **100k coins** (faixa do dia: 71k–164k). Está -21% abaixo da média de 7 dias (descontada).
+- **Bastian Schweinsteiger (88)** caiu **-38.4%** em 24h, a **100k coins** (faixa do dia: 71k–164k). Está -21% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -125,7 +125,7 @@ Zico (91, Icons), com +55.3% em 24h, a 295k coins no PC.
 Zico (92), -46.2% em 24h, a 538k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 48 cartas em alta contra 89 em queda (média -7.67%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 49 cartas em alta contra 89 em queda (média -7.37%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
