@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:56:17.000Z
+pubDatetime: 2026-08-02T16:56:17.000Z
 title: "Mercado EA FC em 02/08: Icons — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Ferenc Puskás (92, Icons), com +52.3% em 24h, a 150k coins no PC."
+    a: "Frank Rijkaard (87, Icons), com +59.2% em 24h, a 110k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Diego Armando Maradona (95), -48.5% em 24h, a 1.29M coins."
+    a: "Steffi Jones (89), -46.2% em 24h, a 22k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 65 cartas em alta contra 57 em queda (média 4.5%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 60 cartas em alta contra 62 em queda (média 2.46%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **02/08/2026** no PC: mercado **em alta** — predominam as valorizações. **65 valorizações** contra **57 quedas** entre as cartas relevantes, com média de **4.5%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **02/08/2026** no PC: mercado **em alta** — predominam as valorizações. **60 valorizações** contra **62 quedas** entre as cartas relevantes, com média de **2.46%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Ferenc Puskás (92) **+52.3%** · 🔴 **Maior baixa:** Diego Armando Maradona (95) **-48.5%**
+> 🟢 **Maior alta:** Frank Rijkaard (87) **+59.2%** · 🔴 **Maior baixa:** Steffi Jones (89) **-46.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Icons — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **02/08/2026** no PC: mercado **em alta** — predominam as valorizaç
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.3% entre as cartas que se moveram; o universo observado reúne 205 cartas.
+- **Amplitude do dia:** 105.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.2% entre as cartas que se moveram; o universo observado reúne 200 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ferenc Puskás | 92 | Icons | 150k coins | +52.3% | -10.7% |
-| Cafu | 91 | Icons | 151k coins | +52% | +17.4% |
-| Julie Foudy | 91 | Icons | 35k coins | +51% | +45% |
-| Sol Campbell | 86 | Icons | 96k coins | +50.8% | +50.8% |
-| Johan Cruyff | 87 | Icons | 240k coins | +48.7% | +45.7% |
-| Roberto Carlos | 90 | Icons | 218k coins | +43.4% | +66.4% |
-| Ronaldinho | 93 | Icons | 1.12M coins | +40.9% | -19.1% |
-| Claude Makélélé | 87 | Icons | 96k coins | +36.8% | +41.7% |
-| Gianluca Zambrotta | 86 | Icons | 160k coins | +35.6% | +60% |
-| Toni Kroos | 90 | Icons | 120k coins | +34.8% | +58.9% |
+| Frank Rijkaard | 87 | Icons | 110k coins | +59.2% | -41.8% |
+| Roberto Baggio | 91 | Icons | 120k coins | +51.8% | +56.5% |
+| Dunga | 87 | Icons | 124k coins | +38.5% | +104.5% |
+| Zico | 87 | Icons | 174k coins | +34.8% | +78% |
+| Toni Kroos | 90 | Icons | 120k coins | +34.8% | +63.3% |
+| Gianluca Zambrotta | 86 | Icons | 148k coins | +34.5% | +52% |
+| Alex Morgan | 91 | Icons | 470k coins | +34.3% | +51.6% |
+| Carlos Alberto | 91 | Icons | 95k coins | +31.1% | -11.8% |
+| Alessandro Nesta | 89 | Icons | 86k coins | +30.4% | +30.4% |
+| Rivaldo | 91 | Icons | 86k coins | +25% | +25.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **02/08/2026** no PC: mercado **em alta** — predominam as valorizaç
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ferenc Puskás (92)** subiu **+52.3%** em 24h, a **150k coins** (faixa do dia: 89k–200k). Está em linha com a média de 7 dias (+3%).
+- **Frank Rijkaard (87)** subiu **+59.2%** em 24h, a **110k coins** (faixa do dia: 70k–215k). Está em linha com a média de 7 dias (-1%).
 
-- **Cafu (91)** subiu **+52%** em 24h, a **151k coins** (faixa do dia: 80k–180k). Está em linha com a média de 7 dias (+3%).
+- **Roberto Baggio (91)** subiu **+51.8%** em 24h, a **120k coins** (faixa do dia: 76k–172k). Está +20% acima da média de 7 dias (aquecida).
 
-- **Julie Foudy (91)** subiu **+51%** em 24h, a **35k coins** (faixa do dia: 12.000–36k). Está +60% acima da média de 7 dias (aquecida).
+- **Dunga (87)** subiu **+38.5%** em 24h, a **124k coins** (faixa do dia: 86k–192k). Está +40% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Armando Maradona | 95 | Icons | 1.29M coins | -48.5% | +11.9% |
-| Fabio Cannavaro | 89 | Icons | 95k coins | -46.6% | +35.8% |
-| Steven Gerrard | 89 | Icons | 96k coins | -40.7% | +1.1% |
-| Camille Abily | 91 | Icons | 38k coins | -39.2% | +8.2% |
-| Samuel Eto'o | 89 | Icons | 96k coins | -36.5% | -55% |
-| Didier Drogba | 89 | Icons | 68k coins | -36% | +0.7% |
-| Franck Ribéry | 88 | Icons | 168k coins | -33.8% | +13.2% |
-| Patrick Kluivert | 87 | Icons | 66k coins | -31.2% | 0% |
-| Gianfranco Zola | 87 | Icons | 90k coins | -28.3% | +24.7% |
-| Luís Figo | 90 | Icons | 25k coins | -28% | -3.6% |
+| Steffi Jones | 89 | Icons | 22k coins | -46.2% | +43.3% |
+| Andrea Pirlo | 90 | Icons | 68k coins | -45.6% | -67.6% |
+| Ian Rush | 87 | Icons | 66k coins | -45% | 0% |
+| Patrick Vieira | 86 | Icons | 978k coins | -44.8% | +26% |
+| Lev Yashin | 92 | Icons | 90k coins | -39.6% | -10% |
+| Ruud Gullit | 90 | Icons | 2.50M coins | -38.8% | -11.7% |
+| Didier Drogba | 89 | Icons | 68k coins | -33.8% | -0.7% |
+| Aya Miyama | 90 | Icons | 100k coins | -32.9% | +52.9% |
+| Gianfranco Zola | 87 | Icons | 88k coins | -31.7% | +20.9% |
+| Lotta Schelin | 90 | Icons | 68k coins | -31.7% | -31.3% |
 
 
 ### Análise das baixas
 
-- **Diego Armando Maradona (95)** caiu **-48.5%** em 24h, a **1.29M coins** (faixa do dia: 1.29M–15M). Está -54% abaixo da média de 7 dias (descontada).
+- **Steffi Jones (89)** caiu **-46.2%** em 24h, a **22k coins** (faixa do dia: 22k–40k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Fabio Cannavaro (89)** caiu **-46.6%** em 24h, a **95k coins** (faixa do dia: 68k–230k). Está -48% abaixo da média de 7 dias (descontada).
+- **Andrea Pirlo (90)** caiu **-45.6%** em 24h, a **68k coins** (faixa do dia: 68k–210k). Está -53% abaixo da média de 7 dias (descontada).
 
-- **Steven Gerrard (89)** caiu **-40.7%** em 24h, a **96k coins** (faixa do dia: 17.750–190k). Está -32% abaixo da média de 7 dias (descontada).
+- **Ian Rush (87)** caiu **-45%** em 24h, a **66k coins** (faixa do dia: 66k–165k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ferenc Puskás já avançou 52.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Frank Rijkaard já avançou 59.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Diego Armando Maradona recuou -48.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Steffi Jones recuou -46.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Ferenc Puskás (92, Icons), com +52.3% em 24h, a 150k coins no PC.
+Frank Rijkaard (87, Icons), com +59.2% em 24h, a 110k coins no PC.
 
 **E a maior queda do dia?**
-Diego Armando Maradona (95), -48.5% em 24h, a 1.29M coins.
+Steffi Jones (89), -46.2% em 24h, a 22k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 65 cartas em alta contra 57 em queda (média 4.5%).
+Hoje o mercado está em alta — predominam as valorizações, com 60 cartas em alta contra 62 em queda (média 2.46%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
