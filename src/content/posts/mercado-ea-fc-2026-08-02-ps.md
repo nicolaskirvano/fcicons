@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:56:08.000Z
+pubDatetime: 2026-08-02T19:56:09.000Z
 title: "Mercado EA FC em 02/08: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Iniesta (92, Icons), com +51.5% em 24h, a 300k coins no Console (PS)."
+    a: "Carlos Alberto (91, Icons), com +58.4% em 24h, a 136k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Zlatan Ibrahimović (92), -34.3% em 24h, a 3.60M coins."
+    a: "Diego Armando Maradona (96), -28.8% em 24h, a 1.97M coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 97 cartas em alta contra 54 em queda (média 5.83%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 84 cartas em alta contra 60 em queda (média 3.74%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **02/08/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **97 valorizações** contra **54 quedas** entre as cartas relevantes, com média de **5.83%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **02/08/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **84 valorizações** contra **60 quedas** entre as cartas relevantes, com média de **3.74%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Iniesta (92) **+51.5%** · 🔴 **Maior baixa:** Zlatan Ibrahimović (92) **-34.3%**
+> 🟢 **Maior alta:** Carlos Alberto (91) **+58.4%** · 🔴 **Maior baixa:** Diego Armando Maradona (96) **-28.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Icons — Console (PS)](/charts/mercado-ea-fc-2026-08-02-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **02/08/2026** no Console (PS): mercado **em alta** — predominam as 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 85.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 64.2% entre as cartas que se moveram; o universo observado reúne 200 cartas.
+- **Amplitude do dia:** 87.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 58.3% entre as cartas que se moveram; o universo observado reúne 195 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Iniesta | 92 | Icons | 300k coins | +51.5% | +75% |
-| Carlos Alberto | 91 | Icons | 130k coins | +50.3% | +30% |
-| Patrick Vieira | 88 | Icons | 344k coins | +49.6% | +76.4% |
-| Gianluca Zambrotta | 86 | Icons | 238k coins | +46% | +136.7% |
-| Ruud Gullit | 93 | Icons | 5.02M coins | +45.4% | +24.3% |
-| Luís Figo | 90 | Icons | 32k coins | +41.7% | +35.2% |
-| Petr Čech | 89 | Icons | 90k coins | +41.2% | +31.9% |
-| George Best | 90 | Icons | 139k coins | +38% | -55.5% |
-| Gianfranco Zola | 87 | Icons | 104k coins | +36.8% | +44.4% |
-| Frank Rijkaard | 89 | Icons | 120k coins | +30% | +64.6% |
+| Carlos Alberto | 91 | Icons | 136k coins | +58.4% | +37% |
+| Frank Rijkaard | 89 | Icons | 130k coins | +54.4% | +93.5% |
+| Johan Cruyff | 87 | Icons | 199k coins | +42.1% | +84.3% |
+| Xavi | 92 | Icons | 250k coins | +39.1% | +61.6% |
+| Iniesta | 92 | Icons | 350k coins | +36% | +70% |
+| Lotta Schelin | 91 | Icons | 440k coins | +35.4% | +59.4% |
+| Francesco Totti | 89 | Icons | 1.39M coins | +32.9% | +54% |
+| Franck Ribéry | 88 | Icons | 174k coins | +30.8% | +16% |
+| Rio Ferdinand | 88 | Icons | 510k coins | +27.9% | +79.2% |
+| Patrick Vieira | 88 | Icons | 288k coins | +27% | +48.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **02/08/2026** no Console (PS): mercado **em alta** — predominam as 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Iniesta (92)** subiu **+51.5%** em 24h, a **300k coins** (faixa do dia: 212k–430k). Está +27% acima da média de 7 dias (aquecida).
+- **Carlos Alberto (91)** subiu **+58.4%** em 24h, a **136k coins** (faixa do dia: 75k–163k). Está +33% acima da média de 7 dias (aquecida).
 
-- **Carlos Alberto (91)** subiu **+50.3%** em 24h, a **130k coins** (faixa do dia: 75k–163k). Está +29% acima da média de 7 dias (aquecida).
+- **Frank Rijkaard (89)** subiu **+54.4%** em 24h, a **130k coins** (faixa do dia: 76k–149k). Está +32% acima da média de 7 dias (aquecida).
 
-- **Patrick Vieira (88)** subiu **+49.6%** em 24h, a **344k coins** (faixa do dia: 223k–460k). Está +28% acima da média de 7 dias (aquecida).
+- **Johan Cruyff (87)** subiu **+42.1%** em 24h, a **199k coins** (faixa do dia: 120k–200k). Está +48% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Zlatan Ibrahimović | 92 | Icons | 3.60M coins | -34.3% | +9.3% |
-| Samuel Eto'o | 90 | Icons | 240k coins | -31.1% | -40% |
-| Sol Campbell | 86 | Icons | 65k coins | -28.2% | -1.5% |
-| Lotta Schelin | 92 | Icons | 334k coins | -27.4% | -5.9% |
-| Fernando Torres | 87 | Icons | 87k coins | -25.8% | -38.4% |
-| Robert Pirès | 89 | Icons | 37k coins | -24.7% | -0.8% |
-| Sissi | 88 | Icons | 68k coins | -21.8% | +19.3% |
-| Marco van Basten | 91 | Icons | 76k coins | -19.5% | -0.6% |
-| Bastian Schweinsteiger | 88 | Icons | 68k coins | -17.7% | -12.9% |
-| Gerd Müller | 92 | Icons | 70k coins | -17.6% | -2.1% |
+| Diego Armando Maradona | 96 | Icons | 1.97M coins | -28.8% | +21.1% |
+| Samuel Eto'o | 90 | Icons | 232k coins | -28.2% | -34.9% |
+| Zico | 92 | Icons | 314k coins | -27% | +81.5% |
+| Marco van Basten | 91 | Icons | 72k coins | -23.9% | -7.1% |
+| Petr Čech | 88 | Icons | 78k coins | -23.4% | +3.8% |
+| Juan Román Riquelme | 89 | Icons | 450k coins | -21.7% | +32.4% |
+| Rivaldo | 91 | Icons | 80k coins | -18.5% | +13.6% |
+| Steffi Jones | 89 | Icons | 28k coins | -17.9% | -35.7% |
+| Franz Beckenbauer | 92 | Icons | 130k coins | -17.4% | +17.7% |
+| Eusébio | 92 | Icons | 287k coins | -14.7% | -23.1% |
 
 
 ### Análise das baixas
 
-- **Zlatan Ibrahimović (92)** caiu **-34.3%** em 24h, a **3.60M coins** (faixa do dia: 3M–6M). Está em linha com a média de 7 dias (+1%).
+- **Diego Armando Maradona (96)** caiu **-28.8%** em 24h, a **1.97M coins** (faixa do dia: 1.72M–2.77M). Está em linha com a média de 7 dias (-1%).
 
-- **Samuel Eto'o (90)** caiu **-31.1%** em 24h, a **240k coins** (faixa do dia: 229k–354k). Está -31% abaixo da média de 7 dias (descontada).
+- **Samuel Eto'o (90)** caiu **-28.2%** em 24h, a **232k coins** (faixa do dia: 229k–350k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Sol Campbell (86)** caiu **-28.2%** em 24h, a **65k coins** (faixa do dia: 65k–89k). Está em linha com a média de 7 dias (-7%).
+- **Zico (92)** caiu **-27%** em 24h, a **314k coins** (faixa do dia: 200k–430k). Está +34% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Iniesta já avançou 51.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Carlos Alberto já avançou 58.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Zlatan Ibrahimović recuou -34.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Diego Armando Maradona recuou -28.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Iniesta (92, Icons), com +51.5% em 24h, a 300k coins no Console (PS).
+Carlos Alberto (91, Icons), com +58.4% em 24h, a 136k coins no Console (PS).
 
 **E a maior queda do dia?**
-Zlatan Ibrahimović (92), -34.3% em 24h, a 3.60M coins.
+Diego Armando Maradona (96), -28.8% em 24h, a 1.97M coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 97 cartas em alta contra 54 em queda (média 5.83%).
+Hoje o mercado está em alta — predominam as valorizações, com 84 cartas em alta contra 60 em queda (média 3.74%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
