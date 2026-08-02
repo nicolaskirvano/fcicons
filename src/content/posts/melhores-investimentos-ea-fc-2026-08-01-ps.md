@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:56:09.000Z
+pubDatetime: 2026-08-02T01:56:10.000Z
 title: "Investimentos EA FC: Icons em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Gennaro Gattuso (86, Icons) lidera, com +83.3% em 7 dias a 156k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "David Beckham (89, Icons) lidera, com +79.3% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Gennaro Gattuso (86) acumula **+83.3% em 7 dias** a 156k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** David Beckham (89) acumula **+79.3% em 7 dias** a 45k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.8% em 24h** e **+30.3% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+13.2% em 24h** e **+20.7% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gennaro Gattuso | 86 | Icons | 156k coins | +6.5% | +83.3% | Esticada |
-| Garrincha | 92 | Icons | 182k coins | +24.3% | +48.7% | Esticada |
-| Franz Beckenbauer | 92 | Icons | 169k coins | +29.6% | +42.1% | Esticada |
-| Zico | 91 | Icons | 192k coins | +28.2% | +37.9% | Esticada |
-| Pelé | 95 | Icons | 194k coins | +26.8% | +37.6% | Esticada |
-| Claude Makélélé | 87 | Icons | 84k coins | +16.4% | +34.1% | Momentum moderado |
-| Lothar Matthäus | 90 | Icons | 145k coins | +20.8% | +30.6% | Esticada |
-| Sissi | 88 | Icons | 70k coins | +22.3% | +30.3% | Esticada |
-| Raúl | 90 | Icons | 149k coins | +20.3% | +29.7% | Esticada |
-| Jairzinho | 89 | Icons | 197k coins | +33.8% | +29.3% | Esticada |
-| Nemanja Vidić | 87 | Icons | 142k coins | +35.5% | +20.8% | Esticada |
-| Philipp Lahm | 89 | Icons | 77k coins | +14.1% | +14.1% | Momentum moderado |
-| Cha Bum Kun | 86 | Icons | 78k coins | +10.4% | +12.8% | Momentum moderado |
-| Casillas | 90 | Icons | 98k coins | +1.6% | +12.3% | Entrada a observar |
-| Ronald Koeman | 91 | Icons | 131k coins | +17% | +10.6% | Momentum moderado |
+| David Beckham | 89 | Icons | 45k coins | +15.6% | +79.3% | Esticada |
+| Johan Cruyff | 87 | Icons | 175k coins | +5% | +78.7% | Esticada |
+| Marcelo | 89 | Icons | 110k coins | +31.2% | +64.4% | Esticada |
+| Franz Beckenbauer | 92 | Icons | 120k coins | +36.2% | +55.3% | Esticada |
+| Hugo Sánchez | 89 | Icons | 131k coins | +10.8% | +49.1% | Momentum moderado |
+| Giorgio Chiellini | 89 | Icons | 202k coins | +19.5% | +45.3% | Momentum moderado |
+| Petr Čech | 88 | Icons | 68k coins | +18.6% | +34.6% | Momentum moderado |
+| Roberto Baggio | 91 | Icons | 106k coins | +7% | +20.7% | Momentum moderado |
+| Bastian Schweinsteiger | 88 | Icons | 78k coins | +7.4% | +19.5% | Momentum moderado |
+| Nemanja Vidić | 87 | Icons | 146k coins | +24.8% | +16.8% | Esticada |
+| Kelly Smith | 89 | Icons | 74k coins | +9.6% | +9.6% | Momentum moderado |
+| Ashley Cole | 86 | Icons | 65k coins | +10.8% | +9.1% | Momentum moderado |
+| Rivaldo | 91 | Icons | 101k coins | +18.3% | +9% | Momentum moderado |
+| Michael Owen | 88 | Icons | 72k coins | +9% | +8.2% | Momentum moderado |
+| Dennis Bergkamp | 90 | Icons | 86k coins | +13.2% | +7.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Gennaro Gattuso (86)** — 156k coins, **+83.3% em 7 dias** (+6.5% em 24h). Preço +61% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Beckham (89)** — 45k coins, **+79.3% em 7 dias** (+15.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Garrincha (92)** — 182k coins, **+48.7% em 7 dias** (+24.3% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Johan Cruyff (87)** — 175k coins, **+78.7% em 7 dias** (+5% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Franz Beckenbauer (92)** — 169k coins, **+42.1% em 7 dias** (+29.6% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcelo (89)** — 110k coins, **+64.4% em 7 dias** (+31.2% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Zico (91)** — 192k coins, **+37.9% em 7 dias** (+28.2% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franz Beckenbauer (92)** — 120k coins, **+55.3% em 7 dias** (+36.2% em 24h). Preço -20% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pelé (95)** — 194k coins, **+37.6% em 7 dias** (+26.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hugo Sánchez (89)** — 131k coins, **+49.1% em 7 dias** (+10.8% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Gennaro Gattuso (86, Icons) lidera, com +83.3% em 7 dias a 156k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+David Beckham (89, Icons) lidera, com +79.3% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
