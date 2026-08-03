@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:56:17.000Z
+pubDatetime: 2026-08-03T22:56:17.000Z
 title: "Mercado EA FC em 03/08: Icons — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Marcel Desailly (88, Icons), com +56.5% em 24h, a 169k coins no PC."
+    a: "Ronaldinho (93, Icons), com +58% em 24h, a 1.80M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "George Best (90), -46.6% em 24h, a 138k coins."
+    a: "Carlos Alberto (91), -48.8% em 24h, a 103k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 70 cartas em alta contra 70 em queda (média 0.96%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 65 cartas em alta contra 78 em queda (média 1.11%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**03/08/2026**, PC) o Ultimate Team está **de lado** — altas e quedas se equilibram — **70 subiram**, **70 caíram** (80+ e 5k+ coins), média de **0.96%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**03/08/2026**, PC) o Ultimate Team está **de lado** — altas e quedas se equilibram — **65 subiram**, **78 caíram** (80+ e 5k+ coins), média de **1.11%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Marcel Desailly (88) **+56.5%** · 🔴 **Maior baixa:** George Best (90) **-46.6%**
+> 🟢 **Maior alta:** Ronaldinho (93) **+58%** · 🔴 **Maior baixa:** Carlos Alberto (91) **-48.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Icons — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**03/08/2026**, PC) o Ultimate Team está **de lado** — altas e quedas s
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 205 cartas.
+- **Amplitude do dia:** 106.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.5% entre as cartas que se moveram; o universo observado reúne 208 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marcel Desailly | 88 | Icons | 169k coins | +56.5% | +118.1% |
-| Pelé | 96 | Icons | 20k coins | +54.1% | -4.1% |
-| Patrick Vieira | 86 | Icons | 1.50M coins | +53.2% | +116.3% |
-| Aya Miyama | 90 | Icons | 149k coins | +52% | +119.1% |
+| Ronaldinho | 93 | Icons | 1.80M coins | +58% | +8.4% |
+| Wayne Rooney | 88 | Icons | 150k coins | +57.1% | +44.2% |
+| Didier Drogba | 89 | Icons | 107k coins | +57% | +57% |
+| Caroline Seger | 91 | Icons | 69k coins | +52.5% | -46.9% |
 | Dennis Bergkamp | 93 | Icons | 178k coins | +50.8% | -38.2% |
-| Lilian Thuram | 88 | Icons | 131k coins | +49.2% | +12.5% |
-| Didier Drogba | 89 | Icons | 98k coins | +48.1% | +48.1% |
-| Andrea Pirlo | 90 | Icons | 110k coins | +47.1% | -36.7% |
-| Dunga | 87 | Icons | 111k coins | +41.4% | +68.2% |
-| Gianfranco Zola | 87 | Icons | 125k coins | +39.7% | +19% |
+| Johan Cruyff | 87 | Icons | 300k coins | +50% | +62.2% |
+| Franck Ribéry | 89 | Icons | 400k coins | +40.8% | +9.6% |
+| Gareth Bale | 88 | Icons | 576k coins | +38.8% | -27% |
+| Toni Kroos | 90 | Icons | 120k coins | +33.3% | +90.5% |
+| Patrick Vieira | 86 | Icons | 1.30M coins | +29.3% | +87.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**03/08/2026**, PC) o Ultimate Team está **de lado** — altas e quedas s
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Marcel Desailly (88)** subiu **+56.5%** em 24h, a **169k coins** (faixa do dia: 108k–189k). Está +62% acima da média de 7 dias (aquecida).
+- **Ronaldinho (93)** subiu **+58%** em 24h, a **1.80M coins** (faixa do dia: 1.60M–6.20M). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Pelé (96)** subiu **+54.1%** em 24h, a **20k coins** (faixa do dia: 14.500–24k). Está -8% abaixo da média de 7 dias (descontada).
+- **Wayne Rooney (88)** subiu **+57.1%** em 24h, a **150k coins** (faixa do dia: 80k–155k). Está +34% acima da média de 7 dias (aquecida).
 
-- **Patrick Vieira (86)** subiu **+53.2%** em 24h, a **1.50M coins** (faixa do dia: 900k–1.70M). Está +45% acima da média de 7 dias (aquecida).
+- **Didier Drogba (89)** subiu **+57%** em 24h, a **107k coins** (faixa do dia: 68k–109k). Está em linha com a média de 7 dias (+7%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| George Best | 90 | Icons | 138k coins | -46.6% | +19.3% |
-| Dennis Bergkamp | 90 | Icons | 113k coins | -42.4% | -26.9% |
-| Carlos Alberto | 91 | Icons | 112k coins | -42% | -3.3% |
-| Giorgio Chiellini | 89 | Icons | 94k coins | -38.1% | -7.9% |
-| Ferenc Puskás | 92 | Icons | 115k coins | -37.9% | -9% |
-| Toni Kroos | 90 | Icons | 75k coins | -37.5% | +11.9% |
+| Carlos Alberto | 91 | Icons | 103k coins | -48.8% | -10.1% |
+| Dennis Bergkamp | 90 | Icons | 100k coins | -48% | -35.6% |
+| Ferenc Puskás | 94 | Icons | 835k coins | -42.8% | -33.3% |
+| Giorgio Chiellini | 89 | Icons | 44k coins | -42.8% | -25.7% |
 | Zico | 92 | Icons | 711k coins | -35.1% | -28.9% |
-| Giorgio Chiellini | 88 | Icons | 86k coins | -35% | +33.8% |
-| Alex Morgan | 93 | Icons | 395k coins | -33.4% | -24% |
-| Alex Morgan | 91 | Icons | 320k coins | -31.9% | -27.1% |
+| Franco Baresi | 91 | Icons | 69k coins | -33.7% | 0% |
+| Birgit Prinz | 93 | Icons | 89k coins | -32.7% | +3.5% |
+| Marcelo | 89 | Icons | 109k coins | -31.4% | +55.7% |
+| Roy Keane | 88 | Icons | 230k coins | -29.2% | -2.5% |
+| Zico | 91 | Icons | 186k coins | -27.9% | +3.7% |
 
 
 ### Análise das baixas
 
-- **George Best (90)** caiu **-46.6%** em 24h, a **138k coins** (faixa do dia: 86k–270k). Está -22% abaixo da média de 7 dias (descontada).
+- **Carlos Alberto (91)** caiu **-48.8%** em 24h, a **103k coins** (faixa do dia: 100k–226k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Dennis Bergkamp (90)** caiu **-42.4%** em 24h, a **113k coins** (faixa do dia: 68k–210k). Está -24% abaixo da média de 7 dias (descontada).
+- **Dennis Bergkamp (90)** caiu **-48%** em 24h, a **100k coins** (faixa do dia: 68k–210k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Carlos Alberto (91)** caiu **-42%** em 24h, a **112k coins** (faixa do dia: 100k–226k). Está -15% abaixo da média de 7 dias (descontada).
+- **Ferenc Puskás (94)** caiu **-42.8%** em 24h, a **835k coins** (faixa do dia: 500k–850k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Marcel Desailly já avançou 56.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Ronaldinho já avançou 58% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** George Best recuou -46.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Carlos Alberto recuou -48.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Marcel Desailly (88, Icons), com +56.5% em 24h, a 169k coins no PC.
+Ronaldinho (93, Icons), com +58% em 24h, a 1.80M coins no PC.
 
 **E a maior queda do dia?**
-George Best (90), -46.6% em 24h, a 138k coins.
+Carlos Alberto (91), -48.8% em 24h, a 103k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 70 cartas em alta contra 70 em queda (média 0.96%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 65 cartas em alta contra 78 em queda (média 1.11%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

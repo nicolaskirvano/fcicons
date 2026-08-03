@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:56:08.000Z
+pubDatetime: 2026-08-03T22:56:07.000Z
 title: "Mercado EA FC em 03/08: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Caroline Seger (90, Icons), com +52.9% em 24h, a 50k coins no Console (PS)."
+    a: "Birgit Prinz (93, Icons), com +51.7% em 24h, a 66k coins no Console (PS)."
   - q: "E a maior queda do dia?"
     a: "Ferenc Puskás (93), -38.5% em 24h, a 20k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 80 cartas em alta contra 81 em queda (média -0.03%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 76 cartas em alta contra 69 em queda (média 0.97%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**03/08/2026**, Console (PS)) o Ultimate Team está **de lado** — altas e quedas se equilibram — **80 subiram**, **81 caíram** (80+ e 5k+ coins), média de **-0.03%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**03/08/2026**, Console (PS)) o Ultimate Team está **de lado** — altas e quedas se equilibram — **76 subiram**, **69 caíram** (80+ e 5k+ coins), média de **0.97%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Caroline Seger (90) **+52.9%** · 🔴 **Maior baixa:** Ferenc Puskás (93) **-38.5%**
+> 🟢 **Maior alta:** Birgit Prinz (93) **+51.7%** · 🔴 **Maior baixa:** Ferenc Puskás (93) **-38.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Icons — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**03/08/2026**, Console (PS)) o Ultimate Team está **de lado** — altas 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 91.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.7% entre as cartas que se moveram; o universo observado reúne 190 cartas.
+- **Amplitude do dia:** 90.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.4% entre as cartas que se moveram; o universo observado reúne 177 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Caroline Seger | 90 | Icons | 50k coins | +52.9% | -22.7% |
-| Henrik Larsson | 88 | Icons | 323k coins | +46.8% | +61.5% |
-| Alex Morgan | 93 | Icons | 300k coins | +40.5% | -16.7% |
-| Lothar Matthäus | 90 | Icons | 178k coins | +39.7% | +99% |
-| Robin van Persie | 88 | Icons | 144k coins | +34.5% | +13.8% |
-| Garrincha | 93 | Icons | 790k coins | +32.3% | +35.5% |
-| Zlatan Ibrahimović | 92 | Icons | 4.40M coins | +29.4% | +33.7% |
-| Luís Figo | 90 | Icons | 34k coins | +28.8% | +45.7% |
-| Ronald Koeman | 91 | Icons | 144k coins | +28.3% | +85.9% |
-| Roy Keane | 88 | Icons | 535k coins | +21.6% | +42.7% |
+| Birgit Prinz | 93 | Icons | 66k coins | +51.7% | +234.2% |
+| Steven Gerrard | 89 | Icons | 290k coins | +40% | +61.8% |
+| Hugo Sánchez | 89 | Icons | 139k coins | +39% | +94.4% |
+| Robin van Persie | 88 | Icons | 144k coins | +36.4% | +11.1% |
+| Lilian Thuram | 88 | Icons | 102k coins | +35.8% | +38.5% |
+| Ronaldinho | 94 | Icons | 1.19M coins | +27.3% | +15.4% |
+| Marcelo | 89 | Icons | 205k coins | +26.5% | +118.1% |
+| Toni Kroos | 90 | Icons | 133k coins | +24.4% | +87.2% |
+| Petr Čech | 89 | Icons | 95k coins | +23.8% | +74.5% |
+| Alex Morgan | 93 | Icons | 306k coins | +21.6% | -22.9% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ Hoje (**03/08/2026**, Console (PS)) o Ultimate Team está **de lado** — altas 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Caroline Seger (90)** subiu **+52.9%** em 24h, a **50k coins** (faixa do dia: 18.500–148k). Está +30% acima da média de 7 dias (aquecida).
+- **Birgit Prinz (93)** subiu **+51.7%** em 24h, a **66k coins** (faixa do dia: 13.000–100k). Está +70% acima da média de 7 dias (aquecida).
 
-- **Henrik Larsson (88)** subiu **+46.8%** em 24h, a **323k coins** (faixa do dia: 199k–354k). Está +37% acima da média de 7 dias (aquecida).
+- **Steven Gerrard (89)** subiu **+40%** em 24h, a **290k coins** (faixa do dia: 189k–290k). Está +44% acima da média de 7 dias (aquecida).
 
-- **Alex Morgan (93)** subiu **+40.5%** em 24h, a **300k coins** (faixa do dia: 219k–400k). Está em linha com a média de 7 dias (-2%).
+- **Hugo Sánchez (89)** subiu **+39%** em 24h, a **139k coins** (faixa do dia: 79k–143k). Está +45% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,29 +73,29 @@ Hoje (**03/08/2026**, Console (PS)) o Ultimate Team está **de lado** — altas 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Ferenc Puskás | 93 | Icons | 20k coins | -38.5% | -95.5% |
-| Steffi Jones | 89 | Icons | 25k coins | -28.3% | +23.8% |
-| Hernán Crespo | 88 | Icons | 22k coins | -26.7% | +17.3% |
-| Gareth Bale | 88 | Icons | 281k coins | -23.7% | -38% |
-| Aya Miyama | 90 | Icons | 169k coins | -22.7% | +6.9% |
-| Ashley Cole | 86 | Icons | 76k coins | -22% | +18.2% |
-| Cafu | 91 | Icons | 80k coins | -20% | -23.6% |
-| Johan Cruyff | 87 | Icons | 165k coins | -17.1% | +33.1% |
-| Lotta Schelin | 91 | Icons | 390k coins | -16.8% | +51.8% |
-| Paolo Maldini | 92 | Icons | 180k coins | -14.6% | -5.1% |
+| Nemanja Vidić | 89 | Icons | 381k coins | -33.3% | -37% |
+| Bobby Moore | 91 | Icons | 289k coins | -29.3% | -26.1% |
+| Fabio Cannavaro | 89 | Icons | 101k coins | -28.9% | -3.4% |
+| Sócrates | 89 | Icons | 90k coins | -24.2% | +7.4% |
+| Cafu | 91 | Icons | 79k coins | -20.6% | -24% |
+| Franck Ribéry | 89 | Icons | 405k coins | -18.7% | +52.3% |
+| Iniesta | 92 | Icons | 210k coins | -16.3% | +40.9% |
+| Fernando Torres | 87 | Icons | 101k coins | -14.8% | -31.1% |
+| Claude Makélélé | 87 | Icons | 84k coins | -12.9% | -6.9% |
 
 
 ### Análise das baixas
 
 - **Ferenc Puskás (93)** caiu **-38.5%** em 24h, a **20k coins** (faixa do dia: 20k–32k). Está -93% abaixo da média de 7 dias (descontada).
 
-- **Steffi Jones (89)** caiu **-28.3%** em 24h, a **25k coins** (faixa do dia: 11.250–37k). Está em linha com a média de 7 dias (-3%).
+- **Nemanja Vidić (89)** caiu **-33.3%** em 24h, a **381k coins** (faixa do dia: 359k–650k). Está em linha com a média de 7 dias (-1%).
 
-- **Hernán Crespo (88)** caiu **-26.7%** em 24h, a **22k coins** (faixa do dia: 16.500–40k). Está em linha com a média de 7 dias (+2%).
+- **Bobby Moore (91)** caiu **-29.3%** em 24h, a **289k coins** (faixa do dia: 259k–319k). Está -33% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Caroline Seger já avançou 52.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Birgit Prinz já avançou 51.7% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Ferenc Puskás recuou -38.5%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Caroline Seger (90, Icons), com +52.9% em 24h, a 50k coins no Console (PS).
+Birgit Prinz (93, Icons), com +51.7% em 24h, a 66k coins no Console (PS).
 
 **E a maior queda do dia?**
 Ferenc Puskás (93), -38.5% em 24h, a 20k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 80 cartas em alta contra 81 em queda (média -0.03%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 76 cartas em alta contra 69 em queda (média 0.97%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
