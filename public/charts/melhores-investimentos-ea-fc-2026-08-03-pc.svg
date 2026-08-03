@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marcelo</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roberto Baggio</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.2%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Claude Makélélé</text>
-<rect x="285" y="153" width="445" height="28" rx="7" fill="#22c55e"/>
-<text x="740" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+81.8%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Robin van Persie</text>
-<rect x="285" y="211" width="267" height="28" rx="7" fill="#22c55e"/>
-<text x="562" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Frank Rijkaard</text>
-<rect x="285" y="269" width="223" height="28" rx="7" fill="#22c55e"/>
-<text x="518" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alessandro Nesta</text>
-<rect x="285" y="327" width="189" height="28" rx="7" fill="#22c55e"/>
-<text x="484" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Raúl</text>
-<rect x="285" y="385" width="177" height="28" rx="7" fill="#22c55e"/>
-<text x="472" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.5%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sol Campbell</text>
+<rect x="285" y="153" width="459" height="28" rx="7" fill="#22c55e"/>
+<text x="754" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+81.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rivaldo</text>
+<rect x="285" y="211" width="425" height="28" rx="7" fill="#22c55e"/>
+<text x="720" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paolo Maldini</text>
+<rect x="285" y="269" width="319" height="28" rx="7" fill="#22c55e"/>
+<text x="614" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.7%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gennaro Gattuso</text>
+<rect x="285" y="327" width="300" height="28" rx="7" fill="#22c55e"/>
+<text x="595" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Juan Román Riquelme</text>
+<rect x="285" y="385" width="286" height="28" rx="7" fill="#22c55e"/>
+<text x="581" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.7%</text>
 </svg>

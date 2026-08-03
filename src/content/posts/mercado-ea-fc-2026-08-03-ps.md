@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T13:56:08.000Z
+pubDatetime: 2026-08-03T16:56:07.000Z
 title: "Mercado EA FC em 03/08: Icons — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Juan Román Riquelme (88, Icons), com +53.3% em 24h, a 112k coins no Console (PS)."
+    a: "Lilian Thuram (88, Icons), com +50.6% em 24h, a 111k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Xavi (92), -47.9% em 24h, a 177k coins."
+    a: "Xavi (92), -48.5% em 24h, a 175k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 88 cartas em alta contra 79 em queda (média -0.13%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 94 cartas em alta contra 72 em queda (média 0.42%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**03/08/2026**, Console (PS)) o Ultimate Team está **de lado** — altas e quedas se equilibram — **88 subiram**, **79 caíram** (80+ e 5k+ coins), média de **-0.13%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**03/08/2026**, Console (PS)) o Ultimate Team está **de lado** — altas e quedas se equilibram — **94 subiram**, **72 caíram** (80+ e 5k+ coins), média de **0.42%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Juan Román Riquelme (88) **+53.3%** · 🔴 **Maior baixa:** Xavi (92) **-47.9%**
+> 🟢 **Maior alta:** Lilian Thuram (88) **+50.6%** · 🔴 **Maior baixa:** Xavi (92) **-48.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Icons — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**03/08/2026**, Console (PS)) o Ultimate Team está **de lado** — altas 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 52.7% entre as cartas que se moveram; o universo observado reúne 201 cartas.
+- **Amplitude do dia:** 99.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 56.6% entre as cartas que se moveram; o universo observado reúne 186 cartas.
 - **Concentração:** Icons aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Juan Román Riquelme | 88 | Icons | 112k coins | +53.3% | +58.6% |
-| Paolo Maldini | 92 | Icons | 284k coins | +45.9% | +42.1% |
-| Roberto Baggio | 91 | Icons | 114k coins | +43.8% | +41.1% |
-| Patrick Kluivert | 87 | Icons | 72k coins | +41% | +43.2% |
-| Lotta Schelin | 90 | Icons | 98k coins | +40.7% | +28.8% |
-| Diego Armando Maradona | 95 | Icons | 1.65M coins | +37.8% | +100.3% |
-| Lotta Schelin | 92 | Icons | 460k coins | +37.7% | +7% |
-| Ronald Koeman | 91 | Icons | 137k coins | +37% | +71.2% |
-| Hernán Crespo | 88 | Icons | 33k coins | +34% | +103% |
-| Bastian Schweinsteiger | 88 | Icons | 89k coins | +33.3% | +35.3% |
+| Lilian Thuram | 88 | Icons | 111k coins | +50.6% | +53.5% |
+| Ronald Koeman | 91 | Icons | 150k coins | +47.7% | +88.5% |
+| Oliver Kahn | 91 | Icons | 38k coins | +35.7% | -30.9% |
+| Gheorghe Hagi | 88 | Icons | 89k coins | +34.5% | +40.6% |
+| Garrincha | 92 | Icons | 203k coins | +31.2% | +87.3% |
+| Roy Keane | 86 | Icons | 169k coins | +30.1% | +44.2% |
+| Emmanuel Petit | 87 | Icons | 153k coins | +29% | +50.3% |
+| Marcelo | 89 | Icons | 165k coins | +28% | +86.4% |
+| Samuel Eto'o | 90 | Icons | 304k coins | +25.6% | -18.9% |
+| Bastian Schweinsteiger | 88 | Icons | 80k coins | +25.2% | +27.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**03/08/2026**, Console (PS)) o Ultimate Team está **de lado** — altas 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Juan Román Riquelme (88)** subiu **+53.3%** em 24h, a **112k coins** (faixa do dia: 70k–180k). Está +32% acima da média de 7 dias (aquecida).
+- **Lilian Thuram (88)** subiu **+50.6%** em 24h, a **111k coins** (faixa do dia: 72k–130k). Está +25% acima da média de 7 dias (aquecida).
 
-- **Paolo Maldini (92)** subiu **+45.9%** em 24h, a **284k coins** (faixa do dia: 118k–377k). Está +27% acima da média de 7 dias (aquecida).
+- **Ronald Koeman (91)** subiu **+47.7%** em 24h, a **150k coins** (faixa do dia: 95k–150k). Está +36% acima da média de 7 dias (aquecida).
 
-- **Roberto Baggio (91)** subiu **+43.8%** em 24h, a **114k coins** (faixa do dia: 73k–131k). Está +35% acima da média de 7 dias (aquecida).
+- **Oliver Kahn (91)** subiu **+35.7%** em 24h, a **38k coins** (faixa do dia: 19.750–88k). Está -27% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Xavi | 92 | Icons | 177k coins | -47.9% | -28.3% |
+| Xavi | 92 | Icons | 175k coins | -48.5% | -29.4% |
 | Ferenc Puskás | 93 | Icons | 20k coins | -38.5% | -95.4% |
-| Nemanja Vidić | 89 | Icons | 383k coins | -31.6% | -38.1% |
-| Nemanja Vidić | 87 | Icons | 130k coins | -28.1% | -16.1% |
-| Aya Miyama | 90 | Icons | 200k coins | -27.5% | +22% |
-| Patrick Vieira | 86 | Icons | 834k coins | -26.4% | +5.6% |
-| Juan Román Riquelme | 89 | Icons | 454k coins | -20.4% | +49.3% |
-| Eusébio | 92 | Icons | 262k coins | -17.4% | -26.1% |
-| Zico | 92 | Icons | 314k coins | -17.4% | +95% |
-| Ferenc Puskás | 94 | Icons | 456k coins | -16.3% | -3.8% |
+| Sócrates | 89 | Icons | 80k coins | -35.2% | -18.1% |
+| Nemanja Vidić | 89 | Icons | 383k coins | -32.3% | -38.1% |
+| Eusébio | 91 | Icons | 311k coins | -29.2% | -20.6% |
+| Aya Miyama | 90 | Icons | 187k coins | -28.4% | +21.6% |
+| Fabio Cannavaro | 89 | Icons | 147k coins | -25.6% | -10% |
+| Petr Čech | 88 | Icons | 73k coins | -23.2% | +1.4% |
+| Camille Abily | 91 | Icons | 28k coins | -22% | +36% |
+| Gareth Bale | 89 | Icons | 750k coins | -21.1% | -37.2% |
 
 
 ### Análise das baixas
 
-- **Xavi (92)** caiu **-47.9%** em 24h, a **177k coins** (faixa do dia: 177k–350k). Está -27% abaixo da média de 7 dias (descontada).
+- **Xavi (92)** caiu **-48.5%** em 24h, a **175k coins** (faixa do dia: 174k–330k). Está -27% abaixo da média de 7 dias (descontada).
 
 - **Ferenc Puskás (93)** caiu **-38.5%** em 24h, a **20k coins** (faixa do dia: 20k–32k). Está -93% abaixo da média de 7 dias (descontada).
 
-- **Nemanja Vidić (89)** caiu **-31.6%** em 24h, a **383k coins** (faixa do dia: 383k–668k). Está em linha com a média de 7 dias (-2%).
+- **Sócrates (89)** caiu **-35.2%** em 24h, a **80k coins** (faixa do dia: 74k–146k). Está -25% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Juan Román Riquelme já avançou 53.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lilian Thuram já avançou 50.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Xavi recuou -47.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Xavi recuou -48.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Juan Román Riquelme (88, Icons), com +53.3% em 24h, a 112k coins no Console (PS).
+Lilian Thuram (88, Icons), com +50.6% em 24h, a 111k coins no Console (PS).
 
 **E a maior queda do dia?**
-Xavi (92), -47.9% em 24h, a 177k coins.
+Xavi (92), -48.5% em 24h, a 175k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 88 cartas em alta contra 79 em queda (média -0.13%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 94 cartas em alta contra 72 em queda (média 0.42%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
