@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:27:48.000Z
+pubDatetime: 2026-08-03T10:56:18.000Z
 title: "Investimentos EA FC: Icons em 03/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Gerd Müller (92, Icons) lidera, com +83.9% em 7 dias a 213k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Steven Gerrard (90, Icons) lidera, com +79.2% em 7 dias a 233k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Gerd Müller (92) acumula **+83.9% em 7 dias** a 213k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Steven Gerrard (90) acumula **+79.2% em 7 dias** a 233k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 03/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.4% em 24h** e **+42.7% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+15.3% em 24h** e **+41.7% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gerd Müller | 92 | Icons | 213k coins | +6.9% | +83.9% | Esticada |
-| Alessandro Nesta | 89 | Icons | 106k coins | +27% | +67.4% | Esticada |
-| Hernán Crespo | 88 | Icons | 20k coins | +28.9% | +63.3% | Esticada |
-| Robin van Persie | 88 | Icons | 247k coins | +7.2% | +62.6% | Esticada |
+| Steven Gerrard | 90 | Icons | 233k coins | +1.7% | +79.2% | Esticada |
+| Gerd Müller | 92 | Icons | 213k coins | +6.9% | +76.4% | Esticada |
+| Alessandro Nesta | 89 | Icons | 96k coins | +22.5% | +61.5% | Esticada |
+| Robin van Persie | 88 | Icons | 243k coins | +19.3% | +59.4% | Momentum moderado |
 | Giorgio Chiellini | 89 | Icons | 168k coins | +6.9% | +58.9% | Momentum moderado |
-| Roy Keane | 86 | Icons | 109k coins | +9.5% | +54.6% | Momentum moderado |
-| Gabriel Batistuta | 89 | Icons | 100k coins | +28.7% | +45.3% | Esticada |
-| Luís Figo | 90 | Icons | 32k coins | +16.1% | +42.7% | Momentum moderado |
+| Roy Keane | 86 | Icons | 130k coins | +10.6% | +56% | Momentum moderado |
+| Gabriel Batistuta | 89 | Icons | 98k coins | +32.5% | +43.9% | Esticada |
 | Frank Rijkaard | 89 | Icons | 170k coins | +30.8% | +41.7% | Esticada |
-| Ferenc Puskás | 92 | Icons | 173k coins | +15.3% | +37.3% | Momentum moderado |
-| Casillas | 90 | Icons | 106k coins | +11.1% | +34.1% | Momentum moderado |
-| Caroline Seger | 90 | Icons | 50k coins | +31.6% | +32.5% | Esticada |
-| Petr Čech | 88 | Icons | 117k coins | +26.2% | +31.1% | Esticada |
-| Petr Čech | 89 | Icons | 128k coins | +16.4% | +29.9% | Momentum moderado |
-| Birgit Prinz | 93 | Icons | 87k coins | +21.5% | +26.6% | Esticada |
+| Ferenc Puskás | 92 | Icons | 195k coins | +15.3% | +37.3% | Momentum moderado |
+| Petr Čech | 89 | Icons | 128k coins | +16.4% | +36.9% | Momentum moderado |
+| Luís Figo | 89 | Icons | 91k coins | +5.2% | +34.8% | Momentum moderado |
+| Casillas | 90 | Icons | 128k coins | +26.4% | +34.1% | Esticada |
+| Luís Figo | 90 | Icons | 31k coins | +12.3% | +33.3% | Momentum moderado |
+| Caroline Seger | 90 | Icons | 49k coins | +31.1% | +28.6% | Esticada |
+| Oliver Kahn | 91 | Icons | 100k coins | +8% | +25.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Gerd Müller (92)** — 213k coins, **+83.9% em 7 dias** (+6.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (90)** — 233k coins, **+79.2% em 7 dias** (+1.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alessandro Nesta (89)** — 106k coins, **+67.4% em 7 dias** (+27% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerd Müller (92)** — 213k coins, **+76.4% em 7 dias** (+6.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hernán Crespo (88)** — 20k coins, **+63.3% em 7 dias** (+28.9% em 24h). Preço -19% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Nesta (89)** — 96k coins, **+61.5% em 7 dias** (+22.5% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Robin van Persie (88)** — 247k coins, **+62.6% em 7 dias** (+7.2% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Robin van Persie (88)** — 243k coins, **+59.4% em 7 dias** (+19.3% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giorgio Chiellini (89)** — 168k coins, **+58.9% em 7 dias** (+6.9% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Chiellini (89)** — 168k coins, **+58.9% em 7 dias** (+6.9% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Gerd Müller (92, Icons) lidera, com +83.9% em 7 dias a 213k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Steven Gerrard (90, Icons) lidera, com +79.2% em 7 dias a 233k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
