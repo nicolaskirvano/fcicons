@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:56:18.000Z
+pubDatetime: 2026-08-03T01:56:18.000Z
 title: "Investimentos EA FC: Icons em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Carles Puyol (89, Icons) lidera, com +74.8% em 7 dias a 114k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Homare Sawa (91, Icons) lidera, com +89.9% em 7 dias a 150k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Carles Puyol (89) acumula **+74.8% em 7 dias** a 114k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Homare Sawa (91) acumula **+89.9% em 7 dias** a 150k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.7% em 24h** e **+41.3% em 7 dias**.
-- **3 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 10 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.0% em 24h** e **+35.4% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,29 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Carles Puyol | 89 | Icons | 114k coins | +5.4% | +74.8% | Esticada |
-| Bobby Charlton | 92 | Icons | 125k coins | +10.2% | +64.6% | Esticada |
-| Aya Miyama | 87 | Icons | 27k coins | +11.2% | +60.3% | Esticada |
-| Birgit Prinz | 93 | Icons | 106k coins | +15.2% | +53.8% | Momentum moderado |
-| Rivaldo | 90 | Icons | 115k coins | +16.2% | +52.3% | Momentum moderado |
-| Juan Román Riquelme | 88 | Icons | 120k coins | +13.9% | +30.4% | Momentum moderado |
-| Cha Bum Kun | 86 | Icons | 78k coins | +1.9% | +23.8% | Entrada a observar |
-| Eric Cantona | 89 | Icons | 145k coins | +4.3% | +14.2% | Entrada a observar |
-| Marinette Pichon | 90 | Icons | 56k coins | +3.6% | +13.9% | Entrada a observar |
-| Philipp Lahm | 89 | Icons | 91k coins | +13% | +10.3% | Momentum moderado |
+| Homare Sawa | 91 | Icons | 150k coins | +18.1% | +89.9% | Esticada |
+| Carlos Alberto | 91 | Icons | 230k coins | +6.4% | +81.8% | Esticada |
+| Roy Keane | 86 | Icons | 98k coins | +11% | +63.1% | Esticada |
+| Carles Puyol | 89 | Icons | 162k coins | +5.8% | +63% | Esticada |
+| Gianfranco Zola | 87 | Icons | 131k coins | +29.2% | +55.8% | Esticada |
+| Bobby Charlton | 92 | Icons | 116k coins | +2.5% | +51.2% | Momentum moderado |
+| Rivaldo | 90 | Icons | 98k coins | +7.1% | +39.5% | Momentum moderado |
+| Sol Campbell | 86 | Icons | 86k coins | +17.3% | +35.4% | Momentum moderado |
+| Gheorghe Hagi | 88 | Icons | 101k coins | +32.3% | +32.3% | Esticada |
+| Emilio Butragueño | 89 | Icons | 68k coins | +21.9% | +31.9% | Esticada |
+| Alessandro Nesta | 89 | Icons | 88k coins | +22.1% | +31.1% | Esticada |
+| Frank Lampard | 87 | Icons | 75k coins | +1.9% | +18.9% | Entrada a observar |
+| Hristo Stoichkov | 89 | Icons | 139k coins | +7.7% | +17.6% | Momentum moderado |
+| Lilian Thuram | 88 | Icons | 147k coins | +9.4% | +16.2% | Momentum moderado |
+| Oliver Kahn | 91 | Icons | 109k coins | +34.6% | +16% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Carles Puyol (89)** — 114k coins, **+74.8% em 7 dias** (+5.4% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Homare Sawa (91)** — 150k coins, **+89.9% em 7 dias** (+18.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bobby Charlton (92)** — 125k coins, **+64.6% em 7 dias** (+10.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Alberto (91)** — 230k coins, **+81.8% em 7 dias** (+6.4% em 24h). Preço +80% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aya Miyama (87)** — 27k coins, **+60.3% em 7 dias** (+11.2% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roy Keane (86)** — 98k coins, **+63.1% em 7 dias** (+11% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Birgit Prinz (93)** — 106k coins, **+53.8% em 7 dias** (+15.2% em 24h). Preço +76% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carles Puyol (89)** — 162k coins, **+63% em 7 dias** (+5.8% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rivaldo (90)** — 115k coins, **+52.3% em 7 dias** (+16.2% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianfranco Zola (87)** — 131k coins, **+55.8% em 7 dias** (+29.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -83,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Carles Puyol (89, Icons) lidera, com +74.8% em 7 dias a 114k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Homare Sawa (91, Icons) lidera, com +89.9% em 7 dias a 150k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
