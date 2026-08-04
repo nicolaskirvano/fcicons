@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:56:20.000Z
+pubDatetime: 2026-08-04T13:56:20.000Z
 title: "Jogadores baratos EA FC: Icons em 04/08 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 04/08/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (04/08/2026)?"
-    a: "Paul Scholes (91, Icons) aparece como melhor custo-benefício, a 11.500 coins no PC."
+    a: "Lilian Thuram (93, Icons) aparece como melhor custo-benefício, a 11.750 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **04/08/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Paul Scholes (91) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Lilian Thuram (93) por apenas 11.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Icons em 04/08 — PC](/charts/jogadores-baratos-ea-fc-2026-08-04-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 11.500 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 11.250 a 12.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.683 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 11.250 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,42 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
+| Lilian Thuram | 93 | RB | Icons | 11.750 coins | 0% |
+| Ferenc Puskás | 93 | ST | Icons | 11.750 coins | 0% |
+| Lev Yashin | 93 | GK | Icons | 14.000 coins | +3.8% |
+| Homare Sawa | 92 | CM | Icons | 11.500 coins | 0% |
+| Carlos Alberto | 92 | RB | Icons | 11.500 coins | 0% |
 | Paul Scholes | 91 | CM | Icons | 11.500 coins | 0% |
 | Javier Zanetti | 91 | RB | Icons | 11.500 coins | 0% |
+| Andrea Pirlo | 91 | CDM | Icons | 11.500 coins | 0% |
 | Didier Drogba | 91 | ST | Icons | 11.500 coins | 0% |
-| Aya Miyama | 91 | LM | Icons | 11.500 coins | 0% |
-| Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
 | Samuel Eto'o | 91 | ST | Icons | 11.500 coins | 0% |
-| Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
 | George Best | 91 | RW | Icons | 12.250 coins | 0% |
 | Fabio Cannavaro | 90 | CB | Icons | 11.250 coins | 0% |
-| Andriy Shevchenko | 90 | ST | Icons | 11.250 coins | 0% |
-| Geoff Hurst | 90 | ST | Icons | 11.250 coins | 0% |
 | Dunga | 89 | CDM | Icons | 11.250 coins | 0% |
+| Davor Šuker | 89 | ST | Icons | 11.250 coins | 0% |
 | John Barnes | 89 | LW | Icons | 11.250 coins | 0% |
-| Davor Šuker | 89 | ST | Icons | 12.000 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Paul Scholes (91, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lilian Thuram (93, RB)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Javier Zanetti (91, RB)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ferenc Puskás (93, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Didier Drogba (91, ST)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lev Yashin (93, GK)** da Icons, a apenas **14.000 coins**
 
-- **Aya Miyama (91, LM)** da Icons, a apenas **11.500 coins**
+- **Homare Sawa (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dennis Bergkamp (91, ST)** da Icons, a apenas **11.500 coins**
+- **Carlos Alberto (92, RB)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Javier Zanetti (91, RB) por 11.500 coins é a referência de rating deste recorte.
+- **Defesa:** Lilian Thuram (93, RB) por 11.750 coins é a referência de rating deste recorte.
 
-- **Meio:** Paul Scholes (91, CM) por 11.500 coins é a referência de rating deste recorte.
+- **Meio:** Homare Sawa (92, CM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Didier Drogba (91, ST) por 11.500 coins é a referência de rating deste recorte.
+- **Ataque:** Ferenc Puskás (93, ST) por 11.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -94,7 +95,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (04/08/2026)?**  
-Paul Scholes (91, Icons) aparece como melhor custo-benefício, a 11.500 coins no PC.
+Lilian Thuram (93, Icons) aparece como melhor custo-benefício, a 11.750 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
