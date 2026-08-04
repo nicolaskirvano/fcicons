@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:56:18.000Z
+pubDatetime: 2026-08-04T01:56:18.000Z
 title: "Investimentos EA FC: Icons em 03/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Caroline Seger (90, Icons) lidera, com +68.8% em 7 dias a 63k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Dunga (87, Icons) lidera, com +68.2% em 7 dias a 111k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Caroline Seger (90) acumula **+68.8% em 7 dias** a 63k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Dunga (87) acumula **+68.2% em 7 dias** a 111k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Icons em 03/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.6% em 24h** e **+36.2% em 7 dias**.
-- **4 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+15.8% em 24h** e **+45.3% em 7 dias**.
+- **7 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 13 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,32 +43,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Caroline Seger | 90 | Icons | 63k coins | +19.3% | +68.8% | Esticada |
 | Dunga | 87 | Icons | 111k coins | +24.7% | +68.2% | Esticada |
-| Casillas | 90 | Icons | 100k coins | +8.9% | +52.5% | Momentum moderado |
-| Javier Zanetti | 89 | Icons | 113k coins | +28.7% | +48.3% | Esticada |
-| Gianluca Zambrotta | 86 | Icons | 160k coins | +19.2% | +46.2% | Momentum moderado |
-| Cha Bum Kun | 86 | Icons | 122k coins | +16.6% | +40.8% | Momentum moderado |
-| Gabriel Batistuta | 89 | Icons | 92k coins | +8.7% | +36.2% | Momentum moderado |
-| Toni Kroos | 90 | Icons | 112k coins | +20.4% | +28.7% | Esticada |
-| Claude Makélélé | 87 | Icons | 80k coins | +5% | +27.3% | Momentum moderado |
-| Zinedine Zidane | 95 | Icons | 15.250 coins | +17.3% | +24.5% | Momentum moderado |
-| Pavel Nedvěd | 88 | Icons | 119k coins | +8.2% | +19.6% | Momentum moderado |
-| Luís Figo | 89 | Icons | 76k coins | +5.2% | +19.3% | Momentum moderado |
-| Kenny Dalglish | 89 | Icons | 134k coins | +2.5% | +6.1% | Entrada a observar |
+| Gianluigi Buffon | 91 | Icons | 225k coins | +18.6% | +66.9% | Esticada |
+| Caroline Seger | 90 | Icons | 61k coins | +15.6% | +63.6% | Esticada |
+| Javier Zanetti | 89 | Icons | 117k coins | +36.8% | +55% | Esticada |
+| Frank Lampard | 87 | Icons | 101k coins | +34.7% | +53% | Esticada |
+| Gianluca Zambrotta | 86 | Icons | 160k coins | +3.2% | +50.9% | Momentum moderado |
+| Oliver Kahn | 91 | Icons | 117k coins | +15.8% | +45.3% | Momentum moderado |
+| Xavi | 91 | Icons | 132k coins | +12.4% | +36% | Momentum moderado |
+| Gabriel Batistuta | 89 | Icons | 92k coins | +7% | +33.3% | Momentum moderado |
+| Luís Figo | 89 | Icons | 80k coins | +9.5% | +19.3% | Momentum moderado |
+| Francesco Totti | 89 | Icons | 250k coins | +4% | +15.6% | Entrada a observar |
+| Paolo Maldini | 92 | Icons | 242k coins | +34.4% | +12.6% | Esticada |
+| Peter Schmeichel | 89 | Icons | 86k coins | +27.4% | +7.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Caroline Seger (90)** — 63k coins, **+68.8% em 7 dias** (+19.3% em 24h). Preço -16% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dunga (87)** — 111k coins, **+68.2% em 7 dias** (+24.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dunga (87)** — 111k coins, **+68.2% em 7 dias** (+24.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluigi Buffon (91)** — 225k coins, **+66.9% em 7 dias** (+18.6% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Casillas (90)** — 100k coins, **+52.5% em 7 dias** (+8.9% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caroline Seger (90)** — 61k coins, **+63.6% em 7 dias** (+15.6% em 24h). Preço -19% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Javier Zanetti (89)** — 113k coins, **+48.3% em 7 dias** (+28.7% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Zanetti (89)** — 117k coins, **+55% em 7 dias** (+36.8% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluca Zambrotta (86)** — 160k coins, **+46.2% em 7 dias** (+19.2% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Frank Lampard (87)** — 101k coins, **+53% em 7 dias** (+34.7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -86,7 +86,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Caroline Seger (90, Icons) lidera, com +68.8% em 7 dias a 63k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Dunga (87, Icons) lidera, com +68.2% em 7 dias a 111k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
