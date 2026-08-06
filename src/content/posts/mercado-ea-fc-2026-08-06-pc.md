@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-06T10:50:37.000Z
+pubDatetime: 2026-08-06T10:56:17.000Z
 title: "Mercado EA FC em 06/08: Icons — PC"
 draft: false
 featured: true
