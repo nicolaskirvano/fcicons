@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-06T22:56:09.000Z
+pubDatetime: 2026-08-07T01:56:10.000Z
 title: "Investimentos EA FC: Icons em 06/08 — Console (PS)"
 draft: false
 featured: true
