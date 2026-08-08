@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T10:43:45.000Z
+pubDatetime: 2026-08-08T10:56:20.000Z
 title: "Investimentos EA FC: Icons em 08/08 — PC"
 draft: false
 featured: true
